@@ -1,64 +1,59 @@
-const { addonBuilder, serveHTTP } = require("stremio-addon-sdk");
-const fs = require("fs");
-const path = require("path");
+import sdk from "stremio-addon-sdk";
+import fs from "node:fs";
+import path from "node:path";
 
-// ============================================================
-//  One Pace PT-BR Subtitles Addon para Stremio
-//  Fornece legendas em Português do Brasil para o One Pace
-// ============================================================
+const { addonBuilder, serveHTTP } = sdk;
 
-const SUBS_DIR = path.join(__dirname, "subs");
+const pkg = JSON.parse(
+  fs.readFileSync(path.join(import.meta.dirname, "package.json"), "utf-8")
+);
+
+const SUBS_DIR = path.join(import.meta.dirname, "subs");
 let subtitleMap = {};
 
 try {
-  const mapping = JSON.parse(
+  subtitleMap = JSON.parse(
     fs.readFileSync(path.join(SUBS_DIR, "mapping.json"), "utf-8")
   );
-  subtitleMap = mapping;
   console.log(`📂 ${Object.keys(subtitleMap).length} legendas PT-BR carregadas`);
 } catch (e) {
   console.error("❌ Erro ao carregar mapping.json:", e.message);
 }
 
-// URL base onde os SRTs estão hospedados no GitHub
-// MUDE para o seu repositório!
 const SUBS_BASE_URL =
   process.env.SUBS_BASE_URL ||
-  "https://raw.githubusercontent.com/SEU_USUARIO/onepace-ptbr-subs/main/subs";
+  "https://raw.githubusercontent.com/rafaelmotac/onepace-ptbr-addon/main/subs";
 
-// ---------- Manifest ----------
+if (SUBS_BASE_URL.includes("SEU_USUARIO")) {
+  console.warn("⚠️  SUBS_BASE_URL ainda contém 'SEU_USUARIO'. Configure a variável de ambiente SUBS_BASE_URL.");
+}
+
 const manifest = {
   id: "community.onepace.ptbr.subs",
-  version: "1.0.0",
+  version: pkg.version,
   name: "One Pace PT-BR Subs",
   description:
     "Legendas em Português do Brasil para o One Pace. Baseado no repo oficial one-pace-public-subtitles.",
   logo: "https://onepace.net/images/one-pace-logo.svg",
-  resources: [
-    {
-      name: "subtitles",
-      types: ["series"],
-    },
-  ],
+  resources: [{ name: "subtitles", types: ["series"] }],
   types: ["series"],
   catalogs: [],
 };
 
 const builder = new addonBuilder(manifest);
 
-// ---------- Subtitle Handler ----------
-builder.defineSubtitlesHandler(({ type, id, extra }) => {
+builder.defineSubtitlesHandler(async ({ type, id, extra }) => {
   const videoID = extra?.videoID || id;
 
   console.log(`🔍 Request: type=${type} id=${id} videoID=${videoID}`);
 
-  if (subtitleMap[videoID]) {
+  if (Object.hasOwn(subtitleMap, videoID)) {
     const srtFile = subtitleMap[videoID];
     const srtUrl = `${SUBS_BASE_URL}/${srtFile}`;
 
     console.log(`  ✅ ${videoID} → ${srtFile}`);
 
-    return Promise.resolve({
+    return {
       subtitles: [
         {
           id: `onepace-ptbr-${videoID}`,
@@ -66,18 +61,37 @@ builder.defineSubtitlesHandler(({ type, id, extra }) => {
           lang: "por",
         },
       ],
-    });
+    };
   }
 
-  return Promise.resolve({ subtitles: [] });
+  return { subtitles: [] };
 });
 
-// ---------- Start ----------
 const PORT = process.env.PORT || 7000;
-serveHTTP(builder.getInterface(), { port: PORT });
+let server;
 
-console.log(`\n🏴‍☠️ One Pace PT-BR Subs Addon`);
-console.log(`   Manifest: http://127.0.0.1:${PORT}/manifest.json`);
-console.log(`\n📋 ${Object.keys(subtitleMap).length} episódios com legenda PT-BR:`);
-Object.keys(subtitleMap).sort().forEach((id) => console.log(`   • ${id}`));
-console.log(`\n💡 Instale no Stremio: http://127.0.0.1:${PORT}/manifest.json\n`);
+serveHTTP(builder.getInterface(), { port: PORT })
+  .then((srv) => {
+    server = srv;
+    console.log(`\n🏴‍☠️ One Pace PT-BR Subs Addon`);
+    console.log(`   Manifest: http://127.0.0.1:${PORT}/manifest.json`);
+    console.log(`\n📋 ${Object.keys(subtitleMap).length} episódios com legenda PT-BR:`);
+    Object.keys(subtitleMap).sort().forEach((id) => console.log(`   • ${id}`));
+    console.log(`\n💡 Instale no Stremio: http://127.0.0.1:${PORT}/manifest.json\n`);
+  })
+  .catch((err) => {
+    console.error(`❌ Falha ao iniciar servidor na porta ${PORT}:`, err.message);
+    process.exit(1);
+  });
+
+const shutdown = () => {
+  console.log("\n🛑 Encerrando servidor...");
+  if (server?.server) {
+    server.server.close(() => process.exit(0));
+  } else {
+    process.exit(0);
+  }
+};
+
+process.on("SIGTERM", shutdown);
+process.on("SIGINT", shutdown);

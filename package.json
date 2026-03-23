@@ -2,12 +2,16 @@
   "name": "onepace-ptbr-subs-addon",
   "version": "1.0.0",
   "description": "Addon do Stremio que fornece legendas em PT-BR para o One Pace",
+  "type": "module",
   "main": "index.js",
+  "engines": {
+    "node": ">=21.0.0"
+  },
   "scripts": {
     "start": "node index.js",
-    "convert": "python3 scripts/convert-ass-to-srt.py ../one-pace-public-subtitles ./subs",
-    "download": "python3 scripts/download-all-subs.py",
-    "download:dry": "python3 scripts/download-all-subs.py --dry-run"
+    "convert": "python3 scripts/convert_ass_to_srt.py ../one-pace-public-subtitles ./subs",
+    "download": "python3 scripts/download_all_subs.py",
+    "download:dry": "python3 scripts/download_all_subs.py --dry-run"
   },
   "dependencies": {
     "stremio-addon-sdk": "^1.6.10"

@@ -4,3 +4,4 @@ node_modules/
 *.log
 downloads/
 .DS_Store
+__pycache__/
