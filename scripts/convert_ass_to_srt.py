@@ -60,8 +60,17 @@ def find_and_convert(repo_path: str, output_dir: str) -> dict[str, str]:
     mapping: dict[str, str] = {}
     for episode_id, ass_path in sorted(converted.items()):
         try:
-            with open(ass_path, encoding="utf-8-sig") as fh:
-                ass_content = fh.read()
+            ass_content = None
+            for enc in ("utf-8-sig", "utf-8", "latin-1", "cp1252"):
+                try:
+                    with open(ass_path, encoding=enc) as fh:
+                        ass_content = fh.read()
+                    break
+                except UnicodeDecodeError:
+                    continue
+            if not ass_content:
+                print(f"  ERRO {episode_id}: nao consegui ler {ass_path}")
+                continue
             srt_content = ass_to_srt(ass_content)
             srt_filename = f"{episode_id}.srt"
             srt_path = os.path.join(output_dir, srt_filename)

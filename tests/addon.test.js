@@ -1,16 +1,19 @@
 import fs from "node:fs";
 import path from "node:path";
-import { describe, it, expect } from "vitest";
+import { describe, it, expect, beforeAll } from "vitest";
 
 const SUBS_DIR = path.join(import.meta.dirname, "..", "subs");
 const SUBS_BASE_URL =
   "https://raw.githubusercontent.com/rafaelmotac/onepace-ptbr-addon/main/subs";
+const MAPPING_PATH = path.join(SUBS_DIR, "mapping.json");
+
+let mapping;
+
+beforeAll(() => {
+  mapping = JSON.parse(fs.readFileSync(MAPPING_PATH, "utf-8"));
+});
 
 describe("mapping.json", () => {
-  const mapping = JSON.parse(
-    fs.readFileSync(path.join(SUBS_DIR, "mapping.json"), "utf-8"),
-  );
-
   it("loads with at least one entry", () => {
     expect(Object.keys(mapping).length).toBeGreaterThan(0);
   });
@@ -36,10 +39,6 @@ describe("mapping.json", () => {
 });
 
 describe("subtitle handler logic", () => {
-  const mapping = JSON.parse(
-    fs.readFileSync(path.join(SUBS_DIR, "mapping.json"), "utf-8"),
-  );
-
   function getSubtitles(videoID) {
     if (Object.hasOwn(mapping, videoID)) {
       const srtFile = mapping[videoID];
