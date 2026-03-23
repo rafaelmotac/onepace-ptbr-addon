@@ -1,0 +1,22 @@
+[Script Info]
+Title: One Pace - Romance Dawn 01
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,10,10,50,1
+Style: Sign,Arial,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,10,10,50,1
+Style: OP Song,Arial,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,10,10,50,1
+Style: Title,Arial,80,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,10,10,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:15.00,0:01:18.50,Default,,0,0,0,,Eu sou Monkey D. Luffy!
+Dialogue: 0,0:01:20.00,0:01:23.00,Default,,0,0,0,,{\an8}Eu vou ser o Rei dos Piratas!
+Dialogue: 0,0:02:00.00,0:02:05.00,Sign,,0,0,0,,East Blue
+Dialogue: 0,0:02:10.00,0:02:15.00,OP Song,,0,0,0,,We Are!
+Dialogue: 0,0:03:00.00,0:03:03.50,Default,,0,0,0,,Vamos nessa!\NTodos juntos!
+Dialogue: 0,0:05:00.00,0:05:02.00,Title,,0,0,0,,Romance Dawn
+Dialogue: 0,0:06:00.00,0:06:04.00,Default,,0,0,0,,{\fad(500,500)}Este e o comeco da aventura!

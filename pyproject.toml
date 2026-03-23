@@ -1,0 +1,19 @@
+[project]
+name = "onepace-ptbr-scripts"
+version = "1.0.0"
+description = "Scripts for downloading and converting One Pace PT-BR subtitles"
+requires-python = ">=3.10"
+dependencies = ["gdown"]
+
+[project.optional-dependencies]
+dev = ["pytest", "ruff"]
+
+[tool.ruff]
+target-version = "py310"
+line-length = 100
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "UP", "B", "SIM"]
+
+[tool.pytest.ini_options]
+testpaths = ["scripts/tests"]

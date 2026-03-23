@@ -11,11 +11,30 @@
     "start": "node index.js",
     "convert": "python3 scripts/convert_ass_to_srt.py ../one-pace-public-subtitles ./subs",
     "download": "python3 scripts/download_all_subs.py",
-    "download:dry": "python3 scripts/download_all_subs.py --dry-run"
+    "download:dry": "python3 scripts/download_all_subs.py --dry-run",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "test": "vitest run",
+    "test:watch": "vitest"
   },
   "dependencies": {
     "stremio-addon-sdk": "^1.6.10"
   },
-  "keywords": ["stremio", "addon", "subtitles", "one-pace", "portuguese", "pt-br"],
-  "license": "MIT"
+  "keywords": [
+    "stremio",
+    "addon",
+    "subtitles",
+    "one-pace",
+    "portuguese",
+    "pt-br"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.1.0",
+    "prettier": "^3.8.1",
+    "vitest": "^4.1.1"
+  }
 }
