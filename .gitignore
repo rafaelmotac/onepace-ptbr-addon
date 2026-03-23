@@ -5,3 +5,4 @@ node_modules/
 downloads/
 .DS_Store
 __pycache__/
+uv.lock
