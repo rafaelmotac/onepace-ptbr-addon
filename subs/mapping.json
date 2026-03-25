@@ -363,6 +363,14 @@
     "srt": "REV_1.srt",
     "ass": "REV_1.ass"
   },
+  "REV_2": {
+    "srt": "REV_2.srt",
+    "ass": "REV_2.ass"
+  },
+  "REV_3": {
+    "srt": "REV_3.srt",
+    "ass": "REV_3.ass"
+  },
   "RM_1": {
     "srt": "RM_1.srt",
     "ass": "RM_1.ass"
