@@ -1,274 +1,242 @@
 1
-00:00:00,000 --> 00:00:09,990
-Your media player does not support the subtitle format used in this episode.
-Subtitles will likely not function properly.
-Please use one of the recommended video players, preferably mpv:
-https://mpv.io
+00:00:10,230 --> 00:00:11,530
+Todos, fiquem em guarda!
 
 2
-00:02:32,510 --> 00:02:42,500
-Your media player does not support the subtitle format used in this episode.
-Subtitles will likely not function properly.
-Please use one of the recommended video players, preferably mpv:
-https://mpv.io
+00:00:11,530 --> 00:00:13,620
+Sim!
 
 3
-00:00:10,230 --> 00:00:11,530
-Em guarda, todos!
+00:00:13,620 --> 00:00:16,000
+Se permitirmos que esses piratas se infiltrem com tantos de nós em guarda,
 
 4
-00:00:11,530 --> 00:00:13,620
-– É!
-– É!
+00:00:16,000 --> 00:00:17,800
+será um constrangimento para a Galley!
 
 5
-00:00:13,620 --> 00:00:17,800
-Se esses piratas entrarem com tantos de nós de guarda,
-será uma vergonha pra Galley-La!
+00:00:17,800 --> 00:00:19,290
+Não os deixe entrar!
 
 6
-00:00:17,800 --> 00:00:19,290
-Não os deixem entrar!
-
-7
 00:00:19,290 --> 00:00:21,050
 E a porta dos fundos?
 
-8
+7
 00:00:21,050 --> 00:00:24,050
-Porta dos fundos? Estamos cercando
-o prédio inteiro!
+Porta dos fundos? Estamos cercando o prédio inteiro!
+
+8
+00:00:24,610 --> 00:00:25,880
+Não temos ponto cego!
 
 9
-00:00:24,610 --> 00:00:25,880
-Não tem ponto cego!
+00:00:25,880 --> 00:00:29,800
+Vamos lá! Nós cuidaremos de todos os Piratas do Chapéu de Palha!
 
 10
-00:00:25,880 --> 00:00:29,800
-Podem vir!
-Vamos dar conta de toda a tripulação!
+00:00:29,800 --> 00:00:30,840
+Sim!
 
 11
-00:00:29,800 --> 00:00:30,840
-– É!
-– É!
+00:00:34,230 --> 00:00:36,140
+Estão todos armados e parecem durões.
 
 12
-00:00:34,230 --> 00:00:36,140
-Estão todos armados e parecem fortes.
+00:00:36,140 --> 00:00:41,480
+Nenhuma surpresa aí. Os construtores navais aqui derrotam até piratas.
 
 13
-00:00:36,140 --> 00:00:41,480
-Sem surpresa. Os carpinteiros
-daqui até piratas vencem.
+00:00:42,390 --> 00:00:45,490
+Devemos ter cuidado e agir quando for a hora certa.
 
 14
-00:00:42,390 --> 00:00:45,490
-Devíamos ter cuidado
-e agir na hora certa.
+00:00:45,490 --> 00:00:50,910
+É, se estragarmos isso, teremos um grande problema.
 
 15
-00:00:45,490 --> 00:00:50,910
-É, se entrarmos às cegas,
-vai ficar bem feio pra gente.
+00:00:53,430 --> 00:01:00,000
+Olha quem está falando! Ele de repente invadiu lá esta tarde.
 
 16
-00:00:53,430 --> 00:00:56,450
-Olha quem fala!
+00:01:00,000 --> 00:01:05,570
+Chopper, não sabemos o que vai acontecer. Não perca nem o menor movimento.
 
 17
-00:00:56,450 --> 00:01:00,000
-Você mesmo invadiu lá de tarde sem plano nenhum.
+00:01:05,570 --> 00:01:06,880
+Certo.
 
 18
-00:01:00,000 --> 00:01:05,570
-Chopper, não sabemos o que vai acontecer.
-Não perca nem o menor movimento.
+00:01:07,660 --> 00:01:09,830
+Nos avise imediatamente se alguém se mover.
 
 19
-00:01:05,570 --> 00:01:06,880
-Tá.
+00:01:09,830 --> 00:01:11,300
+Sim. Entendi.
 
 20
-00:01:07,660 --> 00:01:09,830
-Avisa a gente na hora se alguém se mexer.
+00:01:11,700 --> 00:01:14,600
+Será uma longa noite, mas não baixe a guarda.
 
 21
-00:01:09,830 --> 00:01:11,300
-Sim. Entendido.
+00:01:14,600 --> 00:01:17,200
+Se perdermos nossa chance hoje à noite,
 
 22
-00:01:11,700 --> 00:01:14,600
-Vai ser uma noite longa,
-mas não baixem a guarda.
+00:01:17,200 --> 00:01:19,810
+teremos que nos despedir sem saber o que aconteceu.
 
 23
-00:01:14,600 --> 00:01:19,810
-Se perdermos nossa chance essa noite,
-teremos que partir sem saber o que aconteceu.
+00:01:20,510 --> 00:01:23,510
+Apenas assuma que esta é nossa última chance de ir atrás da Robin.
 
 24
-00:01:20,510 --> 00:01:23,510
-Presumam que essa é
-nossa última chance de ir atrás da Robin.
+00:01:24,020 --> 00:01:26,650
+Agora é a hora de nos esforçarmos.
 
 25
-00:01:24,020 --> 00:01:26,650
-Agora é a hora de mostrar do que somos feitos.
+00:01:26,650 --> 00:01:31,390
+É, nós traremos Robin de volta não importa o que aconteça.
 
 26
-00:01:26,650 --> 00:01:31,390
-É, vamos trazer a Robin de volta custe o que custar.
-
-27
 00:03:30,970 --> 00:03:32,220
 Kalifa...
 
-28
+27
 00:03:33,100 --> 00:03:35,310
-Sim, Iceburg.
+Sim, Iceburg-san.
+
+28
+00:03:35,310 --> 00:03:38,610
+Desculpe, mas você poderia sair um momento?
 
 29
-00:03:35,310 --> 00:03:38,610
-Desculpe, mas poderia
-sair um momento?
-
-30
 00:03:39,160 --> 00:03:40,500
 Sim, senhor.
 
-31
+30
 00:03:40,500 --> 00:03:42,080
-E mais...
+Também...
+
+31
+00:03:42,590 --> 00:03:45,080
+por favor, peça para Paulie entrar.
 
 32
-00:03:42,590 --> 00:03:45,080
-por favor, mande o Paulie aqui.
-
-33
 00:03:50,240 --> 00:03:51,110
 Paulie...
 
-34
+33
 00:03:51,110 --> 00:03:52,130
 Hm?
 
-35
+34
 00:03:52,130 --> 00:03:54,880
-O Iceburg tem
-algo importante pra te dizer.
+Iceburg-san tem algo importante para lhe contar.
 
-36
+35
 00:03:55,400 --> 00:03:56,650
 Comigo?
 
-37
+36
 00:03:56,650 --> 00:03:58,430
-Sim, só com você.
+Sim, só você.
+
+37
+00:03:58,430 --> 00:04:02,240
+Estarei no meu escritório. Apenas me ligue se algo acontecer.
 
 38
-00:03:58,430 --> 00:04:02,240
-Estarei no meu escritório.
-É só me chamar se algo acontecer.
+00:04:03,850 --> 00:04:04,960
+Ok...
 
 39
-00:04:03,850 --> 00:04:04,960
-É...
+00:04:06,240 --> 00:04:09,760
+Se esforçando para ter uma conversa a sós em um momento como esse...
 
 40
-00:04:06,240 --> 00:04:09,760
-De todas as horas pra ter uma conversa particular...
+00:04:09,760 --> 00:04:11,610
+O que diabos pode ser?
 
 41
-00:04:09,760 --> 00:04:11,610
-Que diabos será que é?
+00:04:11,610 --> 00:04:12,520
+Não sei.
 
 42
-00:04:11,610 --> 00:04:12,520
-Sei lá.
+00:04:13,300 --> 00:04:14,650
+Suas últimas palavras?!
 
 43
-00:04:13,300 --> 00:04:14,650
-Últimas palavras?!
+00:04:17,080 --> 00:04:20,550
+Ela disse que era importante. Entre e fale com ele logo.
 
 44
-00:04:17,080 --> 00:04:20,550
-Ela disse que era importante.
-Entra lá e fala com ele logo.
+00:04:20,550 --> 00:04:22,810
+S-Sim...
 
 45
-00:04:20,550 --> 00:04:22,810
-E-É...
+00:04:22,810 --> 00:04:25,700
+Vamos nos afastar da porta um pouco?
 
 46
-00:04:22,810 --> 00:04:25,700
-Vamos nos afastar um pouco da porta?
+00:04:25,700 --> 00:04:27,500
+Acho que sim.
 
 47
-00:04:25,700 --> 00:04:27,500
-É melhor.
+00:04:32,300 --> 00:04:35,600
+Eu me pergunto sobre o que ele precisa falar com Paulie!
 
 48
-00:04:32,300 --> 00:04:35,600
-O que será que ele precisa
-falar com o Paulie?!
+00:04:35,600 --> 00:04:39,410
+É do Iceburg-san que estamos falando. Deve ser muito importante.
 
 49
-00:04:35,600 --> 00:04:39,410
-Estamos falando do Iceburg.
-Deve ser muito importante.
+00:04:39,410 --> 00:04:42,200
+Mais importante, temos que lidar com esses piratas.
 
 50
-00:04:39,410 --> 00:04:42,200
-Mais importante, temos que
-lidar com esses piratas.
+00:04:42,200 --> 00:04:43,010
+Sim.
 
 51
-00:04:42,200 --> 00:04:43,010
-É.
+00:04:43,500 --> 00:04:47,430
+De acordo com a investigação de Kalifa, há sete deles.
 
 52
-00:04:43,500 --> 00:04:47,430
-De acordo com a investigação da Kalifa,
-são sete.
+00:04:47,990 --> 00:04:52,700
+O capitão, Luffy do Chapéu de Palha. Caçador de Piratas Zoro e Nico Robin.
 
 53
-00:04:47,990 --> 00:04:52,700
-O capitão, Chapéu de Palha Luffy.
-Caçador de Piratas Zoro e Nico Robin.
+00:04:52,700 --> 00:04:55,950
+Também tem a garota que veio a Doca Um esta tarde
 
 54
-00:04:52,700 --> 00:04:57,860
-Tem também a garota que foi na Doca Um
-hoje de tarde e o rapaz com o nariz comprido e arredondado.
+00:04:55,950 --> 00:04:57,860
+e o rapaz com o nariz longo e arredondado.
 
 55
 00:04:58,250 --> 00:05:03,030
-É. Além dos mencionados,
-têm mais dois, e é isso.
+Sim. Tinham mais dois, e era isso.
 
 56
 00:05:03,600 --> 00:05:06,240
-O objetivo deles não nos interessa.
+O objetivo deles não nos diz respeito.
 
 57
 00:05:06,240 --> 00:05:09,460
-Entrar aqui será
-a última coisa que farão.
+Vir aqui será a última coisa que eles farão.
 
 58
 00:05:10,100 --> 00:05:14,460
-Vamos acabar com a tripulação inteira
-de uma vez por todas.
+Vamos acabar com a tripulação inteira de uma vez por todas.
 
 59
 00:05:14,460 --> 00:05:16,110
-– É!
-– É!
+Sim!
 
 60
 00:05:18,570 --> 00:05:21,090
-Certo... Entendido.
+Ok, entendido.
 
 61
 00:05:21,760 --> 00:05:25,290
@@ -276,17 +244,15 @@ Isso pode ser muito arriscado.
 
 62
 00:05:25,290 --> 00:05:28,640
-Pensei muito nisso,
-mas você é o único em quem posso confiar.
+Pensei muito sobre isso, mas você é o único em quem posso confiar.
 
 63
 00:05:29,190 --> 00:05:30,870
-Você faria isso por mim?
+Você faz isso por mim?
 
 64
 00:05:32,100 --> 00:05:34,900
-Está me tratando como um estranho.
-Pode deixar comigo.
+Você está agindo como se eu fosse um estranho. Por favor, deixe comigo.
 
 65
 00:05:37,980 --> 00:05:38,820
@@ -294,48 +260,47 @@ Obrigado.
 
 66
 00:05:39,620 --> 00:05:41,890
-Bom, então vou cuidar disso imediatamente.
+Bem, então, eu vou fazer isso imediatamente.
 
 67
 00:05:41,890 --> 00:05:42,740
-Por favor.
+Por favor, faça.
 
 68
 00:05:48,970 --> 00:05:50,890
-Terminaram de conversar?
+Terminaram de falar?
 
 69
-00:05:50,890 --> 00:05:53,710
-É... Surgiu um imprevisto.
+00:05:50,890 --> 00:05:52,600
+Sim.
 
 70
-00:05:54,420 --> 00:05:57,510
-Desculpa, mas preciso sair um pouco, tudo bem?
+00:05:52,600 --> 00:05:57,510
+Aconteceu uma coisa. Desculpe, mas tenho que sair um pouco. Está tudo bem?
 
 71
 00:05:57,510 --> 00:06:01,610
-Sem problema. Nós quatro
-somos mais que suficiente.
+Tudo bem. Nós quatro seremos mais do que o suficiente.
 
 72
 00:06:01,610 --> 00:06:03,180
-Entendo.
+Certo.
 
 73
 00:06:04,100 --> 00:06:06,480
-Cuidem do Iceburg.
+Cuidado com Iceburg-san.
 
 74
 00:06:16,910 --> 00:06:18,570
-Escute, Paulie...
+Escute, Paulie.
 
 75
 00:06:19,000 --> 00:06:21,530
-Bem debaixo da mesa no meu escritório...
+Bem embaixo da mesa no meu escritório,
 
 76
 00:06:21,530 --> 00:06:24,200
-levante o carpete e encontrará...
+levante o tapete para encontrar...
 
 77
 00:06:24,810 --> 00:06:26,610
@@ -347,8 +312,7 @@ Deve ser isso.
 
 79
 00:06:31,620 --> 00:06:34,910
-Vou te dar a combinação,
-então escute com atenção.
+Vou te dar a combinação, então ouça com atenção.
 
 80
 00:06:34,910 --> 00:06:37,480
@@ -356,20 +320,19 @@ Primeiro, direita... seis...
 
 81
 00:06:46,690 --> 00:06:48,510
-Vocês estão prontos?
+Você está pronto?
 
 82
 00:06:48,510 --> 00:06:50,600
-É, estamos prontos.
+Sim, estamos prontos.
 
 83
 00:06:50,600 --> 00:06:53,000
-Então vou causar uma distração.
+Então eu vou causar um distúrbio.
 
 84
 00:06:53,000 --> 00:06:57,400
-Os quatro vão executar
-suas missões após o sinal.
+Vocês quatro executarão suas tarefas após o sinal.
 
 85
 00:06:57,400 --> 00:06:58,950
@@ -381,7 +344,7 @@ Pronta, Nico Robin?
 
 87
 00:07:02,270 --> 00:07:04,860
-Sim... a qualquer momento.
+Sim, a qualquer hora.
 
 88
 00:07:12,220 --> 00:07:13,250
@@ -389,7 +352,7 @@ Uma explosão!
 
 89
 00:07:16,250 --> 00:07:19,130
-O que foi essa explosão agora?!
+O que foi essa explosão?!
 
 90
 00:07:19,590 --> 00:07:20,850
@@ -397,11 +360,11 @@ Tragam água, agora!
 
 91
 00:07:20,850 --> 00:07:23,050
-Levem os feridos pra um lugar seguro!
+Levem os feridos para um lugar seguro!
 
 92
 00:07:23,050 --> 00:07:25,050
-Rápido! Apaguem o fogo!
+Depressa! Apaguem o fogo!
 
 93
 00:07:25,590 --> 00:07:28,010
@@ -409,120 +372,115 @@ F-Foi tiro de canhão?
 
 94
 00:07:28,010 --> 00:07:30,900
-Não, não veio de fora!
+Não, não voou!
 
 95
 00:07:30,900 --> 00:07:32,100
-Alguém deve ter armado!
+Alguém programou para explodir!
 
 96
 00:07:32,550 --> 00:07:34,990
-Apaguem o fogo!
-Rápido, apaguem o fogo!
+Apague o fogo! Apague o fogo depressa!
 
 97
 00:07:34,990 --> 00:07:37,340
-Alguém, me dá uma mão!
+Alguém, me dê uma mão!
 
 98
 00:07:39,020 --> 00:07:40,910
-Que sinal chamativo...
+Esse foi um sinal e tanto.
 
 99
 00:07:42,460 --> 00:07:43,820
-Vamos!
+Vamos lá!
 
 100
 00:07:49,230 --> 00:07:51,710
-A explosão foi no canto
-norte do primeiro andar.
+A explosão foi no canto norte do primeiro andar.
 
 101
 00:07:51,710 --> 00:07:52,850
-Todo mundo está bem?!
+Estão todos bem?!
 
 102
 00:07:52,850 --> 00:07:57,680
-Metade de vocês fiquem no posto!
-Ainda não vimos o inimigo!
+Metade de vocês fique em seu posto! Ainda não vimos o inimigo!
 
 103
 00:07:57,680 --> 00:08:00,350
-Reforcem o perímetro
-e preparem-se para um ataque!
+Fortaleça o perímetro e prepare-se para um ataque!
 
 104
 00:08:00,350 --> 00:08:03,230
-Não os deixem entrar no prédio!
+Não os deixe no prédio!
 
 105
 00:08:06,120 --> 00:08:08,240
-Você está bem, Iceburg?!
+Você está bem, Iceburg-san ?!
 
 106
 00:08:08,240 --> 00:08:10,220
-É... Me assustou.
+Sim, Tomei um susto.
 
 107
 00:08:10,730 --> 00:08:12,690
-Vi alguém nas sombras!
+Eu vi alguém nas sombras!
 
 108
 00:08:12,690 --> 00:08:14,510
-Está usando uma fantasia! Peguem ela!
+Ela está usando uma fantasia! Peguem!
 
 109
 00:08:14,510 --> 00:08:16,240
-Lá vêm eles!
+Aí vêm eles!
 
 110
 00:08:17,410 --> 00:08:18,770
-Deixa comigo!
+Deixe-os comigo!
 
 111
-00:08:19,400 --> 00:08:20,400
-Vou pegar eles!
+00:08:19,400 --> 00:08:20,900
+Eu vou pegá-los!
 
 112
-00:08:20,400 --> 00:08:21,230
-Ei, espera!
+00:08:20,900 --> 00:08:22,050
+Ei, esperem!
 
 113
 00:08:22,900 --> 00:08:24,400
-Meu Deus...
+Nossa!
 
 114
-00:08:29,820 --> 00:08:32,100
+00:08:29,780 --> 00:08:32,100
 Por aqui! Peguem ela!
 
 115
 00:08:32,100 --> 00:08:33,410
-Não deixem ela escapar!
+Não a deixem escapar!
 
 116
 00:08:33,410 --> 00:08:36,330
-Está sozinha! Encurrala ela!
+Ela está totalmente sozinha! Encurrale-a!
 
 117
 00:08:36,330 --> 00:08:38,330
-Vem, pirata assassina!
+Vamos lá! Pirata assassina!
 
 118
 00:08:55,800 --> 00:08:57,520
-Subiu usando um chicote!
+Ela subiu as escadas usando um chicote!
 
 119
 00:09:04,570 --> 00:09:07,860
-Achou que não teria ninguém no telhado?
+Você achou que não haveria ninguém no telhado?
 
 120
 00:09:08,320 --> 00:09:11,500
-Não subestime os carpinteiros da Galley-La.
+Não subestime os artesãos da Galley.
 
 121
 00:09:11,500 --> 00:09:14,660
-Como ousam nos zombar
-tentando um assassinato?!
+Como ousa zombar de nós tentando um assassinato?!
 
 122
 00:09:14,660 --> 00:09:17,500
@@ -530,12 +488,11 @@ Prepare-se, pirata!
 
 123
 00:09:17,500 --> 00:09:20,120
-Nós definitivamente não vamos
-perdoar vocês!
+Definitivamente não vamos perdoar vocês, seus bastardos!
 
 124
 00:09:21,550 --> 00:09:25,730
-Não tente nada. Você não é páreo pra mim.
+Não tente nada. Você não é páreo para mim.
 
 125
 00:09:27,750 --> 00:09:29,000
@@ -543,88 +500,79 @@ Tem dois aqui!
 
 126
 00:09:29,000 --> 00:09:30,690
-Estão indo pra porta dos fundos!
+Eles estão indo para a porta dos fundos!
 
 127
-00:09:33,570 --> 00:09:37,220
-Não os percam! Ataquem dos dois lados!
-Não os deixem entrar!
+00:09:33,570 --> 00:09:35,580
+Não os deixe escapar! Ataquem dos dois lados!
 
 128
-00:09:37,220 --> 00:09:39,060
-Mexam-se! Capturem eles imediatamente!
+00:09:35,580 --> 00:09:37,220
+Mantenha-os fora do prédio!
 
 129
-00:09:45,500 --> 00:09:49,150
-Você memorizou a planta
-da residência dele, certo, Nico Robin?
+00:09:37,220 --> 00:09:39,060
+Siga-os! Capture-os imediatamente!
 
 130
+00:09:45,500 --> 00:09:49,150
+Você memorizou o layout da residência dele, certo, Nico Robin?
+
+131
 00:09:49,150 --> 00:09:50,110
 Sim.
 
-131
-00:09:54,020 --> 00:09:56,870
-Ahh... Os carpinteiros estão em polvorosa.
-
 132
-00:09:56,870 --> 00:10:00,450
-É... Tá bem barulhento lá embaixo.
+00:09:54,020 --> 00:09:56,870
+Os artesãos estão em pânico .
 
 133
-00:10:02,910 --> 00:10:06,000
-O que fazemos?
-Devíamos entrar logo.
+00:09:56,870 --> 00:10:00,450
+Sim. Está ficando bem agitado.
 
 134
+00:10:02,910 --> 00:10:06,000
+O que fazemos? Provavelmente deveríamos entrar lá.
+
+135
 00:10:07,920 --> 00:10:09,380
 Hm? Onde está o Luffy?
 
-135
-00:10:09,380 --> 00:10:11,090
-– Quêeee?!
-– Quêeee?!
-
 136
-00:10:12,140 --> 00:10:16,720
-– Pensa antes de agir!
-– Pensa antes de agir!
+00:10:09,380 --> 00:10:11,090
+O quê?!
 
 137
-00:10:16,720 --> 00:10:20,010
-– Capitão idiota!
-– Capitão idiota!
+00:10:12,140 --> 00:10:20,010
+Pense antes de agir! Capitão idiota!
 
 138
 00:10:21,520 --> 00:10:22,730
-Tarde demais pra isso...
+Tarde demais para isso...
 
 139
 00:10:23,510 --> 00:10:26,500
-A porta dos fundos! Estão indo pra
-porta dos fundos! Encurrala eles!
+A porta dos fundos! Eles estão indo para a porta dos fundos! Encurrale-os!
 
 140
 00:10:26,500 --> 00:10:28,690
-Não deixem escapar! Cerquem eles!
+Não os deixe escapar! Cerque-os!
 
 141
 00:10:34,970 --> 00:10:39,540
-Vocês querem morrer, aparecendo
-na frente de todos esses guardas?!
+Como ousam mostrar suas caras na frente de todos nós os guardas?!
 
 142
 00:10:39,540 --> 00:10:42,070
-Não subestimem os carpinteiros da Galley-La!
+Não menosprezem os artesãos da Galley!
 
 143
 00:10:42,070 --> 00:10:46,130
-O destino de vocês foi selado quando
-colocaram a mão no Iceburg!
+Seu destino foi selado no momento em que você colocou a mão em Iceburg-san !
 
 144
 00:10:46,750 --> 00:10:47,630
-Desistam!
+Simplesmente desista!
 
 145
 00:10:50,500 --> 00:10:53,150
@@ -636,8 +584,7 @@ Desistam e mostrem suas caras!
 
 147
 00:10:55,410 --> 00:11:00,010
-Vocês dois vão ser isca pro
-resto da tripulação, malditos assassinos!
+Vocês dois serão isca para o resto da sua equipe, malditos assassinos!
 
 148
 00:11:09,840 --> 00:11:11,190
@@ -645,11 +592,11 @@ Ele vai fazer alguma coisa!
 
 149
 00:11:11,190 --> 00:11:13,400
-Atirem!
+Atire neles!
 
 150
 00:11:31,510 --> 00:11:33,640
-Eles desapareceram... Impossível!
+Eles desapareceram... De jeito nenhum!
 
 151
 00:11:33,640 --> 00:11:34,960
@@ -657,7 +604,7 @@ O que está acontecendo?
 
 152
 00:11:34,960 --> 00:11:37,790
-Pra onde foram?
+Para onde eles foram?
 
 153
 00:11:45,650 --> 00:11:46,770
@@ -665,23 +612,23 @@ Ei, você está bem?
 
 154
 00:11:47,540 --> 00:11:51,400
-Ela é forte... O que é aquela do chicote?
+Ela é forte... O que há com essa usuário de chicote?
 
 155
 00:11:51,400 --> 00:11:53,730
-Ela correu... pelo ar.
+Ela correu... no ar.
 
 156
 00:11:54,410 --> 00:11:55,510
-Impossível...
+De jeito nenhum...
 
 157
 00:11:56,220 --> 00:11:58,570
-Correu pelo ar...?
+Correu no ar?
 
 158
 00:11:59,600 --> 00:12:03,290
-Sério, vocês nunca escutam, né?
+Sério, vocês nunca escutam, não é?
 
 159
 00:12:07,050 --> 00:12:08,500
@@ -692,1429 +639,1644 @@ Ela pulou!
 Moon Walk!
 
 161
-00:12:13,510 --> 00:12:16,340
-Lá vai ela de novo!
-Ela pulou no ar!
+00:12:09,140 --> 00:12:10,920
+Nota: Caminhada na Lua!
 
 162
+00:12:13,510 --> 00:12:16,340
+Lá vai ela de novo! Ela deu um pulo duplo no ar!
+
+163
 00:12:19,180 --> 00:12:20,770
 Briar Road!
 
-163
-00:12:30,080 --> 00:12:33,320
-Eu disse pra não fazer isso.
-
 164
+00:12:19,180 --> 00:12:20,770
+Nota: Estrada de Espinhos!
+
+165
+00:12:30,080 --> 00:12:33,320
+Eu disse para vocês não fazerem isso.
+
+166
 00:12:33,920 --> 00:12:35,430
 Ah! Ela está vindo!
 
-165
-00:12:35,430 --> 00:12:38,280
-Caiu no pátio!
-Circulem por trás dela!
-
-166
-00:12:38,710 --> 00:12:41,430
-Ei! Por ali!
-Cerquem ela dos dois lados!
-
 167
-00:12:41,430 --> 00:12:42,630
-Certo!
+00:12:35,430 --> 00:12:38,280
+Ela pousou no pátio! Cerquem ela!
 
 168
+00:12:38,710 --> 00:12:41,430
+Ei! Ali! Vá na frente dela e corte-a!
+
+169
+00:12:41,430 --> 00:12:42,630
+Ok!
+
+170
 00:12:46,060 --> 00:12:47,580
 Deve ser isso.
 
-169
-00:12:48,640 --> 00:12:49,620
-Uau...
-
-170
-00:12:50,580 --> 00:12:54,800
-Então é isso que o Iceburg estava escondendo, né?
-
 171
-00:12:55,460 --> 00:12:57,580
-Passe pra cá.
+00:12:48,640 --> 00:12:49,800
+Uau,
 
 172
-00:13:00,470 --> 00:13:03,970
-Você não sabe o valor disso.
+00:12:50,580 --> 00:12:54,800
+então é isso que o Sr. Iceburg está escondendo, hein?
 
 173
-00:13:06,340 --> 00:13:08,310
-Quem diabos são vocês?
+00:12:55,460 --> 00:12:57,580
+Dê aqui.
 
 174
-00:13:08,310 --> 00:13:10,060
-De onde vieram?
+00:13:00,470 --> 00:13:03,970
+Você não sabe o quanto vale.
 
 175
-00:13:11,280 --> 00:13:12,620
-Da escuridão.
+00:13:06,340 --> 00:13:08,310
+Quem diabos são vocês, seus bastardos?
 
 176
-00:13:12,620 --> 00:13:17,510
-Porém, nosso grupo administra a justiça.
+00:13:08,310 --> 00:13:10,060
+De onde vocês vieram?
 
 177
-00:13:17,510 --> 00:13:21,820
-Somos a Cipher Pol No. 9,
-uma agência secreta de inteligência.
+00:13:11,280 --> 00:13:12,620
+A escuridão.
 
 178
-00:13:23,500 --> 00:13:29,100
-De onde quer que tenham vindo,
-devem ter encontrado nossos carpinteiros.
+00:13:12,620 --> 00:13:17,510
+No entanto, estamos simplesmente administrando justiça.
 
 179
-00:13:29,100 --> 00:13:30,330
-Encontramos?
+00:13:17,510 --> 00:13:21,820
+Nós somos a Cipher Pol No. 9, uma agência de inteligência secreta.
 
 180
-00:13:31,640 --> 00:13:35,170
-Talvez sim... talvez não...
+00:13:23,500 --> 00:13:25,710
+De onde quer que você tenha vindo,
 
 181
-00:13:36,740 --> 00:13:40,130
-Não me lembro dos detalhes.
+00:13:25,710 --> 00:13:29,100
+você deve ter encontrado nossos artesãos.
 
 182
-00:13:42,070 --> 00:13:46,510
-Isso não é mais um simples assassinato, certo?
+00:13:29,100 --> 00:13:30,330
+Nós encontramos?
 
 183
-00:13:46,510 --> 00:13:50,580
-Bom, não lembro de termos chamado assim.
+00:13:31,640 --> 00:13:35,170
+Podemos ter... ou não ter...
 
 184
-00:13:50,580 --> 00:13:55,480
-De qualquer forma, entregue o objeto
-valioso do Iceburg,
+00:13:36,740 --> 00:13:40,130
+Não me lembro bem dos detalhes.
 
 185
-00:13:55,480 --> 00:13:59,650
-e... já que descobriram
-algo sobre isso...
+00:13:42,070 --> 00:13:46,510
+Isso não é mais um simples assassinato, é?
 
 186
-00:14:00,570 --> 00:14:03,580
-vocês precisam morrer.
+00:13:46,510 --> 00:13:50,580
+Bem, não me lembro de termos chamado assim.
 
 187
+00:13:50,580 --> 00:13:55,480
+De qualquer forma, entregue os documentos valiosos do Sr. Iceburg,
+
+188
+00:13:55,480 --> 00:13:59,650
+e... já que você aprendeu algo sobre isso...
+
+189
+00:14:00,570 --> 00:14:03,580
+você deve morrer.
+
+190
 00:14:05,260 --> 00:14:07,660
 Em nome da justiça...
 
-188
-00:14:07,990 --> 00:14:10,970
-Bem aqui... agora mesmo...
-
-189
-00:14:13,030 --> 00:14:15,370
-Encontraram os dois que
-sumiram perto da porta dos fundos?!
-
-190
-00:14:16,060 --> 00:14:18,520
-Não! Não achamos eles em lugar nenhum!
-
 191
+00:14:07,990 --> 00:14:10,970
+Bem aqui... agora...
+
+192
+00:14:13,030 --> 00:14:15,370
+Você encontrou os dois que desapareceram perto da porta dos fundos?!
+
+193
+00:14:16,060 --> 00:14:18,520
+Não! Não conseguimos encontrá-los em lugar nenhum!
+
+194
 00:14:18,520 --> 00:14:20,250
 E dentro da residência?!
 
-192
+195
 00:14:20,250 --> 00:14:22,550
 Tem guardas em cada janela e porta!
 
-193
-00:14:22,550 --> 00:14:23,800
-Impossível eles entrarem!
-
-194
-00:14:24,240 --> 00:14:27,120
-Malditos piratas! Pra onde foram?!
-
-195
-00:14:27,120 --> 00:14:29,150
-Devem estar escondidos por perto!
-
 196
-00:14:29,150 --> 00:14:32,600
-Continuem procurando! Capturem eles
-custe o que custar! Entenderam?!
+00:14:22,550 --> 00:14:23,800
+Não tem como eles entrarem!
 
 197
-00:14:32,600 --> 00:14:34,230
-– É!
-– É!
+00:14:24,240 --> 00:14:27,120
+Malditos piratas! Para onde eles foram?!
 
 198
-00:14:38,050 --> 00:14:39,780
-Ele está atrás dessa parede.
+00:14:27,120 --> 00:14:29,150
+Eles devem estar espreitando por perto!
 
 199
-00:14:41,610 --> 00:14:44,080
-Certo. Agora, me empurre.
+00:14:29,150 --> 00:14:32,600
+Continue procurando! Temos que encontrá-los! Entendeu?!
 
 200
+00:14:32,600 --> 00:14:34,230
+Sim!
+
+201
+00:14:38,050 --> 00:14:39,780
+Ele está atrás desta parede.
+
+202
+00:14:41,610 --> 00:14:44,080
+Ok. Agora, me empurre.
+
+203
 00:14:51,840 --> 00:14:53,710
 Você me assustou.
 
-201
+204
 00:14:53,710 --> 00:14:55,540
 Eu sabia que você viria mais cedo ou mais tarde...
 
-202
-00:14:56,790 --> 00:14:59,000
-mas nunca imaginei que viria por ali...
-
-203
-00:14:59,000 --> 00:15:01,000
-Você fez a mesma coisa ontem à noite?
-
-204
-00:15:01,460 --> 00:15:03,650
-Sei que não tem nenhuma porta ali.
-
 205
-00:15:03,650 --> 00:15:05,600
-É o poder da Fruta Porta-Porta.
+00:14:56,790 --> 00:14:59,000
+mas nunca pensei que você passaria por aí.
 
 206
-00:15:05,600 --> 00:15:09,930
-Não importa quão dura seja a parede,
-a área que eu toco se torna uma porta.
+00:14:59,000 --> 00:15:01,000
+Você fez o mesmo ontem à noite?
 
 207
-00:15:09,930 --> 00:15:13,490
-Enquanto houver uma parede,
-posso ir e vir como quiser.
+00:15:01,460 --> 00:15:03,650
+Eu sei que não tem nenhuma porta ali.
 
 208
-00:15:17,580 --> 00:15:19,850
-O que foi isso?!
-Ainda não recebemos o sinal.
+00:15:03,650 --> 00:15:05,600
+É o poder da Doa Doa no Mi.
 
 209
-00:15:19,850 --> 00:15:23,670
-Ele não está enfraquecido o bastante
-se está falando tanto assim.
+00:15:03,650 --> 00:15:05,600
+Nota: Fruta da Porta!
 
 210
-00:15:24,250 --> 00:15:28,780
-Assim como um bom chef não deixaria
-de preparar os ingredientes antes...
+00:15:05,600 --> 00:15:09,930
+Não importa o quão dura seja uma parede, a área que eu toco se torna uma porta.
 
 211
-00:15:28,780 --> 00:15:39,210
-profissionais cuidam de imobilizar o alvo para prevenir
-qualquer ação inesperada antes da hora marcada.
+00:15:09,930 --> 00:15:13,490
+Enquanto houver uma parede, eu posso entrar e sair quando eu quiser.
 
 212
-00:15:39,610 --> 00:15:45,760
-Então é assim... que a CP9 faz as coisas, né?
+00:15:17,580 --> 00:15:19,850
+O que você está fazendo? Ainda não recebemos o sinal.
 
 213
-00:15:47,390 --> 00:15:50,930
-Você leu bem a situação.
-Está absolutamente certo.
+00:15:19,850 --> 00:15:23,670
+Você não pode chamar alguém de enfraquecido quando ele tem energia suficiente para falar.
 
 214
-00:15:54,540 --> 00:15:58,270
-Me sinto mal pelo Chapéu de Palha...
+00:15:24,250 --> 00:15:28,780
+Assim como um bom chef não deixaria de preparar os ingredientes com antecedência,
 
 215
-00:15:58,610 --> 00:16:01,920
-Parece que ele não tinha nada a ver com isso, afinal.
+00:15:28,780 --> 00:15:34,750
+os profissionais teriam o cuidado de conter sua vítima
 
 216
+00:15:34,750 --> 00:15:39,210
+e evitasse qualquer coisa inesperada antes do tempo marcado.
+
+217
+00:15:39,610 --> 00:15:45,760
+Então essa é... a maneira do CP9 fazer as coisas, hein?
+
+218
+00:15:47,390 --> 00:15:50,930
+Você leu bem a situação. Você está absolutamente certo.
+
+219
+00:15:54,540 --> 00:15:58,270
+Eu acusei falsamente o Chapéu de Palha...
+
+220
+00:15:58,610 --> 00:16:01,920
+Então, como eu suspeitava, ele não teve nada a ver com isso.
+
+221
 00:16:03,530 --> 00:16:06,000
 Você não precisa se sentir mal.
 
-217
+222
 00:16:06,000 --> 00:16:10,280
-Você apenas disse a verdade
-sobre o que viu ontem à noite.
+Você só disse a verdade que me viu ontem à noite.
 
-218
+223
 00:16:14,460 --> 00:16:17,250
 Isso também fazia parte do seu plano?
 
-219
-00:16:17,250 --> 00:16:18,670
-Exato.
-
-220
-00:16:18,670 --> 00:16:23,500
-Mantivemos você vivo para colocar
-a culpa nos piratas.
-
-221
-00:16:23,500 --> 00:16:26,590
-Além disso, se te matássemos de repente...
-
-222
-00:16:26,980 --> 00:16:29,550
-não saberíamos onde encontrar
-o que estamos procurando...
-
-223
-00:16:29,550 --> 00:16:34,290
-as plantas de um certo navio.
-
 224
-00:16:34,290 --> 00:16:41,310
-É algo que foi secretamente passado
-de carpinteiro para aprendiz por gerações.
+00:16:17,250 --> 00:16:18,690
+Isso mesmo.
 
 225
-00:16:41,310 --> 00:16:48,280
-Se sentisse que sua vida estava em perigo,
-certamente confiaria a alguém...
+00:16:18,690 --> 00:16:23,500
+Nós mantivemos você vivo para jogar a culpa nos piratas.
 
 226
-00:16:49,020 --> 00:16:53,740
-E você escolheu o Paulie,
-um dos capatazes da Doca Um.
+00:16:23,500 --> 00:16:26,590
+Além disso, se nós matássemos você de repente,
 
 227
+00:16:26,980 --> 00:16:29,550
+não saberíamos onde encontrar o que estamos procurando,
+
+228
+00:16:29,550 --> 00:16:34,290
+as plantas de uma certo navio.
+
+229
+00:16:34,290 --> 00:16:37,020
+É algo que foi secretamente passado adiante
+
+230
+00:16:37,020 --> 00:16:41,310
+de construtor naval para discípulo por gerações.
+
+231
+00:16:41,310 --> 00:16:44,710
+Se você sentisse que sua vida estava em perigo,
+
+232
+00:16:44,710 --> 00:16:48,280
+você tentaria confiar isso a alguém com certeza.
+
+233
+00:16:49,020 --> 00:16:53,740
+E quem você escolheu foi Paulie, um dos capatazes da Doca Um.
+
+234
 00:16:54,750 --> 00:16:58,710
 Nossos agentes estão com ele agora.
 
-228
+235
 00:16:58,710 --> 00:17:04,170
-Então tudo está indo...
-exatamente como planejaram, né?
+Então está tudo indo... como você planejou, hein?
 
-229
-00:17:05,660 --> 00:17:08,980
-Garantam que tudo ocorra perfeitamente até o fim.
+236
+00:17:05,660 --> 00:17:08,100
+Garanta que tudo permaneça impecável até o fim.
 
-230
-00:17:07,920 --> 00:17:08,980
-Certo.
+237
+00:17:08,100 --> 00:17:08,980
+Ok.
 
-231
+238
 00:17:09,560 --> 00:17:12,680
-Vou cuidar dos carpinteiros
-do outro lado da porta.
+Eu vou lidar com os construtores navais do lado de fora da porta.
 
-232
+239
 00:17:13,540 --> 00:17:18,600
 Nico Robin, acabe com ele.
 
-233
-00:17:18,600 --> 00:17:22,600
-Quando aqueles dois pegarem as plantas
-do Paulie, eles vão te contatar.
-
-234
-00:17:25,360 --> 00:17:28,570
-Mate o Iceburg nessa hora.
-
-235
-00:17:29,700 --> 00:17:34,800
-Nossa missão se completa quando matarmos o Paulie,
-que descobriu a verdade.
-
-236
-00:17:34,800 --> 00:17:39,000
-Depois disso, os Chapéus de Palha
-levarão toda a culpa.
-
-237
-00:17:44,420 --> 00:17:49,010
-Sério, por que ele não consegue
-ouvir os conselhos dos outros?!
-
-238
-00:17:49,960 --> 00:17:51,750
-É sempre assim.
-
-239
-00:17:51,750 --> 00:17:56,220
-Mas... a Robin pode estar em algum
-lugar naquela confusão, certo?
-
 240
-00:17:56,680 --> 00:18:00,490
-O que vamos fazer?!
-Temos que ter cuidado!
+00:17:18,600 --> 00:17:22,600
+Assim que aqueles dois pegarem as plantas do Paulie, eles entrarão em contato com você.
 
 241
-00:18:00,490 --> 00:18:05,190
-Mas... dependendo de como
-você olha, tivemos sorte.
+00:17:25,360 --> 00:17:28,570
+Mate Iceburg nesse momento.
 
 242
-00:18:05,190 --> 00:18:10,760
-Quando o Luffy invade território inimigo,
-você acha que ele vai pela lateral ou por trás?
+00:17:29,700 --> 00:17:32,650
+Nossa missão estará cumprida assim que matarmos Paulie,
 
 243
-00:18:10,760 --> 00:18:11,750
-De jeito nenhum.
+00:17:32,650 --> 00:17:34,800
+que veio a saber a verdade.
 
 244
-00:18:11,750 --> 00:18:13,110
-Nem pensar.
+00:17:34,800 --> 00:17:39,000
+Depois disso, esse crime será atribuído inteiramente aos Chapéus de Palha.
 
 245
-00:18:13,110 --> 00:18:16,660
-Aposto que agora ele pulou ou correu
-direto pela frente da residência,
+00:17:44,420 --> 00:17:49,010
+Sério, por que ele não pode simplesmente ouvir os conselhos das pessoas?!
 
 246
-00:18:16,660 --> 00:18:22,660
-feliz por ter entrado e correndo
-por aí sem rumo. Acertei?
+00:17:49,960 --> 00:17:51,750
+É sempre a mesma coisa.
 
 247
-00:18:22,660 --> 00:18:24,000
-É, com certeza.
+00:17:51,750 --> 00:17:56,220
+Mas... Robin pode estar em algum lugar nessa comoção, certo?
 
 248
-00:18:24,000 --> 00:18:25,130
-É, sem dúvida.
+00:17:56,680 --> 00:18:00,490
+O que vamos fazer?! Temos que ter cuidado!
 
 249
-00:18:25,130 --> 00:18:30,700
-Certo? Pra os carpinteiros, o Luffy
-é o líder do grupo de criminosos.
+00:18:00,490 --> 00:18:05,190
+Dependendo de como você olha para isso, nós tivemos sorte.
 
 250
-00:18:30,700 --> 00:18:34,900
-Quando o protagonista entra em cena,
-toda a atenção vai pra ele!
+00:18:05,190 --> 00:18:07,600
+Quando Luffy marcha para o território inimigo,
 
 251
-00:18:34,900 --> 00:18:39,890
-Isso quer dizer que podemos supor que
-a guarda da frente está mais leve agora!
+00:18:07,600 --> 00:18:10,760
+você acha que ele iria para trás ou para o lado?!
 
 252
-00:18:40,380 --> 00:18:45,100
-Então podemos facilmente atravessar o pátio e nos
-misturar na confusão dos carpinteiros!
+00:18:10,760 --> 00:18:11,750
+Sem chance.
 
 253
-00:18:45,420 --> 00:18:49,940
-Entendo. Então graças ao Luffy, agora é
-nossa melhor chance de entrar, né?
+00:18:11,750 --> 00:18:13,110
+Sem chance.
 
 254
-00:18:50,570 --> 00:18:53,650
-Faz sentido! Então dá pra
-entrar de vez, né?
+00:18:13,110 --> 00:18:16,930
+Aposto que agora ele pulou ou correu de cabeça para dentro da residência,
 
 255
-00:18:54,000 --> 00:18:55,610
-Dá pra pular aquela cerca!
+00:18:16,930 --> 00:18:18,800
+feliz por ter encontrado uma maneira de entrar,
 
 256
-00:18:55,610 --> 00:18:58,120
-Vamos nessa! Prontos?!
+00:18:18,800 --> 00:18:22,760
+correndo sem rumo sem ideia de para onde ir. Parece certo?
 
 257
-00:18:58,470 --> 00:18:59,540
-Certo, vamos entrar!
+00:18:22,760 --> 00:18:24,000
+Sim, com certeza.
 
 258
+00:18:24,000 --> 00:18:25,130
+Sim, definitivamente.
+
+259
+00:18:25,130 --> 00:18:28,010
+Certo? Da perspectiva dos construtores navais,
+
+260
+00:18:28,010 --> 00:18:30,700
+Luffy é o líder de uma gangue criminosa.
+
+261
+00:18:30,700 --> 00:18:34,900
+Assim que ele pulou, aposto que a atenção de todos foi para ele!
+
+262
+00:18:34,900 --> 00:18:37,110
+Em outras palavras, é seguro assumir
+
+263
+00:18:37,110 --> 00:18:39,890
+que a guarda da frente da residência está bem fraca agora!
+
+264
+00:18:40,380 --> 00:18:42,140
+Então nós podemos tirar vantagem disso
+
+265
+00:18:42,140 --> 00:18:45,100
+e nos misturar com a multidão de construtores navais que estão em alvoroço!
+
+266
+00:18:45,420 --> 00:18:49,940
+Entendo. Então, graças ao Luffy, agora é nossa melhor chance de entrar, hein?
+
+267
+00:18:50,570 --> 00:18:54,000
+Estou convencido! Então, deve ser ok pular, né?
+
+268
+00:18:54,000 --> 00:18:55,610
+Podemos pular aquele muro!
+
+269
+00:18:55,610 --> 00:18:58,120
+Vocês estão prontos?!
+
+270
+00:18:58,470 --> 00:18:59,540
+Ok, nós vamos entrar!
+
+271
 00:18:59,540 --> 00:19:00,830
 Sigam o Luffy!
 
-259
+272
 00:19:15,010 --> 00:19:17,970
-– Como que isso é "mais leve"?!
-– Como que isso é "mais leve"?!
+Que parte disso é "bem fraco"?!
 
-260
+273
 00:19:18,570 --> 00:19:21,640
-Droga... Não consigo sair.
+Droga! Estou preso!
 
-261
-00:19:21,640 --> 00:19:25,480
-Queria pular pra dentro do prédio
-todo descolado...
+274
+00:19:21,640 --> 00:19:25,440
+Eu queria pular para dentro do prédio, todo rápido e furioso,
 
-262
+275
 00:19:26,200 --> 00:19:28,920
-mas estou preso e não consigo me mexer!
+mas estou preso!
 
-263
-00:19:29,900 --> 00:19:32,690
-Estou preso e não consigo me mexer...
+276
+00:19:29,900 --> 00:19:32,130
+Estou preso!
 
-264
-00:19:33,050 --> 00:19:34,990
+277
+00:19:33,050 --> 00:19:35,350
 Tenho que me apressar...
 
-265
-00:19:35,350 --> 00:19:39,670
-Espera aí, Robin!
+278
+00:19:35,350 --> 00:19:39,390
+Espere só, Robin!
 
-266
+279
 00:19:57,890 --> 00:19:59,850
-Que droga está acontecendo?!
+Que diabos está acontecendo?!
 
-267
+280
 00:20:01,820 --> 00:20:04,210
 Alguém! Terceiro andar!
 
-268
+281
 00:20:04,210 --> 00:20:06,470
-Venham ao corredor do quarto do presidente!
+Venha para a corredor para o quarto do presidente!
 
-269
+282
 00:20:06,470 --> 00:20:09,690
-Os guardas foram derrubados!
-Alguém! Venham pro andar de cima!
+Os guardas foram eliminados! Alguém! Suba as escadas!
 
-270
+283
 00:20:10,190 --> 00:20:11,820
-O que está dizendo?!
+O que você está dizendo?!
 
-271
+284
 00:20:12,790 --> 00:20:13,710
-Tilestone!
+Tilestone-san !
 
-272
+285
 00:20:13,710 --> 00:20:16,210
-O Kaku e o Lucci deviam estar lá!
+Kaku e Lucci deveriam estar lá!
 
-273
+286
 00:20:16,210 --> 00:20:17,400
 Mas eles estão...
 
-274
+287
 00:20:17,400 --> 00:20:18,950
 O quê?!
 
-275
+288
 00:20:29,830 --> 00:20:31,670
 Kaku! Lucci!
 
-276
+289
 00:20:32,340 --> 00:20:36,130
-Puxa, isso não tem fim.
-Ainda sem notícias?
+Meu Deus, não há um fim para isso. Nenhuma palavra ainda?
 
-277
+290
 00:20:36,720 --> 00:20:38,840
-Seu desgraçado!
+Seu bastardo!
 
-278
+291
 00:20:39,610 --> 00:20:42,300
-Como ousa!
+Como você ousa?!
 
-279
+292
 00:20:42,840 --> 00:20:44,770
 Que homem barulhento.
 
-280
+293
 00:20:44,770 --> 00:20:48,730
-É melhor o Iceburg estar bem!
+Iceburg-san, é melhor ficar bem!
 
-281
+294
 00:20:49,290 --> 00:20:51,400
-Vá verificar você mesmo.
+Verifique você mesmo.
 
-282
+295
 00:20:51,400 --> 00:20:53,610
-Iron Body.
+Tekkai.
 
-283
+296
+00:20:51,400 --> 00:20:53,610
+Nota: Corpo de Ferro!
+
+297
 00:21:07,000 --> 00:21:08,800
-O martelo gigante dele...!
+Seu martelo gigante!
 
-284
+298
 00:21:08,800 --> 00:21:10,710
-I-Impossível!
+D-De jeito nenhum!
 
-285
+299
 00:21:11,540 --> 00:21:12,420
 Seu filho da...
 
-286
+300
 00:21:13,360 --> 00:21:15,220
-Me larga, desgraçado!
+Solte, seu bastardo!
 
-287
+301
 00:21:15,220 --> 00:21:17,880
-Você se orgulha dessa
-sua força descomunal?
+Você se orgulha da sua força bruta?
 
-288
+302
 00:21:17,880 --> 00:21:22,340
-Não consigo mexer meu braço! Não tem como
-eu perder num duelo de força!
+Não consigo mover meu braço! Não tem como eu perder uma disputa de força!
 
-289
+303
 00:21:39,550 --> 00:21:43,410
-Três dos capatazes foram...!
+Três dos capatazes!
 
-290
-00:21:49,220 --> 00:21:51,000
-Chamem reforços lá de baixo!
+304
+00:21:49,220 --> 00:21:51,910
+Chame reforços lá de baixo!
 
-291
-00:21:51,000 --> 00:21:51,910
-Shave!
+305
+00:21:50,890 --> 00:21:51,910
+Soru!
 
-292
+306
+00:21:50,890 --> 00:21:51,910
+Nota: Lâmina!
+
+307
 00:21:57,750 --> 00:21:58,720
-Encontramos eles!
+Nós os encontramos!
 
-293
+308
 00:21:58,720 --> 00:22:00,130
-É o Roronoa Zoro!
+É Roronoa Zoro!
 
-294
+309
 00:22:00,130 --> 00:22:01,960
 Eles finalmente apareceram!
 
-295
+310
 00:22:01,960 --> 00:22:03,180
 Não os deixem escapar!
 
-296
+311
 00:22:03,690 --> 00:22:05,050
-Eu vi essa mulher hoje de tarde também!
+Eu vi aquela mulher esta tarde também!
 
-297
+312
 00:22:05,050 --> 00:22:06,370
 Atrás deles!
 
-298
+313
 00:22:06,370 --> 00:22:08,920
-Ei! Cadê o Luffy?!
+Ei! Por que o Luffy não está aqui?!
 
-299
+314
 00:22:08,920 --> 00:22:11,140
-Como vou saber?! Eu é que queria saber!
+Como eu vou saber?! Eu adoraria descobrir!
 
-300
+315
 00:22:12,970 --> 00:22:14,290
 O que fazemos?!
 
-301
+316
 00:22:14,290 --> 00:22:18,210
-A essa altura, é como se
-tivéssemos sido pegos no flagra.
+Dado o que aconteceu, fomos pegos em flagrante.
 
-302
-00:22:18,210 --> 00:22:20,190
-Mas atacando de frente dá pra entrar!
+317
+00:22:18,210 --> 00:22:20,490
+Eu sei um jeito de passar.
 
-303
+318
 00:22:22,400 --> 00:22:24,110
 Espera, Zoro! O que você vai fazer?!
 
-304
-00:22:24,800 --> 00:22:27,850
-Ficar correndo ao redor do prédio
-não vai nos levar a lugar nenhum.
-
-305
-00:22:27,850 --> 00:22:31,580
-Vamos invadir pela frente e encontrar a Robin.
-
-306
-00:22:31,580 --> 00:22:32,970
-– O quê?!
-– O quê?!
-
-307
-00:22:32,970 --> 00:22:36,560
-Mas eles são carpinteiros!
-Não são nossos inimigos, sabia?!
-
-308
-00:22:36,560 --> 00:22:39,420
-Não se preocupe. Vou usar o dorso das espadas!
-
-309
-00:22:40,510 --> 00:22:44,550
-Saiam do caminho!
-
-310
-00:22:48,970 --> 00:22:51,020
-– Dá pra matar desse jeito!
-– Dá pra matar desse jeito!
-
-311
-00:23:09,860 --> 00:23:13,630
-Bom, isso é uma surpresa.
-
-312
-00:23:13,630 --> 00:23:18,880
-Pra ser sincero, nunca pensei
-que te veria aqui... Nico Robin.
-
-313
-00:23:19,600 --> 00:23:21,700
-Nós já nos conhecemos?
-
-314
-00:23:21,700 --> 00:23:24,190
-Nos conhecemos pela primeira vez ontem à noite.
-
-315
-00:23:24,190 --> 00:23:28,350
-Mas eu queria te conhecer...
-há muito, muito tempo.
-
-316
-00:23:30,010 --> 00:23:33,980
-Até coloquei seu cartaz de procurada
-no meu quarto pra nunca esquecer.
-
-317
-00:23:34,290 --> 00:23:35,940
-Quer um autógrafo?
-
-318
-00:23:37,710 --> 00:23:38,900
-Seria...
-
 319
-00:23:38,900 --> 00:23:40,070
-ótimo!
+00:22:24,800 --> 00:22:27,850
+Correr ao redor do prédio não vai nos levar a lugar nenhum.
 
 320
-00:23:42,520 --> 00:23:43,740
-Então queria me matar?
+00:22:27,850 --> 00:22:31,580
+Nós invadimos pela frente e encontramos Robin.
 
 321
-00:23:44,480 --> 00:23:45,910
-Exatamente.
+00:22:31,580 --> 00:22:32,970
+O quê?!
 
 322
+00:22:32,970 --> 00:22:36,560
+Mas eles são construtores navais! Eles não são nossos inimigos, sabia!
+
+323
+00:22:36,560 --> 00:22:39,420
+Não se preocupe. Vou usar a parte de trás das espadas!
+
+324
+00:22:40,510 --> 00:22:44,550
+Saiam do nosso caminho!
+
+325
+00:22:48,970 --> 00:22:51,020
+Mas você está causando ferimentos fatais neles!
+
+326
+00:23:09,860 --> 00:23:13,630
+Bem, isso é uma surpresa.
+
+327
+00:23:13,630 --> 00:23:18,880
+Para ser honesto, nunca pensei que te veria aqui... Nico Robin.
+
+328
+00:23:19,600 --> 00:23:21,700
+Já nos conhecemos antes?
+
+329
+00:23:21,700 --> 00:23:24,190
+Nós nos conhecemos pela primeira vez ontem à noite.
+
+330
+00:23:24,190 --> 00:23:28,350
+Mas eu queria te conhecer há muito tempo.
+
+331
+00:23:30,010 --> 00:23:33,980
+Eu até coloquei seu cartaz de procurado no meu quarto para garantir que eu nunca esquecesse.
+
+332
+00:23:34,290 --> 00:23:35,940
+Você gostaria de um autógrafo?
+
+333
+00:23:37,710 --> 00:23:40,070
+Eu acho que estou... bem!
+
+334
+00:23:42,520 --> 00:23:43,740
+Então você queria me matar?
+
+335
+00:23:44,480 --> 00:23:45,910
+Isso mesmo.
+
+336
 00:23:45,910 --> 00:23:47,740
 Antes que você destrua o mundo!
 
-323
+337
 00:23:49,680 --> 00:23:51,910
-Por que você anda procurando os poneglyphs?!
+Por que você está procurando pelos poneglyphs?!
 
-324
+338
 00:23:53,370 --> 00:23:55,290
 Desde os tempos antigos,
 
-325
-00:23:55,290 --> 00:24:00,900
-o governo declarou universalmente que é crime
+339
+00:23:55,290 --> 00:23:58,480
+o governo declarou universalmente um crime
+
+340
+00:23:58,480 --> 00:24:00,900
 procurar e decifrar os poneglyphs.
 
-326
+341
 00:24:00,900 --> 00:24:02,840
-Tenho certeza que sabe disso.
+Tenho certeza de que você sabe disso.
 
-327
+342
 00:24:04,570 --> 00:24:07,300
-Você também sabe da existência
-dos poneglyphs.
+Você também sabe da existência dos poneglyphs.
 
-328
+343
 00:24:07,640 --> 00:24:10,260
-Apenas saber da existência não seria crime.
+Só saber sobre isso não seria um crime.
 
-329
+344
 00:24:10,260 --> 00:24:15,270
-Mas... a única pessoa no mundo inteiro
-capaz de decifrar aqueles textos...
+Mas o único no mundo inteiro que pode decifrar esses textos...
 
-330
+345
 00:24:15,270 --> 00:24:16,730
 é você.
 
-331
+346
 00:24:18,100 --> 00:24:22,560
-É exatamente por isso que o governo colocou
-uma recompensa tão enorme na sua cabeça,
+É exatamente por isso que o governo colocou uma recompensa tão grande pela sua cabeça,
 
-332
+347
 00:24:22,560 --> 00:24:25,510
-mesmo você tendo apenas oito anos na época.
+mesmo que você tivesse apenas oito anos de idade.
 
-333
+348
 00:24:25,510 --> 00:24:28,200
 É porque você é a única no mundo
 
-334
+349
 00:24:28,200 --> 00:24:31,770
-capaz de restaurar a arma ancestral!
+que pode restaurar a arma antiga!
 
-335
+350
 00:24:34,330 --> 00:24:37,040
-Entendo... Você sabe sobre a arma.
+Entendo. Você sabe sobre a arma.
 
-336
-00:24:39,560 --> 00:24:44,840
-Pensando bem... Nunca achei que a CP9
-realmente existisse como organização.
+351
+00:24:39,560 --> 00:24:41,590
+Considerando tudo,
 
-337
-00:24:44,840 --> 00:24:46,210
-E se existe,
+352
+00:24:41,590 --> 00:24:44,840
+Eu nunca pensei que a CP9 realmente existisse como uma organização.
 
-338
-00:24:46,210 --> 00:24:50,840
-significa que você deixou os Chapéus de Palha
-e está ajudando o governo.
+353
+00:24:44,840 --> 00:24:48,410
+Se existir, significa que você já deixou os Piratas do Chapéu de Palha
 
-339
+354
+00:24:48,410 --> 00:24:50,840
+e tem ajudado o governo.
+
+355
 00:24:50,840 --> 00:24:54,650
-Comportamento estranho para uma mulher
-foragida há vinte anos, mas...
+É bizarro para uma mulher que está foragida há 20 anos agir assim,
 
-340
+356
 00:24:54,650 --> 00:24:58,380
-bom, isso não é da minha conta.
+mas, bem, isso não é problema meu.
 
-341
+357
 00:24:59,040 --> 00:25:02,110
-Se decifrar os poneglyphs
-levar ao retorno da arma,
+Se a decifração dos Poneglyphs levar ao retorno da arma,
 
-342
+358
 00:25:02,110 --> 00:25:05,020
 o resultado será o mesmo
 
-343
+359
 00:25:05,020 --> 00:25:07,210
-independente se o dono for bom ou mau.
+não importa quão justo ou mau seja seu dono.
 
-344
+360
 00:25:08,390 --> 00:25:12,660
-A arma jamais trará
-paz a este mundo.
+A arma nunca pode trazer paz a este mundo.
 
-345
+361
 00:25:12,660 --> 00:25:15,620
 Ela vai trazer o fim do mundo.
 
-346
+362
 00:25:16,370 --> 00:25:20,500
 Não devemos invocar uma relíquia do passado!
 
-347
+363
 00:25:23,420 --> 00:25:26,450
-Você tem razão. Concordo com você.
+Você está certo. Eu concordo com você.
 
-348
-00:25:26,450 --> 00:25:28,590
-Mas também não é da sua conta.
+364
+00:25:26,450 --> 00:25:31,800
+Mas não é da sua conta. O que quer que eu faça para pesquisar história,
 
-349
-00:25:28,590 --> 00:25:31,800
-O que quer que eu faça para pesquisar a história,
-
-350
+365
 00:25:31,800 --> 00:25:35,490
-um estranho como você não tem direito de me dar lição.
+um estranho como você não tem o direito de me dar sermão.
 
-351
+366
 00:25:37,280 --> 00:25:40,310
-Bom... eu tenho esse direito...
+Bem... não exatamente...
 
-352
+367
 00:25:40,310 --> 00:25:43,940
-porque, de certo modo,
-você e eu estamos no mesmo barco.
+já que você e eu estamos no mesmo barco, de certa forma.
 
-353
+368
 00:25:45,190 --> 00:25:46,400
-Eu possuo...
+Eu...
 
-354
+369
 00:25:47,410 --> 00:25:50,570
-as plantas da
-arma ancestral Pluton.
+Eu tenho os projetos da arma antiga Pluton.
 
-355
+370
 00:25:51,570 --> 00:25:53,640
-As plantas da arma?!
+Os projetos da arma?!
 
-356
+371
 00:25:53,640 --> 00:25:58,540
-Pluton é o nome de um navio de guerra
-construído nesta ilha há muito tempo.
+Pluton é o nome de um navio de guerra construído nesta ilha há muito tempo.
 
-357
+372
 00:26:00,410 --> 00:26:05,310
-O antigo engenheiro que criou
-uma arma tão poderosa sentiu que
+O engenheiro antigo que criou uma arma tão poderosa
 
-358
-00:26:05,310 --> 00:26:11,330
-se por acaso Pluton saísse do controle,
-uma contramedida seria necessária para pará-la.
+373
+00:26:05,310 --> 00:26:08,810
+pensava que, se Pluton saísse do controle,
 
-359
+374
+00:26:08,810 --> 00:26:11,330
+uma força contrária seria necessária para detê-lo.
+
+375
 00:26:11,330 --> 00:26:15,040
-Então ele passou as plantas
-para as futuras gerações.
+Então, ele passou os projetos para as gerações futuras.
 
-360
+376
 00:26:15,040 --> 00:26:16,560
 O governo...
 
-361
+377
 00:26:16,560 --> 00:26:20,270
-finalmente recorreu à força
-para conseguir essas plantas.
+finalmente recorreu à força para adquirir esses projetos.
 
-362
+378
 00:26:22,290 --> 00:26:25,810
-Imagina ajudá-los
-sem saber de nada disso...
+Imagine ajudá-los sem conhecer a história.
 
-363
+379
 00:26:25,810 --> 00:26:27,730
-Estou chocado demais pra falar.
+Estou chocado demais para falar.
 
-364
+380
 00:26:28,360 --> 00:26:31,450
-O homem chamado Tom,
-que me confiou as plantas,
+O homem que me confiou as plantas se chamava Tom.
 
-365
-00:26:31,450 --> 00:26:37,560
-estava preocupado com uma garota que foi a única sobrevivente
-do incidente de Ohara há vinte anos.
+381
+00:26:31,450 --> 00:26:33,280
+Ele estava preocupado com uma garota
 
-366
+382
+00:26:33,890 --> 00:26:37,560
+que foi a única sobrevivente do incidente de Ohara há 20 anos.
+
+383
 00:26:37,560 --> 00:26:39,610
-Ele disse que, embora fosse pequena,
+Ele disse que embora ela fosse pequena,
 
-367
+384
 00:26:39,610 --> 00:26:43,370
-era perigosa pois compartilhava
-a ideologia dos demônios de Ohara.
+ela era perigosa, pois tinha a mesma ideologia daqueles demônios de Ohara.
 
-368
+385
 00:26:43,370 --> 00:26:48,090
-Herdei a vontade do criador,
-e tenho a responsabilidade de te parar!
+Eu herdei a vontade do criador, então eu sou responsável por pará-la!
 
-369
+386
 00:26:48,510 --> 00:26:51,550
-Agora que o governo sabe
-que as plantas existem,
+Agora que o governo está ciente da existência dos projetos,
 
-370
+387
 00:26:52,180 --> 00:26:55,360
-seria melhor simplesmente queimá-las.
+seria melhor apenas deixá-los queimar.
 
-371
-00:26:55,360 --> 00:27:00,470
-Mas enquanto você estiver viva, não posso fazer isso,
-pois a arma ainda pode ser restaurada!
+388
+00:26:55,360 --> 00:26:58,010
+Mas não posso fazer isso porque você está viva,
 
-372
+389
+00:26:58,010 --> 00:27:00,470
+deixando uma possibilidade de retorno da arma!
+
+390
 00:27:14,500 --> 00:27:17,520
-É tudo o que tem a dizer antes de morrer?
+É tudo o que você quer dizer antes de morrer?
 
-373
+391
 00:27:18,570 --> 00:27:24,200
-Com todo respeito, mesmo que me matasse
-e impedisse a restauração,
+Com todo o respeito, mesmo que você me matasse e impedisse seu retorno ,
 
-374
+392
 00:27:24,200 --> 00:27:28,780
-deixar as plantas serem roubadas
-não daria no mesmo?
+permitir que os projetos sejam roubados não daria na mesma?
 
-375
+393
 00:27:34,260 --> 00:27:35,380
-Bom...
+Hum...
 
-376
+394
 00:27:36,530 --> 00:27:39,350
 deixe-me dizer mais uma coisa.
 
-377
+395
 00:27:41,780 --> 00:27:44,270
-Vocês é que caíram no meu plano.
+Vocês são os que caíram no meu truque.
 
-378
+396
 00:27:55,850 --> 00:27:57,520
 Ah, é isso!
 
-379
+397
 00:28:05,910 --> 00:28:09,050
-Finalmente saí! Que terrível.
+Eu finalmente saí! Isso foi terrível.
 
-380
+398
 00:28:09,050 --> 00:28:11,580
-Certo, dessa vez eu entro com tudo.
+Okay, Vou entrar dessa vez com certeza.
 
-381
+399
 00:28:11,580 --> 00:28:13,730
-Hora de ir capturar a Robin!
+Vou pegar a Robin!
 
-382
+400
 00:28:13,730 --> 00:28:17,270
-Gum-Gum...
+Gomu Gomu no...
 
-383
+401
 00:28:17,270 --> 00:28:21,510
-Rocket!
+Roketto!
 
-384
+402
 00:28:37,590 --> 00:28:40,390
-Vocês não são páreo para nossas artes marciais.
+Você não é páreo para nossas habilidades.
 
-385
+403
 00:28:43,700 --> 00:28:46,790
 Agora, entregue logo...
 
-386
+404
 00:28:47,430 --> 00:28:49,790
-ou vai ficar manchado com seu sangue.
+ou então ficará manchado com seu sangue.
 
-387
+405
 00:28:52,150 --> 00:28:53,710
 Droga...
 
-388
+406
 00:28:54,630 --> 00:28:57,670
-Achei... que conseguiria derrotá-los.
+Eu pensei... que poderia derrotar você.
 
-389
+407
 00:29:07,500 --> 00:29:09,390
-Pra falar a verdade...
+Para falar a verdade...
 
-390
+408
 00:29:10,070 --> 00:29:14,400
-O Iceburg me disse pra simplesmente fugir.
+Iceburg-san me disse para simplesmente fugir.
 
-391
+409
 00:29:15,020 --> 00:29:20,990
-Ele disse pra largar tudo e correr...
+Ele me disse para largar e correr...
 
-392
+410
 00:29:24,170 --> 00:29:25,740
 já que...
 
-393
-00:29:26,700 --> 00:29:29,160
-é uma falsificação completa!
+411
+00:29:26,700 --> 00:29:29,710
+é uma farsa completa.
 
-394
-00:29:30,300 --> 00:29:31,370
+412
+00:29:30,300 --> 00:29:31,410
 O quê?!
 
-395
+413
 00:29:31,970 --> 00:29:33,450
-Falsificação, disse?
+Uma farsa, você disse?
 
-396
+414
 00:29:33,450 --> 00:29:35,290
-Que estupidez...
+Que tolice...
 
-397
+415
 00:29:36,720 --> 00:29:41,140
-Não sei quem vocês são,
-mas isso significa que o plano de vocês falhou, não é?
+Não sei quem você é, mas isso significa que seu plano falhou, não é?
 
-398
+416
 00:29:41,140 --> 00:29:44,500
-Que patético. Sinto muito, amigão.
+Que patético. Desculpe, amigo.
 
-399
+417
 00:29:44,500 --> 00:29:50,180
-Nem sei o que vocês estão procurando.
+Eu nem sei o que você está procurando.
 
-400
+418
 00:29:50,850 --> 00:29:56,360
-Que atrevimento... Acha que
-enganou a CP9?
+Que convencido... Você acha que enganou a CP9?
 
-401
+419
 00:29:58,110 --> 00:30:00,070
-De qualquer forma, pode ser apenas uma isca,
+De qualquer forma, mesmo que você seja apenas uma isca,
 
-402
+420
 00:30:00,070 --> 00:30:03,530
-mas não podemos te deixar viver
-agora que está envolvido.
+não podemos deixá-lo viver agora que você está envolvido.
 
-403
+421
 00:30:17,950 --> 00:30:22,550
-Estou preso! Droga! Fiquei preso de novo!
+Estou preso! Droga! Estou preso de novo!
 
-404
+422
 00:30:22,550 --> 00:30:24,180
 Por que isso sempre acontece?!
 
-405
+423
 00:30:24,180 --> 00:30:25,470
-Chapéu de Palha...!
+Chapéu de Palha!
 
-406
+424
 00:30:25,470 --> 00:30:26,710
-Hã?
+Hein?
 
-407
+425
 00:30:26,710 --> 00:30:28,550
 Ah! O cara da corda!
 
-408
+426
 00:30:28,550 --> 00:30:31,510
-O que aconteceu com você? Tá bem?
+O que aconteceu com você? Você está bem?
 
-409
+427
 00:30:31,510 --> 00:30:35,040
-Você tá coberto de sangue.
-Você é cheio de surpresas!
+Você está coberto de sangue. Você realmente é cheio de surpresas!
 
-410
+428
 00:30:35,040 --> 00:30:38,940
-Eu é que digo! Isso aqui é o terceiro andar!
+Eu deveria dizer o mesmo sobre você! Este é o terceiro andar!
 
-411
+429
 00:30:39,480 --> 00:30:41,150
-Chapéu de Palha Luffy...
+Luffy do Chapéu de Palha...
 
-412
+430
 00:30:41,150 --> 00:30:44,160
-Veio até aqui pra assumir a culpa?
+Você veio até aqui para assumir a culpa?
 
-413
-00:30:45,440 --> 00:30:46,620
-Ah! Máscaras!
+431
+00:30:45,440 --> 00:30:48,150
+Ah! Máscaras! São máscaras?!
 
-414
-00:30:46,620 --> 00:30:48,150
-Vocês estão de máscara?!
+432
+00:30:48,150 --> 00:30:51,330
+Então vocês devem ser os que estão fazendo a Robin cometer crimes!
 
-415
-00:30:48,150 --> 00:30:52,750
-Então vocês são os desgraçados que estão usando a Robin!
-Devolvam a Robin, seus malditos!
+433
+00:30:51,330 --> 00:30:53,680
+Devolva a Robin para nós, seus malditos bastardos!
 
-416
+434
 00:30:54,230 --> 00:30:57,050
-Droga! Ei! Falem alguma coisa!
+Droga! Ei! Diga alguma coisa!
 
-417
+435
 00:30:57,050 --> 00:30:58,210
-Tempest Kick.
+Rankyaku.
 
-418
+436
+00:07:17,380 --> 00:07:19,130
+Nota: Chute Tempestade!
+
+437
 00:31:06,450 --> 00:31:07,220
 Uau!
 
-419
+438
 00:31:12,360 --> 00:31:13,770
-O chute dele cortou a parede!
+O chute dele destruiu a parede!
 
-420
+439
 00:31:16,020 --> 00:31:17,190
 Chapéu de Palha!
 
-421
+440
 00:31:29,440 --> 00:31:31,030
-Que diabos são esses?
+O que diabos é isso?
 
-422
+441
 00:31:32,250 --> 00:31:34,350
-Temos uma emergência.
+Temos uma situação de emergência.
 
-423
+442
 00:31:34,350 --> 00:31:36,330
-Não temos tempo pra você.
+Não temos tempo para você.
 
-424
+443
 00:31:36,330 --> 00:31:37,550
-Não consigo me mexer!
+Não consigo me mover!
 
-425
+444
 00:31:37,550 --> 00:31:40,650
-Ei, imobilizem esse cara também.
-Não temos tempo pra lutar.
+Ei, segure aquele cara também. Não temos tempo para lutar contra eles.
 
-426
+445
 00:31:40,650 --> 00:31:41,340
 Certo...
 
-427
+446
 00:31:57,870 --> 00:32:01,350
-Sou eu. Nosso plano teve um imprevisto.
+Sou eu. A operação foi comprometida.
 
-428
+447
 00:32:01,350 --> 00:32:03,750
-Todos, venham ao quarto imediatamente.
+Todos, venham para o quarto imediatamente.
 
-429
+448
 00:32:03,750 --> 00:32:05,570
-Não atirem no Iceburg ainda.
+Não atire em Iceburg ainda.
 
-430
+449
 00:32:06,440 --> 00:32:10,530
-Entenderam? Não atirem no Iceburg ainda.
+Entendeu? Não atire em Iceburg ainda.
 
-431
+450
 00:32:13,950 --> 00:32:16,790
-Queria ter mais tempo
-pra brincar com vocês, porém...
+Eu queria ter mais tempo para você,
 
-432
+451
 00:32:17,730 --> 00:32:20,140
-Perdão, mas surgiu algo.
+mas algo aconteceu. Então, com licença.
 
-433
+452
 00:32:20,140 --> 00:32:21,590
-O quê?! Está tentando fugir?!
+O quê?! Você está tentando correr?!
 
-434
+453
 00:32:22,080 --> 00:32:23,050
 Não.
 
-435
+454
 00:32:30,200 --> 00:32:32,700
-Preciso ir pra outro lugar,
-então aqui vai meu golpe final.
+Tenho outros negócios, então terminamos aqui.
 
-436
+455
 00:32:32,700 --> 00:32:34,390
-Ah! Lulu caiu!
+Ahhh! Lulu-san !
 
-437
+456
 00:32:34,390 --> 00:32:36,020
-Com um golpe só?!
+Com um único golpe?!
 
-438
+457
 00:32:35,130 --> 00:32:36,020
-Pare!
+Segure!
 
-439
+458
 00:32:39,390 --> 00:32:40,930
-Ela está voando de novo!
+Lá vai ela de novo!
 
-440
+459
 00:32:42,330 --> 00:32:44,900
 Você está... bem?
 
-441
+460
 00:32:46,760 --> 00:32:49,400
-Isso não é nada!
+Isso não é... nada!
 
-442
+461
 00:32:49,400 --> 00:32:54,900
-Entendo. Chapéu de Palha, o que veio fazer aqui?
+Entendo. Chapéu de Palha, por que você veio aqui?
 
-443
+462
 00:32:54,900 --> 00:32:57,750
 Todo mundo acha que vocês são os culpados.
 
-444
+463
 00:32:57,750 --> 00:33:01,710
-Desculpe... Isso tudo foi porque
-assumimos erroneamente sua culpa.
+Me desculpe. Nós fomos enganados.
 
-445
+464
 00:33:01,710 --> 00:33:05,730
-Não se preocupe com isso.
-Estamos acostumados a ser perseguidos.
+Não se preocupe com isso. Estamos acostumados a ser caçados.
 
-446
+465
 00:33:05,730 --> 00:33:09,510
-Mais importante, uma membro
-da nossa tripulação foi levada por mascarados.
+Mais importante, um membro da nossa tripulação foi levado pelos homens mascarados.
 
-447
+466
 00:33:09,960 --> 00:33:11,590
-Então vim buscá-la de volta.
+Então eu vim para levá-la de volta.
 
-448
+467
 00:33:13,340 --> 00:33:15,100
 Nico Robin, certo?
 
-449
+468
 00:33:19,860 --> 00:33:22,230
-Você parece ser um lutador forte.
+Você parece um lutador forte.
 
-450
+469
 00:33:22,230 --> 00:33:23,860
-É, sou sim!
+Sim, eu sou!
 
-451
+470
 00:33:24,420 --> 00:33:25,730
-Consegue vencê-los?
+Você pode vencê-los?
 
-452
+471
 00:33:26,300 --> 00:33:27,360
-Sim, consigo!
+Sim, eu posso!
 
-453
+472
 00:33:29,820 --> 00:33:33,100
-Então lute comigo! Eu também quero acabar com eles!
+Então, lute comigo! Eu quero vencê-los também!
 
-454
+473
 00:33:33,100 --> 00:33:33,700
 Você quer...
 
-455
+474
 00:33:33,700 --> 00:33:34,910
-Claro que quero!
+Claro que sim!
 
-456
+475
 00:33:34,910 --> 00:33:40,660
-Por que... Por que o Iceburg tem que morrer
-nas mãos de uns idiotas malucos?
+Por que... Por que Iceburg-san tem que morrer nas mãos de alguns idiotas aleatórios ?!
 
-457
+476
 00:33:40,660 --> 00:33:43,850
-Me poupe!
-Quem diabos são essas pessoas?!
+Me dá um tempo! Quem diabos são essas pessoas?!
 
-458
+477
 00:33:43,850 --> 00:33:46,170
-Pro inferno com esses agentes secretos malditos!
+Para o inferno com esses agentes secretos bastardos!
 
-459
+478
 00:33:48,880 --> 00:33:53,340
-Aquele homem... É meu mestre.
+Aquele homem... Ele é meu mentor.
 
-460
+479
 00:33:53,890 --> 00:33:56,310
-Ele me ajudou a me tornar um mestre carpinteiro!
+Ele me ajudou a me tornar um mestre construtor naval!
 
-461
+480
 00:33:56,310 --> 00:33:58,140
-Por que fazer isso com alguém assim?!
+Por que alguém faria isso com ele?!
 
-462
+481
 00:33:58,140 --> 00:34:00,240
-Mas você não está em condição de...
+Você não está em condições de...
 
-463
+482
 00:34:00,240 --> 00:34:03,490
-Eu disse que quero bater
-nesses idiotas até não poder mais!
+Eu disse que quero dar uma surra naqueles idiotas!
 
-464
+483
 00:34:03,490 --> 00:34:06,570
-Quem liga pro que acontece
-com meu corpo depois disso?!
+Quem se importa com o que acontece com meu corpo depois disso?!
 
-465
+484
 00:34:09,140 --> 00:34:11,950
-Vou lutar até sobrar só osso!
+Vou lutar até não sobrar nada além de ossos!
 
-466
+485
 00:34:11,950 --> 00:34:14,850
-Droga! Tirem isso!
+Droga! Tire isso!
 
-467
+486
 00:34:14,850 --> 00:34:18,320
-Certo! Tirem isso! Droga!
+Okay! Tire isso! Droga!
 
-468
+487
 00:34:42,440 --> 00:34:43,680
-Vão pra casa!
+Vão para casa!
 
-469
+488
 00:34:45,350 --> 00:34:47,060
-Não tenho nada pra dar a vocês!
+Não tenho nada para dar a vocês!
 
-470
+489
 00:34:48,110 --> 00:34:49,940
-Isso nos coloca numa situação difícil.
+Isso nos coloca em uma situação difícil.
 
-471
+490
 00:34:57,080 --> 00:35:00,450
 Por onde devo começar...
 
-472
+491
 00:35:03,130 --> 00:35:04,620
-agora que está prestes a morrer?
+enquanto você encara sua morte?
 
-473
+492
 00:35:05,540 --> 00:35:08,090
 Você me decepcionou.
 
-474
+493
 00:35:12,600 --> 00:35:14,300
 Lucci!
 
-475
+494
 00:35:14,300 --> 00:35:16,970
 A culpa é sua.
 
-476
+495
 00:35:19,390 --> 00:35:23,490
-Devia ter entregado ao governo
-quando pediram educadamente.
+Você deveria ter dado ao governo quando eles pediram educadamente.
 
-477
+496
 00:35:24,440 --> 00:35:26,020
 Kaku!
 
-478
+497
 00:35:26,590 --> 00:35:32,320
-Queria que minhas memórias desta cidade
-não incluíssem machucar você.
+Se possível, eu queria fazer desta cidade parte da minha memória sem te machucar.
 
-479
+498
 00:35:33,390 --> 00:35:35,150
 Kalifa...
 
-480
+499
 00:35:35,150 --> 00:35:38,050
-Então você também herdou a
-teimosia do seu mestre, né?
+Então você também herdou a obstinação do seu mestre, hein?
 
-481
+500
 00:35:38,050 --> 00:35:40,160
 Blueno, do bar...
 
-482
+501
 00:35:41,010 --> 00:35:46,370
-Vocês... trabalham... pro governo?
+Vocês... trabalham para... o governo?
 
-483
-00:35:46,370 --> 00:35:47,420
-Exato.
+502
+00:35:46,370 --> 00:35:49,100
+Isso mesmo.
 
-484
-00:35:47,420 --> 00:35:51,290
-Trabalhar disfarçados foi uma missão bem fácil pra nós.
+503
+00:35:49,100 --> 00:35:51,290
+Trabalhar disfarçado foi uma missão bem fácil para nós.
 
-485
+504
 00:35:52,560 --> 00:35:57,390
-Devo dizer, sua astúcia
-me deixa sem palavras.
+De qualquer forma, sua prudência me deixou sem palavras.
 
-486
+505
 00:35:59,230 --> 00:36:01,560
-Agora, Iceburg...
+Agora, Iceburg-san...
 
-487
+506
 00:36:02,070 --> 00:36:06,520
-Onde estão as plantas
-da arma ancestral Pluton?
+Onde estão os projetos para a arma antiga Pluton?
 
-488
+507
 00:36:07,000 --> 00:36:11,070
-A menos que queira que mais gente se machuque,
-por favor nos diga o que queremos saber.
+Por favor, diga-nos antes que você sacrifique muito mais vidas.
 
-489
+508
 00:35:47,500 --> 00:35:52,380
-The World Government's Covert Intelligence Service
-Cipher Pol No. 9
+O Serviço Secreto de Inteligência do Governo Mundial
+Cipher Pol 9
 
-490
+509
 00:35:47,500 --> 00:35:52,380
-The World Government's Covert Intelligence Service
-Cipher Pol No. 9
+O Serviço Secreto de Inteligência do Governo Mundial
+Cipher Pol 9
 
-491
+510
 00:35:47,500 --> 00:35:52,380
-The World Government's Covert Intelligence Service
-Cipher Pol No. 9
+O Serviço Secreto de Inteligência do Governo Mundial
+Cipher Pol 9
+
+511
+00:01:35,660 --> 00:01:39,680
+Está tudo bem! É hora de seguir em frente!
+
+512
+00:01:35,660 --> 00:01:39,680
+Está tudo bem! É hora de seguir em frente!
+
+513
+00:01:35,660 --> 00:01:39,680
+Está tudo bem! É hora de seguir em frente!
+
+514
+00:01:39,940 --> 00:01:43,220
+Com o sol sempre brilhando em nossos corações!
+
+515
+00:01:39,940 --> 00:01:43,220
+Com o sol sempre brilhando em nossos corações!
+
+516
+00:01:39,940 --> 00:01:43,220
+Com o sol sempre brilhando em nossos corações!
+
+517
+00:01:43,360 --> 00:01:46,640
+De mãos dadas, transmitimos nosso poder...
+
+518
+00:01:43,360 --> 00:01:46,640
+De mãos dadas, transmitimos nosso poder...
+
+519
+00:01:43,360 --> 00:01:46,640
+De mãos dadas, transmitimos nosso poder...
+
+520
+00:01:46,730 --> 00:01:50,310
+e realizamos nossos desejos!
+
+521
+00:01:46,730 --> 00:01:50,310
+e realizamos nossos desejos!
+
+522
+00:01:46,730 --> 00:01:50,310
+e realizamos nossos desejos!
+
+523
+00:01:57,870 --> 00:02:04,120
+Combinando nossas forças, alcançaremos o topo desses mares agitados
+
+524
+00:01:57,870 --> 00:02:04,120
+Combinando nossas forças, alcançaremos o topo desses mares agitados
+
+525
+00:01:57,870 --> 00:02:04,120
+Combinando nossas forças, alcançaremos o topo desses mares agitados
+
+526
+00:02:05,380 --> 00:02:11,920
+Corra em direção à emoção do perigo. Que a aventura comece!
+
+527
+00:02:05,380 --> 00:02:11,920
+Corra em direção à emoção do perigo. Que a aventura comece!
+
+528
+00:02:05,380 --> 00:02:11,920
+Corra em direção à emoção do perigo. Que a aventura comece!
+
+529
+00:02:12,590 --> 00:02:18,760
+Agora é hora de navegar. Basta içar a âncora...
+
+530
+00:02:12,590 --> 00:02:18,760
+Agora é hora de navegar. Basta içar a âncora...
+
+531
+00:02:12,590 --> 00:02:18,760
+Agora é hora de navegar. Basta içar a âncora...
+
+532
+00:02:19,560 --> 00:02:26,640
+e vamos cortar os ventos arco-íris rumo a um mar de aventuras!
+
+533
+00:02:19,560 --> 00:02:26,640
+e vamos cortar os ventos arco-íris rumo a um mar de aventuras!
+
+534
+00:02:19,560 --> 00:02:26,640
+e vamos cortar os ventos arco-íris rumo a um mar de aventuras!
+
+535
+00:02:26,690 --> 00:02:30,180
+Será uma jornada carregada de sofrimento,
+
+536
+00:02:26,690 --> 00:02:30,180
+Será uma jornada carregada de sofrimento,
+
+537
+00:02:26,690 --> 00:02:30,180
+Será uma jornada carregada de sofrimento,
+
+538
+00:02:30,190 --> 00:02:33,900
+mas aquilo que você mais preza estará bem ao nosso lado!
+
+539
+00:02:30,190 --> 00:02:33,900
+mas aquilo que você mais preza estará bem ao nosso lado!
+
+540
+00:02:30,190 --> 00:02:33,900
+mas aquilo que você mais preza estará bem ao nosso lado!
+
+541
+00:02:34,030 --> 00:02:37,980
+E se você estiver em apuros,
+
+542
+00:02:34,030 --> 00:02:37,980
+E se você estiver em apuros,
+
+543
+00:02:34,030 --> 00:02:37,980
+E se você estiver em apuros,
+
+544
+00:02:38,080 --> 00:02:39,990
+eu sempre estarei lá para te proteger!
+
+545
+00:02:38,080 --> 00:02:39,990
+eu sempre estarei lá para te proteger!
+
+546
+00:02:38,080 --> 00:02:39,990
+eu sempre estarei lá para te proteger!
+
+547
+00:02:41,080 --> 00:02:44,990
+Está tudo bem! É hora de seguir em frente!
+
+548
+00:02:41,080 --> 00:02:44,990
+Está tudo bem! É hora de seguir em frente!
+
+549
+00:02:41,080 --> 00:02:44,990
+Está tudo bem! É hora de seguir em frente!
+
+550
+00:02:45,290 --> 00:02:48,450
+Com o sol sempre brilhando em nossos corações!
+
+551
+00:02:45,290 --> 00:02:48,450
+Com o sol sempre brilhando em nossos corações!
+
+552
+00:02:45,290 --> 00:02:48,450
+Com o sol sempre brilhando em nossos corações!
+
+553
+00:02:48,800 --> 00:02:51,960
+Juntos enfrentamos todas as tempestades que se aproximam
+
+554
+00:02:48,800 --> 00:02:51,960
+Juntos enfrentamos todas as tempestades que se aproximam
+
+555
+00:02:48,800 --> 00:02:51,960
+Juntos enfrentamos todas as tempestades que se aproximam
+
+556
+00:02:52,070 --> 00:02:55,830
+e olhamos para o futuro em busca da luz para ter esperança!
+
+557
+00:02:52,070 --> 00:02:55,830
+e olhamos para o futuro em busca da luz para ter esperança!
+
+558
+00:02:52,070 --> 00:02:55,830
+e olhamos para o futuro em busca da luz para ter esperança!
+
+559
+00:02:56,300 --> 00:02:59,550
+Se juntarmos os pedaços dos nossos sonhos
+
+560
+00:02:56,300 --> 00:02:59,550
+Se juntarmos os pedaços dos nossos sonhos
+
+561
+00:02:56,300 --> 00:02:59,550
+Se juntarmos os pedaços dos nossos sonhos
+
+562
+00:03:00,020 --> 00:03:03,180
+formaremos um mapa que nos levará ao amanhã!
+
+563
+00:03:00,020 --> 00:03:03,180
+formaremos um mapa que nos levará ao amanhã!
+
+564
+00:03:00,020 --> 00:03:03,180
+formaremos um mapa que nos levará ao amanhã!
+
+565
+00:03:03,310 --> 00:03:06,350
+Então vamos abraçar nossos desejos!
+
+566
+00:03:03,310 --> 00:03:06,350
+Então vamos abraçar nossos desejos!
+
+567
+00:03:03,310 --> 00:03:06,350
+Então vamos abraçar nossos desejos!
+
+568
+00:03:06,730 --> 00:03:12,080
+Todos sob uma só bandeira, juntos somos um só!
+
+569
+00:03:06,730 --> 00:03:12,080
+Todos sob uma só bandeira, juntos somos um só!
+
+570
+00:03:06,730 --> 00:03:12,080
+Todos sob uma só bandeira, juntos somos um só!

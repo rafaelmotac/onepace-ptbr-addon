@@ -1,366 +1,338 @@
 1
-00:00:00,000 --> 00:00:09,990
-Your media player does not support the subtitle format used in this episode.
-Subtitles will likely not function properly.
-Please use one of the recommended video players, preferably mpv:
-https://mpv.io
+00:01:51,630 --> 00:01:54,970
+Não!
 
 2
-00:02:32,510 --> 00:02:42,500
-Your media player does not support the subtitle format used in this episode.
-Subtitles will likely not function properly.
-Please use one of the recommended video players, preferably mpv:
-https://mpv.io
-
-3
-00:01:51,630 --> 00:01:54,970
-Nãaao!
-
-4
 00:01:54,970 --> 00:01:57,930
 Estou caindo! Estou caindo!
 
-5
+3
 00:01:57,930 --> 00:02:00,730
 Estou caindo!
 
-6
+4
 00:02:13,110 --> 00:02:14,910
-Beleza! Aterrissamos!
+Tudo bem! Nós pousamos!
 
-7
+5
 00:02:14,910 --> 00:02:17,490
 Cara, estou exausto.
 
-8
+6
 00:02:18,870 --> 00:02:21,750
-Não me venha com "aterrissamos"!
-Eu achei que ia morrer!
+Não me venha com "Nós pousamos"! Pensei que ia morrer!
+
+7
+00:02:21,750 --> 00:02:23,620
+O que mais poderíamos ter feito?!
+
+8
+00:02:23,620 --> 00:02:27,920
+Você é quem disse que não poderíamos usar o elevador ou então eles nos encontrariam!
 
 9
-00:02:21,750 --> 00:02:23,620
-O que mais a gente podia ter feito?!
+00:02:27,920 --> 00:02:30,210
+Isso não significa que você tinha que pular!
 
 10
-00:02:23,620 --> 00:02:27,920
-Você é que disse que não podíamos usar
-o elevador pra eles não nos acharem!
+00:02:30,210 --> 00:02:32,670
+Você não é aquele construtor naval de nariz quadrado!
 
 11
-00:02:27,920 --> 00:02:30,210
-Mesmo assim, não precisava pular!
+00:02:32,670 --> 00:02:35,300
+Eu... Sinto muito.
 
 12
-00:02:30,210 --> 00:02:32,670
-Você não é aquele carpinteiro narigudo!
+00:02:35,300 --> 00:02:38,180
+Bem, tudo bem. Pelo menos não me derrubou.
 
 13
-00:02:32,670 --> 00:02:35,300
-E-Eu... Desculpa.
+00:02:38,180 --> 00:02:39,510
+Se está tudo bem, então não me bata!
 
 14
-00:02:35,300 --> 00:02:38,100
-Bom, tudo bem. Pelo menos descemos.
+00:02:43,100 --> 00:02:46,150
+Podemos estar em problemas.
 
 15
-00:02:38,100 --> 00:02:39,510
-Se está tudo bem, então não me bate!
+00:02:46,690 --> 00:02:49,230
+Problema? Que problema?
 
 16
-00:02:43,100 --> 00:02:46,150
-Mas... a situação parece bem ruim.
+00:02:49,900 --> 00:02:52,570
+A topografia e o clima desta ilha.
 
 17
-00:02:46,690 --> 00:02:49,230
-Ruim? O que é ruim?
+00:02:52,570 --> 00:02:55,910
+Com tanto vento soprando, se a pressão atmosférica cair,
 
 18
-00:02:49,900 --> 00:02:52,570
-A geografia e o clima dessa ilha.
+00:02:55,910 --> 00:02:58,030
+um tufão pode passar hoje à noite.
 
 19
-00:02:52,570 --> 00:02:55,910
-Com todo esse vento soprando,
-se a pressão atmosférica cair,
+00:02:58,700 --> 00:03:01,160
+Esta cidade é chamada de Cidade das Águas.
 
 20
-00:02:55,910 --> 00:02:58,030
-um tufão pode passar por aqui essa noite.
+00:03:01,160 --> 00:03:04,580
+Em outras palavras, é propensa a sofrer danos por inundação.
 
 21
-00:02:58,700 --> 00:03:01,160
-Essa cidade é chamada de Cidade da Água.
+00:03:04,580 --> 00:03:06,670
+E daí? O que tem?
 
 22
-00:03:01,160 --> 00:03:04,580
-Ou seja, é propensa
-a sofrer danos de enchente.
+00:03:06,670 --> 00:03:10,750
+Bem, isso me incomoda um pouco, então vou verificar mais tarde.
 
 23
-00:03:04,580 --> 00:03:06,670
-E daí? Qual o problema?
+00:03:10,750 --> 00:03:13,590
+De qualquer forma, vamos  para a pousada.
 
 24
-00:03:06,670 --> 00:03:10,750
-Bom, me preocupa um pouco,
-então vou verificar mais tarde.
+00:03:16,300 --> 00:03:21,970
+Após o aviso de Aqua Laguna emitido para toda a ilha,
 
 25
-00:03:10,750 --> 00:03:13,590
-Enfim, vamos voltar pra pousada.
+00:03:21,970 --> 00:03:24,890
+todas as fábricas de construção naval e docas na ilha-oficina
 
 26
-00:03:16,300 --> 00:03:21,970
-Seguindo o alerta de Aqua Laguna
-emitido para toda a ilha,
+00:03:24,890 --> 00:03:27,150
+serão abertas como centros de evacuação.
 
 27
-00:03:21,970 --> 00:03:27,150
-todas as fábricas de navios e docas na
-Ilha do Estaleiro serão abertas como centros de evacuação.
+00:03:27,940 --> 00:03:32,400
+Esperamos grandes multidões, então, por favor, evacuem o mais rápido possível.
 
 28
-00:03:27,940 --> 00:03:32,400
-Esperamos grandes multidões,
-então por favor evacuem o mais rápido possível.
+00:03:33,320 --> 00:03:38,070
+Além disso, como a Doca Um está atualmente em um estado perigoso...
 
 29
-00:03:33,320 --> 00:03:38,070
-Além disso, como a Doca Um
-está atualmente em estado perigoso...
+00:03:38,070 --> 00:03:40,490
+Ok, vou colocar a placa de ferro.
 
 30
-00:03:38,070 --> 00:03:40,490
-Certo, vou colocar a placa de ferro.
+00:03:42,410 --> 00:03:44,040
+Vocês têm tudo o que precisam?
 
 31
-00:03:42,410 --> 00:03:44,040
-Vocês têm tudo que precisam?
+00:03:44,040 --> 00:03:47,420
+Sim, temos. Vamos evacuar para o estaleiro.
 
 32
-00:03:44,040 --> 00:03:47,420
-Sim. Vamos evacuar pro estaleiro.
+00:03:47,420 --> 00:03:50,750
+Bem, espere um pouco. É melhor eu preencher bem o vão com corda.
 
 33
-00:03:47,420 --> 00:03:50,750
-Bom, espera um pouco.
-É melhor eu vedar bem a fresta com corda.
+00:03:51,670 --> 00:03:54,960
+Se a nossa casa for inundada, tudo será arruinado.
 
 34
-00:03:51,670 --> 00:03:54,960
-Se a nossa casa inundar,
-vai estragar tudo.
+00:03:54,960 --> 00:04:00,510
+Ei, o vento está começando a ficar forte! Preparem-se para ondas em breve!
 
 35
-00:03:54,960 --> 00:04:00,510
-Ei, o vento está ficando forte!
-Preparem-se pras ondas!
+00:04:00,510 --> 00:04:04,720
+Não demorem! Há piratas assassinos a solta!
 
 36
-00:04:00,510 --> 00:04:04,720
-Pessoal! Se demorarmos,
-piratas assassinos vão aparecer!
+00:04:04,720 --> 00:04:05,770
+Que assustador!
 
 37
-00:04:04,720 --> 00:04:05,770
-Isso é assustador!
+00:04:05,770 --> 00:04:07,270
+Para onde ele desapareceu?!
 
 38
-00:04:05,770 --> 00:04:07,270
-Pra onde ele sumiu?!
+00:04:07,270 --> 00:04:09,060
+Tenho quase certeza de que ele veio por aqui.
 
 39
-00:04:07,270 --> 00:04:09,060
-Tenho certeza que ele veio por aqui.
+00:04:09,060 --> 00:04:10,940
+Ele ainda deve estar por aí!
 
 40
-00:04:09,060 --> 00:04:10,940
-Ele ainda deve estar por perto!
+00:04:10,940 --> 00:04:12,770
+Ok, vocês vão olhar ali.
 
 41
-00:04:10,940 --> 00:04:12,770
-Certo, vocês vão procurar lá.
+00:04:12,770 --> 00:04:14,230
+Entendi!
 
 42
-00:04:12,770 --> 00:04:14,230
-Entendido!
+00:04:20,620 --> 00:04:22,780
+O que diabos está acontecendo?
 
 43
-00:04:20,620 --> 00:04:22,780
-Que droga está acontecendo?
+00:04:22,780 --> 00:04:25,950
+Por que estão me perseguindo? Não entendi!
 
 44
-00:04:22,780 --> 00:04:25,950
-Por que estão me perseguindo? Não entendo!
-
-45
 00:04:35,250 --> 00:04:36,960
 Então esse é o motivo!
 
-46
+45
 00:04:37,630 --> 00:04:40,050
-Somos uma tripulação de assassinos?
+Somos uma equipe de assassinos?
+
+46
+00:04:40,050 --> 00:04:43,220
+Que chatice. Agora não consigo nem voltar para a pousada.
 
 47
-00:04:40,050 --> 00:04:43,220
-Que saco. Agora nem posso
-voltar pra pousada.
+00:04:43,220 --> 00:04:45,260
+Ah... Quem é ali?!
 
 48
-00:04:43,220 --> 00:04:45,260
-Ah... Quem está ali?!
-
-49
 00:04:45,770 --> 00:04:47,770
 Por aqui! Encontrei alguém suspeito!
 
-50
+49
 00:04:49,730 --> 00:04:51,020
-Tem certeza, dono da pousada?
+Tem certeza, estalajadeiro?
+
+50
+00:04:51,020 --> 00:04:55,650
+Sim. Aqueles piratas estão hospedados na minha pousada desde ontem à noite.
 
 51
-00:04:51,020 --> 00:04:55,650
-Sim. Esses piratas estão hospedados
-na minha pousada desde ontem à noite.
+00:04:55,650 --> 00:04:57,400
+Eles estavam aqui até pouco tempo atrás.
 
 52
-00:04:55,650 --> 00:04:57,400
-Eles estavam aqui agora mesmo...
-
-53
 00:04:57,400 --> 00:04:58,950
 Eles estavam aqui?!
 
+53
+00:04:58,950 --> 00:05:02,490
+Sim. Já que eles ainda têm muita bagagem no quarto,
+
 54
-00:04:58,950 --> 00:04:59,860
-Sim!
+00:05:02,490 --> 00:05:05,240
+eles podem voltar.
 
 55
-00:04:59,860 --> 00:05:05,240
-Como ainda têm muita bagagem
-no quarto, talvez voltem.
+00:05:06,080 --> 00:05:08,120
+Ok, então! Vocês, fiquem aqui.
 
 56
-00:05:06,080 --> 00:05:08,120
-Certo, então! Vocês, fiquem aqui.
+00:05:08,910 --> 00:05:11,370
+O resto de vocês, vamos dar uma olhada aqui juntos!
 
 57
-00:05:08,910 --> 00:05:11,370
-O resto de nós vai vasculhar a área!
+00:05:11,370 --> 00:05:14,420
+Escute, certifique-se de não deixar pedra sobre pedra para encontrá-los!
 
 58
-00:05:11,370 --> 00:05:14,420
-Escutem, procurem em
-cada canto pra encontrá-los!
+00:05:14,420 --> 00:05:15,800
+Tudo bem!
 
 59
-00:05:14,420 --> 00:05:15,800
-– É!
-– É!
-
-60
 00:05:26,560 --> 00:05:28,430
 Ei, não tem ninguém aqui!
 
-61
+60
 00:05:30,230 --> 00:05:32,560
-Esse é mesmo o navio deles?
+Essa é realmente o navio deles?
+
+61
+00:05:32,560 --> 00:05:35,150
+Não há engano! Olha!
 
 62
-00:05:32,560 --> 00:05:35,150
-Com certeza! Olha!
+00:05:35,150 --> 00:05:37,280
+Essa é a bandeira pirata dos Chapéus de Palha.
 
 63
-00:05:35,150 --> 00:05:37,280
-Essa é a bandeira dos Piratas do Chapéu de Palha.
+00:05:37,280 --> 00:05:40,860
+Aposto que eles já o abandonaram.
 
 64
-00:05:37,280 --> 00:05:40,860
-Aposto que já abandonaram o navio.
+00:05:40,860 --> 00:05:42,150
+Este navio está todo destruído.
 
 65
-00:05:40,860 --> 00:05:42,150
-Esse navio está todo arrebentado.
+00:05:46,830 --> 00:05:48,490
+Então? Você os encontrou?
 
 66
-00:05:46,830 --> 00:05:48,490
-E aí? Encontraram eles?
-
-67
 00:05:48,490 --> 00:05:49,700
 Não, eles não estão aqui!
 
-68
+67
 00:05:49,700 --> 00:05:53,960
-Não tem quase nada dentro.
-Eles devem ter abandonado o navio.
+Não há muita coisa restante dentro do navio. Este navio está definitivamente abandonado.
 
-69
+68
 00:05:53,960 --> 00:05:55,540
 Vamos procurar em outro lugar.
 
-70
+69
 00:06:07,600 --> 00:06:10,310
 Quem eram eles?
 
-71
+70
 00:06:13,390 --> 00:06:17,150
-Será que algo está acontecendo na cidade?
+Está acontecendo alguma coisa na cidade?
+
+71
+00:06:17,150 --> 00:06:18,080
+Você os encontrou?
 
 72
-00:06:17,150 --> 00:06:18,080
-Encontraram eles?
-
-73
 00:06:18,080 --> 00:06:19,610
 Não.
 
-74
+73
 00:06:19,610 --> 00:06:21,900
-Droga! Onde eles estão...?
+Droga! Onde eles estão?!
+
+74
+00:06:26,990 --> 00:06:29,200
+Ei, Luffy.
 
 75
-00:06:26,990 --> 00:06:29,200
-Ei, Luffy...
-
-76
 00:06:29,200 --> 00:06:30,830
 Hm? O que foi, Nami?
 
-77
+76
 00:06:30,830 --> 00:06:32,710
 Você acha que todo mundo está bem?
 
-78
+77
 00:06:32,710 --> 00:06:35,040
-Os carpinteiros estão por toda a cidade.
+Artesãos estão por toda parte na cidade.
+
+78
+00:06:35,040 --> 00:06:40,090
+Acho que Chopper e Sanji-kun estão bem, já que seus rostos ainda são desconhecidos.
 
 79
-00:06:35,040 --> 00:06:40,090
-Acho que o Chopper e o Sanji ficam bem
-já que os rostos deles ainda são desconhecidos.
+00:06:40,090 --> 00:06:41,170
+De qualquer forma, vamos nos apressar!
 
 80
-00:06:40,090 --> 00:06:41,170
-Vamos nos apressar!
+00:06:41,170 --> 00:06:42,510
+Sim.
 
 81
-00:06:41,170 --> 00:06:42,510
-É.
+00:06:46,390 --> 00:06:49,350
+O trem marítimo ainda está em serviço.
 
 82
-00:06:46,390 --> 00:06:49,350
-O sea train ainda está funcionando...
+00:06:49,350 --> 00:06:52,020
+Parece que o trem da tarde já partiu,
 
 83
-00:06:49,350 --> 00:06:55,650
-O trem da tarde já partiu, mas parece que
-ainda tem uma partida noturna apesar do tempo.
+00:06:52,020 --> 00:06:55,650
+mas parece que uma partida noturna ainda está programada com esse tempo ruim?
 
 84
 00:06:55,650 --> 00:07:01,070
-Com destino a Enies Lobby às onze da noite...
-O sea train é bem impressionante.
+Com destino a Enies Lobby às 23h . O trem marítimo é bem impressionante.
 
 85
 00:07:01,070 --> 00:07:03,070
@@ -368,1315 +340,1299 @@ Ei! Alguma informação sobre os piratas?!
 
 86
 00:07:03,070 --> 00:07:05,030
-Não. Nada.
+Não. Não temos nada.
 
 87
 00:07:05,030 --> 00:07:09,660
-Se conseguirmos capturar um e apertá-lo,
-ele vai entregar o resto.
+Se conseguirmos capturar um e o apertarmos, ele vai contar tudo sobre o resto.
 
 88
 00:07:09,660 --> 00:07:12,240
-Rápido, antes das ondas ficarem altas demais!
+Depressa! Antes que as ondas fiquem altas demais!
 
 89
 00:07:13,160 --> 00:07:16,580
-Será que a Robin embarcou no sea train.
+Será que Robin pegou o trem marítimo?
 
 90
 00:07:16,580 --> 00:07:20,170
-Se ela embarcou, a coisa não podia ficar pior.
+Se ela fez isso, as coisas não podem piorar.
 
 91
 00:07:20,880 --> 00:07:24,550
-Water 7 já é difícil o suficiente de lidar...
+Water Seven já é grande demais para lidar.
 
 92
 00:07:24,550 --> 00:07:28,090
-Será que eu fiz algo
-pra irritá-la na livraria.
+Será que eu fiz algo para aborrecê-la na livraria.
 
 93
 00:07:28,090 --> 00:07:30,600
-Seu bobo. Não tem como ser isso.
+Seu idiota. Não tem como ser esse o caso.
 
 94
 00:07:30,600 --> 00:07:31,390
-Ah, ei, com licença.
+Oh, ei, você.
 
 95
 00:07:31,970 --> 00:07:33,930
-Vocês viram uma mulher bonita assim?
+Você já viu uma mulher bonita como ela?
 
 96
 00:07:33,930 --> 00:07:37,310
-Ah... Você quer dizer a mulher bonita
-que estava assim vinte anos atrás?
+Oh, essa... você quer dizer a mulher bonita que parecia assim há 20 anos?
 
 97
 00:07:37,310 --> 00:07:41,360
-Se eu tivesse visto, teria avisado
-o jornal ou a Galley-La na hora.
+Se eu tivesse, teria contado imediatamente à imprensa ou à Galley.
 
 98
-00:07:41,360 --> 00:07:43,230
-Mas pensar que ela é uma assassina...
+00:07:41,360 --> 00:07:45,780
+Mas pensar que ela é uma assassina... Que surpresa, hein?
 
 99
-00:07:43,230 --> 00:07:45,780
-Que surpresa, né?
+00:07:45,780 --> 00:07:50,160
+Bem, tudo bem se você quiser procurar os culpados, mas você deve evacuar logo.
 
 100
-00:07:45,780 --> 00:07:50,160
-Bom, é legal vocês procurarem
-os culpados, mas deviam evacuar logo.
+00:07:50,160 --> 00:07:52,450
+Ou você será engolido por Aqua Laguna.
 
 101
-00:07:50,160 --> 00:07:52,450
-Ou a Aqua Laguna vai engolir vocês.
-
-102
 00:07:53,490 --> 00:07:55,000
 Até mais.
 
-103
+102
 00:08:00,750 --> 00:08:02,840
-As coisas estão dando errado pra todos nós.
+As coisas estão indo mal para todos nós.
+
+103
+00:08:02,840 --> 00:08:05,420
+Eu me pergunto se Luffy e os outros estão bem.
 
 104
-00:08:02,840 --> 00:08:05,420
-Será que o Luffy e os outros estão bem.
+00:08:05,420 --> 00:08:09,890
+Luffy está bem. A que me preocupa é Nami-san.
 
 105
-00:08:05,420 --> 00:08:09,890
-O Luffy tá bem. Quem me preocupa é a Nami.
-
-106
 00:08:11,430 --> 00:08:14,890
 A cidade está ficando bem vazia.
 
-107
+106
 00:08:15,520 --> 00:08:20,560
-O vento está ficando cada vez mais forte.
-As pessoas já começaram a evacuar.
+O vento está ficando mais forte também. As pessoas começaram a evacuar.
+
+107
+00:08:21,520 --> 00:08:23,400
+Droga.
 
 108
-00:08:21,520 --> 00:08:23,400
-Droga...
+00:08:23,400 --> 00:08:27,650
+Ei, Robin-chan ! Aonde você foi?!
 
 109
-00:08:23,400 --> 00:08:25,150
-Ei, Robin!
+00:08:29,450 --> 00:08:32,450
+Este cheiro... poderia ser?
 
 110
-00:08:25,780 --> 00:08:27,650
-Onde você foi?!
-
-111
-00:08:29,450 --> 00:08:32,450
-Esse cheiro... Será que é...?
-
-112
 00:08:34,870 --> 00:08:36,000
 Chopper, o que houve?!
 
-113
+111
 00:08:37,040 --> 00:08:38,040
 Ei, Chopper?!
 
-114
+112
 00:08:40,000 --> 00:08:42,080
 Ei! Espera!
 
-115
+113
 00:08:44,210 --> 00:08:45,130
 Ela está aqui.
 
+114
+00:08:47,050 --> 00:08:49,680
+Ei, Chopper! Chopper!
+
+115
+00:08:50,510 --> 00:08:53,930
+Uau! Opa!
+
 116
-00:08:47,050 --> 00:08:48,010
-Ei, Chopper!
+00:08:56,310 --> 00:08:57,680
+E-Ei, você está bem?!
 
 117
-00:08:48,010 --> 00:08:49,680
-Chopper!
+00:08:59,140 --> 00:09:00,560
+Chopper! Você está bem?!
 
 118
-00:08:50,510 --> 00:08:53,930
-Uau! Ops!
+00:09:01,440 --> 00:09:02,560
+Você está ferido?
 
 119
-00:08:56,310 --> 00:08:57,680
-E-Ei, você tá bem?!
+00:09:02,560 --> 00:09:06,480
+Vamos lá, não seja tão imprudente! O que está acontecendo?
 
 120
-00:08:59,140 --> 00:09:00,560
-Chopper! Você tá bem?!
+00:09:06,480 --> 00:09:10,320
+Começando a correr tão... de repente...
 
 121
-00:09:01,440 --> 00:09:02,560
-Você se machucou?
+00:09:13,030 --> 00:09:14,370
+– Robin! – Robin-chan !
 
 122
-00:09:02,560 --> 00:09:06,480
-Para, não seja imprudente!
-Que diabos está acontecendo?
+00:09:16,370 --> 00:09:19,330
+Onde você estava?! Nós procuramos por você em todos os lugares!
 
 123
-00:09:06,480 --> 00:09:10,320
-Você saiu correndo tão de repen... te...
+00:09:19,330 --> 00:09:23,080
+Todo mundo está preocupado com você! Agora, vamos voltar para a pousada.
 
 124
-00:09:13,030 --> 00:09:14,370
-– Robin!
-– Robin!
+00:09:23,080 --> 00:09:26,710
+Bem, muita coisa aconteceu enquanto você esteve fora. Vou explicar em detalhes.
 
 125
-00:09:16,370 --> 00:09:19,330
-Onde você esteve?!
-A gente te procurou por toda parte!
-
-126
-00:09:19,330 --> 00:09:20,410
-Todo mundo está preocupado!
-
-127
-00:09:20,410 --> 00:09:23,080
-Vamos, vamos voltar pra pousada.
-
-128
-00:09:23,080 --> 00:09:26,710
-Muita coisa aconteceu desde que
-você sumiu. Vou te explicar tudo.
-
-129
 00:09:26,710 --> 00:09:29,340
 Mas essa distância é irritante.
 
-130
+126
 00:09:29,340 --> 00:09:32,380
-Espera! Já vou até aí!
+Espere! Já estou aí!
 
-131
+127
 00:09:33,550 --> 00:09:36,310
-Não, tudo bem. Fiquem aí.
+Não, tudo bem. Fique aí.
 
-132
+128
 00:09:37,010 --> 00:09:38,020
-Q-Quê?
+O quê?
 
-133
-00:09:38,600 --> 00:09:40,020
+129
+00:09:38,600 --> 00:09:39,770
 Eu não vou...
 
-134
-00:09:40,020 --> 00:09:43,020
-voltar pra vocês.
+130
+00:09:39,770 --> 00:09:43,020
+...voltar para vocês.
 
-135
+131
 00:09:43,940 --> 00:09:47,400
-Nossos caminhos se separam aqui... nesta cidade.
+Estamos nos separando aqui... nesta cidade.
 
-136
+132
 00:09:47,980 --> 00:09:51,650
-Q-Que está dizendo, Robin?
+O-O que você está dizendo, Robin-chan ?
 
-137
+133
 00:09:51,650 --> 00:09:53,780
-Ah, entendi. É por causa do jornal, né?
+Ah, entendi. É sobre o jornal, certo?
 
-138
+134
 00:09:53,780 --> 00:09:55,530
 Não se preocupe com isso!
 
-139
+135
 00:09:56,410 --> 00:09:58,790
 Nenhum de nós acredita nisso.
 
-140
+136
 00:09:58,790 --> 00:10:02,410
-Piratas são acusados falsamente o tempo todo!
+Piratas são falsamente acusados ​​o tempo todo!
 
-141
+137
 00:10:02,410 --> 00:10:03,420
 É...
 
-142
+138
 00:10:03,420 --> 00:10:07,960
-Me desculpem por terem sido incriminados
-por um crime tão absurdo.
+Desculpem-me por incriminar todos vocês por um crime que não cometeram.
 
-143
+139
 00:10:07,960 --> 00:10:12,010
 Mas o artigo está dizendo a verdade.
 
-144
+140
 00:10:12,010 --> 00:10:16,550
-Fui eu mesma que invadi
-a residência do prefeito ontem à noite.
+Fui eu mesmo que me infiltrei na residência do prefeito ontem à noite.
 
-145
+141
 00:10:16,550 --> 00:10:17,470
 O quê?
 
-146
+142
 00:10:18,140 --> 00:10:19,470
-Não...
+Não!
+
+143
+00:10:19,470 --> 00:10:23,440
+Eu carrego uma escuridão dentro de mim que vocês não sabem.
+
+144
+00:10:24,100 --> 00:10:27,270
+Essa escuridão vai destruir vocês um dia.
+
+145
+00:10:29,280 --> 00:10:32,950
+Até o momento, toda organização que trouxe Nico Robin
+
+146
+00:10:32,950 --> 00:10:37,620
+foi exterminada. Ela é a única sobrevivente.
 
 147
-00:10:19,470 --> 00:10:23,440
-Nenhum de vocês conhece
-a escuridão que carrego dentro de mim.
+00:10:38,620 --> 00:10:44,330
+Na verdade, estou atribuindo esse crime a vocês e planejando fugir.
 
 148
-00:10:24,100 --> 00:10:27,270
-Essa escuridão vai destruir vocês algum dia.
-
-149
-00:10:29,280 --> 00:10:34,700
-Até hoje, toda organização que
-acolheu Nico Robin foi aniquilada.
-
-150
-00:10:34,700 --> 00:10:37,620
-Mas ela sobreviveu todas as vezes.
-
-151
-00:10:38,620 --> 00:10:44,330
-Na verdade, estou colocando a culpa em
-vocês e planejando fugir.
-
-152
 00:10:44,330 --> 00:10:46,580
 A situação só vai piorar.
 
-153
+149
 00:10:46,580 --> 00:10:49,000
-O que quer dizer?! Por que você está–
+O que você quer dizer?! Por que você está–
 
-154
+150
 00:10:49,000 --> 00:10:53,130
-Por que estou fazendo isso... é algo
-que vocês não precisam saber.
+Por que estou fazendo isso? Você não precisa saber.
 
-155
+151
 00:10:55,220 --> 00:10:59,560
-Robin! Não entendo o que está dizendo!
-O que aconteceu com você?!
+Robin-chan ! Não entendi o que você está dizendo! O que aconteceu com você?!
 
-156
+152
 00:10:59,560 --> 00:11:02,270
 Robin! Vamos voltar juntos!
 
-157
+153
 00:11:04,350 --> 00:11:08,230
-Passei pouco tempo
-com vocês, mas depois de hoje...
+Eu passei pouco tempo com vocês, mas depois de hoje,
 
-158
+154
 00:11:08,900 --> 00:11:11,940
-Nunca mais vou ver vocês.
+eu nunca mais vou ver vocês.
 
-159
+155
 00:11:12,610 --> 00:11:16,910
-Obrigada por serem tão gentis
-com alguém como eu.
+Obrigado por serem tão gentis com alguém como eu.
 
-160
+156
 00:11:18,320 --> 00:11:19,450
 Adeus.
 
-161
+157
 00:11:33,880 --> 00:11:35,510
-Espera...
+Espere...
 
-162
+158
 00:11:36,050 --> 00:11:38,550
-Ei... espera...
+Ei... espere...
 
-163
+159
 00:11:39,640 --> 00:11:41,510
-Eu não consigo...
+Não posso...
 
-164
+160
 00:11:41,510 --> 00:11:43,930
 aceitar isso.
 
-165
+161
 00:11:44,770 --> 00:11:45,850
 Ei...
 
-166
+162
 00:11:47,560 --> 00:11:49,310
-Espera!
+Espere!
+
+163
+00:11:51,940 --> 00:11:54,110
+Pare de brincar!
+
+164
+00:11:54,110 --> 00:11:55,950
+Espere! Robin-chan !
+
+165
+00:11:55,950 --> 00:11:56,990
+Robin-chan !
+
+166
+00:11:57,700 --> 00:12:00,410
+Espere! Robin-chan ! Robin-chan !
 
 167
-00:11:51,940 --> 00:11:54,110
-Para de brincadeira!
-
-168
-00:11:54,110 --> 00:11:55,950
-Espera! Robin!
-
-169
-00:11:55,950 --> 00:11:56,990
-Robin!
-
-170
-00:11:57,700 --> 00:12:00,410
-Espera! Robin! Robin!
-
-171
 00:12:08,370 --> 00:12:11,130
 Robin!
 
-172
+168
 00:12:18,050 --> 00:12:19,550
-Perdi ela de vista.
+Eu a perdi de vista.
+
+169
+00:12:19,550 --> 00:12:20,590
+Sim.
+
+170
+00:12:23,890 --> 00:12:26,060
+– Chopper... – Hm?
+
+171
+00:12:26,060 --> 00:12:31,060
+Vá se juntar a Luffy e aos outros e conte a eles tudo o que aconteceu.
+
+172
+00:12:31,060 --> 00:12:34,280
+Não deixe uma única palavra de fora.
 
 173
-00:12:19,550 --> 00:12:20,590
-É.
+00:12:34,280 --> 00:12:35,310
+O que você vai fazer?
 
 174
-00:12:23,890 --> 00:12:26,060
-Chopper...
-
-175
-00:12:24,350 --> 00:12:26,060
-Hm?
-
-176
-00:12:26,060 --> 00:12:31,060
-Vai encontrar o Luffy e os outros
-e conta tudo o que acabou de acontecer.
-
-177
-00:12:31,060 --> 00:12:34,280
-Não deixe de fora uma palavra sequer.
-
-178
-00:12:34,280 --> 00:12:35,310
-E você?
-
-179
 00:12:35,310 --> 00:12:38,030
 Vamos nos separar aqui por um tempo.
 
-180
+175
 00:12:39,110 --> 00:12:42,660
-Bom, não se preocupe.
-Eu não vou fazer nada imprudente.
+Bem, não se preocupe. Eu não farei nada imprudente.
 
-181
+176
 00:12:43,950 --> 00:12:44,950
-Pra onde eles foram?
+Para onde eles foram?
 
-182
+177
 00:12:44,950 --> 00:12:46,500
-Olhem em cada canto!
+Olhe em cada canto e fresta!
 
-183
-00:12:47,040 --> 00:12:48,500
+178
+00:12:46,500 --> 00:12:48,500
 E os becos?!
 
+179
+00:12:48,500 --> 00:12:50,620
+Eles poderiam ter subido em um telhado?!
+
+180
+00:12:51,250 --> 00:12:52,790
+Droga! Nós os perdemos!
+
+181
+00:12:53,340 --> 00:12:55,550
+Mas eles definitivamente correram nessa direção!
+
+182
+00:12:55,550 --> 00:12:57,420
+Devemos verificar ali?!
+
+183
+00:12:57,420 --> 00:12:59,630
+Então, vamos procurar dentro dos prédios!
+
 184
-00:12:48,500 --> 00:12:50,500
-Será que estão nos telhados?!
+00:12:59,630 --> 00:13:02,180
+Tudo bem! Vamos nos dividir e sair!
 
 185
-00:12:51,250 --> 00:12:52,790
-Droga! Perdemos eles!
+00:13:02,180 --> 00:13:03,600
+Sim!
 
 186
-00:12:53,340 --> 00:12:55,550
-Mas eles com certeza correram nessa direção!
+00:13:05,720 --> 00:13:06,520
+Está tudo bem agora?
 
 187
-00:12:55,550 --> 00:12:57,420
-Devíamos verificar ali?!
-
-188
-00:12:57,420 --> 00:12:59,630
-E nós vamos procurar dentro dos prédios!
-
-189
-00:12:59,630 --> 00:13:02,180
-Certo! Vamos nos dividir e ir!
-
-190
-00:13:02,180 --> 00:13:03,600
-– É!
-– É!
-
-191
-00:13:05,720 --> 00:13:06,520
-Já dá?
-
-192
 00:13:07,020 --> 00:13:08,230
 Ainda não.
 
-193
+188
 00:13:10,060 --> 00:13:11,770
-Onde vocês perderam eles?!
+Onde você os perdeu?!
 
-194
+189
 00:13:14,360 --> 00:13:16,400
-Mais um pouco.
+Um pouco mais.
 
-195
+190
 00:13:33,330 --> 00:13:34,420
 Ah...
 
-196
+191
 00:13:39,470 --> 00:13:40,800
 Por favor...
 
-197
+192
 00:13:41,550 --> 00:13:45,850
-Você vai ter que voltar quando eu não
-estiver no meio de uma evacuação. Agora, xô!
+Volte outra hora! Estou evacuando agora. Pare de me importunar!
 
-198
+193
 00:13:46,310 --> 00:13:49,100
 Por favor... Eu tenho dinheiro.
 
-199
+194
 00:13:50,020 --> 00:13:54,810
-Tanta madeira, alcatrão
-e corda quanto isso puder comprar...
+Tanta madeira, piche e corda quanto isso  puder comprar...
 
-200
+195
 00:13:54,810 --> 00:13:58,320
-E também pregos, trincos e chapas de estanho.
+Além disso, alguns pregos, fechos e folhas de flandres.
 
-201
+196
 00:13:58,320 --> 00:14:00,530
 Estou fechando a loja.
 
-202
+197
 00:14:00,530 --> 00:14:02,950
-Ah... Desculpa, mas...
+Ah... Desculpe, mas...
+
+198
+00:14:08,670 --> 00:14:10,290
+Ok, então.
+
+199
+00:14:10,290 --> 00:14:12,120
+Mas isso não é o suficiente para tudo isso.
+
+200
+00:14:12,750 --> 00:14:17,460
+E-Então, para compensar o resto, eu gostaria de trocar minhas ferramentas.
+
+201
+00:14:17,460 --> 00:14:19,710
+Ei, ei, não seja ridículo! Pare com isso!
+
+202
+00:14:19,710 --> 00:14:24,470
+Eu só vendo. Você não pode negociar assim. O que você é, um tipo de caipira?
 
 203
-00:14:08,670 --> 00:14:10,290
-Está bem, então.
+00:14:28,350 --> 00:14:30,430
+Tudo bem... Você venceu.
 
 204
-00:14:10,290 --> 00:14:12,120
-Mas esse dinheiro não é suficiente pra tudo isso.
+00:14:38,440 --> 00:14:42,190
+E-Ei! Você deveria estar carregando todas essas coisas  com uma lesão dessas?
 
 205
-00:14:12,750 --> 00:14:17,460
-E-Então, pra compensar o resto,
-gostaria de trocar minhas ferramentas.
+00:14:42,860 --> 00:14:45,910
+Certamente você tem amigos para ajudar, certo?! Ei!
 
 206
-00:14:17,460 --> 00:14:19,710
-Ei, ei, não seja ridículo! Para com isso!
+00:14:47,530 --> 00:14:49,030
+Viu, o que eu te disse?
 
 207
-00:14:19,710 --> 00:14:24,470
-Só aceito dinheiro! Querendo trocar...
-Você é algum tipo de caipira?
+00:15:06,640 --> 00:15:08,640
+Ei, espera um segundo, rapaz!
 
 208
-00:14:28,350 --> 00:14:30,430
-Tá bom, você venceu.
+00:15:10,600 --> 00:15:12,980
+Estou bem. Isso não é nada.
 
 209
-00:14:38,440 --> 00:14:42,190
-E-Ei! Você devia carregar tudo isso
-machucado desse jeito?
-
-210
-00:14:42,860 --> 00:14:45,910
-Você não tem amigos
-que possam ajudar?! Não tem?!
-
-211
-00:14:47,530 --> 00:14:49,030
-Viu, o que eu disse?
-
-212
-00:15:06,640 --> 00:15:08,640
-Ei... Espera aí, garoto!
-
-213
-00:15:10,600 --> 00:15:12,980
-Tô bem. Isso não é nada.
-
-214
 00:15:12,350 --> 00:15:12,980
 Ei!
 
-215
+210
 00:15:12,980 --> 00:15:15,600
-O que é? Vai me ajud–
+O que é? Você vai ajudar–
 
-216
+211
 00:15:15,600 --> 00:15:16,350
-Não...
+Não.
 
-217
-00:15:16,850 --> 00:15:18,310
-Toma. Leva isso.
+212
+00:15:16,850 --> 00:15:20,270
+Aqui. Pegue isso. Você está com fome, certo?
 
-218
-00:15:18,310 --> 00:15:20,270
-Você tá com fome, né?
-
-219
+213
 00:15:25,450 --> 00:15:26,450
 Obrigado.
 
-220
+214
 00:15:26,450 --> 00:15:29,030
-Claro. Cuidado na volta.
+Claro. Tenha cuidado ao voltar.
 
-221
+215
 00:15:36,120 --> 00:15:37,880
-Cuidado na volta!
+Tenha cuidado ao voltar!
 
-222
+216
 00:15:48,680 --> 00:15:50,220
-Tá bom isso.
+Isso é bom.
 
-223
+217
 00:15:50,220 --> 00:15:53,180
-Tá muito bom isso.
+Isso é muito bom.
 
-224
+218
 00:15:53,180 --> 00:15:56,140
-Que cara atencioso...
+Que homem atencioso ele era.
 
-225
+219
 00:16:08,910 --> 00:16:11,910
 As ondas estão ficando bem altas.
 
-226
+220
 00:16:17,830 --> 00:16:20,500
 Não se preocupe. Vai ficar tudo bem.
 
-227
+221
 00:16:28,930 --> 00:16:33,100
-Você é um navio que voou pelo céu!
+Você é um... navio que voou!
 
-228
+222
 00:16:34,680 --> 00:16:36,140
 Não se preocupe!
 
-229
+223
 00:16:47,690 --> 00:16:49,740
-O que deu em você, de repente?
+Qual é o problema, de repente?
 
-230
+224
 00:16:58,080 --> 00:17:00,330
-O que foi, Franky?
+O que há de errado, Franky?
 
-231
+225
 00:17:07,710 --> 00:17:08,840
-Bro?
+Irmaozão?
 
-232
+226
 00:17:10,430 --> 00:17:12,050
 Estou ficando irritado!
 
-233
+227
 00:17:12,050 --> 00:17:14,560
-Talvez seja hora
-de causar mais confusão!
+Talvez esteja na hora de fazer outra onda de violência!
+
+228
+00:17:15,600 --> 00:17:18,060
+Irmaozão! Espere por nós!
+
+229
+00:17:19,390 --> 00:17:22,020
+Obrigado pela bebida, Blueno!
+
+230
+00:17:26,320 --> 00:17:29,740
+O que aconteceu com Franky de repente, Kokoro-san ?
+
+231
+00:17:33,320 --> 00:17:40,160
+Não sei. Simplesmente não dá para dizer como os idiotas pensam.
+
+232
+00:17:52,760 --> 00:17:54,090
+Acho que as coisas finalmente se acalmaram.
+
+233
+00:17:54,600 --> 00:17:56,350
+"Finalmente se acalmaram"?!
 
 234
-00:17:15,600 --> 00:17:18,060
-Bro! Espera a gente!
+00:17:56,350 --> 00:17:59,520
+Você tinha todos aqueles construtores navais correndo atrás de você!
 
 235
-00:17:19,390 --> 00:17:22,020
-Valeu pela bebida, Blueno!
+00:17:59,520 --> 00:18:02,230
+Você é quem nos arrastou para isso também!
 
 236
-00:17:26,320 --> 00:17:29,740
-O que deu no Franky
-de repente, dona Kokoro?
+00:18:02,230 --> 00:18:05,770
+Eu disse que era inevitável, não disse?
 
 237
-00:17:33,320 --> 00:17:40,160
-Sei lá... Não dá pra saber
-o que passa na cabeça de idiotas.
+00:18:05,770 --> 00:18:09,690
+Estou surpreso que você descobriu onde estávamos, Chopper.
 
 238
-00:17:52,760 --> 00:17:54,090
-Parece que finalmente se acalmou.
+00:18:09,690 --> 00:18:10,560
+Seu cheiro.
 
 239
-00:17:54,600 --> 00:17:56,350
-"Finalmente se acalmou"?!
+00:18:10,560 --> 00:18:12,490
+Ah, sim.
 
 240
-00:17:56,350 --> 00:17:59,520
-Você tinha todos aqueles carpinteiros
-te perseguindo!
+00:18:12,490 --> 00:18:15,200
+Ah? Pensando bem, onde está o Sanji?
 
 241
-00:17:59,520 --> 00:18:02,230
-Você é que nos arrastou pra isso também!
+00:18:15,200 --> 00:18:16,070
+Bem...
 
 242
-00:18:02,230 --> 00:18:05,770
-Eu disse que foi inevitável, não disse?
+00:18:30,830 --> 00:18:33,970
+Robin realmente disse isso?!
 
 243
-00:18:05,770 --> 00:18:09,690
-Estou surpreso que descobriu
-onde estávamos, Chopper.
+00:18:34,840 --> 00:18:35,930
+Sim.
 
 244
-00:18:09,690 --> 00:18:10,560
-Pelo seu cheiro.
+00:18:42,640 --> 00:18:45,310
+Todos nós sabíamos que algo assim poderia acontecer, certo?
 
 245
-00:18:10,560 --> 00:18:12,490
-Ah... É verdade.
+00:18:47,860 --> 00:18:52,400
+Mesmo que tenha sido por um curto período, Robin era inimiga antes de subir a bordo.
 
 246
-00:18:12,490 --> 00:18:15,200
-Verdade! O Sanji não devia estar com vocês?
+00:18:53,070 --> 00:18:57,320
+Se fugirmos agora, será uma vergonha.
 
 247
-00:18:15,200 --> 00:18:16,070
-Bom...
+00:18:59,030 --> 00:19:02,830
+Não está na hora de resolvermos o assunto?
 
 248
-00:18:30,830 --> 00:18:33,970
-A Robin realmente disse isso?!
+00:19:03,660 --> 00:19:07,960
+Se aquela mulher é... amiga ou inimiga?
 
 249
-00:18:34,840 --> 00:18:35,930
-Aham.
+00:19:10,420 --> 00:19:17,180
+A situação só vai piorar. Depois de hoje, nunca mais verei vocês.
 
 250
-00:18:42,640 --> 00:18:45,310
-Todos nós sabíamos que algo
-assim poderia acontecer, né?
+00:19:20,890 --> 00:19:24,940
+Você tem certeza de que Robin disse isso, Chopper?
 
 251
-00:18:47,860 --> 00:18:52,400
-Mesmo sendo por pouco tempo, a Robin
-era uma inimiga antes de embarcar.
+00:19:26,190 --> 00:19:26,940
+Sim.
 
 252
-00:18:53,070 --> 00:18:57,320
-Se ela ficou com medo de repente e fugiu,
-não ficaria satisfeito.
+00:19:28,360 --> 00:19:31,820
+Ela disse que não nos veria depois de hoje.
 
 253
-00:18:59,240 --> 00:19:02,830
-Acho que está na hora de resolver isso...
+00:19:31,820 --> 00:19:35,070
+Parece também que ela está planejando fazer algo
 
 254
-00:19:03,660 --> 00:19:07,960
-se aquela mulher é amiga... ou inimiga.
+00:19:35,070 --> 00:19:37,200
+que poderia piorar a situação.
 
 255
-00:19:10,420 --> 00:19:17,180
-A situação só vai piorar.
-Depois de hoje, nunca mais vou ver vocês.
+00:19:41,950 --> 00:19:43,750
+Olha que confusão
 
 256
-00:19:20,890 --> 00:19:24,940
-Tem certeza que a Robin disse isso, Chopper?
+00:19:43,750 --> 00:19:46,870
+a tentativa de assassinato do prefeito causou.
 
 257
-00:19:26,190 --> 00:19:26,940
-Tenho.
+00:19:46,870 --> 00:19:49,920
+Se for possível piorar a situação,
 
 258
-00:19:28,360 --> 00:19:31,820
-Ela disse que não nos veria mais depois de hoje.
+00:19:49,920 --> 00:19:52,170
+só há uma coisa que ela pode fazer.
 
 259
-00:19:31,820 --> 00:19:37,200
-Também parece que ela planeja fazer
-algo que pode piorar a situação.
+00:19:52,710 --> 00:19:55,630
+Assassinar o prefeito com certeza dessa vez.
 
 260
-00:19:41,950 --> 00:19:45,710
-Vejam a confusão que a tentativa de
-assassinato do prefeito causou.
+00:19:58,470 --> 00:20:00,850
+Essa é a conclusão natural.
 
 261
-00:19:46,870 --> 00:19:49,920
-Se é possível piorar a situação...
+00:20:02,760 --> 00:20:06,980
+Mas sabemos que ela pretende nos culpar pelo crime,
 
 262
-00:19:49,920 --> 00:19:52,170
-só tem uma coisa que ela pode fazer.
+00:20:06,980 --> 00:20:11,360
+então é possível que seja uma armadilha para nos atrair para a cena do crime.
 
 263
-00:19:52,710 --> 00:19:55,630
-Assassinar o prefeito de vez dessa vez.
-
-264
-00:19:58,470 --> 00:20:00,850
-É a conclusão mais natural.
-
-265
-00:20:02,760 --> 00:20:06,980
-Mas sabemos que ela pretende
-colocar a culpa na gente,
-
-266
-00:20:06,980 --> 00:20:11,360
-então é possível que seja uma armadilha
-pra nos atrair pra cena do crime.
-
-267
 00:20:11,360 --> 00:20:12,860
 Uma armadilha?
 
-268
+264
 00:20:12,860 --> 00:20:16,490
-Se estivermos presentes no local
-e na hora do assassinato,
+Se estivermos no assassinato esta noite,
+
+265
+00:20:16,490 --> 00:20:18,360
+a culpa recairá sobre nós.
+
+266
+00:20:18,990 --> 00:20:23,490
+Ei! Você faz parecer que Robin realmente é nosso inimigo!
+
+267
+00:20:24,240 --> 00:20:26,660
+Estou falando sobre a possibilidade.
+
+268
+00:20:26,660 --> 00:20:28,830
+Não é que eu tenha decidido de qualquer maneira.
 
 269
-00:20:16,490 --> 00:20:18,360
-a culpa vai recair sobre nós.
+00:20:29,790 --> 00:20:33,590
+Se eu decidisse agora acreditar nela ou não,
 
 270
-00:20:18,990 --> 00:20:23,490
-Ei! Você faz parecer que a Robin
-realmente é nossa inimiga!
+00:20:33,590 --> 00:20:35,800
+e a verdade acabasse sendo o oposto,
 
 271
-00:20:24,240 --> 00:20:26,660
-Estou dizendo que é uma possibilidade.
+00:20:37,260 --> 00:20:40,760
+isso pode comprometer meu discernimento.
 
 272
-00:20:26,660 --> 00:20:28,830
-Ainda não tomei uma decisão.
+00:20:45,140 --> 00:20:48,890
+Se algo vai acontecer, será hoje à noite. Nós vamos?
 
 273
-00:20:29,790 --> 00:20:33,590
-Digamos que eu decida
-agora de um jeito ou de outro.
+00:20:48,890 --> 00:20:50,100
+Nós vamos.
 
 274
-00:20:33,590 --> 00:20:35,800
-Se a verdade acabar sendo o oposto...
+00:20:51,190 --> 00:20:56,230
+Eu não me importo de ir, mas há um problema.
 
 275
-00:20:37,260 --> 00:20:40,760
-atrasaria meu tempo de reação.
+00:20:56,230 --> 00:21:00,240
+Sanji-kun viu Robin andando com alguém, certo?
 
 276
-00:20:45,140 --> 00:20:48,890
-Se algo vai acontecer,
-será essa noite. Vamos?
+00:21:00,780 --> 00:21:03,490
+Iceburg-san disse a mesma coisa.
 
 277
-00:20:48,890 --> 00:20:50,100
-Vamos.
+00:21:03,490 --> 00:21:06,500
+Ela estava com alguém usando uma máscara.
 
 278
-00:20:51,190 --> 00:20:56,230
-Não me importo de ir... mas tem um problema.
+00:21:06,500 --> 00:21:09,330
+Mas não foi nenhum de nós.
 
 279
-00:20:56,230 --> 00:21:00,240
-O Sanji viu a Robin andando com alguém, né?
+00:21:10,210 --> 00:21:13,000
+Ele deve ser a razão pela qual Robin mudou de repente.
 
 280
-00:21:00,780 --> 00:21:03,490
-O Iceburg disse a mesma coisa.
+00:21:13,630 --> 00:21:17,590
+Será que não é ele que está fazendo Robin fazer coisas ruins?!
 
 281
-00:21:03,490 --> 00:21:06,500
-Ela estava com alguém usando máscara.
-
-282
-00:21:06,500 --> 00:21:09,330
-Mas não era nenhum de nós.
-
-283
-00:21:10,210 --> 00:21:13,000
-Ele deve ser o motivo
-pelo qual a Robin mudou de repente.
-
-284
-00:21:13,630 --> 00:21:17,590
-Então não pode ser que ele esteja
-obrigando a Robin a fazer coisas ruins?!
-
-285
 00:21:17,590 --> 00:21:19,930
 Esse seria o melhor cenário.
 
-286
+282
 00:21:19,930 --> 00:21:23,180
-O pior cenário seria se esse cara
-estivesse agindo junto com a Robin.
+O pior caso seria se esse cara fosse realmente amigo da Robin.
 
-287
+283
 00:21:24,100 --> 00:21:29,520
-Mas "alguém usando máscara" não é
-uma boa pista. O mistério está longe de ser resolvido.
+Mas "alguém usando uma máscara" não pode ser uma pista. Esse é o problema.
 
-288
+284
 00:21:29,520 --> 00:21:31,350
 Qual é o nosso objetivo?
 
-289
+285
 00:21:31,350 --> 00:21:33,730
-Vamos capturar a Robin.
+Nós capturaremos Robin.
+
+286
+00:21:34,820 --> 00:21:37,610
+Caso contrário, não teremos a mínima ideia.
+
+287
+00:21:38,900 --> 00:21:42,160
+Verdade. Pensar nisso é perda de tempo.
+
+288
+00:21:42,160 --> 00:21:43,160
+Pensando bem,
+
+289
+00:21:43,160 --> 00:21:48,040
+o Governo Mundial vem tentando capturar aquela mulher há 20 anos,
 
 290
-00:21:34,820 --> 00:21:37,610
-Caso contrário, nunca vamos descobrir nada.
+00:21:48,040 --> 00:21:50,830
+e ainda assim, eles falharam em todas as tentativas.
 
 291
-00:21:38,900 --> 00:21:42,160
-Verdade. Ficar pensando é perda de tempo.
+00:21:51,250 --> 00:21:53,830
+Mas se quisermos saber a verdade, esse é o único jeito.
 
 292
-00:21:42,160 --> 00:21:43,160
-Pensando bem...
+00:21:56,130 --> 00:21:58,380
+Ok, eu também farei o meu melhor!
 
 293
-00:21:43,160 --> 00:21:48,040
-o Governo Mundial tenta capturar
-aquela mulher há vinte anos,
+00:21:58,380 --> 00:22:00,260
+Bem, então vamos lá...
 
 294
-00:21:48,040 --> 00:21:50,830
-e, mesmo assim, ela continua solta.
+00:22:00,260 --> 00:22:02,380
+para a Companhia Galley!
 
 295
-00:21:51,250 --> 00:21:53,830
-Mas se quisermos saber a verdade,
-essa é a única opção.
+00:22:07,930 --> 00:22:11,940
+Droga! Está ficando escuro.
 
 296
-00:21:56,130 --> 00:21:58,380
-Certo, vou dar o meu melhor também!
+00:22:11,940 --> 00:22:16,570
+Paulie-san ! Já chega! As ruas secundárias logo ficarão perigosas demais para serem revistadas.
 
 297
-00:21:58,380 --> 00:21:59,880
-Então, vamos...
+00:22:17,270 --> 00:22:19,690
+É. Vamos voltar.
 
 298
-00:21:59,880 --> 00:22:02,380
-pra Galley-La Company!
+00:22:19,690 --> 00:22:20,820
+Vou para o escritório.
 
 299
-00:22:07,930 --> 00:22:11,940
-Droga! Está escurecendo.
+00:22:20,820 --> 00:22:22,530
+Okay!
 
 300
-00:22:11,940 --> 00:22:16,570
-Paulie! Temos que encerrar a busca!
-As ruas dos fundos vão ficar perigosas.
-
-301
-00:22:17,270 --> 00:22:19,690
-É, vamos voltar.
-
-302
-00:22:19,690 --> 00:22:20,820
-Vou pro escritório principal.
-
-303
-00:22:20,820 --> 00:22:22,530
-Certo!
-
-304
 00:22:22,530 --> 00:22:25,910
 Ei, pessoal! Estamos voltando!
 
-305
+301
 00:22:25,910 --> 00:22:30,580
 Chapéu de Palha! Apareça!
 
-306
+302
 00:22:30,580 --> 00:22:33,080
 Onde você está se escondendo?!
 
-307
+303
 00:22:33,670 --> 00:22:37,460
-Chapéu de Palha! Aquele maldito...!
+Chapéu de Palha! Aquele bastardo!
+
+304
+00:22:37,460 --> 00:22:40,960
+Eu pensei que o cara tinha pelo menos um pouco de coragem.
+
+305
+00:22:41,720 --> 00:22:44,130
+Mas ele nem se mostra.
+
+306
+00:22:44,130 --> 00:22:47,890
+Mas irmaozão, a ilha inteira quer a cabeça deles.
+
+307
+00:22:48,470 --> 00:22:51,310
+Ela está certa.  Aposto que estão correndo como ratos.
 
 308
-00:22:37,460 --> 00:22:40,960
-Achei que o cara tinha pelo menos um pouco de coragem.
+00:22:52,890 --> 00:22:56,060
+A propósito, qual é o problema? O que vocês estão fazendo?
 
 309
-00:22:41,720 --> 00:22:44,130
-Mas ele nem aparece.
+00:22:56,060 --> 00:23:00,610
+Estamos vulneráveis ​​a ventos fortes de frente.
 
 310
-00:22:44,130 --> 00:22:47,890
-Mas Bro, a ilha inteira
-está atrás deles agora.
+00:23:01,480 --> 00:23:05,570
+Mais importante, irmaozão, a maneira como você está furioso hoje é diferente do normal.
 
 311
-00:22:48,470 --> 00:22:51,310
-Ela tem razão. Aposto que estão
-correndo de um lado pro outro feito ratos.
+00:23:05,570 --> 00:23:09,160
+Deixar as coisas se acumularem dentro de você não é do seu feitio.
 
 312
-00:22:52,890 --> 00:22:56,060
-Mas está tudo bem?
-O que há com vocês dois?
+00:23:09,160 --> 00:23:13,200
+Cale a boca! Estou assim esta semana!
 
 313
-00:22:56,060 --> 00:23:00,610
-Somos vulneráveis a
-ventos fortes de frente.
+00:23:13,200 --> 00:23:15,330
+Irmaozão!
 
 314
-00:23:01,480 --> 00:23:05,570
-Mais importante, Bro, seu jeito de
-esbravejar hoje é diferente do normal.
-
-315
-00:23:05,570 --> 00:23:09,160
-Guardar as coisas pra si não combina com você.
-
-316
-00:23:09,160 --> 00:23:13,200
-Me dá um tempo! Essa semana
-estou assim mesmo!
-
-317
-00:23:13,200 --> 00:23:14,750
-Bro!
-
-318
-00:23:13,500 --> 00:23:14,750
+00:23:13,200 --> 00:23:15,330
 Hm?
 
-319
-00:23:14,750 --> 00:23:17,710
-– Bro! Bro!
-– Bro! Bro!
+315
+00:23:15,330 --> 00:23:17,710
+– Irmaozão! Irmaozão! – É Zambai e os outros.
 
-320
-00:23:16,210 --> 00:23:17,710
-São o Zambai e os outros!
-
-321
+316
 00:23:19,210 --> 00:23:22,760
-Bro! Você bateu naqueles desgraçados?
+Irmaozão! Você espancou aqueles bastardos?
 
-322
+317
 00:23:22,760 --> 00:23:24,130
 Não, ainda não.
 
-323
+318
 00:23:24,130 --> 00:23:26,930
-Teve uma interferência maluca,
-então escaparam.
+Houve uma interferência maluca. Eles escaparam.
+
+319
+00:23:26,930 --> 00:23:27,970
+O quê?!
+
+320
+00:23:27,970 --> 00:23:30,680
+Eles escaparam de você quando você estava bravo?!
+
+321
+00:23:30,680 --> 00:23:33,220
+Que sorte eles devem ter!
+
+322
+00:23:33,220 --> 00:23:39,610
+Entendo. Já que aquele sujeito fraco e narigudo estava consertando o navio deles sozinho,
+
+323
+00:23:39,610 --> 00:23:43,030
+Eu simplesmente presumi que você derrotou os outros.
 
 324
-00:23:26,930 --> 00:23:27,970
-– O quê?!
-– O quê?!
+00:23:43,030 --> 00:23:45,490
+Hein? Você encontrou um deles?!
 
 325
-00:23:27,970 --> 00:23:30,680
-Eles escaparam de você
-mesmo quando estava bravo?!
-
-326
-00:23:30,680 --> 00:23:33,220
-Que filhos da mãe sortudos...
-
-327
-00:23:33,220 --> 00:23:37,400
-Entendo. Eu pensei que você
-tinha batido nos outros
-
-328
-00:23:37,400 --> 00:23:42,940
-já que aquele narigudo fraco
-estava consertando o navio deles sozinho.
-
-329
-00:23:42,940 --> 00:23:45,490
-Hã? Vocês encontraram um deles?!
-
-330
 00:23:45,490 --> 00:23:47,450
 S-Sim, no navio deles.
 
-331
+326
 00:23:51,830 --> 00:23:54,910
-Se vocês encontraram um deles,
-fica fácil.
+Se você encontrou um deles, isso torna tudo mais fácil.
+
+327
+00:23:54,910 --> 00:23:59,380
+Podemos usá-lo para fazê-los se revelarem!
+
+328
+00:23:59,790 --> 00:24:02,670
+O i-irmaozão está com sua cara de bandido.
+
+329
+00:24:04,460 --> 00:24:08,470
+Tudo bem então!  Eu quero que vocês comecem a marchar pela cidade,
+
+330
+00:24:09,470 --> 00:24:11,510
+gritando, "Nós temos o narigudo!"
+
+331
+00:24:11,510 --> 00:24:13,350
+Para impedi-lo de dormir com os peixes,
 
 332
-00:23:54,910 --> 00:23:59,380
-Podemos usá-lo pra fazer
-todos eles aparecerem!
+00:24:13,350 --> 00:24:15,890
+venham para o armazém debaixo da ponte!
 
 333
-00:23:59,790 --> 00:24:02,670
-O Bro tá com a cara de vilão.
-
-334
-00:24:04,460 --> 00:24:08,470
-Então, pessoal! Quero que
-vocês saiam marchando pela cidade...
-
-335
-00:24:09,470 --> 00:24:11,510
-gritando: "Capturamos o narigudo!
-
-336
-00:24:11,510 --> 00:24:15,890
-Se não querem que ele durma com os peixes,
-venham ao armazém debaixo da ponte!
-
-337
 00:24:15,890 --> 00:24:19,310
 Franky manda lembranças!"
 
-338
+334
 00:24:21,730 --> 00:24:26,650
-Vou sequestrar aquele narigudo
-e tornar isso verdade.
+Para tornar isso realidade, vou sequestrar o narigudo.
+
+335
+00:24:26,650 --> 00:24:30,620
+Okay, irmaozão! Deixe conosco!
+
+336
+00:24:48,510 --> 00:24:52,600
+Aqua Laguna está chegando!
+
+337
+00:24:52,600 --> 00:24:56,220
+Nós somos Aqua Laguna!
+
+338
+00:24:56,680 --> 00:24:59,520
+Então o que está acontecendo com esses assassinos?
 
 339
-00:24:26,650 --> 00:24:30,620
-Certo, Bro! Deixa com a gente!
+00:24:59,520 --> 00:25:02,110
+Ouvi dizer que eles ainda não foram pegos.
 
 340
-00:24:48,510 --> 00:24:52,600
-– A Aqua Laguna está vindo!
-– A Aqua Laguna está vindo!
+00:25:02,110 --> 00:25:06,150
+Que perturbador. Ahh, que chatice.
 
 341
-00:24:52,600 --> 00:24:56,220
-Nós somos a Aqua Laguna!
+00:25:06,150 --> 00:25:10,530
+Ouvi dizer que eles podem atacar novamente esta noite na confusão da tempestade.
 
 342
-00:24:56,680 --> 00:24:59,520
-E aí, e aqueles assassinos?
+00:25:10,530 --> 00:25:13,200
+Aqua Laguna está aqui!
 
 343
-00:24:59,520 --> 00:25:02,110
-Ouvi dizer que ainda não foram capturados.
+00:25:13,700 --> 00:25:15,830
+Mas vai ser uma loucura esta noite.
 
 344
-00:25:02,110 --> 00:25:06,150
-Que perturbador. Aah, que saco...
+00:25:15,830 --> 00:25:20,040
+Ouvi dizer que todos os artesãos estarão guardando o escritório principal.
 
 345
-00:25:06,150 --> 00:25:10,530
-Ouvi dizer que podem atacar de novo
-essa noite na confusão da tempestade.
-
-346
-00:25:10,530 --> 00:25:13,200
-A Aqua Laguna está aqui!
-
-347
-00:25:13,700 --> 00:25:15,830
-Mas vai ser uma loucura essa noite.
-
-348
-00:25:15,830 --> 00:25:20,040
-Ouvi que todos os carpinteiros
-vão guardar o escritório principal.
-
-349
 00:25:20,040 --> 00:25:22,500
 Uau! Isso é bem sério!
 
-350
+346
 00:25:22,500 --> 00:25:26,050
 Quantos são os Piratas do Chapéu de Palha?
 
-351
+347
 00:25:26,500 --> 00:25:31,090
-Alguns dizem cinquenta... outros dizem
-que é perto de cem.
+Algumas pessoas disseram 50. Outras disseram 100.
 
-352
+348
 00:25:31,090 --> 00:25:33,800
 O capitão tem uma recompensa de 100 milhões, afinal.
 
-353
+349
 00:25:33,800 --> 00:25:38,140
-Alguns disseram que 3.000 dos seus homens
-avançariam pelo mar!
+Alguns disseram que 3.000 de seus homens avançariam do mar!
 
-354
+350
 00:25:38,140 --> 00:25:40,100
 Isso parece totalmente perigoso!
 
-355
+351
 00:25:46,570 --> 00:25:50,610
-Galley-La Company! Formem uma linha
-e não deixem nenhuma brecha!
+Companhia Galley! Formem uma fila e não deixem nenhuma abertura!
+
+352
+00:25:50,610 --> 00:25:52,110
+Sim!
+
+353
+00:25:52,610 --> 00:25:55,240
+Não deixe nem um rato entrar!
+
+354
+00:25:55,240 --> 00:25:57,370
+Sim!
+
+355
+00:26:13,430 --> 00:26:15,140
+Podem vir!
 
 356
-00:25:50,610 --> 00:25:52,110
-– É!
-– É!
+00:26:16,970 --> 00:26:21,270
+Cale a boca! Fique quieto, Tilestone!
 
 357
-00:25:52,610 --> 00:25:55,240
-Não deixem nem um rato entrar!
+00:26:22,060 --> 00:26:24,900
+Disseram-me que eles não estavam no trem marítimo.
 
 358
-00:25:55,240 --> 00:25:57,370
-– É!
-– É!
+00:26:25,400 --> 00:26:28,980
+Então eles ainda estão em algum lugar na ilha, hein?
 
 359
-00:26:13,430 --> 00:26:15,140
-Venham!
+00:26:28,980 --> 00:26:32,820
+Mas eles são idiotas se realmente aparecerem com todos esses guardas por perto.
 
 360
-00:26:16,970 --> 00:26:20,480
-Cala a boca! Fica quieto, Tilestone!
+00:26:33,360 --> 00:26:37,780
+Ouvi dizer que aquele idiota entrou aqui hoje no meio do dia.
 
 361
-00:26:22,060 --> 00:26:24,900
-Me disseram que eles não estavam no sea train.
+00:26:38,540 --> 00:26:40,580
+O bom senso não se aplica a eles.
 
 362
-00:26:25,400 --> 00:26:28,980
-Então ainda estão em algum lugar
-na ilha, né?
+00:26:41,450 --> 00:26:43,040
+Hum,
 
 363
-00:26:28,980 --> 00:26:32,820
-Mas seriam idiotas se realmente aparecessem
-com toda essa segurança.
-
-364
-00:26:33,360 --> 00:26:37,780
-Ouvi que um idiota invadiu aqui
-no meio do dia hoje.
-
-365
-00:26:38,540 --> 00:26:40,580
-Senso comum não se aplica a eles.
-
-366
-00:26:41,450 --> 00:26:43,040
-Bom...
-
-367
 00:26:43,830 --> 00:26:46,580
 eles não precisam ir tão longe.
 
-368
+364
 00:26:46,580 --> 00:26:48,670
-Estão fazendo isso por conta própria.
+Eles estão fazendo isso voluntariamente.
 
-369
+365
 00:26:49,550 --> 00:26:50,670
 É como se eu fosse um rei.
 
-370
+366
 00:26:51,380 --> 00:26:55,890
-A propósito, por que você colocou o cartaz de
-procurada da Nico Robin no seu quarto?
+A propósito, por que você colocou o cartaz de procurado da Nico Robin no seu quarto?
 
-371
+367
 00:26:56,800 --> 00:26:57,970
-Curioso?
+Isso te incomoda?
 
-372
+368
 00:27:00,390 --> 00:27:00,890
 Um pouco.
 
-373
+369
 00:27:05,440 --> 00:27:07,190
-É melhor que você não saiba.
+É melhor se você não souber.
 
-374
+370
 00:27:10,940 --> 00:27:13,400
 Ela é... um demônio.
 
-375
+371
 00:27:40,930 --> 00:27:43,180
-Tem muitos guardas no local...
+Toneladas de pessoas estão guardando a entrada.
+
+372
+00:27:43,470 --> 00:27:45,350
+É um pouco longe.
+
+373
+00:27:45,350 --> 00:27:47,520
+Você pode simplesmente esticar seu braço e voar para lá, certo?
+
+374
+00:27:47,520 --> 00:27:49,360
+Mas depois que a comoção começar, ok?
+
+375
+00:27:49,360 --> 00:27:55,070
+É. Se nós causarmos uma comoção antes deles, eles vão tirar vantagem disso.
 
 376
-00:27:43,470 --> 00:27:45,350
-É meio longe.
-
-377
-00:27:45,350 --> 00:27:49,360
-Você estica o braço e voa até lá,
-mas só depois da confusão começar, tá?
-
-378
-00:27:49,360 --> 00:27:55,070
-É. Se a gente causar a confusão antes deles,
-eles é que terão a vantagem.
-
-379
 00:27:55,070 --> 00:27:56,950
 Escutem!
 
-380
+377
 00:27:56,950 --> 00:27:59,030
 Não percam nem o menor movimento!
 
-381
+378
 00:27:59,660 --> 00:28:04,000
-– É!
-– É!
+Sim!
+
+379
+00:04:48,730 --> 00:04:55,320
+Estalajadeiro
+
+380
+00:04:48,730 --> 00:04:55,320
+Estalajadeiro
+
+381
+00:24:44,590 --> 00:24:48,510
+Armazém do porão do estaleiro
+(Centro de Evacuação)
 
 382
-00:04:48,730 --> 00:04:55,320
-Innkeeper
+00:24:44,590 --> 00:24:48,510
+Armazém do porão do estaleiro
+(Centro de Evacuação)
 
 383
-00:04:48,730 --> 00:04:55,320
-Innkeeper
+00:24:44,590 --> 00:24:48,510
+Armazém do porão do estaleiro
+(Centro de Evacuação)
 
 384
-00:24:44,590 --> 00:24:48,510
-Shipyard Basement Storeroom
-(Evacuation Center)
+00:26:06,710 --> 00:26:12,590
+Fora do quarto de Iceburg
 
 385
-00:24:44,590 --> 00:24:48,510
-Shipyard Basement Storeroom
-(Evacuation Center)
+00:26:06,710 --> 00:26:12,590
+Fora do quarto de Iceburg
 
 386
-00:24:44,590 --> 00:24:48,510
-Shipyard Basement Storeroom
-(Evacuation Center)
+00:26:06,710 --> 00:26:12,590
+Fora do quarto de Iceburg
 
 387
-00:26:06,710 --> 00:26:12,590
-Outside Iceburg's Bedroom
+00:26:43,080 --> 00:26:48,920
+Quarto
 
 388
-00:26:06,710 --> 00:26:12,590
-Outside Iceburg's Bedroom
+00:26:43,080 --> 00:26:48,920
+Quarto
 
 389
-00:26:06,710 --> 00:26:12,590
-Outside Iceburg's Bedroom
+00:26:43,080 --> 00:26:48,920
+Quarto
 
 390
-00:26:43,080 --> 00:26:48,920
-Bedroom
+00:00:03,990 --> 00:00:08,050
+Está tudo bem! É hora de seguir em frente!
 
 391
-00:26:43,080 --> 00:26:48,920
-Bedroom
+00:00:08,310 --> 00:00:11,590
+Com o sol sempre brilhando em nossos corações!
 
 392
-00:26:43,080 --> 00:26:48,920
-Bedroom
+00:00:11,730 --> 00:00:15,010
+De mãos dadas, transmitimos nosso poder...
+
+393
+00:00:15,100 --> 00:00:18,680
+e realizamos nossos desejos!
+
+394
+00:00:26,240 --> 00:00:32,490
+Combinando nossas forças, alcançaremos o topo desses mares agitados
+
+395
+00:00:33,750 --> 00:00:40,290
+Corra em direção à emoção do perigo. Que a aventura comece!
+
+396
+00:00:40,960 --> 00:00:47,130
+Agora é hora de navegar. Basta içar a âncora...
+
+397
+00:00:47,930 --> 00:00:55,010
+e vamos cortar os ventos arco-íris rumo a um mar de aventuras!
+
+398
+00:00:55,060 --> 00:00:58,550
+Será uma jornada carregada de sofrimento,
+
+399
+00:00:58,560 --> 00:01:02,270
+mas aquilo que você mais preza estará bem ao nosso lado!
+
+400
+00:01:02,400 --> 00:01:06,350
+E se você estiver em apuros,
+
+401
+00:01:06,450 --> 00:01:08,360
+eu sempre estarei lá para te proteger!
+
+402
+00:01:09,450 --> 00:01:13,360
+Está tudo bem! É hora de seguir em frente!
+
+403
+00:01:13,660 --> 00:01:16,820
+Com o sol sempre brilhando em nossos corações!
+
+404
+00:01:17,170 --> 00:01:20,330
+Juntos enfrentamos todas as tempestades que se aproximam
+
+405
+00:01:20,370 --> 00:01:24,200
+e olhamos para o futuro em busca da luz para ter esperança!
+
+406
+00:01:24,670 --> 00:01:27,920
+Se juntarmos os pedaços dos nossos sonhos
+
+407
+00:01:28,390 --> 00:01:31,550
+formaremos um mapa que nos levará ao amanhã!
+
+408
+00:01:31,680 --> 00:01:34,720
+Então vamos abraçar nossos desejos!
+
+409
+00:01:35,100 --> 00:01:40,450
+Todos sob uma só bandeira, juntos somos um só!
