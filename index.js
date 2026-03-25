@@ -37,7 +37,7 @@ const manifest = {
   name: "One Pace PT-BR Subs",
   description:
     "Legendas em Português do Brasil para o One Pace. Baseado no repo oficial one-pace-public-subtitles.",
-  logo: "https://onepace.net/images/one-pace-logo.svg",
+  logo: "https://raw.githubusercontent.com/rafaelmotac/onepace-ptbr-addon/main/logo.png",
   resources: [{ name: "subtitles", types: ["series"] }],
   types: ["series"],
   catalogs: [],
