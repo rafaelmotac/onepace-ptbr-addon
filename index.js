@@ -1,14 +1,17 @@
 import sdk from "stremio-addon-sdk";
 import fs from "node:fs";
 import path from "node:path";
+import { fileURLToPath } from "node:url";
 
 const { addonBuilder, serveHTTP } = sdk;
 
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+
 const pkg = JSON.parse(
-  fs.readFileSync(path.join(import.meta.dirname, "package.json"), "utf-8")
+  fs.readFileSync(path.join(__dirname, "package.json"), "utf-8")
 );
 
-const SUBS_DIR = path.join(import.meta.dirname, "subs");
+const SUBS_DIR = path.join(__dirname, "subs");
 let subtitleMap = {};
 
 try {
