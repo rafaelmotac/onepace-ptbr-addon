@@ -1442,5 +1442,45 @@
   "WS_20": {
     "srt": "WS_20.srt",
     "ass": "WS_20.ass"
+  },
+  "ZO_1": {
+    "srt": "ZO_1.srt",
+    "ass": "ZO_1.ass"
+  },
+  "ZO_2": {
+    "srt": "ZO_2.srt",
+    "ass": "ZO_2.ass"
+  },
+  "ZO_3": {
+    "srt": "ZO_3.srt",
+    "ass": "ZO_3.ass"
+  },
+  "ZO_4": {
+    "srt": "ZO_4.srt",
+    "ass": "ZO_4.ass"
+  },
+  "ZO_5": {
+    "srt": "ZO_5.srt",
+    "ass": "ZO_5.ass"
+  },
+  "ZO_6": {
+    "srt": "ZO_6.srt",
+    "ass": "ZO_6.ass"
+  },
+  "ZO_7": {
+    "srt": "ZO_7.srt",
+    "ass": "ZO_7.ass"
+  },
+  "ZO_8": {
+    "srt": "ZO_8.srt",
+    "ass": "ZO_8.ass"
+  },
+  "ZO_9": {
+    "srt": "ZO_9.srt",
+    "ass": "ZO_9.ass"
+  },
+  "ZO_10": {
+    "srt": "ZO_10.srt",
+    "ass": "ZO_10.ass"
   }
 }
