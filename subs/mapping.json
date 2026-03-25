@@ -191,6 +191,10 @@
     "srt": "COVER_SHSS_1.srt",
     "ass": "COVER_SHSS_1.ass"
   },
+  "COVER_WAPOL_1": {
+    "srt": "COVER_WAPOL_1.srt",
+    "ass": "COVER_WAPOL_1.ass"
+  },
   "DI_1": {
     "srt": "DI_1.srt",
     "ass": "DI_1.ass"
