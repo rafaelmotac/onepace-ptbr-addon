@@ -43,7 +43,7 @@ const manifest = {
   catalogs: [],
   stremioAddonsConfig: {
     issuer: "https://stremio-addons.net",
-    signature: "eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..p7T6EOO-EeLRFjL5d0d8Ww.1HAzvkMPt-XF8kFV27ES2yrUKiwvEDgUeO-NvdGrvVKnJU_edjaQLUY6kEFKy-n4WUCtYvJ4ldrSW2HArbwZ0xMbrUg-G4Hs-L-lO9mcilxXs_KIpvIXc4CSKlVmCWda.ntKSzoV4xWJm7YZ1YRkB_w",
+    signature: "eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..5mkrJ5fUekg2XUqOjE4ZhQ.ZhDULhFv2_Zpf74cCI939gkmp81CyVPNBeUJfwFKV00xkUz6CT4VdSeqmj6___hW1tqM9sLGmqam5RehspFO3Nfxk8624d6ovawQCaBGhr36Gum8RxHiMai1lV_GoT1K.p1elwQWkTdNGaPalgjnUXA",
   },
 };
 
