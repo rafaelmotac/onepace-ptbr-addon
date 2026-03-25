@@ -375,6 +375,26 @@
     "srt": "OR_3.srt",
     "ass": "OR_3.ass"
   },
+  "PEN_1": {
+    "srt": "PEN_1.srt",
+    "ass": "PEN_1.ass"
+  },
+  "PEN_2": {
+    "srt": "PEN_2.srt",
+    "ass": "PEN_2.ass"
+  },
+  "PEN_3": {
+    "srt": "PEN_3.srt",
+    "ass": "PEN_3.ass"
+  },
+  "PEN_4": {
+    "srt": "PEN_4.srt",
+    "ass": "PEN_4.ass"
+  },
+  "PEN_5": {
+    "srt": "PEN_5.srt",
+    "ass": "PEN_5.ass"
+  },
   "PW_1": {
     "srt": "PW_1.srt",
     "ass": "PW_1.ass"
