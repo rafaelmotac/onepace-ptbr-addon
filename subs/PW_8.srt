@@ -1,3896 +1,3671 @@
 1
-00:00:00,000 --> 00:00:09,990
-Your media player does not support the subtitle format used in this episode.
-Subtitles will likely not function properly.
-Please use one of the recommended video players, preferably mpv:
-https://mpv.io
+00:02:34,180 --> 00:02:36,700
+A era do Barba Branca acabou.
 
 2
-00:02:32,510 --> 00:02:42,500
-Your media player does not support the subtitle format used in this episode.
-Subtitles will likely not function properly.
-Please use one of the recommended video players, preferably mpv:
-https://mpv.io
+00:02:35,370 --> 00:02:41,110
+Grand Line, perto do Arquipélago de Sabaody
 
 3
-00:02:34,180 --> 00:02:36,700
-Whitebeard's era is over.
+00:02:35,370 --> 00:02:41,110
+Grand Line, perto do Arquipélago de Sabaody
 
 4
 00:02:36,700 --> 00:02:41,110
-Burning ambition spurs pirates
-the world over into action.
+Piratas em todo o mundo agem com ambição ardente.
 
 5
 00:02:41,110 --> 00:02:45,010
-And then there's Trafalgar Law...
+Por outro lado, Trafalgar Law está...
 
 6
 00:02:45,010 --> 00:02:47,630
-What? We're still not going?
+O quê? Ainda não vamos?
 
 7
 00:02:47,630 --> 00:02:49,920
-Let's just go to the New World already!
+Vamos logo para o Novo Mundo!
 
 8
-00:02:50,820 --> 00:02:53,970
-I told you, we're waiting for the right time.
+00:02:49,920 --> 00:02:53,970
+Eu disse, estamos esperando o momento certo.
 
 9
-00:02:53,970 --> 00:02:55,250
-Don't rush things.
+00:02:53,320 --> 00:02:58,890
+Trafalgar Law
 
 10
-00:02:55,250 --> 00:02:58,890
-The great treasure, One Piece, isn't going anywhere.
+00:02:53,320 --> 00:02:58,890
+Trafalgar Law
 
 11
-00:02:58,890 --> 00:03:03,250
-But you know, Blackbeard and his group
-are causing a stir in the New World!
+00:02:53,970 --> 00:02:55,250
+Não apresse as coisas.
 
 12
-00:03:03,250 --> 00:03:07,830
-Rumor has it that they've
-already crushed one pirate crew!
+00:02:55,250 --> 00:02:58,890
+O grande tesouro, One Piece, não vai a lugar nenhum.
 
 13
-00:03:07,830 --> 00:03:13,040
-These 100-million-bounty rookies are streaming
-into the New World to snag a spot as an Emperor!
+00:02:58,890 --> 00:03:03,250
+Mas você sabe, Barba Negra e seu grupo estão causando um rebuliço no Novo Mundo!
 
 14
-00:03:13,040 --> 00:03:17,910
-If we keep hanging back here,
-we're gonna fall behind, Captain!
+00:03:03,250 --> 00:03:07,830
+Há rumores de que eles já destruíram uma tripulação pirata!
 
 15
-00:03:17,910 --> 00:03:21,960
-It's better for us if they're
-trying to destroy one another.
+00:03:07,830 --> 00:03:13,040
+E há um bando de novatos com recompensas de mais de cem milhões entrando no Novo Mundo!
 
 16
-00:03:21,960 --> 00:03:24,440
-We won't get involved in those petty fights.
+00:03:13,040 --> 00:03:17,910
+Se ficarmos aquis, vamos ficar para trás, Capitão!
 
 17
-00:03:25,680 --> 00:03:29,690
-Quit whining and just follow my orders.
+00:03:17,910 --> 00:03:21,960
+Esses caras podem continuar se eliminando.
 
 18
-00:03:29,690 --> 00:03:32,860
-When the time is right,
-we'll rise to the top.
+00:03:21,960 --> 00:03:24,440
+Eu não vou participar de brigas sem sentido.
 
 19
-00:03:32,860 --> 00:03:34,390
-Captain!
+00:03:25,680 --> 00:03:29,690
+Pare de choramingar e siga minhas ordens.
 
 20
-00:03:34,390 --> 00:03:36,290
-We'll follow you anywhere!
+00:03:29,690 --> 00:03:32,860
+Há um trono nos esperando, nunca duvide disso.
 
 21
-00:03:36,290 --> 00:03:38,730
-Aye aye, Captain!
+00:03:32,860 --> 00:03:34,390
+Capitão!
 
 22
-00:03:42,570 --> 00:03:48,010
-Kaido, one of the Four Emperors,
-highly favors this island base.
+00:03:34,390 --> 00:03:36,290
+Nós o seguiremos aonde quer que você vá!
 
 23
-00:03:48,010 --> 00:03:50,480
-And I'm in charge of security here.
+00:03:36,290 --> 00:03:38,730
+Aye aye, Capitão!
 
 24
-00:03:50,480 --> 00:03:53,080
-And? What do you want me to do?
+00:03:38,960 --> 00:03:42,570
+Uma Ilha de Inverno, o Novo Mundo
 
 25
-00:03:53,080 --> 00:03:57,460
-I'm not telling you to do anything.
-It's just a warning.
+00:03:38,960 --> 00:03:42,570
+Uma Ilha de Inverno, o Novo Mundo
 
 26
-00:03:57,460 --> 00:04:01,770
-You're better off not angering Kaido, rookie.
+00:03:42,570 --> 00:03:48,010
+Esta é a base favorita de Kaido, um dos Quatro Imperadores.
 
 27
-00:04:01,770 --> 00:04:06,480
-In other words, if I take your head,
-then Kaido will come for mine?
+00:03:48,010 --> 00:03:50,480
+Fui incumbido de guardá-lo.
 
 28
-00:04:06,480 --> 00:04:09,760
-Now he gets it! If so, then you can–
+00:03:50,480 --> 00:03:53,080
+E? O que você quer que eu faça?
 
 29
-00:04:09,760 --> 00:04:11,830
-That simplifies the matter!
+00:03:50,540 --> 00:03:53,080
+X Drake
 
 30
-00:04:13,930 --> 00:04:18,170
-An ancient zoan type, huh? Now, that's rare!
+00:03:50,540 --> 00:03:53,080
+X Drake
 
 31
-00:04:26,360 --> 00:04:28,250
-Scratch...
+00:03:53,080 --> 00:03:57,460
+Não estou dizendo para você fazer nada. É só um aviso.
 
 32
-00:04:28,250 --> 00:04:29,900
-Boom!
+00:03:57,460 --> 00:04:01,770
+É melhor não irritar Kaido, novato.
 
 33
-00:04:38,510 --> 00:04:40,490
-\h\h\hThere're quite a few left...!
+00:04:01,770 --> 00:04:06,480
+Em outras palavras, se eu cortar sua cabeça, Kaido vai agir?
 
 34
-00:04:40,490 --> 00:04:42,390
-\h\h\hWe really stepped in it...
+00:04:06,480 --> 00:04:09,760
+De fato. Se você entendeu, então pare de enrolar e apenas-
 
 35
-00:04:42,390 --> 00:04:44,300
-Ouch...
+00:04:09,760 --> 00:04:11,830
+Isso torna as coisas muito mais fáceis!
 
 36
-00:04:44,300 --> 00:04:48,900
-Don't worry, guys! We've got
-Captain Apoo on our side!
+00:04:13,930 --> 00:04:18,170
+Um tipo zoan antigo, hein? Isso sim é raro!
 
 37
-00:04:49,540 --> 00:04:50,960
-Listen up, men!
+00:04:26,360 --> 00:04:28,100
+Scratch!
 
 38
-00:04:50,960 --> 00:04:52,110
-– Aye!
-– Aye!
+00:04:27,280 --> 00:04:31,480
+Uma Ilha da Primavera, o Novo Mundo
 
 39
-00:04:52,110 --> 00:04:53,140
-Make a run for it!
+00:04:27,280 --> 00:04:31,480
+Uma Ilha da Primavera, o Novo Mundo
 
 40
-00:04:53,140 --> 00:04:54,610
-– What?!
-– What?!
+00:04:38,510 --> 00:04:40,490
+Ainda tem tantos deles?!
 
 41
-00:04:56,070 --> 00:05:00,030
-There's no winning against
-a herd of those wild boars!
+00:04:38,260 --> 00:04:42,330
+Scratchmen Apoo
 
 42
-00:05:02,090 --> 00:05:05,550
-Captain! We're headed straight for a cliff!
+00:04:38,260 --> 00:04:42,330
+Scratchmen Apoo
 
 43
-00:05:05,550 --> 00:05:07,350
-It's our best bet for escape!
+00:04:40,490 --> 00:04:42,390
+Isso é sério.
 
 44
-00:05:08,860 --> 00:05:10,910
-Oh no! We're done for!
+00:04:42,390 --> 00:04:44,300
+Ai.
 
 45
-00:05:10,910 --> 00:05:11,990
-Don't give up!
+00:04:44,300 --> 00:04:48,900
+Não se preocupem, rapazes! Temos o Capitão Apoo do nosso lado!
 
 46
-00:05:11,990 --> 00:05:14,590
-But the ocean's right beneath that cliff!
+00:04:49,540 --> 00:04:50,960
+Escutem, homens!
 
 47
-00:05:14,590 --> 00:05:16,790
-Who cares?! Jump!
+00:04:50,960 --> 00:04:52,110
+Sim!
 
 48
-00:05:16,790 --> 00:05:19,340
-– What?!
-– What?!
+00:04:52,110 --> 00:04:53,140
+Vamos dar o fora daqui!
 
 49
-00:05:19,340 --> 00:05:20,300
-What the...?!
+00:04:53,140 --> 00:04:54,610
+O quê?!
 
 50
-00:05:20,300 --> 00:05:23,700
-Captain! I don't know if you noticed,
-but we're running on air!
+00:04:56,070 --> 00:05:00,030
+Não tem como derrotarmos um exército inteiro desses javalis ferozes!
 
 51
-00:05:23,700 --> 00:05:26,340
-The boars are following us into the air too!
+00:05:02,090 --> 00:05:05,430
+Capitão! Estamos indo direto para um penhasco!
 
 52
-00:05:26,340 --> 00:05:28,340
-I can see that!
+00:05:05,430 --> 00:05:07,350
+Bem, temos que escapar de alguma forma!
 
 53
-00:05:28,340 --> 00:05:32,480
-What the hell is with this island?!
+00:05:09,840 --> 00:05:10,910
+Estamos acabados!
 
 54
-00:05:34,180 --> 00:05:36,650
-It's so hot...
+00:05:10,910 --> 00:05:11,990
+Não desista!
 
 55
-00:05:37,130 --> 00:05:39,950
-My legs can't take it anymore.
+00:05:11,990 --> 00:05:14,590
+Mas esse é o oceano logo abaixo daquele penhasco!
 
 56
-00:05:39,950 --> 00:05:42,930
-There's no strength in my body either...
+00:05:14,590 --> 00:05:16,790
+Eu não me importo! Pule!
 
 57
-00:05:42,930 --> 00:05:45,920
-Ouch. A fish just bit me.
+00:05:16,790 --> 00:05:17,960
+Huuuuuh?!
 
 58
-00:05:45,920 --> 00:05:48,890
-Quit your bellyaching, Wolf!
+00:05:19,030 --> 00:05:19,800
+O que?!
 
 59
-00:05:48,890 --> 00:05:52,260
-Our raft almost broke because of you.
+00:05:19,800 --> 00:05:23,700
+Capitão! Não sei se você percebeu, mas estamos no ar!
 
 60
-00:05:52,260 --> 00:05:54,480
-That's why we're in this situation.
+00:05:23,700 --> 00:05:26,340
+Os javalis também estão nos seguindo no ar!
 
 61
-00:05:54,480 --> 00:06:00,710
-Trying to sail the seas of the New World
-on that raft was an absurd idea anyway.
+00:05:26,340 --> 00:05:28,340
+Eu posso ver isso!
 
 62
-00:06:01,410 --> 00:06:05,980
-We should've stolen a warship back at Marineford!
+00:05:28,340 --> 00:05:32,480
+O que há com essa ilha?!
 
 63
-00:06:05,980 --> 00:06:09,650
-We had grown attached to that raft, though.
+00:05:34,180 --> 00:05:36,650
+Está tão quente...
 
 64
-00:06:09,650 --> 00:06:14,150
-You guys don't prepare for anything.
+00:05:37,130 --> 00:05:39,950
+Minhas pernas estão totalmente exaustas...
 
 65
-00:06:14,150 --> 00:06:16,190
-Put me in command!
+00:05:36,780 --> 00:05:41,520
+San Juan Wolf
 
 66
-00:06:16,190 --> 00:06:18,990
-I'll take over as captain for you, Teach.
+00:05:36,780 --> 00:05:41,520
+San Juan Wolf
 
 67
-00:06:20,260 --> 00:06:22,130
-Don't make me kill you.
+00:05:39,950 --> 00:05:42,930
+Não há força em meu corpo também...
 
 68
-00:06:22,130 --> 00:06:24,260
-We're the Blackbeard Pirates.
+00:05:42,930 --> 00:05:45,920
+Ai. Um peixe acabou de me morder.
 
 69
-00:06:24,260 --> 00:06:28,940
-Heaven already knows the fate of all.
+00:05:46,020 --> 00:05:52,230
+Em uma certa ilha em chamas no Novo Mundo
 
 70
-00:06:32,040 --> 00:06:33,710
-We're running low on booze.
+00:05:46,020 --> 00:05:52,230
+Em uma certa ilha em chamas no Novo Mundo
 
 71
-00:06:33,710 --> 00:06:36,670
-Can't we go to an island with a town?
+00:05:46,260 --> 00:05:48,890
+Pare de se preocupar, Wolf.
 
 72
-00:06:38,530 --> 00:06:39,610
-I agree.
+00:05:48,890 --> 00:05:52,260
+Por sua causa, nossa jangada quase quebrou.
 
 73
-00:06:39,610 --> 00:06:42,480
-But forget the ship; I need some nicer clothes.
+00:05:52,260 --> 00:05:54,480
+É por isso que estamos fazendo isso.
 
 74
-00:06:42,480 --> 00:06:44,680
-I'm so sick of these prison clothes.
+00:05:54,480 --> 00:06:00,710
+Tentar navegar pelos mares do Novo Mundo naquela jangada era uma ideia absurda de qualquer maneira.
 
 75
-00:06:44,680 --> 00:06:46,550
-I'll go take a look.
+00:06:00,710 --> 00:06:05,980
+Se eu soubesse que seria assim, teríamos roubado um navio de guerra em Marineford.
 
 76
-00:06:46,550 --> 00:06:48,750
-They're taking too long.
+00:06:00,810 --> 00:06:05,980
+Marshall D. Teach
 
 77
-00:06:48,750 --> 00:06:53,530
-No argument here. But these guys
-sure look to be going numb.
+00:06:00,810 --> 00:06:05,980
+Marshall D. Teach
 
 78
-00:06:56,890 --> 00:06:57,830
-Ain't that right...
+00:06:05,980 --> 00:06:09,650
+Estamos todos apegados àquela velha jangada.
 
 79
+00:06:06,110 --> 00:06:09,650
+Jesus Burgess
+
+80
+00:06:06,110 --> 00:06:09,650
+Jesus Burgess
+
+81
+00:06:09,650 --> 00:06:14,150
+Estou dizendo que você é muito descuidado! Em tudo que faz.
+
+82
+00:06:09,780 --> 00:06:14,150
+Shiryu
+
+83
+00:06:09,780 --> 00:06:14,150
+Shiryu
+
+84
+00:06:14,150 --> 00:06:18,990
+Coloque-me no comando! Eu assumo o comando de capitão para você, Teach.
+
+85
+00:06:14,290 --> 00:06:18,990
+Avalo Pizarro
+
+86
+00:06:14,290 --> 00:06:18,990
+Avalo Pizarro
+
+87
+00:06:20,260 --> 00:06:24,260
+Eu vou te matar. Nós somos os Piratas do Barba Negra.
+
+88
+00:06:19,120 --> 00:06:24,260
+Lafitte
+
+89
+00:06:19,120 --> 00:06:24,260
+Lafitte
+
+90
+00:06:24,260 --> 00:06:28,940
+O céu já sabe o destino de todos.
+
+91
+00:06:24,400 --> 00:06:29,600
+Doc Q
+
+92
+00:06:24,400 --> 00:06:29,600
+Doc Q
+
+93
+00:06:32,040 --> 00:06:36,670
+Estamos quase sem bebida. Não podemos ir para uma ilha com uma cidade em breve?
+
+94
+00:06:30,070 --> 00:06:36,670
+Vasco Shot
+
+95
+00:06:30,070 --> 00:06:36,670
+Vasco Shot
+
+96
+00:06:38,530 --> 00:06:42,480
+Eu concordo. Embora em vez de um navio, eu gostaria de algumas roupas bonitas.
+
+97
+00:06:36,810 --> 00:06:42,910
+Catarina Devon
+
+98
+00:06:36,810 --> 00:06:42,910
+Catarina Devon
+
+99
+00:06:42,480 --> 00:06:44,680
+Estou tão farta dessas roupas de prisão!
+
+100
+00:06:44,680 --> 00:06:46,550
+Vou dar uma olhada.
+
+101
+00:06:44,720 --> 00:06:48,250
+Van Ogre
+
+102
+00:06:44,720 --> 00:06:48,250
+Van Ogre
+
+103
+00:06:46,550 --> 00:06:48,750
+Eles estão demorando muito.
+
+104
+00:06:48,750 --> 00:06:53,530
+Caramba, esses caras estão me deixando cansado de esperar.
+
+105
+00:06:56,890 --> 00:06:57,830
+Não é mesmo,
+
+106
 00:06:57,830 --> 00:07:00,570
 Jewelry Bonney?
 
-80
-00:07:00,570 --> 00:07:03,140
-Captain Bonney...
-
-81
-00:07:06,700 --> 00:07:12,080
-I'm impressed that a young lady like yourself
-managed to get a bounty of over 100 million!
-
-82
-00:07:12,080 --> 00:07:16,010
-The New World is best left to the strong.
-
-83
-00:07:16,010 --> 00:07:19,300
-You did well making it
-this far from the South Blue,
-
-84
-00:07:19,300 --> 00:07:22,000
-but this is the last stop on your voyage.
-
-85
-00:07:26,620 --> 00:07:30,190
-I don't need a weakling like you on my crew.
-
-86
-00:07:30,190 --> 00:07:34,630
-However, if you become my woman,
-I'll gladly take you along.
-
-87
-00:07:35,930 --> 00:07:38,880
-Come see the waters ahead. Huh?
-
-88
-00:07:39,300 --> 00:07:41,670
-Screw you, you bearded pig!
-
-89
-00:07:44,660 --> 00:07:46,140
-Seems you've been rejected.
-
-90
-00:07:46,140 --> 00:07:49,540
-Forget it! You're one crude bitch!
-
-91
-00:07:49,540 --> 00:07:51,850
-A woman should be classy, after all!
-
-92
-00:07:51,850 --> 00:07:55,150
-I've already got all the ruffians
-I need on my crew!
-
-93
-00:07:55,150 --> 00:07:57,720
-Yeah, you tell her!
-
-94
-00:07:59,490 --> 00:08:02,930
-We'll stick to the plan where
-we hand you off to the Marines
-
-95
-00:08:02,930 --> 00:08:05,730
-in exchange for a proper warship!
-
-96
-00:08:05,730 --> 00:08:07,030
-Captain.
-
-97
-00:08:06,630 --> 00:08:07,050
-Huh?
-
-98
-00:08:07,050 --> 00:08:08,830
-I can see the Marines.
-
-99
-00:08:08,830 --> 00:08:11,890
-They've got the warship
-they promised us, right?!
-
-100
-00:08:11,890 --> 00:08:14,840
-There's indeed a ship,
-but I doubt it's intended for us.
-
-101
-00:08:14,840 --> 00:08:17,310
-Huh? How can you tell?
-
-102
-00:08:18,780 --> 00:08:20,950
-Akainu is on board.
-
-103
-00:08:20,950 --> 00:08:24,550
-Damn! This just got too rich for me!
-
-104
-00:08:24,550 --> 00:08:26,620
-Let's get the hell outta here!
-
-105
-00:08:28,510 --> 00:08:30,460
-A complete failure!
-
-106
-00:08:33,690 --> 00:08:35,570
-Where's Blackbeard?
-
 107
-00:08:35,570 --> 00:08:37,100
-He's gone!
+00:06:58,130 --> 00:07:03,130
+Jewelry Bonney
 
 108
-00:08:37,100 --> 00:08:40,620
-When I heard you'd fled from the government,
+00:06:58,130 --> 00:07:03,130
+Jewelry Bonney
 
 109
-00:08:40,620 --> 00:08:42,500
-my blood ran cold.
+00:07:00,570 --> 00:07:03,020
+Capitã Bonney...
 
 110
-00:08:44,040 --> 00:08:46,910
-But it's all over now.
+00:07:06,700 --> 00:07:12,080
+Estou impressionado que uma garota como você conseguiu uma recompensa de mais de cem milhões!
 
 111
-00:08:48,510 --> 00:08:51,810
-You bastards are gonna pay!
+00:07:12,080 --> 00:07:16,010
+O Novo Mundo é reservado para os fortes escolhidos!
 
 112
-00:08:58,450 --> 00:08:59,650
-He vanished?!
+00:07:16,010 --> 00:07:19,300
+Você se saiu bem chegando tão longe de South Blue,
 
 113
-00:08:59,650 --> 00:09:02,850
-Yup, that's the honest truth.
+00:07:19,300 --> 00:07:22,000
+mas este é o seu fim.
 
 114
-00:09:03,060 --> 00:09:07,230
-Whose idea was this?! Sengoku's?!
+00:07:26,620 --> 00:07:30,190
+Não vou deixar você se juntar à minha tripulação, já que você é muito fraca,
 
 115
-00:09:07,230 --> 00:09:11,260
-No... Even higher than that.
+00:07:30,190 --> 00:07:34,630
+Mas, que tal isso? Se você se tornar minha mulher, eu te levarei com prazer.
 
 116
-00:09:14,100 --> 00:09:18,570
-And I'm not talking in metaphors.
-Literally, he was gone like "poof"!
+00:07:35,930 --> 00:07:38,140
+E seguir adiante nestes mares... Que tal?
 
 117
-00:09:19,480 --> 00:09:23,740
-It surprised me. I had no idea that
-the Shadow-Shadow Fruit could do that.
+00:07:39,300 --> 00:07:41,670
+Vai se ferrar, seu porco barbudo!
 
 118
-00:09:23,740 --> 00:09:25,340
-This is no laughing matter!
+00:07:44,660 --> 00:07:46,140
+Parece que você foi rejeitado.
 
 119
-00:09:25,340 --> 00:09:29,710
-It's fine. He was on the verge of death.
+00:07:46,140 --> 00:07:49,540
+Esqueça! Você é muito vulgar!
 
 120
-00:09:29,710 --> 00:09:32,150
-There's nothing he can do now.
+00:07:49,540 --> 00:07:51,850
+Mulheres devem ser dignas, certo?
 
 121
-00:09:32,150 --> 00:09:36,890
-Unless he somehow turned himself
-into a zombie, you know?
+00:07:51,850 --> 00:07:55,150
+Eu tenho caras vulgares mais do que o suficiente na minha tripulação!
 
 122
-00:09:36,890 --> 00:09:39,030
-That sure would suit him, after all.
+00:07:55,150 --> 00:07:57,720
+Sim, diga a ela!
 
 123
-00:09:39,030 --> 00:09:41,590
-You're too nonchalant
-about your sloppy work!
+00:07:59,490 --> 00:08:02,900
+Conforme planejado, nós a entregaremos à Marinha,
 
 124
-00:09:42,860 --> 00:09:45,730
-Don't get so cocky with me!
+00:08:02,900 --> 00:08:05,730
+em troca de um navio de guerra adequado!
 
 125
-00:09:45,730 --> 00:09:48,900
-When, exactly, did you become my boss?!
+00:08:05,730 --> 00:08:07,050
+Capitão.
 
 126
-00:09:48,900 --> 00:09:54,070
-No matter how far up the government
-ladder you've climbed, I'm a pirate.
+00:08:07,050 --> 00:08:08,830
+Eu posso ver a Marinha.
 
 127
-00:09:54,070 --> 00:09:55,370
-So I don't care!
+00:08:08,830 --> 00:08:11,890
+Eles têm o navio de guerra que nos prometeram, certo?!
 
 128
-00:09:56,810 --> 00:10:03,180
-The moment I lose interest in our little deal,
-I'll just drop out of the Seven Warlords!
+00:08:11,890 --> 00:08:14,840
+Eles têm um navio, mas duvido que nos darão.
 
 129
-00:10:03,180 --> 00:10:06,040
-Don't ever forget that.
+00:08:14,840 --> 00:08:17,310
+Ahn? Como você sabe?
 
 130
-00:10:10,560 --> 00:10:12,890
-M-Mister Tanuki!
+00:08:18,780 --> 00:08:20,950
+Akainu está a bordo.
 
 131
-00:10:12,890 --> 00:10:15,050
-We tell you come back anytime,
+00:08:20,950 --> 00:08:24,550
+Droga! Prefiro evitar esse cara por enquanto.
 
 132
-00:10:15,060 --> 00:10:17,160
-but this too soon, right?
+00:08:24,550 --> 00:08:26,620
+Vamos dar o fora daqui!
 
 133
-00:10:17,160 --> 00:10:19,610
-No, you've got the wrong man!
+00:08:28,510 --> 00:08:30,460
+Um fracasso completo!
 
 134
-00:10:19,610 --> 00:10:23,940
-I may look like him, but I'm
-actually his friend, Chopper Mask!
+00:08:33,690 --> 00:08:35,570
+Onde está o Barba Negra?
 
 135
-00:10:23,940 --> 00:10:26,020
-You trying too hard, Mister Tanuki.
+00:08:35,570 --> 00:08:37,100
+Ele se foi!
 
 136
-00:10:26,020 --> 00:10:30,020
-You use disguise to hide being
-embarrassed when coming back so soon?
+00:08:37,100 --> 00:08:40,620
+Quando soube que você tinha fugido do governo,
 
 137
-00:10:30,020 --> 00:10:32,240
-That's not it at all! I'm–
+00:08:40,620 --> 00:08:42,500
+meu sangue gelou.
 
 138
-00:10:36,430 --> 00:10:38,320
-Mister Tanuki okay?
+00:08:44,040 --> 00:08:46,910
+Mas agora está tudo acabado para você.
 
 139
-00:10:38,320 --> 00:10:42,320
-All being very mean.
+00:08:48,510 --> 00:08:51,810
+Eu nunca vou te perdoar por isso!
 
 140
-00:10:42,320 --> 00:10:45,020
-In situation like this, must play along.
+00:08:55,750 --> 00:08:58,450
+Mary Geoise, Red Line
 
 141
-00:10:45,590 --> 00:10:47,890
-Fine, you win!
-Your kindness got to me!
+00:08:55,750 --> 00:08:58,450
+Mary Geoise, Red Line
 
 142
-00:10:47,890 --> 00:10:49,530
-Oh, Mister Tanuki!
+00:08:58,450 --> 00:08:59,650
+Ele desapareceu?!
 
 143
-00:10:58,300 --> 00:11:01,270
-That tickles, you jerk!
+00:08:59,650 --> 00:09:02,850
+Sim, honestamente foi isso que aconteceu.
 
 144
-00:11:06,160 --> 00:11:11,590
-Truth be told, something came up.
-Mind if I stay a bit longer?
+00:09:03,450 --> 00:09:07,230
+Quem te colocou nisso? Sengoku?!
 
 145
-00:11:11,590 --> 00:11:15,220
-No worry! You very welcome here.
+00:09:07,230 --> 00:09:09,340
+Não...
 
 146
-00:11:15,790 --> 00:11:21,500
-There are so many plants growing
-on that tree that I've never seen before.
+00:09:09,340 --> 00:09:11,260
+Alguém acima dele.
 
 147
-00:11:21,500 --> 00:11:23,830
-Please let me study them!
+00:09:14,100 --> 00:09:18,570
+Também não é uma figura de linguagem. Ele simplesmente desapareceu na hora.
 
 148
-00:11:23,830 --> 00:11:27,330
-In that case, we have perfect place.
+00:09:19,480 --> 00:09:23,740
+Fiquei surpreso. Eu não tinha ideia de que a Kage Kage no Mi poderia fazer isso.
 
 149
-00:11:27,330 --> 00:11:30,900
-Also, I need to become
-stronger and more capable.
+00:09:23,740 --> 00:09:25,340
+Isso não é motivo para rir!
 
 150
-00:11:30,900 --> 00:11:32,370
-No time to waste.
+00:09:25,340 --> 00:09:29,710
+Está tudo bem. Ele estava à beira da morte.
 
 151
-00:11:32,880 --> 00:11:36,050
-Oh, Mister Tanuki? Back already?
+00:09:29,710 --> 00:09:32,150
+O que quer que ele tentasse fazer, seria tarde demais.
 
 152
-00:11:36,050 --> 00:11:37,680
-This great!
+00:09:32,150 --> 00:09:36,890
+A menos que ele tenha ido e se zumbificado, claro!
 
 153
-00:11:37,680 --> 00:11:42,380
-Everyone, I'll be staying on this island
-for a while, so let's get along!
+00:09:36,890 --> 00:09:39,030
+Mas isso seria bom para ele.
 
 154
-00:11:42,380 --> 00:11:44,950
-Right, this is place.
+00:09:39,030 --> 00:09:41,590
+Por que você está sendo tão despreocupado com isso?!
 
 155
-00:11:45,800 --> 00:11:47,660
-What is this?
+00:09:42,860 --> 00:09:45,730
+Pare de ser tão convencido.
 
 156
-00:11:47,660 --> 00:11:49,150
-This be...
+00:09:45,730 --> 00:09:48,900
+Quando, exatamente, você se tornou meu chefe?!
 
 157
-00:11:58,890 --> 00:12:01,200
-village library.
+00:09:48,900 --> 00:09:54,060
+Não importa quanta autoridade vocês tenham no governo, eu sou um pirata!
 
 158
-00:12:01,200 --> 00:12:03,240
-Use for research.
+00:09:54,060 --> 00:09:55,370
+Então eu não me importo!
 
 159
-00:12:03,240 --> 00:12:04,900
-Look at all the books!
+00:09:56,810 --> 00:10:03,180
+Se esse acordo com vocês parar de ser divertido, eu vou parar de ser um Shichibukai imediatamente.
 
 160
-00:12:06,620 --> 00:12:09,510
-There're so many,
-all the way from front to back!
+00:10:03,180 --> 00:10:06,040
+Lembre-se disso.
 
 161
-00:12:11,310 --> 00:12:12,540
-Incredible!
+00:10:10,220 --> 00:10:14,430
+Birdie Kingdom, no South Blue
 
 162
-00:12:12,540 --> 00:12:17,380
-They're all books about the plants I want
-to research and the medicines I want to make!
+00:10:10,220 --> 00:10:14,430
+Birdie Kingdom, no South Blue
 
 163
-00:12:17,380 --> 00:12:19,940
-There's no end to them!
+00:10:10,560 --> 00:10:15,050
+S-Senhor Guaxinim. Dissemos que você poderia voltar a qualquer momento,
 
 164
-00:12:19,940 --> 00:12:23,650
-On island, many plants make strong medicine.
+00:10:15,060 --> 00:10:17,160
+mas é muito cedo, certo?
 
 165
-00:12:24,250 --> 00:12:30,260
-Our technology make medicine, but birds
-always keep ingredients away from people.
+00:10:17,160 --> 00:10:19,610
+Não, você pegou o homem errado!
 
 166
-00:12:30,260 --> 00:12:32,630
-Was big problem for all.
+00:10:19,610 --> 00:10:23,940
+Posso parecer com ele, mas na verdade sou amigo dele, Chopper Mask!
 
 167
-00:12:32,630 --> 00:12:36,500
-I misjudged these islanders
-due to their appearance,
+00:10:23,940 --> 00:10:26,020
+Você está se esforçando demais, Senhor Guaxinim.
 
 168
-00:12:36,500 --> 00:12:40,440
-but now that I think about it,
-their weapons are really advanced.
+00:10:26,020 --> 00:10:30,020
+Você se disfarçou porque ficou envergonhado por ter voltado tão cedo?
 
 169
-00:12:40,440 --> 00:12:42,870
-They all resembled primitive savages,
+00:10:30,020 --> 00:10:32,240
+Não, eu continuo dizendo que você está errado!
 
 170
-00:12:42,870 --> 00:12:47,400
-but the science here is actually far along!
+00:10:36,430 --> 00:10:38,320
+Você está bem, Senhor Guaxinim?
 
 171
-00:12:47,400 --> 00:12:49,010
-There's so much to learn here!
+00:10:38,320 --> 00:10:42,320
+Vocês, parem de ser maus com ele.
 
 172
-00:12:49,010 --> 00:12:50,450
-Mister Tanuki!
+00:10:42,320 --> 00:10:45,020
+Nessas situações, nós apenas jogamos junto.
 
 173
-00:12:50,450 --> 00:12:54,810
-Maybe think you say all in head,
- but every word Mister Tanuki say out loud.
+00:10:45,590 --> 00:10:47,890
+Ah, tudo bem! Sua gentileza é muito dolorosa!
 
 174
-00:12:54,810 --> 00:12:56,790
-And very rude too!
+00:10:47,890 --> 00:10:49,530
+Oh, Senhor Guaxinim!
 
 175
-00:12:56,790 --> 00:13:01,190
-This country... I wonder how much
-I can do while I'm here!
+00:10:58,300 --> 00:11:01,270
+Isso faz cócegas, seu bastardo!
 
 176
-00:13:03,310 --> 00:13:04,660
-It's a yeti!
+00:11:06,160 --> 00:11:11,590
+Na verdade, tem uma coisa que eu tenho que fazer aqui. Posso ficar um pouco mais?
 
 177
-00:13:04,660 --> 00:13:05,810
-Shoot it dead!
+00:11:11,590 --> 00:11:15,220
+Claro! Você é sempre bem-vindo.
 
 178
-00:13:05,810 --> 00:13:06,960
-Don't let it get away!
+00:11:15,790 --> 00:11:21,500
+Há tantas plantas que nunca vi antes crescendo naquela árvore.
 
 179
-00:13:06,960 --> 00:13:08,470
-Take it down!
+00:11:21,500 --> 00:11:23,830
+Por favor, deixe-me pesquisá-las.
 
 180
-00:13:08,880 --> 00:13:11,110
-Pirates are incredible!
+00:11:23,830 --> 00:11:27,330
+Nesse caso, temos o lugar perfeito.
 
 181
-00:13:11,110 --> 00:13:14,290
-There are countless people like that out at sea!
+00:11:27,330 --> 00:11:30,900
+Eu preciso de mais resistência e poder também.
 
 182
-00:13:14,290 --> 00:13:17,100
-Chopper, go out to sea some day.
+00:11:30,900 --> 00:11:32,370
+Tenho que me apressar.
 
 183
-00:13:17,100 --> 00:13:21,460
-If you do, you'll realize just how
-small your own problems are.
+00:11:32,880 --> 00:11:34,620
+Oh, Senhor Guaxinim?
 
 184
-00:13:21,460 --> 00:13:26,530
-Compared to the rest of the world,
-your home island is this small!
+00:11:34,620 --> 00:11:36,050
+Você já voltou?
 
 185
-00:13:26,530 --> 00:13:27,570
-Really?
+00:11:36,050 --> 00:11:37,680
+Que bom.
 
 186
-00:13:27,570 --> 00:13:31,390
-No, it's smaller! Like this! It's true!
+00:11:37,680 --> 00:11:42,380
+Pessoal, vou ficar nesta ilha por um tempo, então vamos nos dar bem!
 
 187
-00:13:36,550 --> 00:13:38,960
-I'm not even a human!
+00:11:42,380 --> 00:11:44,950
+Certo, estamos aqui.
 
 188
-00:13:38,960 --> 00:13:40,600
-I'm a monster!
+00:11:45,800 --> 00:11:47,660
+O que é isso?
 
 189
-00:13:40,600 --> 00:13:43,520
-I can't join your crew!
+00:11:47,660 --> 00:11:49,150
+Isto é...
 
 190
-00:13:43,520 --> 00:13:44,550
-So...!
+00:11:58,890 --> 00:12:01,200
+a biblioteca da vila.
 
 191
-00:13:45,470 --> 00:13:47,080
-So I just came to say thank you...
+00:12:01,200 --> 00:12:03,240
+Se você quiser pesquisar, use isto.
 
 192
-00:13:50,480 --> 00:13:52,680
-I really appreciate you guys.
+00:12:03,240 --> 00:12:04,900
+Há tantos livros!
 
 193
-00:13:53,270 --> 00:13:55,790
-Thank you for asking me to join you.
+00:12:06,620 --> 00:12:09,510
+Há ainda mais! Está cheio de livros até o final!
 
 194
-00:13:56,870 --> 00:13:58,980
-I'll stay here, but...
+00:12:11,310 --> 00:12:17,380
+Incrível! São todos livros sobre as plantas que quero pesquisar e os medicamentos que quero fazer!
 
 195
-00:14:00,150 --> 00:14:03,090
-one day, if you feel like it, stop by agai–
+00:12:17,380 --> 00:12:19,940
+E há tantos deles!
 
 196
-00:14:03,090 --> 00:14:04,190
-Shut up!
+00:12:19,940 --> 00:12:23,650
+Existem muitas plantas para fazer remédios fortes nesta ilha.
 
 197
-00:14:04,190 --> 00:14:06,820
-Let's go!
+00:12:24,250 --> 00:12:32,630
+Temos tecnologia para fazer, mas antes os pássaros nos impediam de obter ingredientes.
 
 198
-00:14:19,690 --> 00:14:22,140
-Ever since Luffy brought me out to sea,
+00:12:32,630 --> 00:12:36,500
+Eu julguei as pessoas desta ilha pela aparência,
 
 199
-00:14:22,960 --> 00:14:25,110
-it's been a struggle just to keep up.
+00:12:36,500 --> 00:12:40,440
+mas agora que penso nisso, suas armas são bem de alta tecnologia.
 
 200
-00:14:26,040 --> 00:14:28,110
-How can I contribute more, Luffy?
+00:12:40,440 --> 00:12:47,400
+Eles pareciam um bando primitivo, mas este país realmente tem uma ciência muito avançada, não é?
 
 201
-00:14:34,150 --> 00:14:38,420
-I never want to experience
-anything like that again.
+00:12:47,400 --> 00:12:49,010
+Há muitas coisas para aprender aqui!
 
 202
-00:14:39,590 --> 00:14:40,490
-But...
+00:12:49,010 --> 00:12:54,810
+Senhor Guaxinim! Você acha que está pensando isso, mas está dizendo em voz alta!
 
 203
-00:14:41,060 --> 00:14:42,150
-back then...
+00:12:54,810 --> 00:12:56,790
+É muito rude também!
 
 204
-00:14:51,560 --> 00:14:56,210
-Luffy... was probably
-in more pain than any of us!
+00:12:56,790 --> 00:13:01,190
+Eu me pergunto o quanto eu posso aprender aqui!
 
 205
-00:14:58,980 --> 00:15:01,440
-Because you made me
-one of your crewmates...
+00:13:03,310 --> 00:13:04,660
+É o Abominável Homem das Neves!
 
 206
-00:15:01,960 --> 00:15:05,580
-I've been just fine, not caring
-what others thought about me.
+00:13:04,660 --> 00:13:05,810
+Mate-o!
 
 207
-00:15:11,760 --> 00:15:14,250
-If it means I can be of any help to you...
+00:13:05,810 --> 00:13:06,960
+Não o deixe escapar!
 
 208
-00:15:15,820 --> 00:15:19,400
-then I'll even become a real monster!
+00:13:06,960 --> 00:13:08,470
+Derrube-o!
 
 209
+00:13:08,880 --> 00:13:14,290
+Piratas são ótimos! Existem inúmeras pessoas inacreditáveis ​​no mar!
+
+210
+00:13:14,290 --> 00:13:17,100
+Chopper, você também deveria ir para o mar algum dia!
+
+211
+00:13:17,100 --> 00:13:21,460
+Se você for para o mar, vai perceber o quão insignificantes são seus próprios problemas!
+
+212
+00:13:21,460 --> 00:13:26,530
+Comparado ao resto do mundo, a ilha em que você nasceu é tão pequena quanto isso!
+
+213
+00:13:26,530 --> 00:13:27,570
+Sério?!
+
+214
+00:13:27,570 --> 00:13:30,360
+Não, menor! Este país é tão pequeno quanto isso!
+
+215
+00:13:30,360 --> 00:13:31,390
+É verdade!
+
+216
+00:13:36,550 --> 00:13:38,960
+Não posso me juntar a uma tripulação de humanos!
+
+217
+00:13:38,960 --> 00:13:40,600
+Eu sou um monstro!
+
+218
+00:13:40,600 --> 00:13:43,520
+Não posso entrar para a sua tripulação!
+
+219
+00:13:43,520 --> 00:13:44,550
+Então...
+
+220
+00:13:45,470 --> 00:13:47,080
+Então eu só vim agradecer...
+
+221
+00:13:50,480 --> 00:13:52,680
+Eu sou... grato a vocês.
+
+222
+00:13:53,270 --> 00:13:55,790
+Obrigado... por me convidar...
+
+223
+00:13:56,870 --> 00:13:58,980
+Eu vou ficar aqui, mas...
+
+224
+00:14:00,150 --> 00:14:01,750
+Se você tiver vontade...
+
+225
+00:14:01,750 --> 00:14:03,090
+então sinta-se à vontade para nos visitar-
+
+226
+00:14:03,090 --> 00:14:04,190
+Cale a boca!
+
+227
+00:14:04,190 --> 00:14:06,820
+Vamos lá!!!
+
+228
+00:14:19,690 --> 00:14:22,140
+Luffy me levou para o mar.
+
+229
+00:14:22,960 --> 00:14:25,110
+Estou tentando desesperadamente acompanhar,
+
+230
+00:14:26,040 --> 00:14:28,110
+mas o que eu fiz pelo Luffy?
+
+231
+00:14:34,150 --> 00:14:38,420
+Eu nunca mais quero passar por algo assim.
+
+232
+00:14:39,590 --> 00:14:40,490
+Mas...
+
+233
+00:14:41,060 --> 00:14:42,150
+naquela hora...
+
+234
+00:14:51,560 --> 00:14:56,210
+Luffy deve ter sentido ainda mais dor do que o resto de nós!
+
+235
+00:14:58,980 --> 00:15:01,440
+Porque você me fez um dos seus companheiros de tripulação,
+
+236
+00:15:01,960 --> 00:15:05,580
+Eu vou ficar bem. Não importa o que digam!
+
+237
+00:15:11,760 --> 00:15:14,250
+Se isso significa que posso ser de alguma ajuda para você...
+
+238
+00:15:15,820 --> 00:15:19,400
+então eu até me tornarei um monstro de verdade!
+
+239
 00:15:19,800 --> 00:15:21,430
 Chopper!
 
-210
-00:15:21,440 --> 00:15:23,330
+240
+00:15:21,730 --> 00:15:23,330
 Chopper!
 
-211
-00:15:23,990 --> 00:15:25,700
+241
+00:15:23,830 --> 00:15:25,700
 Chopper!
 
-212
+242
 00:15:33,180 --> 00:15:36,310
 Luffy!
 
-213
-00:15:36,310 --> 00:15:37,720
-I...
-
-214
-00:15:37,720 --> 00:15:39,170
-will definitely...
-
-215
-00:15:39,170 --> 00:15:42,470
-become stronger!
-
-216
-00:15:45,000 --> 00:15:48,360
-The Kamabakka Queendom
-on the Grand Line....
-
-217
-00:15:48,360 --> 00:15:52,160
-Vhaat exactly did you see in that article?
-
-218
-00:15:52,240 --> 00:15:53,740
-I read you loud and clear...
-
-219
-00:15:53,800 --> 00:15:56,370
-You calmed down so suddenly...
-
-220
-00:15:56,370 --> 00:16:03,840
-That article contained a message from Luffy
-that only his crewmates would understand.
-
-221
-00:16:03,840 --> 00:16:08,080
-But you don't believe I'm his crewmate,
-so I'm not telling you what I saw, dumbass!
-
-222
-00:16:08,080 --> 00:16:09,550
-Annoying punk!
-
-223
-00:16:12,070 --> 00:16:14,690
-Hey, who made this food?
-
-224
-00:16:14,690 --> 00:16:18,390
-Oh? That is a discerning
-palate you have there.
-
-225
-00:16:18,390 --> 00:16:24,000
-Not only does it taste sublime, it's as if...
-my body is getting rejuvenated.
-
-226
-00:16:25,560 --> 00:16:28,430
-Indeed. This is aggression cuisine!
-
-227
-00:16:29,230 --> 00:16:32,340
-Many chefs on this island
-can make this dish!
-
-228
-00:16:32,340 --> 00:16:34,310
-Yes!
-
-229
-00:16:32,860 --> 00:16:34,310
-Yes!
-
-230
-00:16:33,320 --> 00:16:34,310
-Yes!            Yes!
-
-231
-00:16:33,700 --> 00:16:34,310
-Yes!            Yes!
-
-232
-00:16:34,320 --> 00:16:35,870
-– Yes!
-– Yes!
-
-233
-00:16:36,570 --> 00:16:40,660
-Behold! The candies of this island
-have beautiful yet strong physiques!
-
-234
-00:16:41,780 --> 00:16:43,110
-Kind hearts, too.
-
-235
-00:16:44,520 --> 00:16:48,690
-My candies developed this vayy
-by eating aggression cuisine!
-
-236
-00:16:49,360 --> 00:16:51,820
-Your diet decides your condition,
-
-237
-00:16:51,820 --> 00:16:52,960
-your physique,
-
-238
-00:16:52,960 --> 00:16:54,030
-and your personality!
-
-239
-00:16:54,030 --> 00:16:56,930
-You are vhaat you eat!
-
-240
-00:16:56,930 --> 00:17:01,070
-If 100 percent of the human population
-drank milk every day...
-
-241
-00:17:04,930 --> 00:17:07,650
-crime across the voorld vould disappear, no?!
-
-242
-00:17:07,650 --> 00:17:08,240
-Hm?
-
 243
-00:17:08,240 --> 00:17:09,210
-You see...
+00:15:36,310 --> 00:15:37,720
+Eu...
 
 244
-00:17:09,210 --> 00:17:12,310
-no aggression, no progression!
+00:15:37,720 --> 00:15:39,170
+definitivamente...
 
 245
-00:17:12,880 --> 00:17:15,510
-Using food to build one's physique...
+00:15:39,170 --> 00:15:42,470
+ficarei mais forte!
 
 246
-00:17:15,510 --> 00:17:18,480
-I never thought about it that way.
+00:15:45,000 --> 00:15:48,360
+Reino Drag Kamabakka, na Grand Line.
 
 247
-00:17:18,950 --> 00:17:23,850
-So every day I cook for them
-could help their development?
+00:15:48,360 --> 00:15:52,160
+Diga, qual era o problema com aquele jornal?
 
 248
-00:17:27,290 --> 00:17:28,500
-And then...
+00:15:52,330 --> 00:15:53,700
+Então era isso que você queria dizer?
 
 249
-00:17:28,500 --> 00:17:33,560
-I could make Nami and Robin's
-bodies even sexier?!
+00:15:53,800 --> 00:15:56,370
+Você de repente se acalmou depois disso.
 
 250
-00:17:33,560 --> 00:17:35,230
-Vhaat should I do viith you?!
+00:15:56,370 --> 00:16:01,880
+Recebi uma mensagem que somente os companheiros de tripulação do Luffy, como eu, entenderiam.
 
 251
-00:17:35,230 --> 00:17:37,100
-What should I do?!
+00:16:01,880 --> 00:16:03,840
+Só daquele artigo.
 
 252
-00:17:37,500 --> 00:17:39,070
-I'm burning with passion!
+00:16:03,840 --> 00:16:08,080
+Se você não acredita que ele e eu somos companheiros de tripulação, então eu não vou te contar, seu idiota.
 
 253
-00:17:39,070 --> 00:17:41,770
-Please teach me aggression cuisine!
+00:16:08,080 --> 00:16:09,550
+Você está me dando nos nervos!
 
 254
-00:17:41,770 --> 00:17:44,640
-The answer is no!
+00:16:12,070 --> 00:16:14,690
+Ei, quem fez essa comida?
 
 255
-00:17:46,330 --> 00:17:47,470
-Ouch...
+00:16:14,690 --> 00:16:18,390
+Oh? Vejo que você consegue reconhecer uma boa comida quando você a prova.
 
 256
-00:17:47,470 --> 00:17:50,450
-The Kamabakka Queendom's 99 Vital Recipes
+00:16:18,390 --> 00:16:24,000
+O sabor também é bom, mas mais do que isso, meu corpo se sente estranhamente revitalizado.
 
 257
-00:17:50,450 --> 00:17:54,450
-have been passed down as part of
-the Newkama Kenpo secret arts:
+00:16:25,560 --> 00:16:28,430
+De fato. Este é o prato da agressão!
 
 258
-00:17:54,450 --> 00:17:56,190
-Bride Training!
+00:16:29,230 --> 00:16:32,340
+Muitos chefs nesta ilha são capazes de fazer este prato!
 
 259
-00:17:56,190 --> 00:17:58,690
-It vill be a cold day in hell...
+00:16:32,340 --> 00:16:32,860
+Sim!..
 
 260
-00:17:58,690 --> 00:18:01,260
-before I let a total stranger
-like you learn them!
+00:16:32,860 --> 00:16:33,320
+.Sim!
 
 261
-00:18:01,260 --> 00:18:04,420
-That is, unless you open
-your heart to your femininity!
+00:16:33,320 --> 00:16:33,700
+Sim!.
 
 262
-00:18:05,190 --> 00:18:07,730
-Study Newkama kenpo!
+00:16:33,700 --> 00:16:34,310
+..Sim!
 
 263
-00:18:08,370 --> 00:18:10,170
-I refuse!
+00:16:34,320 --> 00:16:35,870
+Sim!
 
 264
-00:18:11,340 --> 00:18:15,780
-I was not born to merely befriend the ladies.
+00:16:36,570 --> 00:16:40,660
+Contemple os belos físicos fortes dos doces desta ilha!
 
 265
-00:18:15,780 --> 00:18:17,840
-I am a man who was born...
+00:16:41,780 --> 00:16:43,110
+E seus corações gentis!
 
 266
-00:18:18,110 --> 00:18:20,810
-to give them my love!
+00:16:44,520 --> 00:16:48,690
+Os doces crescem assim ao comer o prato da agressão!
 
 267
-00:18:22,290 --> 00:18:24,850
-Heehaw!
+00:16:49,360 --> 00:16:51,820
+Sua dieta decide sua condição!
 
 268
-00:18:24,850 --> 00:18:27,070
-– Yahoo!
-– Yay!
+00:16:51,820 --> 00:16:52,960
+E seu físico!
 
 269
-00:18:27,070 --> 00:18:28,120
-– Sanji!
-– Yay!
+00:16:52,960 --> 00:16:54,030
+E sua personalidade!
 
 270
-00:18:28,120 --> 00:18:31,560
-Vhaat a compelling speech! I like you!
+00:16:54,030 --> 00:16:56,930
+Todas as coisas que compõem o corpo humano!
 
 271
-00:18:31,560 --> 00:18:33,420
-So I vill give you a chance!
+00:16:56,930 --> 00:17:01,070
+Se 100% dos humanos do mundo bebessem leite todos os dias,
 
 272
-00:18:33,420 --> 00:18:34,260
-A chance?
+00:17:04,930 --> 00:17:07,650
+o crime desapareceria do mundo! Você acredita?
 
 273
-00:18:37,260 --> 00:18:41,230
-On this island resides ninety-nine
-Newkama Kenpo grandmasters,
+00:17:07,650 --> 00:17:08,240
+Hein?
 
 274
-00:18:41,230 --> 00:18:44,740
-and I vill hand out one recipe to each of them.
+00:17:08,240 --> 00:17:09,210
+Estou dizendo que...
 
 275
-00:18:45,210 --> 00:18:50,940
-If you are indeed a pirate,
-then steal every one of those recipes!
+00:17:09,210 --> 00:17:12,310
+se você não for agressivo, você perde!
 
 276
-00:18:50,940 --> 00:18:53,850
-However! It vill be hell for you, day and night,
+00:17:12,880 --> 00:17:15,510
+Usar comida para construir o físico de alguém...
 
 277
-00:18:53,850 --> 00:18:58,750
-as every Newkama here attempts
-to put this Ssveets dress on you!
+00:17:15,510 --> 00:17:18,480
+Eu nunca pensei nisso dessa forma antes.
 
 278
-00:18:58,750 --> 00:19:02,250
-I vaant to see if you maintain
-your manly composure!
+00:17:18,950 --> 00:17:23,850
+Então, todos os dias, minha comida poderia ajudá-los a se desenvolver?
 
 279
-00:19:04,890 --> 00:19:06,950
-Sanji-kins!
+00:17:27,290 --> 00:17:28,500
+E então...
 
 280
-00:19:06,950 --> 00:19:08,790
-We won't let you sleep!
+00:17:28,500 --> 00:17:33,560
+Eu poderia fazer os corpos de Nami-san e Robin-chan ficarem ainda mais sexy?!
 
 281
-00:19:08,790 --> 00:19:09,860
-The Sweets dress.
+00:17:33,560 --> 00:17:35,230
+O que devemos fazer com esse cara?
 
 282
-00:19:10,660 --> 00:19:14,700
-I will make you remember
-the joy of wearing a skirt!
+00:17:35,230 --> 00:17:37,100
+O que eu faria?!
 
 283
+00:17:37,500 --> 00:17:39,070
+Estou todo animado!
+
+284
+00:17:39,070 --> 00:17:41,770
+Por favor, me ensine a fazer esse prato de agressão!
+
+285
+00:17:41,770 --> 00:17:44,640
+A resposta é não!
+
+286
+00:17:46,330 --> 00:17:47,470
+Ai!
+
+287
+00:17:47,470 --> 00:17:52,380
+Estas 99 receitas vitais foram passadas adiante pelo Reino Drag de Kamabakka,
+
+288
+00:17:52,380 --> 00:17:56,190
+como uma das Técnicas Secretas do Newkama Kenpo: Treinamento de Noivas!
+
+289
+00:17:56,190 --> 00:18:01,200
+Não tem a mínima chance de eu deixar um zé-ninguém aleatório como você aprendê-las!
+
+290
+00:18:01,200 --> 00:18:04,420
+Se você quer saber, então faça seu coração o de uma donzela!
+
+291
+00:18:05,190 --> 00:18:07,730
+Estude Newkama Kenpo!
+
+292
+00:18:08,370 --> 00:18:10,170
+Eu recuso!
+
+293
+00:18:11,340 --> 00:18:15,780
+Eu não nasci para ser amigo das mulheres!
+
+294
+00:18:15,780 --> 00:18:17,840
+Eu sou um homem que nasceu...
+
+295
+00:18:18,110 --> 00:18:20,810
+para amar as mulheres!
+
+296
+00:18:28,120 --> 00:18:31,560
+Você tem um argumento sólido.
+
+297
+00:18:31,560 --> 00:18:33,420
+Muito bem, eu vou lhe dar uma chance!
+
+298
+00:18:33,420 --> 00:18:34,260
+Uma chance?
+
+299
+00:18:37,260 --> 00:18:44,740
+Vou distribuir as receitas aos 99 grandes mestres de Newkama Kenpo que residem nesta ilha.
+
+300
+00:18:45,210 --> 00:18:50,940
+Se você é um pirata, então roube todas essas receitas!
+
+301
+00:18:50,940 --> 00:18:58,750
+No entanto, estaremos preparados, e todos os novos kamas tentarão colocar você no vestido!
+
+302
+00:18:58,750 --> 00:19:02,250
+Estou curioso para ver se você consegue manter sua masculinidade.
+
+303
+00:19:04,890 --> 00:19:06,950
+Sanji-kyun !
+
+304
+00:19:06,950 --> 00:19:08,790
+Não vamos deixar você descansar!
+
+305
+00:19:08,790 --> 00:19:09,860
+O vestido.
+
+306
+00:19:10,660 --> 00:19:14,700
+Eu farei você se lembrar da alegria de usar uma saia!
+
+307
 00:19:14,700 --> 00:19:15,730
 Sanji!
 
-284
-00:19:16,300 --> 00:19:17,640
-It's nice to be girly!
-
-285
-00:19:19,960 --> 00:19:21,470
-You...
-
-286
-00:19:21,470 --> 00:19:25,580
-versus the Newkama Kenpo head temple!
-
-287
-00:19:26,380 --> 00:19:29,400
-Come out on top,
-and I vill even give you a ship!
-
-288
-00:19:29,400 --> 00:19:31,770
-Vhaatever you vaant is yours!
-
-289
-00:19:31,770 --> 00:19:33,520
-Now, decide!
-
-290
-00:19:36,220 --> 00:19:37,490
-Hey you, cook!
-
-291
-00:19:38,460 --> 00:19:41,060
-Join my crew!
-
-292
-00:19:41,930 --> 00:19:44,500
-Be the cook on my pirate ship!
-
-293
-00:19:44,730 --> 00:19:49,140
-Is your lack of an answer
-an indication that you give up?
-
-294
-00:19:49,140 --> 00:19:51,180
-Because when you lose–
-
-295
-00:19:51,180 --> 00:19:52,740
-When I win...
-
-296
-00:19:52,740 --> 00:19:53,640
-Wha...?
-
-297
-00:19:53,930 --> 00:19:56,390
-When I beat all of them...
-
-298
-00:19:57,110 --> 00:20:00,580
-I bet I'll be much stronger than I am now.
-
-299
-00:20:00,880 --> 00:20:04,980
-Even if you pierce his body
-with hundreds of weapons,
-
-300
-00:20:04,980 --> 00:20:10,290
-nobody stands a chance against
-a spear of blind determination.
-
-301
-00:20:10,490 --> 00:20:12,030
-Hey, Luffy...
-
-302
-00:20:12,800 --> 00:20:15,430
-don't lose.
-
-303
-00:20:16,870 --> 00:20:19,550
-I am hoping to head out someday...
-
-304
-00:20:19,550 --> 00:20:21,040
-to the Grand Line.
-
-305
-00:20:21,570 --> 00:20:23,330
-Then let's go now!
-
-306
-00:20:23,330 --> 00:20:25,410
-It's not the right time yet.
-
-307
-00:20:27,220 --> 00:20:28,640
-Hey...
-
 308
-00:20:28,640 --> 00:20:30,750
-have you heard of the All Blue?!
+00:19:16,300 --> 00:19:17,640
+Ser uma donzela é ótimo, sabia!
 
 309
-00:20:30,750 --> 00:20:31,300
-Nope.
+00:19:19,960 --> 00:19:21,470
+Você...
 
 310
-00:20:31,300 --> 00:20:33,320
-You've seriously never heard of it?!
+00:19:21,470 --> 00:19:25,580
+contra a terra natal do Kenpo dos Newkama!
 
 311
-00:20:33,320 --> 00:20:35,120
-That sea itself is a miracle!
+00:19:26,380 --> 00:19:29,400
+Se você vencer esta batalha, eu até lhe darei um navio.
 
 312
-00:20:37,650 --> 00:20:40,810
-We both have foolish dreams.
+00:19:29,400 --> 00:19:31,770
+Eu concederei todos os seus pedidos.
 
 313
-00:20:42,850 --> 00:20:47,380
-To achieve my goal—to find the All Blue...
+00:19:31,770 --> 00:19:33,520
+Agora, o que você fará?!
 
 314
+00:19:36,220 --> 00:19:37,490
+Ei, cozinheiro!
+
+315
+00:19:38,460 --> 00:19:41,060
+Junte-se à minha tripulação, sim?
+
+316
+00:19:41,930 --> 00:19:44,500
+Torne-se o cozinheiro do meu navio pirata!
+
+317
+00:19:44,730 --> 00:19:49,960
+Devo considerar o fato de que você não está respondendo como uma indicação de que você desiste?
+
+318
+00:19:49,960 --> 00:19:51,180
+Compreensível. Se você perder-
+
+319
+00:19:51,180 --> 00:19:52,840
+Depois que eu vencer...
+
+320
+00:19:53,930 --> 00:19:56,390
+Depois que eu derrotar todos vocês...
+
+321
+00:19:57,110 --> 00:20:00,580
+Acho que terei ficado várias vezes mais forte do que sou agora.
+
+322
+00:20:01,410 --> 00:20:04,980
+Mesmo se você perfurar o corpo dele com centenas de armas,
+
+323
+00:20:04,980 --> 00:20:10,250
+ninguém tem chance contra uma única lança empunhada com determinação.
+
+324
+00:20:10,490 --> 00:20:12,030
+Ei, Luffy.
+
+325
+00:20:12,800 --> 00:20:15,430
+Não perca.
+
+326
+00:20:16,870 --> 00:20:19,550
+Estou pensando em ir algum dia também.
+
+327
+00:20:19,550 --> 00:20:21,040
+Para a Grand Line.
+
+328
+00:20:21,570 --> 00:20:23,330
+Então vamos agora!
+
+329
+00:20:23,330 --> 00:20:25,340
+Ainda não é hora.
+
+330
+00:20:27,220 --> 00:20:30,750
+Ei, você conhece o All Blue?
+
+331
+00:20:30,750 --> 00:20:31,300
+Não!
+
+332
+00:20:31,300 --> 00:20:33,320
+O quê, você não conhece?
+
+333
+00:20:33,320 --> 00:20:35,120
+É um mar milagroso!
+
+334
+00:20:37,650 --> 00:20:40,810
+Nós dois temos sonhos idiotas.
+
+335
+00:20:42,850 --> 00:20:47,380
+Para atingir meu próprio objetivo, o All Blue...
+
+336
 00:20:47,410 --> 00:20:48,390
 Sanji?
 
-315
-00:20:48,390 --> 00:20:52,810
-Yeah. I'll come along on your journey
-to become King of the Pirates!
-
-316
-00:20:52,810 --> 00:20:53,790
-Huh?
-
-317
-00:20:55,000 --> 00:20:57,850
-I'll be the cook for your ship.
-
-318
-00:21:00,020 --> 00:21:04,150
-Luffy, the next time we meet...
-
-319
-00:21:04,410 --> 00:21:05,880
-I will...
-
-320
-00:21:07,310 --> 00:21:14,060
-support you as the world's greatest cook
-so that you can become King of the Pirates.
-
-321
-00:21:15,340 --> 00:21:16,390
-I will...
-
-322
-00:21:17,990 --> 00:21:19,310
-live through...
-
-323
-00:21:21,040 --> 00:21:22,480
-this hell!
-
-324
-00:21:27,000 --> 00:21:28,530
-I accept...
-
-325
-00:21:30,000 --> 00:21:31,500
-your challenge!
-
-326
-00:21:33,460 --> 00:21:35,010
-That is great!
-
-327
-00:21:35,010 --> 00:21:37,010
-No holding back, dearies!
-
-328
-00:21:37,420 --> 00:21:38,380
-Here I come!
-
-329
-00:21:40,460 --> 00:21:42,430
-I will definitely...
-
-330
-00:21:42,430 --> 00:21:43,820
-win!
-
-331
-00:21:48,600 --> 00:21:52,620
-On the small sky island, Weatheria...
-
-332
-00:21:53,210 --> 00:21:54,760
-The research she stole...
-
-333
-00:21:54,760 --> 00:21:56,050
-...the weather ball...
-
-334
-00:21:56,050 --> 00:21:58,200
-...and her hostage, Mr. Haredas!
-
-335
-00:21:58,200 --> 00:22:01,300
-We won't forgive you just because
-you returned everything!
-
-336
-00:22:01,300 --> 00:22:03,770
-I'm sorry. I truly regret my actions.
-
 337
-00:22:03,770 --> 00:22:05,720
-No, we can't trust her!
+00:20:48,390 --> 00:20:52,810
+É, acho que vou acompanhá-lo na jornada para se tornar o rei dos piratas.
 
 338
-00:22:05,720 --> 00:22:08,510
-Strip her of all that she has and banish her!
+00:20:55,000 --> 00:20:57,850
+Eu serei o cozinheiro do seu navio.
 
 339
-00:22:08,510 --> 00:22:10,140
-Please don't!
+00:21:00,020 --> 00:21:04,110
+Luffy, da próxima vez que nos encontrarmos...
 
 340
-00:22:10,140 --> 00:22:12,080
-Well then, to prove my remorse,
+00:21:04,780 --> 00:21:05,640
+Eu...
 
 341
-00:22:12,080 --> 00:22:14,710
-I will throw myself into the sea.
+00:21:07,110 --> 00:21:13,160
+te apoiarei como o maior cozinheiro do mundo, para que você se torne o rei dos piratas.
 
 342
-00:22:14,710 --> 00:22:15,370
-– What?!
-– What?!
+00:21:15,340 --> 00:21:16,390
+Eu vou...
 
 343
-00:22:15,370 --> 00:22:17,660
-Please forgive me in my next life!
+00:21:17,990 --> 00:21:19,310
+sobreviver...
 
 344
-00:22:17,660 --> 00:22:18,280
-– What?!
-– What?!
+00:21:21,040 --> 00:21:22,380
+a este inferno.
 
 345
-00:22:18,800 --> 00:22:20,320
-Farewell!
+00:21:27,000 --> 00:21:28,530
+Eu aceito...
 
 346
-00:22:20,320 --> 00:22:21,920
-We made her cry!
+00:21:30,000 --> 00:21:31,500
+seu desafio!
 
 347
-00:22:21,920 --> 00:22:23,540
-Don't jump the gun!
+00:21:33,460 --> 00:21:35,010
+Bem dito.
 
 348
-00:22:23,540 --> 00:22:27,120
-You're too young to just up
-and throw your life away!
+00:21:35,010 --> 00:21:37,010
+Não vamos nos segurar!
 
 349
-00:22:27,630 --> 00:22:28,630
-Goodbye...
+00:21:37,420 --> 00:21:38,380
+Vamos lá!
 
 350
-00:22:28,630 --> 00:22:30,290
-– We're sorry!
-– We're sorry!
+00:21:40,460 --> 00:21:42,430
+Eu definitivamente...
 
 351
-00:22:31,750 --> 00:22:33,900
-Sounds good. I forgive you.
+00:21:42,430 --> 00:21:43,820
+vencerei!
 
 352
-00:22:35,510 --> 00:22:39,910
-Well, I'll be staying here awhile
-to study up on your weather science.
+00:21:48,600 --> 00:21:52,620
+Esta é Weatheria, uma pequena ilha no céu.
 
 353
-00:22:39,910 --> 00:22:42,300
-Oh, my name is Nami.
-Miss Nami if you please.
+00:21:53,210 --> 00:21:54,760
+O material de pesquisa que ela roubou!
 
 354
-00:22:42,300 --> 00:22:46,440
-Also, I'll need a house of my own.
-Privacy is important, you know.
+00:21:54,760 --> 00:21:56,050
+E a bola do tempo!
 
 355
-00:22:46,440 --> 00:22:51,080
-I require a soft, fluffy bed,
-a hot tub, and a walk-in closet.
+00:21:56,050 --> 00:21:58,200
+E o Senhor Haredas!
 
 356
-00:22:51,080 --> 00:22:53,960
-I'm counting on you, sky geezers.
+00:21:58,200 --> 00:22:01,300
+Não pense que vamos te perdoar só porque você os devolveu!
 
 357
-00:22:53,960 --> 00:22:55,590
-So, let's do our best!
+00:22:01,300 --> 00:22:03,770
+Sinto muito. Eu realmente me arrependo das minhas ações.
 
 358
-00:22:55,590 --> 00:22:56,260
-Yeah!
+00:22:03,770 --> 00:22:05,720
+Você realmente acha que vamos confiar em você?!
 
 359
-00:22:57,450 --> 00:23:00,150
-Mr. Haredas, say something already!
+00:22:05,720 --> 00:22:08,510
+Vamos tirar tudo o que ela tem e expulsá-la do país!
 
 360
-00:23:00,160 --> 00:23:02,030
-Good grief...
+00:22:08,510 --> 00:22:10,140
+De jeito nenhum!
 
 361
-00:23:04,870 --> 00:23:10,810
-Weatheria drifts around the world
-wherever the wind may take it.
+00:22:10,140 --> 00:22:12,080
+Bem, então, para provar meu arrependimento,
 
 362
-00:23:10,810 --> 00:23:14,230
-We sometimes visit the surface
-to gather goods and information,
+00:22:12,080 --> 00:22:14,710
+Vou me jogar no oceano.
 
 363
-00:23:14,230 --> 00:23:17,100
-and then we continue on our way.
+00:22:14,710 --> 00:22:15,370
+O quê?!
 
 364
-00:23:17,100 --> 00:23:17,980
-Information?
+00:22:15,370 --> 00:22:17,660
+Espero que você possa me perdoar na minha próxima vida!
 
 365
-00:23:18,280 --> 00:23:21,010
-Well, records mostly.
+00:22:17,660 --> 00:22:18,280
+O quê?!
 
 366
-00:23:21,010 --> 00:23:26,350
-Records regarding the Grand Line's
-unbelievable weather phenomena,
+00:22:18,800 --> 00:22:20,320
+Adeus!
 
 367
-00:23:26,350 --> 00:23:28,620
-many of which are still–
+00:22:20,320 --> 00:22:21,920
+Nós a fizemos chorar!
 
 368
-00:23:27,660 --> 00:23:28,620
-What's this?!
+00:22:21,920 --> 00:22:23,540
+Não deveríamos ser tão duros!
 
 369
-00:23:28,620 --> 00:23:29,960
-Are you listening?
+00:22:23,540 --> 00:22:27,120
+Você não pode simplesmente jogar sua vida fora, você é tão jovem!
 
 370
-00:23:30,260 --> 00:23:32,060
-Huh?! You've gotta be kidding me!
+00:22:27,630 --> 00:22:28,630
+Adeus...
 
 371
-00:23:32,660 --> 00:23:34,260
-Lightning strikes like rain?!
+00:22:28,630 --> 00:22:30,290
+Desculpe-nos!
 
 372
-00:23:34,260 --> 00:23:38,030
-Indeed. It literally rains lightning.
+00:22:31,750 --> 00:22:33,900
+Tudo bem. Eu te perdoo.
 
 373
-00:23:38,030 --> 00:23:40,900
-The lightning strikes the island like it's raining.
+00:22:35,510 --> 00:22:39,910
+Bem, vou ficar aqui por um tempo, estudando sua ciência do clima.
 
 374
-00:23:40,900 --> 00:23:43,870
-It happens on an island in the New World.
+00:22:39,910 --> 00:22:42,300
+Oh, meu nome é Nami. Me chame de Nami-san se quiser.
 
 375
-00:23:43,870 --> 00:23:46,470
-If you plan to cross that sea,
+00:22:42,300 --> 00:22:46,440
+Além disso, eu gostaria de uma casa só minha. Privacidade é importante, sabia?
 
 376
-00:23:46,470 --> 00:23:50,170
-remember that it defies
-common sense like no sea before it.
+00:22:46,440 --> 00:22:51,080
+Uma com uma cama fofa, uma banheira com bolhas e um armário grande.
 
 377
-00:23:51,600 --> 00:23:54,450
-Please... teach me, Mr. Haredas.
+00:22:51,080 --> 00:22:53,960
+Estou contando com vocês, veteranos do céu.
 
 378
-00:23:54,790 --> 00:23:56,410
-The New World's weather...
+00:22:53,960 --> 00:22:55,590
+Certo, vamos fazer o nosso melhor!
 
 379
-00:23:58,580 --> 00:24:00,220
-Teach me all about it!
+00:22:57,450 --> 00:23:00,150
+Senhor Haredas, diga alguma coisa!
 
 380
-00:24:01,220 --> 00:24:02,990
-You seem desperate.
+00:23:00,600 --> 00:23:02,000
+Meu Deus.
 
 381
-00:24:02,990 --> 00:24:07,360
-Well, of course I am! My actions
-determine the lives of my crewmates!
+00:23:04,870 --> 00:23:10,810
+Weatheria flutua sobre o mundo de acordo com os caprichos do vento.
 
 382
-00:24:07,360 --> 00:24:09,260
-I'm their navigator!
+00:23:10,810 --> 00:23:17,100
+Ocasionalmente descemos à superfície para coletar bens e informações, e continuamos nossa jornada.
 
 383
-00:24:09,260 --> 00:24:12,400
-Out at sea, I have the
-biggest responsibility of all!
+00:23:17,100 --> 00:23:17,980
+Informações?
 
 384
-00:24:12,400 --> 00:24:17,330
-It's my job to take the captain
-wherever it is he wishes to go!
+00:23:18,280 --> 00:23:21,010
+Bem, registros principalmente.
 
 385
-00:24:22,810 --> 00:24:26,840
-Luffy says he wants to
-become King of the Pirates,
+00:23:21,010 --> 00:23:27,660
+Registros sobre os fenômenos climáticos inacreditáveis ​​da Grand Line. Ainda há tantos-
 
 386
-00:24:26,840 --> 00:24:30,710
-so I can't take my job as a navigator lightly!
+00:23:27,660 --> 00:23:28,540
+O que é isso?!
 
 387
-00:24:31,580 --> 00:24:36,740
-It must make your captain very happy
-to have such a thoughtful crew member.
+00:23:28,540 --> 00:23:29,960
+Uh, você está me ouvindo?
 
 388
-00:24:37,950 --> 00:24:39,300
-I don't have a choice.
+00:23:31,140 --> 00:23:34,260
+Você tem que estar brincando comigo? Chovendo relâmpagos?!
 
 389
-00:24:39,300 --> 00:24:40,520
-You don't?
+00:23:34,260 --> 00:23:38,030
+De fato. Literalmente chove relâmpagos.
 
 390
-00:24:40,520 --> 00:24:46,560
-That's right. I mean, he talks a big game,
-but he's utterly clueless about the ocean.
+00:23:38,030 --> 00:23:40,900
+O relâmpago cai como chuva.
 
 391
-00:24:56,000 --> 00:24:59,550
-He's always doing the craziest things.
+00:23:40,900 --> 00:23:43,870
+Acontece em uma ilha no Novo Mundo.
 
 392
-00:24:59,550 --> 00:25:00,640
-If I left him alone...
+00:23:43,870 --> 00:23:50,170
+Se você planeja cruzar esse mar, saiba que ele desafia o senso comum mais do que qualquer coisa antes dele.
 
 393
+00:23:51,600 --> 00:23:54,450
+Por favor... Me ensine, Haredas-san,
+
+394
+00:23:54,790 --> 00:23:56,410
+sobre o clima do Novo Mundo.
+
+395
+00:23:58,580 --> 00:24:00,220
+Me diga tudo o que você sabe!
+
+396
+00:24:01,220 --> 00:24:02,990
+Você realmente é precipitada.
+
+397
+00:24:02,990 --> 00:24:07,360
+Bem, é claro que sou! A vida dos meus companheiros de tripulação depende de mim!
+
+398
+00:24:07,360 --> 00:24:09,260
+Eu sou a navegadora deles!
+
+399
+00:24:09,260 --> 00:24:12,400
+Quando estamos no mar, eu tenho a maior responsabilidade de todos nós!
+
+400
+00:24:12,400 --> 00:24:17,330
+Eu tenho que estar pronta para nos levar a qualquer lugar que nosso capitão queira ir, onde quer que seja!
+
+401
+00:24:22,810 --> 00:24:26,840
+Luffy diz que será o rei dos piratas,
+
+402
+00:24:26,840 --> 00:24:30,710
+então não posso encarar meu trabalho como navegadora levianamente!
+
+403
+00:24:31,580 --> 00:24:36,740
+Seu capitão é um homem de sorte, por ter uma tripulação tão devotada a ele.
+
+404
+00:24:37,950 --> 00:24:39,300
+Eu não tenho escolha.
+
+405
+00:24:39,300 --> 00:24:40,520
+Você não?
+
+406
+00:24:40,520 --> 00:24:46,560
+Isso mesmo. Quer dizer, ele fala alto o tempo todo, mas ele não tem a mínima ideia do oceano.
+
+407
+00:24:56,000 --> 00:24:59,550
+Ele está sempre fazendo coisas malucas também.
+
+408
+00:24:59,550 --> 00:25:00,640
+Se eu o deixasse sozinho...
+
+409
 00:25:03,340 --> 00:25:04,280
 Luffy...
 
-394
+410
 00:25:06,120 --> 00:25:07,820
-Help me...
+me ajuda.
 
-395
+411
 00:25:14,190 --> 00:25:16,830
-Of course I will!
+Pode apostar que sim!
 
-396
+412
 00:25:21,180 --> 00:25:24,300
-He'd get himself killed without me.
+Se eu o deixasse sozinho, ele morreria.
 
-397
+413
 00:25:26,730 --> 00:25:29,310
-He's a high-maintenance idiot!
+Ele é um idiota, ele está sempre me causando problemas.
 
-398
+414
 00:25:31,780 --> 00:25:34,080
-He sounds like one troublesome captain!
+Ele parece um capitão problemático!
 
-399
-00:25:34,850 --> 00:25:38,420
-He is. That's why I'm gonna help him.
+415
+00:25:36,150 --> 00:25:38,420
+É por isso que eu vou ajudá-lo.
 
-400
+416
 00:25:39,720 --> 00:25:41,850
-This time, I will!
+Dessa vez, eu vou!
 
-401
+417
 00:25:41,850 --> 00:25:44,670
-Hey, tell me about the weather balls.
+Ei, me fale sobre as bolas meteorológicas.
 
-402
+418
 00:25:44,670 --> 00:25:49,240
-You ask like it's no big deal! This is
-Weatheria's greatest invention, after all!
+Não pergunte tão casualmente, essa é a maior invenção da Weatheria da qual você está falando!
 
-403
+419
 00:25:49,240 --> 00:25:53,560
-In the wrong hands, they could
-throw the entire world into disarray!
+Se elas acabarem nas mãos erradas, elas podem jogar o mundo inteiro em desordem!
 
-404
+420
 00:25:53,560 --> 00:25:55,600
-So it has combat potential?
+Elas poderiam ser usadas como uma arma?
 
-405
+421
 00:25:55,600 --> 00:25:58,750
-Hey now, don't go saying
-such dangerous things!
+Ei, não fale sobre coisas tão perigosas!
 
-406
+422
 00:25:58,750 --> 00:25:59,770
-Stop grinning!
+Não sorria assim!
 
-407
+423
 00:26:12,980 --> 00:26:14,710
 Nami!
 
-408
-00:26:15,220 --> 00:26:18,190
-You're one of us!
-
-409
-00:26:42,660 --> 00:26:47,520
-This is the Kingdom of Armsolong
-on Sword Mountain Island in the Grand Line.
-
-410
-00:26:47,520 --> 00:26:50,300
-Come one! Come all!
-
-411
-00:26:53,520 --> 00:26:57,490
-This creature has the
-appearance of a real skeleton!
-
-412
-00:26:57,490 --> 00:27:00,330
-What's more, his arms only have a single joint!
-
-413
-00:27:00,330 --> 00:27:04,500
-Have you ever seen
-a rarer creature than this?!
-
-414
-00:27:04,500 --> 00:27:07,840
-Hey! Don't pull a fast one, you con artists!
-
-415
-00:27:08,830 --> 00:27:11,020
-What? Does he not fascinate you?
-
-416
-00:27:11,020 --> 00:27:14,680
-That thing hasn't moved one bit!
-
-417
-00:27:14,680 --> 00:27:17,010
-It's just a big doll, isn't it?!
-
-418
-00:27:20,340 --> 00:27:22,840
-Luffy has made his decision.
-
-419
-00:27:22,840 --> 00:27:25,450
-And so, I should make one too.
-
-420
-00:27:25,450 --> 00:27:28,560
-Hey, skeleton! Don't jerk us around!
-
-421
-00:27:28,560 --> 00:27:30,960
-I cannot just sit here!
-
-422
-00:27:31,660 --> 00:27:35,100
-Oh, so you understand? That's right, move!
-
-423
-00:27:35,100 --> 00:27:37,070
-This is a show, after all!
-
 424
-00:27:37,070 --> 00:27:39,860
-What can I do to help?
+00:26:15,220 --> 00:26:18,190
+Você é minha companheira!
 
 425
-00:27:39,860 --> 00:27:44,540
-Just moving around would be
-plenty helpful! So move already!
+00:26:42,660 --> 00:26:47,520
+Esta é a Ilha Kenzan na Grand Line, o Reino de Tehna Gehna.
 
 426
-00:27:44,980 --> 00:27:46,110
-What's going on here?!
+00:26:42,550 --> 00:26:47,480
+Ilha Sword Mountain, Grand Line
 
 427
-00:27:55,120 --> 00:27:58,060
-When you saw me for the first time,
+00:26:42,550 --> 00:26:47,480
+Ilha Sword Mountain, Grand Line
 
 428
-00:27:58,060 --> 00:28:03,440
-you weren't the least bit scared,
-and you even asked me to join your crew.
+00:26:42,550 --> 00:26:47,480
+Reino Longarm
 
 429
-00:28:04,330 --> 00:28:06,500
-Anyway... Hey, you!
+00:26:42,550 --> 00:26:47,480
+Reino Longarm
 
 430
-00:28:07,100 --> 00:28:08,970
-Join my crew!
+00:26:47,520 --> 00:26:50,300
+Entre e dê uma olhada!
 
 431
-00:28:09,430 --> 00:28:11,100
-Yes. That sounds lovely.
+00:26:53,520 --> 00:26:57,490
+Esta criatura tem a aparência de um esqueleto de verdade!
 
 432
-00:28:11,100 --> 00:28:13,750
-– What?!
-– What?!
+00:26:57,490 --> 00:27:04,500
+Além do mais, seus braços só têm uma articulação! Existe criatura mais extraordinária em algum lugar?!
 
 433
-00:28:15,000 --> 00:28:17,010
-Fifty long years...
+00:27:04,500 --> 00:27:07,840
+Ei! Não tentem nos enganar com truques baratos, charlatões!
 
 434
-00:28:17,210 --> 00:28:22,600
-Could you imagine my joy, especially
-after drifting on that dark sea for so long?
+00:27:08,830 --> 00:27:11,020
+O quê? Vocês não estão satisfeitos?
 
 435
-00:28:25,400 --> 00:28:28,990
-A certain man stole my shadow.
+00:27:11,020 --> 00:27:14,680
+Essa coisa ainda não moveu um músculo!
 
 436
-00:28:29,390 --> 00:28:31,620
-Don't act like we're strangers!
+00:27:14,680 --> 00:27:17,010
+É só um manequim, não é?!
 
 437
-00:28:31,620 --> 00:28:34,390
-If you need your shadow,
-I'll get it back for you!
+00:27:20,340 --> 00:27:22,840
+Luffy-san tomou sua decisão.
 
 438
-00:28:34,390 --> 00:28:38,800
-Do you realize how brilliantly
-you were shining to me?
+00:27:22,840 --> 00:27:25,450
+Nesse caso, eu também devo fazer alguma coisa.
 
 439
-00:28:39,730 --> 00:28:45,670
-Fifty years of hoping for a miracle,
-and that moment fulfilled my wish.
+00:27:25,450 --> 00:27:28,560
+Ei, esqueleto! Pare de brincar com a gente!
 
 440
-00:28:45,670 --> 00:28:47,010
-Give me back my money!
+00:27:28,560 --> 00:27:30,960
+Eu não posso ficar aqui sentado!
 
 441
-00:28:47,010 --> 00:28:48,140
-Yeah!
+00:27:31,660 --> 00:27:35,100
+Ah, então você entendeu? Isso mesmo, mova-se!
 
 442
-00:28:48,140 --> 00:28:53,140
-Damn! I thought he'd be our
-meal ticket, but it looks hopeless.
+00:27:35,100 --> 00:27:37,070
+Isso não seria um grande show de outra forma!
 
 443
-00:28:53,140 --> 00:28:55,450
-If he won't comply, we'll just have to–
+00:27:37,070 --> 00:27:39,860
+Como posso ajudar?
 
 444
-00:28:55,450 --> 00:28:56,510
-What the...?!
+00:27:39,860 --> 00:27:42,800
+Só se mover já seria muito útil!
 
 445
-00:28:56,510 --> 00:28:57,690
-– Huh?!
-– Huh?!
+00:27:42,800 --> 00:27:44,540
+Então se mexa!
 
 446
-00:28:57,690 --> 00:28:59,090
-– Oh...?
-– Huh...?
+00:27:44,980 --> 00:27:46,110
+O que está acontecendo aqui?!
 
 447
-00:28:59,920 --> 00:29:00,980
-Forty degrees!
+00:27:55,120 --> 00:27:58,060
+Você não ficou nem um pouco assustado quando me viu,
 
 448
-00:29:03,800 --> 00:29:05,060
-– What?!
-– What?!
+00:27:58,060 --> 00:28:03,440
+e mais, você me convidou para entrar na sua tripulação.
 
 449
-00:29:05,060 --> 00:29:07,320
-Ah! That's difficult!
+00:28:04,330 --> 00:28:06,500
+De qualquer forma, você!
 
 450
-00:29:07,320 --> 00:29:09,920
-He's really talking and moving!
+00:28:07,100 --> 00:28:08,970
+Junte-se à minha tripulação!
 
 451
-00:29:09,920 --> 00:29:11,130
-How creepy!
+00:28:09,430 --> 00:28:11,100
+Ah? Muito bem.
 
 452
-00:29:11,130 --> 00:29:12,730
-What is that thing?!
+00:28:15,000 --> 00:28:17,010
+Fazia cinquenta anos.
 
 453
-00:29:12,730 --> 00:29:17,730
-If I try going below 45 degrees,
-I end up slipping.
+00:28:17,210 --> 00:28:22,600
+Você consegue imaginar minha alegria, depois de vagar no oceano escuro por tanto tempo?
 
 454
-00:29:17,730 --> 00:29:20,640
-However, once I can master this...
+00:28:25,400 --> 00:28:28,990
+Um certo homem roubou minha sombra.
 
 455
-00:29:21,680 --> 00:29:25,720
-I may be of more use to Luffy.
+00:28:29,390 --> 00:28:34,390
+Do que você está falando?! Se precisar de uma sombra, eu a trago de volta para você!
 
 456
-00:29:26,780 --> 00:29:29,610
-Or perhaps I should find another way...
+00:28:34,390 --> 00:28:38,530
+Não consigo explicar como você me pareceu radiante...
 
 457
-00:29:35,090 --> 00:29:36,520
-He's got a guitar!
+00:28:39,730 --> 00:28:45,670
+Cinquenta anos rezando por um milagre, finalmente respondido.
 
 458
-00:29:36,520 --> 00:29:37,750
-What's he about to do?
+00:28:45,670 --> 00:28:47,010
+Devolva meu dinheiro!
 
 459
-00:29:37,750 --> 00:29:39,900
-What is it this time?!
+00:28:47,010 --> 00:28:48,140
+É!
 
 460
-00:29:39,900 --> 00:29:43,590
-Anything extra is too much!
-This is just a freak show!
+00:28:48,140 --> 00:28:53,140
+Droga! Achei que ganharíamos algum dinheiro com isso, mas parece sem esperança.
 
 461
-00:29:43,590 --> 00:29:47,850
-"Freak show" works for me!
-Call it whatever you wish.
+00:28:53,140 --> 00:28:55,450
+Se ele não fizer o que mandamos, teremos que forçar-
 
 462
-00:29:47,850 --> 00:29:52,040
-"Loneliness" no longer exists in my vocabulary!
+00:28:55,450 --> 00:28:56,510
+O quê?!
 
 463
-00:29:54,600 --> 00:29:56,540
-Ladies and gentlemen!
+00:28:59,920 --> 00:29:00,980
+Quarenta graus!
 
 464
-00:29:56,540 --> 00:29:58,690
-I'm sure you're all bored just staring at me.
+00:29:03,800 --> 00:29:05,060
+Ahn?!
 
 465
-00:29:58,690 --> 00:30:00,580
-What's this rhythm?
+00:29:05,060 --> 00:29:07,320
+Argh, é tão difícil!
 
 466
-00:30:00,580 --> 00:30:02,320
-It speaks to my soul!
+00:29:07,320 --> 00:29:09,920
+Ele está realmente falando e se movendo!
 
 467
-00:30:03,950 --> 00:30:07,180
-Please listen to my new single,
+00:29:09,920 --> 00:29:11,130
+Que assustador!
 
 468
-00:30:07,180 --> 00:30:09,750
-"Bone to Be Wild"!
+00:29:11,130 --> 00:29:12,730
+O que há com essa criatura?!
 
 469
-00:30:16,400 --> 00:30:21,160
-Meanwhile, just below
-the East Blue's colossal bridge...
+00:29:12,730 --> 00:29:17,730
+Se eu tentar ir abaixo de quarenta e cinco graus, acabo escorregando.
 
 470
-00:30:22,140 --> 00:30:25,020
-Why the sudden change of heart?
+00:29:17,730 --> 00:29:20,640
+No entanto, quando eu conseguir dominar isso...
 
 471
-00:30:25,020 --> 00:30:27,340
-You're coming with us to Baltigo?
+00:29:21,680 --> 00:29:25,720
+Eu posso ser mais útil para o Luffy-san.
 
 472
-00:30:28,040 --> 00:30:30,050
-If so, we are extremely grateful.
+00:29:26,780 --> 00:29:29,610
+Pensando bem, talvez eu deva considerar outro método?
 
 473
-00:30:30,050 --> 00:30:33,860
-Dragon has always wanted to meet you.
+00:29:35,090 --> 00:29:36,520
+Ele está segurando uma guitarra!
 
 474
-00:30:34,350 --> 00:30:37,020
-I didn't know you were such charitable people.
+00:29:36,520 --> 00:29:37,750
+O que ele vai fazer?
 
 475
-00:30:37,020 --> 00:30:39,810
-I wish you would have
-sought me out much sooner.
+00:29:37,750 --> 00:29:39,900
+O que você está planejando agora?!
 
 476
-00:30:39,810 --> 00:30:45,380
-W-We're sorry! We hadn't heard
-about your team-up with Crocodile.
+00:29:39,900 --> 00:29:43,590
+Você não precisa fazer um show ruim! Isso é só uma exibição!
 
 477
-00:30:46,160 --> 00:30:49,820
-I'm joking. Just a bit of fun, but I apologize.
+00:29:43,590 --> 00:29:47,850
+Uma exibição está bom para mim! Chame do que quiser.
 
 478
-00:30:49,820 --> 00:30:53,030
-I'm glad things turned out the way they did.
+00:29:47,850 --> 00:29:52,040
+A palavra "Solidão" não existe mais no meu vocabulário!
 
 479
-00:30:53,930 --> 00:30:58,350
-Set sail! Set sail for Baltigo!
+00:29:54,600 --> 00:29:56,540
+Senhoras e senhores!
 
 480
-00:31:12,110 --> 00:31:14,060
-Seventy-nine million belly?!
+00:29:56,540 --> 00:29:58,690
+Não é chato simplesmente olhar para mim?
 
 481
-00:31:14,060 --> 00:31:16,990
-A bounty that high for an eight-year-old girl?!
+00:29:58,690 --> 00:30:00,580
+O que há com esse ritmo?
 
 482
-00:31:16,990 --> 00:31:22,200
-They say she's a survivor of those Ohara devils
-who were plotting the world's destruction.
+00:30:00,580 --> 00:30:02,320
+Está fazendo meu coração dançar!
 
 483
-00:31:22,200 --> 00:31:24,040
-Ohara?
+00:30:03,950 --> 00:30:07,180
+Por favor, ouça meu novo single,
 
 484
-00:31:24,040 --> 00:31:28,940
-I don't know how, but they say
-that she sank six Marine battleships.
+00:30:07,180 --> 00:30:09,750
+"Bone to be Wild!"
 
 485
-00:31:28,940 --> 00:31:30,830
-That explains the high bounty.
+00:30:16,400 --> 00:30:21,160
+Esta é a parte de baixo de uma ponte gigante no East Blue.
 
 486
-00:31:32,740 --> 00:31:36,740
-She's a devil's spawn
-who shouldn't be left alive!
+00:30:16,960 --> 00:30:21,900
+Uma Ponte Gigante, East Blue
 
 487
-00:31:39,170 --> 00:31:41,360
-Alright! Just wait right there!
+00:30:16,960 --> 00:30:21,900
+Uma Ponte Gigante, East Blue
 
 488
-00:31:42,470 --> 00:31:44,510
-Why are you trying to save me?!
+00:30:22,140 --> 00:30:25,020
+O que causou essa mudança de atitude?
 
 489
-00:31:44,510 --> 00:31:48,440
-When did I ever ask you to do this?!
+00:30:25,020 --> 00:30:30,050
+Estamos muito gratos por você estar vindo conosco para Baltigo.
 
 490
-00:31:53,910 --> 00:31:57,190
-I just... want to die!
+00:30:30,050 --> 00:30:33,860
+Dragon-san sempre quis conhecê-la.
 
 491
-00:32:03,830 --> 00:32:04,830
-No way!
+00:30:34,350 --> 00:30:39,810
+Se eu soubesse que vocês eram pessoas tão caridosas, eu gostaria que vocês tivessem vindo me ver antes.
 
 492
-00:32:04,830 --> 00:32:06,540
-Are you all insane?!
+00:30:39,810 --> 00:30:45,380
+D-Desculpe! Não tínhamos ouvido falar sobre sua parceria com o Crocodile.
 
 493
-00:32:06,540 --> 00:32:10,140
-You're all as good as dead after
-making the world your enemy!
+00:30:46,160 --> 00:30:49,820
+Foi uma piada. Eu só estava brincando com você. Desculpe por isso.
 
 494
-00:32:10,140 --> 00:32:15,250
-Bring it on!
+00:30:49,820 --> 00:30:53,030
+Estou feliz que as coisas tenham acontecido do jeito que aconteceram.
 
 495
-00:32:20,950 --> 00:32:23,260
-Robin, please come inside.
+00:30:53,930 --> 00:30:58,350
+Partir! Partir para Baltigo!
 
 496
-00:32:23,260 --> 00:32:25,030
-It's cold out here.
+00:31:12,110 --> 00:31:14,060
+79 milhões de belly?
 
 497
-00:32:25,460 --> 00:32:26,970
-I'll be fine out here.
+00:31:14,060 --> 00:31:16,990
+Uma criança de oito anos com uma recompensa tão alta?!
 
 498
-00:32:26,970 --> 00:32:30,590
-I'm a pirate. You are revolutionaries.
+00:31:16,990 --> 00:31:22,200
+Ela é aparentemente uma sobrevivente dos demônios de Ohara, que estavam conspirando para destruir o mundo.
 
 499
-00:32:30,590 --> 00:32:32,750
-I can't trust you so easily.
+00:31:22,200 --> 00:31:24,040
+De Ohara?!
 
 500
-00:32:33,600 --> 00:32:37,170
-I won't enter a cabin
-where there's no escape route.
+00:31:24,040 --> 00:31:28,940
+E eu não tenho ideia de como isso aconteceu, mas ela supostamente afundou seis navios de guerra da Marinha também.
 
 501
-00:32:37,170 --> 00:32:41,000
-But that's...! We have
-no intention of harming you!
+00:31:28,940 --> 00:31:30,830
+Então é por isso que ela recebeu essa recompensa insana?
 
 502
-00:32:41,000 --> 00:32:45,700
-Just let me stay. Back when I was
-on my own, this was how I lived.
+00:31:32,740 --> 00:31:36,740
+Ela é filha de demônios e não deve ter permissão para viver!
 
 503
-00:32:46,630 --> 00:32:48,650
-My apologies! Very well.
+00:31:39,170 --> 00:31:41,360
+Tudo bem, espere aí mesmo!
 
 504
-00:32:48,650 --> 00:32:51,350
-Hey! Bring out as many
-warm blankets as you can!
+00:31:42,470 --> 00:31:44,510
+Por que você está tentando me salvar?!
 
 505
-00:32:51,350 --> 00:32:54,100
-And something hot to drink and eat, too!
+00:31:44,510 --> 00:31:48,440
+Quando foi que eu pedi para você fazer isso?!
 
 506
-00:32:54,100 --> 00:32:56,410
-B-But we set that all up inside...
+00:31:53,910 --> 00:31:57,190
+Eu só quero morrer!
 
 507
-00:32:56,410 --> 00:32:59,350
-Hop to it! A wind screen and sofa too!
+00:32:03,830 --> 00:32:04,830
+Impossível!
 
 508
-00:32:59,350 --> 00:32:59,920
-Yes, sir!
+00:32:04,830 --> 00:32:06,540
+Vocês estão loucos?!
 
 509
-00:33:02,320 --> 00:33:08,490
-Luffy, if I go to your father and let the
-world's tides carry me where they will,
+00:32:06,540 --> 00:32:10,140
+Não pense que você será capaz de sobreviver com o mundo inteiro como seu inimigo!
 
 510
-00:33:08,490 --> 00:33:11,670
-I wonder if I can become a little stronger?
+00:32:10,140 --> 00:32:15,250
+Tudo bem para mim!
 
 511
-00:33:13,520 --> 00:33:16,660
-Wanting to become stronger
-for the sake of someone else...
+00:32:20,950 --> 00:32:23,260
+Robin-san, por favor, entre.
 
 512
-00:33:17,700 --> 00:33:19,750
-I'd never considered it before.
+00:32:23,260 --> 00:32:25,030
+Está frio aqui fora.
 
 513
-00:33:24,320 --> 00:33:27,850
-We now return to Mech Island
-on the Grand Line...
+00:32:25,030 --> 00:32:26,970
+Eu vou ficar bem aqui fora.
 
 514
-00:33:27,850 --> 00:33:31,020
-Futureland, Baldimore...
+00:32:26,970 --> 00:32:30,590
+Eu sou um pirata. Vocês são revolucionários.
 
 515
-00:33:31,500 --> 00:33:35,560
-We've investigated the destruction
-of Doctor Vegapunk's laboratory...
+00:32:30,590 --> 00:32:32,750
+Eu não posso confiar em vocês tão facilmente.
 
 516
-00:33:36,200 --> 00:33:39,060
-but we still haven't found the culprit.
+00:32:33,600 --> 00:32:37,170
+Não entrarei em uma cabana onde não haja rotas de fuga.
 
 517
-00:33:39,300 --> 00:33:40,830
-Hey! Hurry up!
+00:32:37,170 --> 00:32:41,000
+O quê?! Não temos intenção de machucá-la!
 
 518
-00:33:44,160 --> 00:33:48,410
-It wouldn't be an exaggeration to call
-this the greatest loss of the century.
+00:32:41,000 --> 00:32:45,700
+Deixe-me ficar. Quando eu estava sozinha, era assim que eu vivia.
 
 519
-00:33:48,690 --> 00:33:50,800
-Do you know anything about it?
+00:32:46,630 --> 00:32:48,650
+Desculpe... Muito bem.
 
 520
-00:33:50,800 --> 00:33:54,940
-I heard that an intruder
-resembling a gorilla entered the lab.
+00:32:48,650 --> 00:32:51,350
+Ei! Traga quantos cobertores quentes você puder encontrar!
 
 521
-00:33:54,940 --> 00:33:57,510
-This is a real head-scratcher.
+00:32:51,350 --> 00:32:54,100
+E algo quente para beber e comer também!
 
 522
-00:33:57,510 --> 00:34:03,520
-It's impossible to reach this island
-without an icebreaker ship.
+00:32:54,100 --> 00:32:56,410
+M-Mas nós temos tudo isso preparado lá dentro...
 
 523
-00:34:03,910 --> 00:34:06,290
-But no one seems to have seen it.
+00:32:56,410 --> 00:32:59,350
+Depressa! E um protetor contra o vento e um sofá também!
 
 524
-00:34:06,720 --> 00:34:11,590
-They say that the intruder was
-Cyborg Franky of the Straw Hat Pirates,
+00:32:59,350 --> 00:32:59,920
+Certo!
 
 525
-00:34:12,100 --> 00:34:17,170
-but he was spotted less than
-a month ago on Sabaody Archipelago.
+00:33:02,320 --> 00:33:03,720
+Luffy.
 
 526
-00:34:17,170 --> 00:34:20,360
-We have no idea what route or means
-he used to get to Baldimore.
+00:33:03,720 --> 00:33:08,490
+Se eu for até seu pai e deixar as marés do mundo me guiarem,
 
 527
-00:34:20,360 --> 00:34:24,000
-Captain Gorilla! The search party is
-departing for the snow mountains!
+00:33:08,490 --> 00:33:11,670
+Será que posso ficar um pouco mais forte?
 
 528
-00:34:24,000 --> 00:34:26,340
-Very well! I shall accompany them!
+00:33:13,520 --> 00:33:16,660
+Querendo ficar mais forte pelo bem de outra pessoa.
 
 529
-00:34:27,080 --> 00:34:28,130
-Th-This is...!
+00:33:17,700 --> 00:33:19,750
+Eu nunca tinha considerado isso antes.
 
 530
-00:34:28,130 --> 00:34:31,610
-The explosion exposed a hidden entrance.
+00:33:24,320 --> 00:33:27,850
+Agora nos mudamos para a Ilha Mech na Grand Line.
 
 531
-00:34:31,610 --> 00:34:35,020
-I can hardly believe it. We had no idea...
+00:33:27,850 --> 00:33:31,020
+A Ilha do Futuro, Baldimore
 
 532
-00:34:36,590 --> 00:34:42,330
-that there was a second laboratory in here.
+00:33:31,500 --> 00:33:35,560
+Investigando a destruição repentina do laboratório do Doutor Vegapunk.
 
 533
-00:34:42,890 --> 00:34:47,780
-This seems to be where he created
-all those cyborg animal guards.
+00:33:36,200 --> 00:33:39,060
+Ainda não conseguimos encontrar o culpado.
 
 534
-00:34:49,650 --> 00:34:50,970
-Hey, don't break anything!
+00:33:39,300 --> 00:33:40,830
+Ei! Depressa!
 
 535
-00:34:50,970 --> 00:34:53,170
-You're one to talk, old guy!
+00:33:44,160 --> 00:33:48,410
+Não seria exagero chamar isso de a maior perda do século.
 
 536
-00:34:53,500 --> 00:35:00,740
-The blown-up lab had some radical inventions
-that would have changed how people live,
+00:33:48,690 --> 00:33:50,800
+Você sabe alguma coisa sobre isso?
 
 537
-00:35:00,740 --> 00:35:07,500
-but I was more interested
-in the weaponry I found here.
+00:33:50,800 --> 00:33:54,940
+Ouvi dizer que um intruso parecido com um gorila entrou no laboratório.
 
 538
-00:35:09,920 --> 00:35:11,620
-This is amazing!
+00:33:54,940 --> 00:33:57,510
+É realmente desconcertante.
 
 539
-00:35:11,620 --> 00:35:14,990
-It's everything from warships
-to human genetics!
+00:33:57,510 --> 00:34:03,520
+É impossível chegar a esta ilha sem um navio quebra-gelo.
 
 540
-00:35:14,990 --> 00:35:17,960
-What's going on inside this guy's head?
+00:34:03,910 --> 00:34:06,290
+Mas ninguém viu nenhum navio assim.
 
 541
-00:35:20,100 --> 00:35:22,710
-Okay, I've made up my mind!
+00:34:06,720 --> 00:34:11,590
+Dizem que o intruso era o Cyborg Franky dos Piratas do Chapéu de Palha,
 
 542
-00:35:23,400 --> 00:35:24,700
-I'm gonna live here!
+00:34:12,100 --> 00:34:17,170
+mas ele foi visto há menos de um mês no Arquipélago de Sabaody.
 
 543
-00:35:24,700 --> 00:35:25,670
-Wha...?! Live here?!
+00:34:17,170 --> 00:34:20,360
+Não temos ideia de qual rota ou meio ele usou para chegar a Baldimore.
 
 544
-00:35:25,670 --> 00:35:26,540
-Yeah!
+00:34:20,360 --> 00:34:24,000
+Capitão Gorila! O grupo de busca está partindo para as montanhas de neve!
 
 545
-00:35:28,950 --> 00:35:31,740
-I'll come down the mountain
-sometimes for more cola,
+00:34:24,000 --> 00:34:26,340
+Muito bem. Eu também irei!
 
 546
-00:35:31,740 --> 00:35:34,800
-so don't forget to keep
-your house stocked, you hear?!
+00:34:27,080 --> 00:34:28,130
+O-O que é isso?!
 
 547
-00:35:35,950 --> 00:35:37,450
-Don't sweat it!
+00:34:28,130 --> 00:34:31,610
+Uma entrada escondida descoberta pela explosão.
 
 548
-00:35:37,450 --> 00:35:43,520
-As long as you don't rat me out,
-I'll live here and keep to myself.
+00:34:31,610 --> 00:34:35,020
+Mal posso acreditar. Não tínhamos ideia...
 
 549
-00:35:43,920 --> 00:35:46,520
-Quit screamin'! It's just my face!
+00:34:36,590 --> 00:34:42,330
+que havia um segundo laboratório aqui.
 
 550
-00:35:46,520 --> 00:35:47,930
-Don't look at us!
+00:34:42,890 --> 00:34:47,780
+Parece que foi aqui que ele construiu os animais ciborgues que guardavam o lugar.
 
 551
-00:35:47,930 --> 00:35:49,160
-Your face is too scary!
+00:34:49,650 --> 00:34:50,970
+Ei, não quebre nada!
 
 552
-00:35:49,160 --> 00:35:52,160
-How's this? A tiger-skin rug.
+00:34:50,970 --> 00:34:53,170
+Você é a última pessoa de quem eu quero ouvir isso!
 
 553
-00:35:53,440 --> 00:35:54,580
-– Much better.
-– Much better.
+00:34:53,500 --> 00:35:00,740
+O laboratório que explodiu continha invenções que tornavam a vida das pessoas mais fácil. Elas se foram agora.
 
 554
-00:35:54,580 --> 00:35:56,530
-Frah... Frah... Frah-nky!
+00:35:00,740 --> 00:35:07,500
+Mas o que me interessa são os projetos de armas e coisas assim. Eles estão neste laboratório.
 
 555
-00:35:57,740 --> 00:35:59,850
-I'm freezing. Especially my legs.
+00:35:09,920 --> 00:35:11,620
+Isso é incrível!
 
 556
-00:35:59,850 --> 00:36:01,200
-Why won't you put on pants?
+00:35:11,620 --> 00:35:14,990
+Há coisas aqui sobre tudo, de navios de guerra a manipulação genética humana!
 
 557
-00:36:09,930 --> 00:36:15,890
-Would you please sail
-on the ship that I've built?
+00:35:14,990 --> 00:35:17,960
+O que está acontecendo na cabeça desse cara?
 
 558
-00:36:16,480 --> 00:36:23,030
-Luffy... you helped me carry out my dream.
+00:35:20,100 --> 00:35:22,710
+Certo, eu decidi!
 
 559
+00:35:23,400 --> 00:35:24,700
+Eu vou morar aqui!
+
+560
+00:35:24,700 --> 00:35:25,670
+Morar aqui?!
+
+561
+00:35:25,870 --> 00:35:26,540
+É!
+
+562
+00:35:28,950 --> 00:35:31,740
+Ocasionalmente eu desço da montanha para estocar cola,
+
+563
+00:35:31,740 --> 00:35:34,800
+então sempre tenha um pouco em casa, ok?
+
+564
+00:35:35,950 --> 00:35:41,280
+Não se preocupe. Enquanto você ficar quieto sobre mim, eu vou morar aqui.
+
+565
+00:35:41,280 --> 00:35:43,520
+Eu não vou causar problemas.
+
+566
+00:35:43,920 --> 00:35:46,520
+Pare de fazer tanto barulho por causa da minha cara!
+
+567
+00:35:46,520 --> 00:35:47,920
+Não olhe para nós!
+
+568
+00:35:47,920 --> 00:35:49,160
+Assustador! Sua cara é assustadora!
+
+569
+00:35:49,160 --> 00:35:52,160
+E agora? Eu coloquei um tapete de tigre!
+
+570
+00:35:53,440 --> 00:35:54,580
+Assim é melhor.
+
+571
+00:35:54,580 --> 00:35:56,530
+F-F-Franky!
+
+572
+00:35:57,740 --> 00:35:59,850
+Estou congelando. Principalmente minhas pernas.
+
+573
+00:35:59,850 --> 00:36:01,200
+Por que você não está usando calças?
+
+574
+00:36:09,930 --> 00:36:15,890
+Você poderia, por favor, navegar no navio que eu construir?
+
+575
+00:36:16,480 --> 00:36:23,030
+Luffy... Você me ajudou a realizar meu sonho.
+
+576
 00:36:24,890 --> 00:36:26,380
 Franky!
 
-560
-00:36:27,330 --> 00:36:30,040
-Thanks for the ship!
-
-561
-00:36:30,040 --> 00:36:33,470
-It really is the best! We'll take good care of it!
-
-562
-00:36:33,890 --> 00:36:36,840
-If you want your bikini back,
-
-563
-00:36:37,110 --> 00:36:39,280
-you'll just have to join our crew!
-
-564
-00:36:40,300 --> 00:36:46,780
-You took me along for the ride
-in this wild, wide world.
-
-565
-00:36:48,180 --> 00:36:54,760
-Passing through sea after sea,
-overcoming countless battles and troubles.
-
-566
-00:36:55,320 --> 00:36:58,460
-And once we've sailed to the end of the sea,
-
-567
-00:36:58,460 --> 00:37:02,350
-then we can truly say
-she was the ship of dreams.
-
-568
-00:37:04,720 --> 00:37:06,140
-Hey, Luffy.
-
-569
-00:37:07,170 --> 00:37:10,240
-The Sunny still hasn't shown her full potential!
-
-570
-00:37:11,580 --> 00:37:14,510
-And the captain to make
-the Sunny my dream ship...?
-
-571
-00:37:15,490 --> 00:37:16,800
-That's you.
-
-572
-00:37:18,850 --> 00:37:24,450
-I'll learn the technologies necessary to get
-the better of tough adventures to come...
-
-573
-00:37:24,450 --> 00:37:27,020
-tougher than any so far.
-
-574
-00:37:27,020 --> 00:37:28,690
-So, Luffy...!
-
-575
-00:37:30,650 --> 00:37:32,360
-Hey. The tiger's on fire.
-
-576
-00:37:37,340 --> 00:37:39,270
-Ow, ow, ow, ow...!
-
 577
-00:37:40,840 --> 00:37:41,540
-What's that?!
+00:36:27,330 --> 00:36:31,820
+Obrigado pelo navio! É o melhor!
 
 578
-00:37:42,640 --> 00:37:44,410
-A monster?! Be careful!
+00:36:31,820 --> 00:36:33,470
+Nós cuidaremos bem dele!
 
 579
-00:37:57,100 --> 00:38:02,890
-So, Luffy, let's overcome the rough
-waves of the New World together!
+00:36:33,890 --> 00:36:36,840
+Se você quiser que eu devolva sua sunga,
 
 580
-00:38:06,470 --> 00:38:09,690
-This incident in the Grand Line
-is forever referred to as:
+00:36:37,110 --> 00:36:39,280
+então junte-se à nossa tripulação!
 
 581
-00:38:09,690 --> 00:38:13,930
-"The Legend of the Burning Spirit Beast of Baldimore."
+00:36:40,300 --> 00:36:46,780
+Você me trouxe com você para este mundo vasto.
 
 582
-00:38:16,500 --> 00:38:17,560
-Meanwhile...
+00:36:48,180 --> 00:36:54,760
+Passando por incontáveis ​​mares, superando inúmeras batalhas e problemas.
 
 583
-00:38:18,280 --> 00:38:21,080
-on the Bowin Archipelago in the Grand Line...
+00:36:55,320 --> 00:36:58,460
+E quando tivermos navegado até o fim do mar...
 
 584
-00:38:24,300 --> 00:38:26,970
-What is it now'n, Usopp'n?
+00:36:58,460 --> 00:37:02,350
+então meu navio pode realmente ser chamado de o navio dos meus sonhos.
 
 585
-00:38:26,970 --> 00:38:29,890
-Gotta burn this fat! Gotta get in shape!
+00:37:04,720 --> 00:37:06,140
+Ei, Luffy.
 
 586
-00:38:29,890 --> 00:38:32,230
-Oh! That's a great idea'n!
+00:37:07,170 --> 00:37:10,240
+O Sunny ainda não mostrou todo o seu potencial!
 
 587
-00:38:32,230 --> 00:38:33,760
-Then I'll be stronger!
+00:37:11,580 --> 00:37:14,510
+O único capitão que pode fazer do Sunny o navio dos meus sonhos...
 
 588
-00:38:34,230 --> 00:38:37,310
-Good! You can't get off the island otherwise'n!
+00:37:15,490 --> 00:37:16,800
+é você.
 
 589
-00:38:37,310 --> 00:38:39,910
-And then... I'll be even stronger!
+00:37:18,850 --> 00:37:27,020
+Eu aprenderei tecnologias que permitirão que ele supere aventuras mais difíceis do que qualquer outra que já tivemos até agora.
 
 590
-00:38:39,910 --> 00:38:41,780
-Yes! That sounds good too'n!
+00:37:27,020 --> 00:37:28,690
+Então, Luffy...
 
 591
-00:38:41,780 --> 00:38:44,610
-And then I'll be much, much stronger!
+00:37:30,650 --> 00:37:32,360
+Ei. A pele do tigre está pegando fogo.
 
 592
-00:38:44,610 --> 00:38:46,600
-Oh? Th-That much'n?!
+00:37:40,840 --> 00:37:41,540
+O que é isso?!
 
 593
-00:38:46,600 --> 00:38:49,980
-Much, much, much, much,
-much, much stronger!
+00:37:42,640 --> 00:37:44,410
+Um monstro?! Tome cuidado!
 
 594
-00:38:49,980 --> 00:38:51,970
-Wow! You're very motivated'n!
+00:37:57,100 --> 00:38:00,740
+Então Luffy, vamos superá-los!
 
 595
-00:38:53,450 --> 00:38:55,780
-To get you up and working
-out so vigorously'n...
+00:38:00,740 --> 00:38:02,890
+As ondas fortes do Novo Mundo!
 
 596
-00:38:56,930 --> 00:38:59,880
-What exactly was written in that paper'n?
+00:38:06,470 --> 00:38:09,690
+Este evento passa para a história da Grand Line.
 
 597
-00:39:05,020 --> 00:39:08,360
-I received a message from our captain.
+00:38:09,690 --> 00:38:13,930
+A Lenda da Besta Espiritual Ardente de Baldimore.
 
 598
-00:39:08,860 --> 00:39:09,830
-A message?
+00:38:16,500 --> 00:38:21,080
+Enquanto isso, o Arquipélago Bowin na Grand Line.
 
 599
-00:39:10,600 --> 00:39:13,660
-What're you talking about? Get on already.
+00:38:19,610 --> 00:38:23,580
+Ilhas Bowin, a Grand Line
 
 600
-00:39:16,470 --> 00:39:19,060
-You're one of us now, aren't you?
+00:38:19,610 --> 00:38:23,580
+Ilhas Bowin, a Grand Line
 
 601
+00:38:24,300 --> 00:38:26,970
+O que é agora, Usopp'n?
+
+602
+00:38:26,970 --> 00:38:29,890
+Vou queimar um pouco de gordura! E malhar!
+
+603
+00:38:29,890 --> 00:38:32,230
+Oh'n! Essa é uma ótima ideia!
+
+604
+00:38:32,230 --> 00:38:33,760
+E então eu ficarei mais forte!
+
+605
+00:38:33,760 --> 00:38:37,310
+Bom! Você não pode sair da ilha de outra forma!
+
+606
+00:38:37,310 --> 00:38:39,910
+E então eu ficarei ainda mais forte do que isso!
+
+607
+00:38:39,910 --> 00:38:41,780
+Sim! Isso também parece bom!
+
+608
+00:38:41,780 --> 00:38:45,260
+E então eu ficarei muito, muito mais forte!
+
+609
+00:38:45,260 --> 00:38:46,600
+Tanto assim?
+
+610
+00:38:46,600 --> 00:38:49,980
+Muito, muito, muito, muito mais forte!
+
+611
+00:38:49,980 --> 00:38:51,970
+Você está incrivelmente motivado!
+
+612
+00:38:53,450 --> 00:38:55,780
+Você está bastante obstinado...
+
+613
+00:38:56,930 --> 00:38:59,880
+O que exatamente estava escrito naquele jornal?
+
+614
+00:39:05,020 --> 00:39:08,360
+Eu... recebi uma mensagem do nosso capitão.
+
+615
+00:39:08,860 --> 00:39:09,830
+Mensagem?
+
+616
+00:39:10,600 --> 00:39:13,660
+Do que você está falando? Suba a bordo logo.
+
+617
+00:39:16,470 --> 00:39:19,060
+Somos companheiros, não somos?
+
+618
 00:39:29,550 --> 00:39:32,260
 Luffy!
 
-602
-00:39:33,800 --> 00:39:36,160
-U-Usopp?
-
-603
-00:39:36,160 --> 00:39:38,650
-Y-You...
-
-604
-00:39:38,650 --> 00:39:40,500
-were here too?
-
-605
-00:39:40,920 --> 00:39:45,430
-Defeat him! We're all
-going back together, Luffy!
-
-606
-00:39:45,430 --> 00:39:47,460
-Of course we will!
-
-607
-00:39:50,760 --> 00:39:52,220
-I thought...
-
-608
-00:39:52,220 --> 00:39:59,380
-that Luffy could become King of the Pirates
-all on his own while I stood by and watched.
-
-609
-00:40:00,810 --> 00:40:03,080
-We've finally made it this far!
-
-610
-00:40:04,280 --> 00:40:09,500
-We'll see this wall again when we
-cross the other half of the world!
-
-611
-00:40:09,500 --> 00:40:10,530
-When that happens,
-
-612
-00:40:10,820 --> 00:40:13,070
-I'll be King of the Pirates!
-
-613
-00:40:13,680 --> 00:40:16,200
-But I was wrong.
-
-614
-00:40:16,200 --> 00:40:19,260
-He has lots of enemies stronger than him.
-
-615
-00:40:19,830 --> 00:40:22,000
-Even Luffy can lose!
-
-616
-00:40:22,000 --> 00:40:25,600
-He's pushing himself too hard!
-He's crying out in agony!
-
-617
-00:40:25,600 --> 00:40:26,840
-That's why...
-
-618
-00:40:27,100 --> 00:40:30,470
-he needs to depend on my strength!
-
 619
+00:39:33,800 --> 00:39:36,160
+U-Usopp...
+
+620
+00:39:36,160 --> 00:39:38,650
+V-Você...
+
+621
+00:39:38,650 --> 00:39:40,500
+estava aqui também?
+
+622
+00:39:40,920 --> 00:39:45,430
+Vença! E então todos nós voltaremos juntos, Luffy!
+
+623
+00:39:45,430 --> 00:39:47,460
+Claro que sim!
+
+624
+00:39:50,760 --> 00:39:52,220
+Eu...
+
+625
+00:39:52,220 --> 00:39:59,380
+pensei que Luffy poderia se tornar o rei dos piratas sozinho, e eu ficaria parado e assistiria.
+
+626
+00:40:00,810 --> 00:40:03,080
+Finalmente chegamos até aqui!
+
+627
+00:40:04,280 --> 00:40:09,500
+Quando tivermos cruzado a outra metade do mundo e vermos esse muro novamente...
+
+628
+00:40:09,500 --> 00:40:10,530
+Quando isso acontecer...
+
+629
+00:40:10,820 --> 00:40:13,070
+Eu serei o rei dos piratas!
+
+630
+00:40:13,680 --> 00:40:16,200
+Mas eu estava errado.
+
+631
+00:40:16,200 --> 00:40:19,260
+Até ele tem muitos inimigos que não consegue derrotar.
+
+632
+00:40:19,830 --> 00:40:22,000
+Até o Luffy pode ser derrotado!
+
+633
+00:40:22,000 --> 00:40:25,600
+Ele está se esforçando demais! Ele estava gritando!
+
+634
+00:40:25,600 --> 00:40:26,840
+É por isso que...
+
+635
+00:40:27,100 --> 00:40:30,470
+ele precisa da minha força!
+
+636
 00:40:35,010 --> 00:40:36,720
 Heracles'n!
 
-620
+637
 00:40:36,720 --> 00:40:38,630
-I wanna get stronger!
+Eu quero ficar mais forte!
 
-621
+638
 00:40:38,630 --> 00:40:42,120
-I wanna get much, much,
-much stronger, and...!
+Muito, muito, muito mais forte!
 
-622
+639
 00:40:44,450 --> 00:40:47,260
-Please... Master Heracles'n...
+Por favor, Heracles'n-sensei...
 
-623
+640
 00:40:47,670 --> 00:40:49,900
-Huh? M-Master'n...?
+Huh? Sensei'n?
 
-624
+641
 00:40:49,900 --> 00:40:53,610
-I've been curious about
-those weapons of yours.
+Estou curioso sobre essas suas armas.
 
-625
+642
 00:40:53,610 --> 00:40:58,940
-Your strength is what allows you to survive
-on this island. Teach me your ways!
+Há tanto que eu quero aprender com você, o homem que sobrevive nesta ilha usando suas habilidades incríveis!
 
-626
-00:40:59,440 --> 00:41:01,940
-Strength'n? I'm a strong master'n?
+643
+00:40:58,940 --> 00:41:01,940
+Habilidades incríveis? Eu sou um sensei com habilidades incríveis?
 
-627
+644
 00:41:01,940 --> 00:41:04,810
-Yeah! My master is amazingly strong!
+Isso mesmo! Você é um sensei incrivelmente habilidoso!
 
-628
-00:41:04,810 --> 00:41:06,980
-And, my name is...
+645
+00:41:04,810 --> 00:41:05,890
+E,
 
-629
+646
+00:41:05,890 --> 00:41:06,980
+meu nome é...
+
+647
 00:41:08,140 --> 00:41:09,450
 Heracles'n!
 
-630
+648
 00:41:09,450 --> 00:41:11,590
-That's such a cool name!
+Que nome legal!
 
-631
+649
 00:41:12,300 --> 00:41:15,630
-R-Right! Take a seat, Usopp'n.
+C-Certo! Sente-se, Usopp'n.
 
-632
+650
 00:41:15,630 --> 00:41:17,280
-Yes, Master!
+Sim, sensei!
 
-633
+651
 00:41:18,000 --> 00:41:19,930
-Listen up, Usopp, my student'n!
+Escute, meu aluno Usopp'n!
 
-634
-00:41:20,700 --> 00:41:23,830
-Much of the local flora consists of pop green.
+652
+00:41:20,700 --> 00:41:28,520
+Existem plantas nesta ilha chamadas pop green. Elas são hostis e podem brotar instantaneamente.
 
-635
-00:41:23,830 --> 00:41:28,520
-They can sprout anywhere in an instant
-and have quite the mean streak!
-
-636
+653
 00:41:29,730 --> 00:41:32,030
-Behold! Their seeds'n.
+Estas são as sementes deles.
 
-637
+654
 00:41:32,600 --> 00:41:34,970
 Pop green?
 
-638
-00:41:34,970 --> 00:41:36,440
-Indeed'n!
-
-639
-00:41:37,470 --> 00:41:39,620
-They all have their uses'n.
-
-640
-00:41:39,620 --> 00:41:41,210
-Is that so'n?
-
-641
-00:41:41,210 --> 00:41:43,450
-Wait for me, Luffy!
-
-642
-00:41:45,600 --> 00:41:49,960
-Run, Usopp'n! This forest
-will make you stronger'n!
-
-643
-00:41:50,820 --> 00:41:53,230
-To help you become King of the Pirates,
-
-644
-00:41:53,230 --> 00:41:57,010
-I will become a true King of Snipers!
-
-645
-00:42:03,700 --> 00:42:10,050
-Now to Gloom Island on the Grand Line,
-in the ruins of the Muggy Kingdom...
-
-646
-00:42:10,960 --> 00:42:11,940
-Please!
-
-647
-00:42:19,580 --> 00:42:21,980
-Teach me the way of your sword!
-
-648
-00:42:22,700 --> 00:42:25,110
-I'm disappointed in you, Roronoa.
-
-649
-00:42:26,960 --> 00:42:30,130
-You would beg your enemy to instruct you?
-
-650
-00:42:30,710 --> 00:42:31,900
-How shameless!
-
-651
-00:42:33,860 --> 00:42:37,070
-Leave. I have no business
-with a wretch like you.
-
-652
-00:42:37,070 --> 00:42:40,880
-It would seem I overestimated you.
-
-653
-00:42:43,510 --> 00:42:46,680
-What's your game?
-You're embarrassing yourself.
-
-654
-00:42:47,440 --> 00:42:49,600
-I want to become stronger!
-
 655
-00:42:49,600 --> 00:42:52,860
-Powerless against baboons
-and incapable of setting sail,
+00:41:34,970 --> 00:41:39,620
+Todas elas têm suas utilidades.
 
 656
-00:42:52,860 --> 00:42:57,790
-you returned here, tail between your legs;
-I have nothing to teach a man such as you.
+00:41:39,620 --> 00:41:41,210
+Entendo.
 
 657
-00:42:57,790 --> 00:42:59,420
-I defeated the baboons.
+00:41:41,210 --> 00:41:43,450
+Espere por mim, Luffy!
 
 658
-00:43:00,820 --> 00:43:02,190
-Did he now?
+00:41:45,600 --> 00:41:49,960
+Corra, Usopp'n! Esta floresta vai te deixar mais forte!
 
 659
-00:43:03,480 --> 00:43:06,160
-All that's left is to take your head!
+00:41:50,820 --> 00:41:53,230
+Para ajudar você a se tornar o rei dos piratas,
 
 660
-00:43:06,160 --> 00:43:12,570
-But I'm not so stupid to think
-I can beat you right now.
+00:41:53,230 --> 00:41:57,010
+Eu me tornarei um verdadeiro Rei dos Atiradores!
 
 661
-00:43:12,570 --> 00:43:20,580
-Baffling... If you still see me as an enemy,
-why bow down and demand tutelage?
+00:42:03,700 --> 00:42:10,050
+E agora, para a Ilha Gloom na Grand Line, ruínas do Reino Muggy.
 
 662
-00:43:21,360 --> 00:43:22,670
-For what purpose?!
+00:42:05,030 --> 00:42:10,740
+Ruínas do Reino Muggy
 
 663
-00:43:24,390 --> 00:43:26,460
-To surpass you!
+00:42:05,030 --> 00:42:10,740
+Ruínas do Reino Muggy
 
 664
-00:43:34,300 --> 00:43:39,100
-You would have me temper the very sword
-whose blade would claim my head?
+00:42:05,030 --> 00:42:10,740
+Ilha Gloom, Grand Line
 
 665
-00:43:39,100 --> 00:43:42,920
-You are a strange one. What foolishness...
+00:42:05,030 --> 00:42:10,740
+Ilha Gloom, Grand Line
 
 666
-00:43:42,920 --> 00:43:46,070
-And still, you remain shameless.
+00:42:10,960 --> 00:42:11,940
+Estou implorando você!
 
 667
-00:43:46,070 --> 00:43:50,610
-It would seem... your ambition
-exceeds even your pride.
+00:42:19,580 --> 00:42:21,980
+Por favor, treine-me nos caminhos da espada!
 
 668
-00:43:52,240 --> 00:43:56,180
-You there, ghost girl... Tend to his wounds.
+00:42:22,700 --> 00:42:25,110
+Eu julguei você mal, Roronoa.
 
 669
-00:43:57,040 --> 00:43:59,520
-Hey! Don't tell me what to do!
+00:42:26,960 --> 00:42:30,130
+Você pediu para seu inimigo jurado lhe ensinar?
 
 670
-00:44:00,420 --> 00:44:02,530
-Training commences upon your recovery.
+00:42:30,710 --> 00:42:31,900
+Você deveria ter vergonha!
 
 671
-00:44:03,500 --> 00:44:07,810
-Dammit! Every last one of you
-is so demanding of me!
+00:42:33,860 --> 00:42:37,070
+Saia da minha frente. Não tenho nada a ver com um homem tão inútil.
 
 672
-00:44:07,810 --> 00:44:10,200
-Come on, get back to your room!
+00:42:37,070 --> 00:42:40,880
+Parece que superestimei você.
 
 673
-00:44:12,320 --> 00:44:13,930
-What a clumsy fool.
+00:42:43,510 --> 00:42:46,680
+O que você está fazendo? Você só está se envergonhando.
 
 674
-00:44:14,620 --> 00:44:20,930
-When a man of his caliber sets aside his pride,
-it is always for the sake of another.
+00:42:47,440 --> 00:42:49,600
+Eu quero ficar mais forte!
 
 675
-00:44:22,060 --> 00:44:25,570
-It's "3D" crossed out with "2Y" written next?
+00:42:49,600 --> 00:42:52,860
+Você falhou em derrotar os babuínos e não conseguiu ir para o mar.
 
 676
-00:44:25,570 --> 00:44:28,740
-You're right! It's tattooed
-onto Straw Hat's right arm!
+00:42:52,860 --> 00:42:57,790
+Então você rastejou de volta para cá. Não tenho nada a ensinar a alguém como você.
 
 677
-00:44:28,740 --> 00:44:33,900
-We made a promise to meet
-at a certain place in three days.
+00:42:57,790 --> 00:42:59,420
+Eu derrotei os babuínos.
 
 678
-00:44:34,860 --> 00:44:36,850
-So much for that plan.
+00:43:00,820 --> 00:43:02,190
+Ele os derrotou?
 
 679
-00:44:37,150 --> 00:44:40,880
-So "3D" stands for "three days"?
+00:43:03,480 --> 00:43:06,160
+Agora, eu só preciso arrancar sua cabeça!
 
 680
-00:44:40,880 --> 00:44:44,560
-But since the "3D" is
-crossed out, the "2Y" means...
+00:43:06,160 --> 00:43:12,570
+Mas eu não sou tão estúpido a ponto de pensar que posso vencê-lo agora.
 
 681
-00:44:45,140 --> 00:44:46,000
-Two years.
+00:43:12,570 --> 00:43:17,300
+Eu não entendo. Se você ainda me considera seu inimigo,
 
 682
-00:44:46,000 --> 00:44:47,260
-Two years?!
+00:43:17,300 --> 00:43:20,580
+por que você se curva diante de mim e me pede para treiná-lo?
 
 683
-00:44:47,260 --> 00:44:51,350
-We won't be meeting up in
-three days, but in two years.
+00:43:21,360 --> 00:43:22,670
+Para qual propósito?!
 
 684
-00:44:51,350 --> 00:44:55,700
-Everything else was to distract
-from his true intentions.
+00:43:24,390 --> 00:43:26,460
+Para que eu possa superar você!
 
 685
-00:44:55,700 --> 00:45:02,050
-This message was meant only for us.
-Luffy has made his decision.
+00:43:34,300 --> 00:43:39,100
+Então você quer que eu treine pessoalmente um espadachim que quer arrancar minha própria cabeça?
 
 686
-00:45:02,700 --> 00:45:06,770
-As we are, we'd be rushing headlong
-into disaster in the New World.
+00:43:39,100 --> 00:43:42,920
+Que sujeito estranho. Que ridículo!
 
 687
-00:45:06,770 --> 00:45:09,050
-We'll stay put, grow stronger...
+00:43:42,920 --> 00:43:46,070
+E você ainda está se desonrando.
 
 688
-00:45:10,150 --> 00:45:13,220
-and then we'll definitely set sail once more!
+00:43:46,070 --> 00:43:50,610
+Parece que encontrei um homem realmente cheio de ambição.
 
 689
-00:45:13,690 --> 00:45:17,150
-– See you at Sabaody Archipelago in two years!
-– See you at Sabaody Archipelago in two years!
+00:43:52,240 --> 00:43:56,180
+Ei, garota fantasma. Cuide dos ferimentos dele.
 
 690
-00:45:27,900 --> 00:45:29,370
-Here he comes.
+00:43:57,040 --> 00:43:59,520
+Ei! Não me diga o que fazer!
 
 691
-00:45:34,140 --> 00:45:36,850
-Jinbe! Thanks for everything!
+00:44:00,420 --> 00:44:02,530
+O treinamento começará depois que seus ferimentos estiverem curados.
 
 692
-00:45:36,850 --> 00:45:40,580
-I'm the one who ought to be thanking you!
+00:44:03,500 --> 00:44:07,810
+Droga! Todo mundo fica me dando ordens!
 
 693
-00:45:46,720 --> 00:45:51,660
-You listened to my plea and
-helped me escape from Impel Down,
+00:44:07,810 --> 00:44:10,200
+Vamos, volte para o seu quarto!
 
 694
-00:45:51,660 --> 00:45:55,630
-and though I am shamed, I go on living.
+00:44:12,320 --> 00:44:13,930
+Que homem estranho.
 
 695
-00:45:55,630 --> 00:45:57,730
-My sincerest apologies!
+00:44:14,620 --> 00:44:20,930
+Quando alguém como ele descarta seu orgulho, deve ser pelo bem de outro.
 
 696
-00:45:59,030 --> 00:46:02,200
-I thought I told you to stop that.
+00:44:22,060 --> 00:44:25,570
+"3D" com um X sobre ele e "2Y"?
 
 697
-00:46:02,200 --> 00:46:08,310
-If not for you, I probably wouldn't
-have gotten to Marine Headquarters.
+00:44:25,570 --> 00:44:28,740
+Você está certo! Está tatuado no braço direito do Chapéu de Palha!
 
 698
-00:46:08,780 --> 00:46:10,270
-Raise your head.
+00:44:28,740 --> 00:44:33,900
+Fizemos uma promessa de nos encontrar em um determinado lugar em três dias.
 
 699
-00:46:21,600 --> 00:46:23,590
-I suppose so.
+00:44:34,860 --> 00:44:36,850
+E agora veja como ficou!
 
 700
-00:46:23,590 --> 00:46:28,330
-And I might have the chance
-to help you again someday.
+00:44:37,150 --> 00:44:40,880
+Então "3D" significa "Três dias"?
 
 701
-00:46:29,340 --> 00:46:32,970
-With that said, let us meet again
-in two years at Fishman Island!
+00:44:40,880 --> 00:44:44,560
+Mas o "3D" está riscado, e o "2Y" significa...
 
 702
-00:46:32,970 --> 00:46:37,770
-I look forward to the day when you
-arrive together with your crew!
+00:44:45,140 --> 00:44:46,000
+Dois anos.
 
 703
-00:46:37,770 --> 00:46:38,850
-Sure!
+00:44:46,000 --> 00:44:47,260
+Dois anos?!
 
 704
-00:46:41,780 --> 00:46:43,550
-– Take care!
-– Farewell!
+00:44:47,260 --> 00:44:51,350
+Não nos encontraremos em três dias, mas em dois anos.
 
 705
-00:46:53,320 --> 00:46:55,490
-This island will do the trick.
+00:44:51,350 --> 00:44:55,700
+Todo o resto era apenas uma distração para esconder a mensagem real de todos os outros.
 
 706
-00:46:55,490 --> 00:47:00,330
-Known as the Island of Forty-Eight Seasons,
-its climate ruthlessly shifts once per week.
+00:44:55,700 --> 00:45:02,050
+Esta mensagem era para nós. É a decisão que Luffy tomou.
 
 707
-00:47:00,330 --> 00:47:02,200
-Luffy!
+00:45:02,700 --> 00:45:06,770
+Não há motivo para pressa. Do jeito que estamos, não teremos chance no Novo Mundo.
 
 708
-00:47:02,200 --> 00:47:09,000
-I will bring you food from the
-Isle of Women each and every day!
+00:45:06,770 --> 00:45:09,050
+Vamos parar aqui e aumentar nossa força!
 
 709
-00:47:09,000 --> 00:47:11,640
-What?! Seriously, Hancock?
+00:45:10,150 --> 00:45:13,220
+E então zarparemos mais uma vez!
 
 710
-00:47:11,640 --> 00:47:15,160
-Then bring more of that special dish,
-the gorgon something-or-other!
+00:45:13,690 --> 00:45:17,150
+Em dois anos no Arquipélago de Sabaody!
 
 711
-00:47:15,160 --> 00:47:17,210
-It was so good!
+00:45:19,630 --> 00:45:22,970
+Alguns dias depois
 
 712
-00:47:17,210 --> 00:47:19,050
-O-Of course!
+00:45:19,630 --> 00:45:22,970
+Alguns dias depois
 
 713
-00:47:19,050 --> 00:47:21,750
-– Wow! Snake Princess!
-– Wow! Snake Princess!
+00:45:19,630 --> 00:45:22,970
+No Calm Belt
 
 714
-00:47:21,750 --> 00:47:25,490
-Whatever your heart desires most,
-I will bring it to you!
+00:45:19,630 --> 00:45:22,970
+No Calm Belt
 
 715
-00:47:26,320 --> 00:47:30,690
-Also... that's officially the tenth time
-you have used my name.
+00:45:27,900 --> 00:45:29,370
+Aí vem ele.
 
 716
-00:47:32,540 --> 00:47:35,500
-Th-Then... we must be engaged!
+00:45:34,140 --> 00:45:36,850
+Jinbe! Obrigado por tudo!
 
 717
-00:47:35,500 --> 00:47:39,700
-Nyo you are nyot! And why
-do you keep moving backward?!
+00:45:36,850 --> 00:45:40,580
+Eu sou quem deveria agradecer a você!
 
 718
-00:47:39,700 --> 00:47:43,910
-Hancock, we can't have you
-pampering him like that.
+00:45:46,720 --> 00:45:51,660
+Você ouviu meu apelo e me ajudou a escapar de Impel Down,
 
 719
-00:47:43,910 --> 00:47:48,300
-While Luffy is training, all your women
-will have to remain off the island.
+00:45:51,660 --> 00:45:55,630
+me permitindo viver, embora de uma maneira vergonhosa.
 
 720
-00:47:48,300 --> 00:47:49,180
-What?!
+00:45:55,630 --> 00:45:57,730
+Não tenho palavras para agradecer.
 
 721
-00:47:50,380 --> 00:47:55,080
-What gives you the right
-to decide such things, Rayleigh?!
+00:45:59,030 --> 00:46:02,200
+Achei que tinha dito para você parar com isso.
 
 722
-00:47:55,080 --> 00:47:58,450
-Your answer will determine
-whether you turn to stone!
+00:46:02,200 --> 00:46:08,310
+Se você não estivesse lá, eu talvez nunca tivesse chegado ao QG da Marinha.
 
 723
-00:47:58,450 --> 00:48:03,930
-He can find all the food he needs
-in the mountains, forests, rivers, or ocean!
+00:46:08,780 --> 00:46:10,270
+Levante a cabeça.
 
 724
-00:48:03,930 --> 00:48:06,780
-Please release his nyose, Snake Princess!
+00:46:21,600 --> 00:46:23,590
+Acho que sim.
 
 725
-00:48:06,780 --> 00:48:11,370
-If he can't handle basic survival skills,
-he'll never make it as a pirate!
+00:46:23,590 --> 00:46:28,330
+E talvez eu tenha a chance de ajudar você novamente algum dia.
 
 726
-00:48:11,370 --> 00:48:13,340
-This is all to help Luffy!
+00:46:29,340 --> 00:46:32,970
+Dito isso, vamos nos encontrar novamente em dois anos, na Ilha dos Tritões!
 
 727
-00:48:15,340 --> 00:48:18,450
-Did you say... this is to help Luffy?
+00:46:32,970 --> 00:46:37,770
+Estou ansioso pelo dia em que você e sua tripulação chegarão!
 
 728
-00:48:19,350 --> 00:48:20,510
-I did.
+00:46:37,770 --> 00:46:38,850
+Claro!
 
 729
-00:48:20,510 --> 00:48:22,440
-If it is to help Luffy...
+00:46:41,780 --> 00:46:43,550
+Tome cuidado!
 
 730
-00:48:24,960 --> 00:48:26,380
-then I shall endure it!
+00:46:47,620 --> 00:46:52,420
+Ruskaina, uma ilha deserta
 
 731
-00:48:27,880 --> 00:48:31,620
-But Rayleigh, this island
-is extremely dangerous.
+00:46:47,620 --> 00:46:52,420
+Ruskaina, uma ilha deserta
 
 732
-00:48:31,620 --> 00:48:33,190
-If anything happens to him–
+00:46:47,620 --> 00:46:52,420
+Noroeste da Ilha das Mulheres, Calm Belt
 
 733
-00:48:33,190 --> 00:48:36,000
-If nothing happens to him,
-it wouldn't be training.
+00:46:47,620 --> 00:46:52,420
+Noroeste da Ilha das Mulheres, Calm Belt
 
 734
-00:48:36,000 --> 00:48:38,100
-Send prayers if you're worried.
+00:46:53,320 --> 00:46:55,490
+Esta ilha é ideal.
 
 735
-00:48:40,430 --> 00:48:46,070
-All right. Now we are the only
-two humans on this island.
+00:46:55,490 --> 00:47:00,330
+É chamada de Ilha das 48 Estações. É uma ilha implacável onde a estação muda uma vez por semana.
 
 736
-00:48:46,830 --> 00:48:48,770
-Take a look at this vast wilderness.
+00:47:00,330 --> 00:47:02,200
+Luffy.
 
 737
-00:48:48,770 --> 00:48:55,410
-There was once a great civilization here,
-but humans eventually lost the battle for survival.
+00:47:02,200 --> 00:47:09,000
+Eu vou te trazer comida da Ilha das Mulheres todo dia!
 
 738
-00:48:55,410 --> 00:48:58,550
-It's a harsh environment,
-where only the strong can thrive.
+00:47:09,000 --> 00:47:11,640
+O que, sério, Hancock?
 
 739
-00:49:08,930 --> 00:49:10,730
-I smell adventure!
+00:47:11,640 --> 00:47:15,160
+Nesse caso, eu gostaria daquele seu prato especial, a górgona, sei lá o que for!
 
 740
-00:49:16,770 --> 00:49:19,970
-The island is crawling with beasts.
+00:47:15,160 --> 00:47:17,210
+Estava uma delícia!
 
 741
-00:49:20,380 --> 00:49:22,400
-There's no counting them all.
+00:47:17,210 --> 00:47:19,070
+C-Claro...
 
 742
-00:49:23,210 --> 00:49:28,180
-In your current state, I sense about
-500 that you can't beat.
+00:47:19,880 --> 00:47:21,750
+Princesa Serpente!
 
 743
-00:49:28,860 --> 00:49:32,380
-You'll need to become stronger
-to even sleep at night.
+00:47:21,750 --> 00:47:25,490
+Eu posso lhe trazer o que você quiser, na quantidade que quiser!
 
 744
-00:49:32,380 --> 00:49:36,250
-How can you tell what's here
-or how many there are?
+00:47:26,320 --> 00:47:30,690
+E essa foi a décima vez que você me chamou pelo meu nome!
 
 745
-00:49:36,250 --> 00:49:40,520
-It's not just me. You, too,
-will learn to use this power.
+00:47:32,540 --> 00:47:35,500
+É-É assim que é o noivado?
 
 746
-00:49:41,380 --> 00:49:43,230
-The power known as haki!
+00:47:35,500 --> 00:47:39,700
+Não é nada! E por que você continua andando para trás?
 
 747
-00:49:49,030 --> 00:49:51,930
-Hey, look out! Something's coming, Rayleigh!
+00:47:39,700 --> 00:47:43,910
+Hancock, você não pode mimá-lo desse jeito.
 
 748
-00:49:51,930 --> 00:49:54,380
-Gramps! Behind you! Behind you!
+00:47:43,910 --> 00:47:48,300
+Eu não vou permitir que nenhuma das mulheres pise nesta ilha enquanto Luffy-kun estiver treinando.
 
 749
-00:49:54,380 --> 00:50:00,440
-Listen well, Luffy. Haki is a latent
-power dwelling within everyone.
+00:47:50,380 --> 00:47:55,080
+O que te dá o direito de decidir essas coisas, Rayleigh?!
 
 750
-00:50:00,440 --> 00:50:03,230
-An elephant?! It's five times
-as big as a normal one!
+00:47:55,080 --> 00:47:58,450
+Responda com cuidado. Eu posso ter que te petrificar!
 
 751
-00:50:03,230 --> 00:50:04,880
-That elephant is so cool!
+00:47:58,450 --> 00:48:03,930
+Ele pode encontrar toda a comida que precisa nas montanhas, florestas, rios ou oceano!
 
 752
-00:50:05,800 --> 00:50:09,250
-Presence. Fighting spirit. Control.
+00:48:03,930 --> 00:48:06,780
+Por favor, solte o nariz dele, Princesa Serpente!
 
 753
-00:50:09,250 --> 00:50:13,880
-People use it in much the same way
-as their normal senses.
+00:48:06,780 --> 00:48:11,370
+Se ele não consegue lidar com habilidades básicas de sobrevivência, ele nunca vai conseguir ser um pirata!
 
 754
-00:50:15,330 --> 00:50:18,920
-However, most humans don't
-even realize they have this power,
+00:48:11,370 --> 00:48:13,340
+Isso tudo é para ajudar Luffy-kun!
 
 755
-00:50:18,920 --> 00:50:22,540
-or they spend their entire lives
-trying in vain to develop it.
+00:48:15,340 --> 00:48:18,450
+Você disse... que é pelo bem do Luffy?
 
 756
-00:50:25,400 --> 00:50:29,570
-To never doubt! That is the strength you seek.
+00:48:19,350 --> 00:48:20,510
+Eu disse.
 
 757
-00:50:31,880 --> 00:50:32,740
-L-Look out!
+00:48:20,510 --> 00:48:22,440
+Pelo bem do Luffy...
 
 758
-00:50:35,250 --> 00:50:36,980
-Gear Second!
+00:48:24,960 --> 00:48:26,380
+Então eu vou suportar!
 
 759
-00:50:36,980 --> 00:50:39,080
-Jet Pistol!
+00:48:27,880 --> 00:48:31,620
+Mas Rayleigh, esta ilha é realmente perigosa.
 
 760
-00:50:46,820 --> 00:50:51,930
-Damn... What's with this elephant?
-He's strong and fast!
+00:48:31,620 --> 00:48:33,190
+Se alguma coisa acontecer com ele...
 
 761
-00:50:55,560 --> 00:50:57,470
-Watch closely.
+00:48:33,190 --> 00:48:36,000
+O treinamento seria inútil se nada acontecesse.
 
 762
-00:50:57,470 --> 00:51:00,140
-Most haki manifests within two categories.
+00:48:36,000 --> 00:48:37,940
+Se você está preocupada, então reze pela segurança dele.
 
 763
-00:51:01,860 --> 00:51:03,100
-Look out!
+00:48:40,430 --> 00:48:46,070
+Tudo bem... Agora somos os únicos dois humanos nesta ilha.
 
 764
-00:51:03,100 --> 00:51:04,170
-Relax.
+00:48:46,830 --> 00:48:51,960
+Olhe atentamente para esta vasta região selvagem. Dizem que um país costumava estar aqui.
 
 765
-00:51:04,170 --> 00:51:08,140
-The elephant will swing its trunk
-at me from the right.
+00:48:51,960 --> 00:48:55,410
+Mas as condições eram muito duras para os humanos sobreviverem.
 
 766
-00:51:13,520 --> 00:51:16,600
-The power to sense your
-opponent's presence...
+00:48:55,410 --> 00:48:58,550
+É uma região selvagem inóspita, um lugar onde apenas os fortes sobrevivem.
 
 767
-00:51:16,600 --> 00:51:19,150
-This is observation haki.
+00:49:08,930 --> 00:49:10,730
+Este lugar cheira a aventura!
 
 768
-00:51:23,340 --> 00:51:24,290
-Amazing...
+00:49:16,770 --> 00:49:19,970
+A ilha está cheia de feras.
 
 769
-00:51:24,290 --> 00:51:29,570
-Hone this ability to discern the location
-and number of foes beyond your vision.
+00:49:20,380 --> 00:49:22,400
+Eu nem consigo contar todos eles.
 
 770
-00:51:29,570 --> 00:51:34,020
-It will even let you predict
-your enemy's next move.
+00:49:23,210 --> 00:49:28,180
+No seu estado atual, há pelo menos quinhentos que você não pode derrotar.
 
 771
-00:51:34,740 --> 00:51:36,210
-A kick with your left foot.
+00:49:28,860 --> 00:49:32,380
+Você precisa ficar mais forte ou não conseguirá dormir à noite.
 
 772
+00:49:32,380 --> 00:49:36,250
+Como você pode dizer o que está aqui, ou quantos são?
+
+773
+00:49:36,250 --> 00:49:40,520
+Não sou só eu. Você também aprenderá a usar esse poder.
+
+774
+00:49:41,380 --> 00:49:43,230
+O poder conhecido como haki!
+
+775
+00:49:49,030 --> 00:49:51,930
+Olha! Olha! Algo está vindo, tio Rayleigh!
+
+776
+00:49:51,930 --> 00:49:54,380
+Tio! Olhe para trás!
+
+777
+00:49:54,380 --> 00:50:00,440
+Escute, Luffy. Haki é um poder que habita em todos no mundo.
+
+778
+00:50:00,440 --> 00:50:03,230
+Um elefante?! É cinco vezes maior que um normal!
+
+779
+00:50:03,230 --> 00:50:04,880
+Esse é um elefante incrível!
+
+780
+00:50:05,800 --> 00:50:09,250
+Presença. Espírito de luta. Controle.
+
+781
+00:50:09,250 --> 00:50:13,880
+Não é diferente dos outros sentidos que os humanos normais têm.
+
+782
+00:50:15,330 --> 00:50:18,920
+Mas os humanos comuns nem percebem esse poder,
+
+783
+00:50:18,920 --> 00:50:22,540
+ou eles podem tentar desenvolvê-lo por toda a vida sem sucesso.
+
+784
+00:50:25,400 --> 00:50:29,570
+Removendo todas as dúvidas. Isso é força.
+
+785
+00:50:31,880 --> 00:50:32,740
+C-Cuidado!
+
+786
+00:50:35,250 --> 00:50:36,980
+Gia Sekando.
+
+787
+00:50:36,980 --> 00:50:39,080
+Jetto Pisutoru.
+
+788
+00:50:46,820 --> 00:50:51,930
+Droga, o que há com esse elefante? Ele não é apenas forte, mas também rápido!
+
+789
+00:50:55,560 --> 00:50:57,470
+Observe atentamente.
+
+790
+00:50:57,470 --> 00:51:00,140
+Haki é tipicamente dividido em dois tipos.
+
+791
+00:51:01,860 --> 00:51:03,100
+Cuidado!
+
+792
+00:51:03,100 --> 00:51:04,170
+Está tudo bem.
+
+793
+00:51:04,170 --> 00:51:08,140
+O elefante está balançando sua tromba para mim da direita.
+
+794
+00:51:13,520 --> 00:51:16,600
+O poder de ser sensível à presença do seu oponente.
+
+795
+00:51:16,600 --> 00:51:19,150
+Este é o haki da observação.
+
+796
+00:51:23,340 --> 00:51:24,290
+Incrível.
+
+797
+00:51:24,290 --> 00:51:25,880
+Se você conseguir dominar esse poder,
+
+798
+00:51:25,880 --> 00:51:29,470
+você será capaz de discernir tanto a localização quanto o número de inimigos fora do seu campo de visão.
+
+799
+00:51:29,630 --> 00:51:34,020
+Ele até permite que você preveja o que o inimigo fará no próximo momento.
+
+800
+00:51:34,740 --> 00:51:36,210
+Um chute com o pé esquerdo.
+
+801
 00:51:37,140 --> 00:51:38,310
 Mantra.
 
-773
+802
 00:51:42,950 --> 00:51:46,850
-On the sky island of Skypiea,
-they call this power "mantra."
+Na ilha do céu de Skypiea eles chamam esse poder de "mantra".
 
-774
+803
 00:51:49,450 --> 00:51:50,970
-That was close!
+Essa foi por pouco!
 
-775
+804
 00:51:51,600 --> 00:51:53,960
-Next up: armament haki.
+A seguir, o haki do armamento.
 
-776
+805
 00:51:53,960 --> 00:51:57,530
-Using this power is like wearing invisible armor.
+Este é como colocar uma armadura invisível.
 
-777
+806
 00:52:00,960 --> 00:52:01,860
-Gramps!
+Tio!
 
-778
-00:52:13,050 --> 00:52:16,040
-I... I know that one!
+807
+00:52:13,800 --> 00:52:16,040
+Eu... conheço esse!
 
-779
+808
 00:52:16,040 --> 00:52:17,650
 Ashigara Dokkoi!
 
-780
-00:52:22,280 --> 00:52:25,850
-Of course, the stronger your armor,
-the more powerful your attacks.
-
-781
-00:52:28,590 --> 00:52:32,290
-Hey, ow! I'm made of rubber, 
-but that flick really hurt!
-
-782
-00:52:32,290 --> 00:52:36,000
-This is the most useful part of this power.
-
-783
-00:52:36,700 --> 00:52:43,120
-When battling devil fruit users, armament haki
-is the most effective way to oppose them.
-
-784
-00:52:43,120 --> 00:52:46,520
-Otherwise, you must find a weakness
-in their individual powers.
-
-785
-00:52:49,280 --> 00:52:55,140
-Even the practically invincible logia types,
-who boast freely flowing bodies,
-
-786
-00:52:55,140 --> 00:52:57,990
-are vulnerable when struck by it.
-
-787
-00:52:58,650 --> 00:53:01,620
-Was this why you could touch Kizaru?
-
-788
-00:53:01,620 --> 00:53:06,930
-So, if I used this, even I could fight
-Marine guys like Smokey or Aokiji?
-
-789
-00:53:11,300 --> 00:53:14,950
-People can also imbue
-their weapons with this power.
-
-790
-00:53:14,950 --> 00:53:17,140
-You saw the Kuja Tribe's archery?
-
-791
-00:53:17,140 --> 00:53:18,470
-Yeah...
-
-792
-00:53:22,240 --> 00:53:24,080
-Then they weren't just steel arrows...!
-
-793
-00:53:24,080 --> 00:53:27,450
-Observation and armament...
-
-794
-00:53:27,450 --> 00:53:29,650
-these are two types of haki.
-
-795
-00:53:30,030 --> 00:53:31,010
-However,
-
-796
-00:53:31,010 --> 00:53:35,620
-a select few people in the world
-can utilize another kind of haki.
-
-797
-00:53:40,480 --> 00:53:41,560
-Pay attention.
-
-798
-00:54:05,930 --> 00:54:08,460
-This power controls your opponent!
-
-799
-00:54:08,960 --> 00:54:10,840
-Conqueror's haki.
-
-800
-00:54:12,900 --> 00:54:16,370
-Those who have made a name
-for themselves in this world,
-
-801
-00:54:16,370 --> 00:54:20,360
-are often found to possess this power.
-
-802
-00:54:20,360 --> 00:54:21,340
-However,
-
-803
-00:54:21,340 --> 00:54:23,540
-while a person can come to control it,
-
-804
-00:54:23,540 --> 00:54:27,040
-conqueror's haki cannot be
-harnessed through training.
-
-805
-00:54:27,750 --> 00:54:30,200
-It is the very spirit of the user.
-
-806
-00:54:31,130 --> 00:54:33,780
-It strengthens with individual growth.
-
-807
-00:54:34,750 --> 00:54:38,250
-That's what you used
-back at the auction house!
-
-808
-00:54:39,860 --> 00:54:42,080
-I'm sure you've experienced it already.
-
 809
-00:54:42,620 --> 00:54:46,600
-Your potential as a conqueror
-is already awakening.
+00:52:22,280 --> 00:52:25,850
+Uma armadura mais forte obviamente aumentará seu poder de ataque também.
 
 810
-00:54:46,600 --> 00:54:51,940
-But you should refrain from using it until
-you've got it completely under control.
+00:52:28,590 --> 00:52:32,290
+Isso doeu! Eu sou feito de borracha, mas esse golpe doeu muito!
 
 811
-00:54:51,940 --> 00:54:56,460
-There's a potential for affecting
-innocent bystanders around you.
+00:52:32,290 --> 00:52:36,000
+Esta é a parte mais útil deste poder.
 
 812
-00:54:58,810 --> 00:55:00,980
-Hm? What is it?
+00:52:36,700 --> 00:52:43,120
+Ao lutar contra usuários de Akuma no Mi, o Haki do armamento é a única maneira de atingi-los.
 
 813
-00:55:04,680 --> 00:55:06,680
-Amazing!
+00:52:43,120 --> 00:52:46,520
+Caso contrário, você deve encontrar uma fraqueza em seus poderes individuais.
 
 814
-00:55:06,680 --> 00:55:12,120
-The Pirate King's crew can beat giant monsters
-like these without even touching them?
+00:52:49,280 --> 00:52:55,140
+Mesmo os corpos livres de usuários de logia, que de outra forma poderiam parecer invulneráveis,
 
 815
-00:55:14,520 --> 00:55:16,290
-Did your respect for me grow?
+00:52:55,140 --> 00:52:57,990
+podem ser atingidos normalmente usando-o.
 
 816
-00:55:17,730 --> 00:55:18,740
-Yeah!
+00:52:58,650 --> 00:53:01,620
+Foi por isso que você conseguiu tocar em Kizaru?
 
 817
-00:55:19,200 --> 00:55:24,080
-But I've seen this haki stuff lots before.
+00:53:01,620 --> 00:53:06,930
+Então isso significa que eu poderia até atingir Smokey ou Aokiji da Marinha usando isso?
 
 818
-00:55:24,720 --> 00:55:27,560
-Shanks... Grandpa...
+00:53:11,300 --> 00:53:14,950
+Esse poder também pode ser imbuído em armas.
 
 819
-00:55:27,560 --> 00:55:29,030
-Enel and Aisa,
+00:53:14,950 --> 00:53:17,140
+Você viu o arco e flecha da Tribo Kuja?
 
 820
-00:55:29,030 --> 00:55:32,370
-and then there's Hancock
-and the Kuja warriors.
+00:53:17,140 --> 00:53:18,470
+É...
 
 821
-00:55:32,370 --> 00:55:37,850
-I'm sure you have. However, learning
-to use haki is not so simple a task.
+00:53:22,240 --> 00:53:24,080
+Eu pensei que fossem flechas de aço ou algo assim.
 
 822
-00:55:38,820 --> 00:55:40,100
-Right.
+00:53:24,450 --> 00:53:27,450
+O Haki da Observação e o Haki do Armamento.
 
 823
-00:55:46,960 --> 00:55:50,160
-Usually, the amount of time
-we have wouldn't be enough,
+00:53:27,450 --> 00:53:29,650
+Esses são dois tipos de Haki.
 
 824
-00:55:50,160 --> 00:55:51,890
-but you have a lot of potential.
+00:53:30,030 --> 00:53:35,620
+No entanto, algumas poucas pessoas selecionadas no mundo podem utilizar outro tipo de haki.
 
 825
-00:55:52,750 --> 00:56:00,500
-In two years, I will teach you the basics of
-observation, armament and even conqueror's haki.
+00:53:40,480 --> 00:53:41,560
+Preste atenção.
 
 826
-00:56:00,500 --> 00:56:02,400
-Uh-huh.
+00:54:05,930 --> 00:54:08,460
+Este é o poder de controlar seu oponente,
 
 827
-00:56:02,400 --> 00:56:07,180
-You see, most people tend to specialize
-in just one type over the others,
+00:54:08,960 --> 00:54:10,840
+o Haki do Conquistador.
 
 828
-00:56:07,180 --> 00:56:09,810
-due to their skills or weaknesses.
+00:54:12,900 --> 00:54:16,370
+Muitas pessoas que fizeram um nome para si mesmas neste mundo...
 
 829
-00:56:09,810 --> 00:56:14,350
-They gravitate toward the one
-they're best at and hone nothing else.
+00:54:16,370 --> 00:54:20,360
+possuem este poder oculto dentro delas.
 
 830
-00:56:14,350 --> 00:56:18,490
-If you become skilled in all three,
-you'll achieve so much more.
+00:54:20,360 --> 00:54:27,040
+No entanto, embora o Haki do Conquistador possa ser controlado, ele não pode ser treinado.
 
 831
-00:56:18,490 --> 00:56:20,280
-Sure, I got it.
+00:54:27,750 --> 00:54:30,200
+É o próprio espírito do usuário.
 
 832
-00:56:21,680 --> 00:56:22,740
-Well then...
+00:54:31,130 --> 00:54:33,780
+A única maneira de fortalecê-lo é fortalecer a própria força mental.
 
 833
-00:56:23,690 --> 00:56:27,980
-I won't go easy on you, Luffy.
+00:54:34,750 --> 00:54:38,250
+Foi isso que você usou na casa de leilões!
 
 834
-00:56:28,990 --> 00:56:31,170
-Of course! I wouldn't expect you to!
+00:54:39,860 --> 00:54:42,080
+Tenho certeza de que você já passou por isso.
 
 835
-00:56:32,670 --> 00:56:34,440
-Ah, hold on!
+00:54:42,620 --> 00:54:46,600
+Seu potencial como conquistador já está despertando.
 
 836
-00:56:39,900 --> 00:56:44,580
-Gramps said this was the one safe spot, right?
+00:54:46,600 --> 00:54:51,940
+Mas você deve evitar usá-lo até que esteja completamente sob controle.
 
 837
-00:56:46,850 --> 00:56:51,600
-Straw Hat Luffy is taking
-a little break from pirating.
+00:54:51,940 --> 00:54:56,460
+Caso contrário, você acabará afetando espectadores inocentes ao seu redor.
 
 838
-00:57:18,780 --> 00:57:20,530
-Oh, right.
+00:54:59,740 --> 00:55:00,980
+O que é?
 
 839
-00:57:22,480 --> 00:57:23,750
-This, too...
+00:55:04,680 --> 00:55:06,680
+Incrível!
 
 840
-00:57:29,400 --> 00:57:30,320
-Guys...
+00:55:06,680 --> 00:55:12,120
+A tripulação do rei dos piratas pode derrotar monstros como esses sem nem mesmo tocá-los?
 
 841
-00:57:33,700 --> 00:57:35,260
-– Luffy!
-– Luffy!
+00:55:14,520 --> 00:55:16,290
+Você ganhou algum respeito por mim?
 
 842
-00:57:39,900 --> 00:57:41,660
-Hey, hurry!
+00:55:17,730 --> 00:55:18,740
+Sim!
 
 843
-00:57:41,660 --> 00:57:43,260
-Let's get started!
+00:55:19,200 --> 00:55:24,080
+Mas eu já vi essa coisa do haki várias vezes antes.
 
 844
-00:57:44,020 --> 00:57:45,350
-Got it!
+00:55:24,720 --> 00:55:27,560
+Shanks... Vovô...
 
 845
-00:57:54,850 --> 00:57:56,890
-I'm in your hands, Gramps!
+00:55:27,560 --> 00:55:29,030
+Enel e Aisa...
 
 846
-00:57:58,600 --> 00:57:59,800
-That won't do.
+00:55:29,030 --> 00:55:32,370
+e então tem Hancock e as guerreiros Kuja.
 
 847
-00:57:59,800 --> 00:58:02,400
-Say, "Please teach me, Mr. Rayleigh"!
+00:55:32,370 --> 00:55:37,850
+Tenho certeza que sim. No entanto, aprender a usar haki não será fácil.
 
 848
-00:58:02,400 --> 00:58:04,670
-No, "Professor Rayleigh"!
+00:55:38,820 --> 00:55:40,100
+Certo.
 
 849
-00:58:04,670 --> 00:58:05,940
-Or, "Master"?
+00:55:46,960 --> 00:55:50,160
+Normalmente, a quantidade de tempo que temos não seria suficiente,
 
 850
-00:58:05,940 --> 00:58:08,320
-Thanks! Please teach me, Rayleigh!
+00:55:50,160 --> 00:55:51,890
+mas você tem muito potencial.
 
 851
-00:58:08,320 --> 00:58:10,850
-Well, it doesn't matter.
+00:55:52,750 --> 00:55:54,560
+Nos próximos dois anos,
 
 852
-00:59:43,220 --> 00:59:46,390
-Zoro, Usopp, Sanji, Nami,
+00:55:54,560 --> 00:56:00,500
+Pretendo tentar lhe ensinar o básico da Observação, Armamento e Haki do Conquistador.
 
 853
-00:59:46,390 --> 00:59:49,560
-Chopper, Robin, Franky, Brook...
+00:56:02,400 --> 00:56:07,180
+No entanto, a maioria das pessoas tende a desenvolver um tipo específico acima dos outros,
 
 854
-00:59:50,050 --> 00:59:52,530
-and Ace and Sabo!
+00:56:07,180 --> 00:56:09,810
+dependendo de suas próprias habilidades e fraquezas.
 
 855
-00:59:52,530 --> 00:59:55,100
-I promise once more...
+00:56:09,810 --> 00:56:14,350
+Eles destacam aquele em que são melhores e se concentram nele.
 
 856
-00:59:55,100 --> 00:59:57,570
-I'm gonna get stronger!
+00:56:14,350 --> 00:56:18,490
+Se você fortalecer suas habilidades em todos os três, você conseguirá muito mais.
 
 857
-00:02:35,370 --> 00:02:41,110
-The Grand Line, Near the Sabaody Archipelago
+00:56:18,490 --> 00:56:20,280
+Claro, entendi.
 
 858
-00:02:35,370 --> 00:02:41,110
-The Grand Line, Near the Sabaody Archipelago
+00:56:21,680 --> 00:56:22,740
+Bem, então,
 
 859
-00:02:53,320 --> 00:02:58,890
-Trafalgar Law
+00:56:23,690 --> 00:56:27,980
+Eu não vou pegar leve com você, Luffy.
 
 860
-00:02:53,320 --> 00:02:58,890
-Trafalgar Law
+00:56:28,990 --> 00:56:31,170
+Certo! Eu também não quero que você faça isso!
 
 861
-00:03:38,930 --> 00:03:42,570
-A Winter Island, the New World
+00:56:32,670 --> 00:56:34,440
+Ah, espera um segundo!
 
 862
-00:03:38,930 --> 00:03:42,570
-A Winter Island, the New World
+00:56:39,900 --> 00:56:44,580
+O tio disse que esse era o único lugar seguro, certo?
 
 863
-00:03:50,510 --> 00:03:53,080
-X Drake
+00:56:46,850 --> 00:56:51,600
+O pirata Chapéu de Palha Luffy está dando uma pequena pausa.
 
 864
-00:03:50,510 --> 00:03:53,080
-X Drake
+00:57:18,780 --> 00:57:20,530
+Ah, certo.
 
 865
-00:04:27,250 --> 00:04:31,480
-A Spring Island, the New World
+00:57:22,480 --> 00:57:23,750
+Isso também.
 
 866
-00:04:27,250 --> 00:04:31,480
-A Spring Island, the New World
+00:57:29,400 --> 00:57:30,320
+Pessoal...
 
 867
-00:04:38,220 --> 00:04:42,360
-Scratchmen Apoo
+00:57:33,700 --> 00:57:35,260
+Luffy!
 
 868
-00:04:38,220 --> 00:04:42,360
-Scratchmen Apoo
+00:57:39,900 --> 00:57:41,660
+Ei, rápido!
 
 869
-00:05:36,780 --> 00:05:41,520
-San Juan Wolf
+00:57:41,660 --> 00:57:43,260
+Estamos começando!
 
 870
-00:05:36,780 --> 00:05:41,520
-San Juan Wolf
+00:57:44,020 --> 00:57:45,350
+Entendi!
 
 871
-00:05:46,020 --> 00:05:52,260
-On a certain Burning Island in the New World
+00:57:54,850 --> 00:57:56,890
+Estou contando com você, tio!
 
 872
-00:05:46,020 --> 00:05:52,260
-On a certain Burning Island in the New World
+00:57:58,600 --> 00:57:59,800
+Nada bom.
 
 873
-00:06:00,810 --> 00:06:05,980
-Marshall D. Teach
+00:57:59,800 --> 00:58:02,400
+Diga "Por favor, me ensine, Rayleigh-san"!
 
 874
-00:06:00,810 --> 00:06:05,980
-Marshall D. Teach
+00:58:02,400 --> 00:58:04,670
+Não, "Rayleigh-sensei"!
 
 875
-00:06:06,110 --> 00:06:09,650
-Jesus Burgess
+00:58:04,670 --> 00:58:05,940
+Ou "Mestre Rayleigh"?
 
 876
-00:06:06,110 --> 00:06:09,650
-Jesus Burgess
+00:58:05,940 --> 00:58:08,320
+Por favor, me ensine, Rayleigh!
 
 877
-00:06:09,780 --> 00:06:14,150
-Shiryu
+00:58:08,320 --> 00:58:10,850
+Bem, não importa.
 
 878
-00:06:09,780 --> 00:06:14,150
-Shiryu
+00:59:43,220 --> 00:59:45,850
+Zoro, Usopp, Sanji...
 
 879
-00:06:14,290 --> 00:06:18,990
-Avalo Pizarro
+00:59:45,850 --> 00:59:47,500
+Nami, Chopper...
 
 880
-00:06:14,290 --> 00:06:18,990
-Avalo Pizarro
+00:59:47,500 --> 00:59:49,560
+Robin, Franky, Brook...
 
 881
-00:06:19,120 --> 00:06:24,260
-Lafitte
+00:59:50,050 --> 00:59:52,530
+E, Ace e Sabo!
 
 882
-00:06:19,120 --> 00:06:24,260
-Lafitte
+00:59:52,530 --> 00:59:55,100
+Para reafirmar minha promessa...
 
 883
-00:06:24,400 --> 00:06:29,600
-Doc Q
+00:59:55,100 --> 00:59:57,570
+Eu ficarei mais forte!
 
 884
-00:06:24,400 --> 00:06:29,600
-Doc Q
+00:00:18,590 --> 00:00:22,170
+Vamos zarpar antes do amanhecer
 
 885
-00:06:30,070 --> 00:06:36,670
-Vasco Shot
+00:00:22,260 --> 00:00:26,690
+para encontrar um amanhã ainda não visto.
 
 886
-00:06:30,070 --> 00:06:36,670
-Vasco Shot
+00:00:26,970 --> 00:00:30,330
+Eu já tomei uma decisão e não me arrependo.
 
 887
-00:06:36,810 --> 00:06:42,910
-Catarina Devon
+00:00:30,640 --> 00:00:33,160
+Ah, eu sei o que devo fazer.
 
 888
-00:06:36,810 --> 00:06:42,910
-Catarina Devon
+00:00:33,510 --> 00:00:37,070
+Não importa quais provações nos aguardem ao longo do caminho,
 
 889
-00:06:44,720 --> 00:06:48,250
-Van Ogre
+00:00:37,210 --> 00:00:41,700
+nada pode parar as batidas dos nossos corações.
 
 890
-00:06:44,720 --> 00:06:48,250
-Van Ogre
+00:00:41,810 --> 00:00:46,350
+Só existe um lugar para onde todos nós almejamos.
 
 891
-00:06:58,100 --> 00:07:03,130
-Jewelry Bonney
+00:00:46,370 --> 00:00:48,070
+Voe para a luz!
 
 892
-00:06:58,100 --> 00:07:03,130
-Jewelry Bonney
+00:00:48,320 --> 00:00:52,090
+Os laços que ganhamos no final da batalha,
 
 893
-00:08:55,750 --> 00:08:58,450
-The Holy Land Mary Geoise
+00:00:52,160 --> 00:00:55,670
+Eu não vou deixar ninguém machucá-los.
 
 894
-00:08:55,750 --> 00:08:58,450
-The Holy Land Mary Geoise
+00:00:55,800 --> 00:00:58,470
+Se abrirmos nossos punhos cerrados,
 
 895
-00:10:10,190 --> 00:10:14,430
-Torino Kingdom, the South Blue
+00:00:58,600 --> 00:01:01,710
+encontraremos força dentro deles.
 
 896
-00:10:10,190 --> 00:10:14,430
-Torino Kingdom, the South Blue
+00:01:01,870 --> 00:01:04,130
+Então vamos começar!
 
 897
-00:26:42,510 --> 00:26:47,520
-The Kingdom of Armsolong
-Sword Mountain Island, the Grand Line
+00:01:04,270 --> 00:01:09,280
+Um mundo totalmente novo está nos chamando.
 
 898
-00:26:42,510 --> 00:26:47,520
-The Kingdom of Armsolong
-Sword Mountain Island, the Grand Line
+00:01:09,380 --> 00:01:11,670
+Olhe para frente!
 
 899
-00:30:16,930 --> 00:30:21,900
-A Colossal Bridge, the East Blue
+00:01:11,780 --> 00:01:18,020
+Mesmo que incontáveis ​​mares estejam entre nós,
 
 900
-00:30:16,930 --> 00:30:21,900
-A Colossal Bridge, the East Blue
+00:01:18,080 --> 00:01:21,790
+estamos sempre apoiando um ao outro
 
 901
-00:38:19,580 --> 00:38:23,580
-Bowin Islands
-The Grand Line
+00:01:21,820 --> 00:01:25,460
+Vamos seguir em frente sem medos.
 
 902
-00:38:19,580 --> 00:38:23,580
-Bowin Islands
-The Grand Line
+00:01:25,960 --> 00:01:27,850
+Por favor, não se esqueça.
 
 903
-00:42:05,030 --> 00:42:10,770
-Muggy Kingdom Ruins
-Kuraigana Island, Grand Line
+00:01:28,200 --> 00:01:29,040
+Nós lutamos juntos.
 
 904
-00:42:05,030 --> 00:42:10,770
-Muggy Kingdom Ruins
-Kuraigana Island, Grand Line
+00:01:29,860 --> 00:01:37,120
+O grande, amplo e distante céu,
 
 905
-00:45:19,600 --> 00:45:22,970
-A Few Days Earlier
-In the Calm Belt
+00:01:37,540 --> 00:01:39,900
+que admiramos naquele dia,
 
 906
-00:45:19,600 --> 00:45:22,970
-A Few Days Earlier
-In the Calm Belt
+00:01:40,010 --> 00:01:45,020
+ainda não foi contaminado.
 
 907
-00:46:47,620 --> 00:46:52,420
-Luscaina, a Deserted Island
-Northwest of the Isle of Women, Calm Belt
+00:01:45,040 --> 00:01:48,450
+Nós percorremos um longo caminho,
 
 908
-00:46:47,620 --> 00:46:52,420
-Luscaina, a Deserted Island
-Northwest of the Isle of Women, Calm Belt
+00:01:48,650 --> 00:01:52,410
+todos carregando os votos que fizemos em nossos corações.
+
+909
+00:01:52,450 --> 00:01:54,990
+Não há nada a temer.
+
+910
+00:01:55,050 --> 00:01:59,420
+Todos nós temos fardos que devemos carregar.
+
+911
+00:01:59,560 --> 00:02:01,880
+O sol nasce...
+
+912
+00:02:02,030 --> 00:02:06,840
+e isso ilumina tudo, até minha tristeza.
+
+913
+00:02:06,870 --> 00:02:09,240
+Eu acredito...
+
+914
+00:02:09,340 --> 00:02:15,580
+no futuro onde nos uniremos como um.
+
+915
+00:02:15,710 --> 00:02:19,300
+Vamos encontrá-lo juntos.
+
+916
+00:02:19,380 --> 00:02:23,110
+Não há ninguém que possa tomar seu lugar.
+
+917
+00:02:23,580 --> 00:02:25,240
+Por favor, não se esqueça.
+
+918
+00:02:25,930 --> 00:02:27,430
+Nós lutamos juntos.

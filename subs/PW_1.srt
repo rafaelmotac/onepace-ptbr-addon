@@ -1,1706 +1,1765 @@
 1
-00:00:00,000 --> 00:00:09,990
-Your media player does not support the subtitle format used in this episode.
-Subtitles will likely not function properly.
-Please use one of the recommended video players, preferably mpv:
-https://mpv.io
+00:02:42,860 --> 00:02:44,860
+A Marinha venceu?
 
 2
-00:02:32,510 --> 00:02:42,500
-Your media player does not support the subtitle format used in this episode.
-Subtitles will likely not function properly.
-Please use one of the recommended video players, preferably mpv:
-https://mpv.io
+00:02:44,860 --> 00:02:46,560
+Eles venceram, não é?
 
 3
-00:02:42,890 --> 00:02:44,980
-Os Marinheiros venceram?
+00:02:46,560 --> 00:02:48,230
+Agora está melhorando.
 
 4
-00:02:44,980 --> 00:02:46,210
-Venceram, não é?
+00:02:48,230 --> 00:02:50,670
+Os Barbas Brancas perderam?
 
 5
-00:02:46,210 --> 00:02:48,260
-Ah, está ficando mais claro agora.
+00:02:50,670 --> 00:02:52,700
+A Marinha venceu mesmo?
 
 6
-00:02:48,260 --> 00:02:50,750
-Os Piratas do Whitebeard perderam?
+00:02:53,500 --> 00:02:55,900
+Em relação à guerra em Marineford
 
 7
-00:02:50,750 --> 00:02:52,820
-Os Marinheiros realmente venceram?
+00:02:55,900 --> 00:02:59,410
+entre os Barbas Brancas
+e nós, do QG da Marinha:
 
 8
-00:02:53,660 --> 00:02:56,020
-A guerra em Marineford entre
-os Piratas do Whitebeard e o Quartel-General da Marinha
+00:02:59,410 --> 00:03:04,680
+graças à persistência do inimigo,
+a batalha nos tomou mais tempo que o previsto,
 
 9
-00:02:56,020 --> 00:02:59,430
-A guerra em Marineford entre
-os Piratas do Whitebeard e o Quartel-General da Marinha
+00:03:04,680 --> 00:03:08,320
+mas os soldados da Marinha
+lutaram em nome da justiça
 
 10
-00:02:59,430 --> 00:03:04,690
-levou mais tempo do que o previsto
-devido à tenacidade do inimigo.
+00:03:08,320 --> 00:03:13,450
+e derrotaram todos
+os Barbas Brancas e seus aliados.
 
 11
-00:03:04,690 --> 00:03:08,430
-Porém, ao final de uma luta árdua
-em nome da justiça,
+00:03:13,450 --> 00:03:18,890
+É com muita alegria que informamos
+que o QG da Marinha obteve vitória...
 
 12
-00:03:08,430 --> 00:03:13,460
-nossos Marinheiros prevaleceram sobre
-os Piratas do Whitebeard e seus cúmplices.
+00:03:20,930 --> 00:03:22,360
+Eles conseguiram!
 
 13
-00:03:13,460 --> 00:03:19,310
-Temos a alegria de informar que o Quartel-General
-da Marinha alcançou a vitória total!
+00:03:25,630 --> 00:03:30,000
+A Marinha é invencível!
+Vida longa aos nosso heróis!
 
 14
-00:03:20,950 --> 00:03:22,380
-Conseguiram!
+00:03:35,340 --> 00:03:40,050
+Um dia, quero poder servir no QG!
 
 15
-00:03:25,650 --> 00:03:30,020
-Os Marinheiros são invencíveis!
-Viva os nossos heróis!
+00:03:43,950 --> 00:03:46,150
+A Guerra dos Maiorais acabou!
 
 16
-00:03:35,430 --> 00:03:40,100
-Mal posso esperar pelo dia em que eu for
-transferido pro Quartel-General!
+00:03:46,150 --> 00:03:47,760
+Sim!
 
 17
-00:03:43,480 --> 00:03:46,150
-A guerra acabou!
+00:03:47,760 --> 00:03:49,290
+Que bom!
 
 18
-00:03:46,150 --> 00:03:47,730
-Viva!
+00:03:49,290 --> 00:03:53,230
+O lendário pirata Barba Branca foi derrotado!
 
 19
-00:03:47,730 --> 00:03:49,370
-Ainda bem!
-
-20
-00:03:49,370 --> 00:03:53,510
-O lendário pirata Whitebeard
-foi derrotado!
-
-21
-00:03:57,320 --> 00:03:59,520
+00:03:57,300 --> 00:03:59,630
 A guerra acabou, né?
 
+20
+00:03:59,630 --> 00:04:01,800
+Sim, agora você está a salvo!
+
+21
+00:04:01,800 --> 00:04:03,470
+Que bom!
+
 22
-00:03:59,520 --> 00:04:01,850
-Sim, estamos seguros agora!
+00:04:03,470 --> 00:04:04,640
+Eles conseguiram!
 
 23
-00:04:01,850 --> 00:04:03,360
-Isso é ótimo!
+00:04:04,640 --> 00:04:05,970
+Estamos a salvo!
 
 24
-00:04:03,360 --> 00:04:04,580
-Conseguiram!
+00:04:05,970 --> 00:04:09,380
+Viva a Marinha! Viva o Governo Mundial!
 
 25
-00:04:04,580 --> 00:04:05,990
-Estamos seguros!
+00:04:09,380 --> 00:04:14,080
+Viva a vitória, a justiça e a paz! Viva!
 
 26
-00:04:05,990 --> 00:04:09,230
-Viva os Marinheiros!
-Viva o Governo Mundial!
+00:04:24,690 --> 00:04:27,930
+Marineford, o palco da
+Guerra dos Maiorais.
 
 27
-00:04:09,230 --> 00:04:14,220
-E pela vitória, justiça e paz:
-Hip! Hip! Hurra!
+00:04:27,930 --> 00:04:31,030
+Próxima a ela, estão sete navios.
 
 28
-00:04:10,800 --> 00:04:17,670
-– Hip! Hip! Hurra!
-– Hip! Hip! Hurra!
+00:04:31,630 --> 00:04:34,240
+Nomes que protagonizarão a nova era,
 
 29
-00:04:24,490 --> 00:04:31,080
-Sete navios espreitam nas águas
-próximas ao campo de batalha que foi Marineford.
+00:04:34,240 --> 00:04:38,370
+presentes para testemunhar
+este momento histórico.
 
 30
-00:04:31,720 --> 00:04:34,250
-Peças-chave da nova era pirata...
+00:04:39,310 --> 00:04:42,310
+Diante da poeira levantada
+pela batalha em Marineford,
 
 31
-00:04:34,250 --> 00:04:38,630
-se reuniram para testemunhar
-este ponto de virada histórico.
+00:04:42,310 --> 00:04:45,880
+evidência do trabalho da justiça
+na Grande Era dos Piratas,
 
 32
-00:04:39,320 --> 00:04:42,290
-Observando a poeira da batalha
-se erguendo sobre Marineford—
+00:04:45,880 --> 00:04:50,150
+eles sentem a iminência da mudanças
+das marés do tempo.
 
 33
-00:04:42,290 --> 00:04:45,870
-evidência do funcionamento
-da justiça na Grande Era Pirata—
+00:04:50,690 --> 00:04:51,850
+Capitão Drake.
 
 34
-00:04:45,870 --> 00:04:50,240
-eles sentem a inquietação dos tempos de mudança.
+00:04:52,490 --> 00:04:55,320
+Enfim acabou...
 
 35
-00:04:50,570 --> 00:04:51,900
-Capitão Drake...
+00:04:55,320 --> 00:04:58,930
+A Marinha também precisa mudar.
 
 36
-00:04:52,400 --> 00:04:55,340
-Finalmente... acabou.
+00:04:59,590 --> 00:05:01,730
+Em pouco tempo,
 
 37
-00:04:55,340 --> 00:04:58,540
-Isso vai forçar os Marinheiros a mudarem também.
+00:05:01,730 --> 00:05:05,830
+os territórios do Barba Branca
+entrarão nesse turbilhão de caos,
 
 38
-00:04:59,610 --> 00:05:01,750
-Em breve...
+00:05:05,830 --> 00:05:07,640
+transformando-os em mares de sangue.
 
 39
-00:05:01,750 --> 00:05:07,690
-O território do Whitebeard vai afundar,
-sugado num turbilhão de sangue.
+00:05:09,070 --> 00:05:11,010
+O Barba Negra é a chave.
 
 40
-00:05:09,060 --> 00:05:10,980
-Blackbeard é a chave.
+00:05:11,010 --> 00:05:15,510
+Ele ganhou novos seguidores
+e os poderes do Barba Branca.
 
 41
-00:05:10,980 --> 00:05:15,530
-Ele ganhou novos seguidores
-e o poder do Whitebeard.
+00:05:15,510 --> 00:05:19,710
+Tenho certeza de que
+reinará por uns tempos!
 
 42
-00:05:15,530 --> 00:05:19,800
-Tenho certeza de que eles serão
-o olho do furacão por um bom tempo!
+00:05:23,650 --> 00:05:27,560
+É tudo culpa dele!
 
 43
-00:05:23,660 --> 00:05:27,570
-Tudo... É tudo culpa dele!
+00:05:27,560 --> 00:05:30,020
+Eu vou caçá-lo e capturá-lo!
 
 44
-00:05:27,570 --> 00:05:30,040
-Eu vou caçar ele logo, logo!
+00:05:30,490 --> 00:05:32,830
+Vamos para o Novo Mundo!
 
 45
-00:05:30,460 --> 00:05:32,610
-Vamos pro Novo Mundo!
+00:05:34,860 --> 00:05:37,130
+O que está acontecendo?
 
 46
-00:05:34,580 --> 00:05:37,140
-Que diabos tá acontecendo?
+00:05:37,130 --> 00:05:39,800
+Como assim, senhor Apoo?
 
 47
-00:05:37,140 --> 00:05:39,820
-Do que você tá falando, Apoo?
+00:05:39,800 --> 00:05:44,970
+Aquele cara será inimigo dele.
+Ele vai mesmo salvá-lo?
 
 48
-00:05:39,820 --> 00:05:44,700
-Esses caras vão acabar se tornando inimigos.
-Ele vai mesmo salvar ele?
+00:05:45,870 --> 00:05:50,550
+Falo de Trafalgar Law,
+conhecido por sua brutalidade.
 
 49
-00:05:44,700 --> 00:05:45,650
-Hã?
+00:05:51,280 --> 00:05:56,680
+Ele não salvaria Luffy do Chapéu de Palha
+se não fosse ganhar algo com isso.
 
 50
-00:05:45,650 --> 00:05:50,600
-Tô falando do Trafalgar Law.
-Ele é conhecido pela crueldade.
+00:05:59,650 --> 00:06:01,260
+Curioso...
 
 51
-00:05:51,400 --> 00:05:56,740
-Ele não salvaria o Chapéu de Palha Luffy
-sem algum motivo oculto.
+00:06:01,260 --> 00:06:04,630
+O que, Capitão Hawkins?
 
 52
-00:05:59,530 --> 00:06:01,340
-Que estranho.
+00:06:04,630 --> 00:06:09,130
+Estou tentando calcular a probabilidade
+de que Luffy esteja vivo,
 
 53
-00:06:01,340 --> 00:06:04,620
-O que foi,
-Capitão Hawkins?
+00:06:09,130 --> 00:06:11,430
+mas ela nunca chega a zero.
 
 54
-00:06:04,620 --> 00:06:09,210
-Não importa quantas vezes eu consulte
-as chances de sobrevivência do Chapéu de Palha Luffy,
-
-55
-00:06:09,210 --> 00:06:11,730
-elas não chegam a zero.
-
-56
-00:06:14,750 --> 00:06:17,870
-Pra ser sincero, eu fiquei com medo
+00:06:14,740 --> 00:06:18,070
+Na verdade, fiquei temeroso
 quando a guerra começou,
 
+55
+00:06:18,070 --> 00:06:20,310
+mas agora o grande pirata
+Barba Branca está morto.
+
+56
+00:06:20,980 --> 00:06:23,310
+Então é mesmo o fim, não é?
+
 57
-00:06:17,870 --> 00:06:20,360
-mas agora o grande pirata Whitebeard está morto.
+00:06:23,710 --> 00:06:25,410
+Sim, é.
 
 58
-00:06:20,990 --> 00:06:23,360
-Então realmente acabou, né?
+00:06:31,650 --> 00:06:33,960
+Fim de quê?
 
 59
-00:06:23,360 --> 00:06:25,000
-É, acabou.
+00:06:35,060 --> 00:06:42,230
+A nova força que emergiu desta guerra,
+o Barba Negra, é um homem e tanto.
 
 60
-00:06:31,650 --> 00:06:34,080
-Como assim, "acabou"?!
+00:06:44,800 --> 00:06:48,100
+O Novo Mundo é governado
+pelos Quatro Yonkou.
 
 61
-00:06:34,870 --> 00:06:42,280
-Esse Blackbeard é mesmo impressionante!
-Essa guerra consolidou ele como uma grande potência.
+00:06:49,170 --> 00:06:53,810
+O Barba Branca, o Ruivo, Kaido e Big Mom.
 
 62
-00:06:44,850 --> 00:06:48,150
-O Novo Mundo é controlado
-pelos Quatro Imperadores:
-
-63
-00:06:49,250 --> 00:06:53,790
-Whitebeard, Ruiva, Kaido e Big Mom.
-
-64
-00:06:53,790 --> 00:06:55,670
+00:06:53,810 --> 00:06:55,680
 Mas com um deles morto,
 
+63
+00:06:55,680 --> 00:06:59,650
+esse equilíbrio de poderes foi destruído
+e as consequências serão imprevisíveis!
+
+64
+00:06:59,650 --> 00:07:06,190
+Este é o começo de uma nova era,
+diferente de tudo que já vimos!
+
 65
-00:06:55,670 --> 00:06:59,730
-o mundo perdeu o equilíbrio
-e ninguém sabe o que vai acontecer!
+00:07:16,000 --> 00:07:19,430
+As notícias da vitória da Marinha
+na guerra de Marineford,
 
 66
-00:06:59,730 --> 00:07:05,000
-Este é o começo de uma nova era
-como ninguém jamais viu!
+00:07:19,430 --> 00:07:22,700
+a maior guerra desde o começo
+da Grande Era dos Piratas,
 
 67
-00:07:16,020 --> 00:07:19,440
-A notícia da vitória da Marinha
-na batalha de Marineford,
+00:07:23,270 --> 00:07:25,770
+se espalham no mundo todo
+num piscar de olhos
 
 68
-00:07:19,440 --> 00:07:22,720
-o maior conflito desde
-o início da Grande Era Pirata,
+00:07:25,770 --> 00:07:28,540
+e o povo celebra as boas novas em toda parte.
 
 69
-00:07:23,280 --> 00:07:25,770
-se espalhou pelo mundo num piscar de olhos,
+00:07:28,540 --> 00:07:30,280
+East Blue.
 
 70
-00:07:25,770 --> 00:07:28,630
-e as pessoas em todo lugar comemoraram.
+00:07:30,280 --> 00:07:31,610
+Viva!
 
 71
-00:07:28,630 --> 00:07:30,250
-O East Blue...
+00:07:31,610 --> 00:07:33,850
+O Barba Branca está morto!
 
 72
-00:07:30,250 --> 00:07:31,630
-Viva!
+00:07:33,850 --> 00:07:35,650
+Sim!
 
 73
-00:07:31,630 --> 00:07:33,840
-Whitebeard está morto!
+00:07:35,650 --> 00:07:36,980
+Agora estamos a salvo!
 
 74
-00:07:33,840 --> 00:07:35,630
-É isso aí!
+00:07:36,980 --> 00:07:39,220
+Que bom!
 
 75
-00:07:35,630 --> 00:07:36,910
-Estamos seguros agora!
+00:07:39,220 --> 00:07:41,890
+West Blue.
 
 76
-00:07:36,910 --> 00:07:39,240
-Estou tão feliz!
+00:07:41,890 --> 00:07:44,960
+O mar agora ficará em paz!
 
 77
-00:07:39,240 --> 00:07:41,020
-O West Blue...
-
-78
-00:07:41,910 --> 00:07:44,930
-O mar finalmente vai estar em paz!
-
-79
-00:07:44,930 --> 00:07:46,610
+00:07:44,960 --> 00:07:46,530
 Viva!
 
+78
+00:07:46,530 --> 00:07:48,230
+South Blue.
+
+79
+00:07:48,230 --> 00:07:49,860
+Hoje faremos promoção!
+
 80
-00:07:47,050 --> 00:07:48,090
-O South Blue...
+00:07:49,860 --> 00:07:51,670
+Nós também!
 
 81
-00:07:48,090 --> 00:07:49,250
-Grande promoção hoje!
+00:07:51,670 --> 00:07:53,270
+A Marinha venceu!
 
 82
-00:07:49,820 --> 00:07:51,640
-A gente também!
-
-83
-00:07:51,640 --> 00:07:53,350
-Os Marinheiros venceram!
-
-84
-00:07:53,350 --> 00:07:55,090
+00:07:53,270 --> 00:07:55,070
 Que alívio!
 
+83
+00:07:55,070 --> 00:07:57,000
+North Blue.
+
+84
+00:07:58,440 --> 00:08:00,880
+Sim! Que felicidade!
+
 85
-00:07:55,090 --> 00:07:58,360
-O North Blue...
-
-86
-00:07:58,360 --> 00:08:00,960
-Sim! Estou tão feliz!
-
-87
-00:08:00,960 --> 00:08:03,170
+00:08:00,880 --> 00:08:03,240
 Vamos beber, pessoal!
 
+86
+00:08:03,240 --> 00:08:04,910
+Bebida é que não falta!
+
+87
+00:08:04,910 --> 00:08:06,810
+Grand Line.
+
 88
-00:08:03,170 --> 00:08:04,990
-Tem pra todo mundo!
+00:08:06,810 --> 00:08:08,720
+O que vamos fazer amanhã?
 
 89
-00:08:05,120 --> 00:08:06,780
-A Grand Line...
-
-90
-00:08:06,780 --> 00:08:08,730
-O que a gente vai fazer amanhã?
-
-91
-00:08:08,730 --> 00:08:10,080
+00:08:08,720 --> 00:08:10,080
 Eu quero brincar de pega-pega!
 
-92
-00:08:10,080 --> 00:08:11,580
+90
+00:08:10,080 --> 00:08:11,590
 Esconde-esconde!
 
+91
+00:08:11,590 --> 00:08:13,220
+Tá!
+
+92
+00:08:14,520 --> 00:08:18,030
+Deus! Obrigada!
+
 93
-00:08:11,580 --> 00:08:13,270
-– Boa!
-– Eba!
+00:08:19,290 --> 00:08:25,430
+Como de praxe, os fatos vão sendo
+moldados conforme a notícia se espalha.
 
 94
-00:08:14,500 --> 00:08:18,740
-Meu Deus, somos muito gratos!
+00:08:25,430 --> 00:08:30,170
+"Vitória da Marinha"...
+Apenas essa frase se destaca.
 
 95
-00:08:19,280 --> 00:08:25,430
-Como é comum ao se fazer história,
-alguns fatos ficam pra trás conforme a informação viaja,
+00:08:30,170 --> 00:08:35,080
+O povo, animado com as notícias, não percebe...
 
 96
-00:08:25,430 --> 00:08:30,140
-e as palavras "vitória da Marinha"
-correm à frente de todo o resto.
+00:08:36,640 --> 00:08:38,110
+O-O que está havendo?!
 
 97
-00:08:30,140 --> 00:08:35,020
-As pessoas, em sua empolgação com
-a notícia, não perceberam algo...
+00:08:41,720 --> 00:08:44,050
+Olha só vocês! Que hilário!
 
 98
-00:08:36,730 --> 00:08:37,320
-Que isso...?!
+00:08:44,050 --> 00:08:49,690
+O Barba Branca disse que o lendário tesouro, o
+One Piece, existe mesmo!
 
 99
-00:08:41,670 --> 00:08:44,100
-Olha pra vocês, seus idiotas! Que piada!
+00:08:50,120 --> 00:08:52,590
+Eu vou procurá-lo!
 
 100
-00:08:44,100 --> 00:08:49,740
-Whitebeard disse que o grande
-tesouro One Piece é real!
+00:08:55,960 --> 00:09:00,940
+Há muito o que ver lá fora!
+Vamos navegar!
 
 101
-00:08:50,000 --> 00:08:52,400
-Eu vou encontrar!
+00:09:05,210 --> 00:09:07,280
+Vitória da Marinha.
 
 102
-00:08:55,980 --> 00:09:00,020
-Tem muito mais por aí! Vamos zarpar!
+00:09:07,280 --> 00:09:13,080
+O resultado dessa vitória
+não é necessariamente a paz.
 
 103
-00:09:05,340 --> 00:09:13,130
-Uma vitória da Marinha... O resultado
-por si só não garante a paz.
+00:09:07,710 --> 00:09:10,600
+Novo Mundo - Foodvalten
 
 104
-00:09:17,980 --> 00:09:21,770
-N-Não chegue mais perto!
-Fique fora da nossa cidade!
+00:09:17,990 --> 00:09:21,720
+N-Não se aproximem!
+Não entrem na nossa cidade!
 
 105
-00:09:23,580 --> 00:09:27,560
-Com Whitebeard não estando mais presente
-para servir como dissuasão,
+00:09:23,560 --> 00:09:27,530
+Nos mares onde o Barba Branca
+exercia sua ameaça para manter a ordem,
 
 106
-00:09:27,560 --> 00:09:32,330
-os mares se tornaram muito mais perigosos.
+00:09:27,530 --> 00:09:32,030
+a vida passou a ficar
+cada vez mais arriscada.
 
 107
-00:09:35,360 --> 00:09:40,460
-Não se preocupe. Eu transformei todos os Marinheiros em pedra.
+00:09:35,340 --> 00:09:40,440
+Não se preocupem.
+Eu petrifiquei todos os soldados.
 
 108
-00:09:40,460 --> 00:09:43,600
-E aí, como o Luffy está?
+00:09:40,440 --> 00:09:43,680
+Como está o Luffy?
 
 109
-00:09:43,600 --> 00:09:45,560
-É grave? Ele vai se recuperar, né?
+00:09:43,680 --> 00:09:46,180
+Ele está mal?
+Ele vai se recuperar, não vai?
 
 110
-00:09:47,070 --> 00:09:50,210
-Como você sabia onde a gente ia emergir?
+00:09:47,050 --> 00:09:50,280
+Como você sabia que
+iríamos emergir aqui?
 
 111
-00:09:50,210 --> 00:09:54,340
-Eu tava apavorada achando que os
-Marinheiros ainda estavam nos perseguindo.
+00:09:50,280 --> 00:09:54,290
+Fiquei com medo da Marinha
+ainda estar no nosso encalço.
 
 112
-00:09:54,340 --> 00:09:56,880
-Eu mandei a Salome seguir vocês por baixo d'água.
+00:09:54,690 --> 00:09:57,120
+Eu pedi à Salomé que os
+seguisse debaixo d'água.
 
 113
-00:09:57,810 --> 00:09:58,380
+00:09:57,790 --> 00:09:58,630
 Entendi!
 
 114
-00:09:58,380 --> 00:10:02,070
-Não mude de assunto, seu bicho peludo!
+00:09:58,630 --> 00:10:01,530
+Não mude de assunto, sua besta peluda!
 
 115
-00:10:02,070 --> 00:10:03,120
-Desculpa!
+00:10:02,160 --> 00:10:02,960
+Sinto muito!
 
 116
-00:10:03,120 --> 00:10:04,120
-– Que fraco!
-– Que fraco!
+00:10:02,960 --> 00:10:03,830
+Que submisso!
 
 117
-00:10:04,980 --> 00:10:06,720
+00:10:05,070 --> 00:10:06,700
 Ah, Capitão!
 
 118
-00:10:08,650 --> 00:10:10,720
-Eu fiz tudo o que pude.
+00:10:06,730 --> 00:10:10,710
+Piratas de Copas
+Capitão Trafalgar Law
+Eu fiz tudo que pude.
 
 119
-00:10:10,720 --> 00:10:13,420
-Quer dizer que... ele está bem?
+00:10:10,710 --> 00:10:13,410
+Então ele está bem?
 
 120
-00:10:13,420 --> 00:10:19,260
-Conseguimos estabilizá-lo. Porém...
+00:10:13,410 --> 00:10:19,250
+No que se refere à operação,
+ele está estável. Contudo...
 
 121
-00:10:19,260 --> 00:10:22,870
-ele sofreu danos inimagináveis.
+00:10:19,250 --> 00:10:22,320
+Ele está mais ferido do que se imagina.
 
 122
-00:10:22,870 --> 00:10:25,070
-Eu ainda não posso garantir que ele vai sobreviver.
+00:10:22,980 --> 00:10:25,050
+Não há ainda garantia
+de que vá sobreviver.
 
 123
-00:10:29,040 --> 00:10:31,050
-O que você esperava?!
+00:10:28,990 --> 00:10:31,130
+Não é de se espantar!
 
 124
-00:10:31,050 --> 00:10:32,250
-Quem disse isso?!
+00:10:31,130 --> 00:10:32,630
+Quem está falando?
 
 125
-00:10:32,250 --> 00:10:37,650
-Lá em Impel Down,
-o garoto de palha mal conseguia ficar em pé!
+00:10:32,630 --> 00:10:38,000
+O Chapéu de Palha-boy não conseguia
+nem ficar de pé em Impel Down!
 
 126
-00:10:37,650 --> 00:10:40,290
+00:10:38,000 --> 00:10:40,270
 O Chapéu de Palha arriscou a vida!
 
 127
-00:10:40,290 --> 00:10:42,620
-Só conseguimos escapar por causa dele!
+00:10:40,270 --> 00:10:42,570
+Nós fugimos da prisão graças a ele!
 
 128
-00:10:42,620 --> 00:10:47,260
-Graças ao Chapéu de Palha, nosso sonho de ir pro
-Reino de Kamabakka vai se tornar realidade!
+00:10:42,570 --> 00:10:45,710
+Graças a ele, nós faremos nosso sonho se realizar:
 
 129
-00:10:47,260 --> 00:10:48,430
-Vamos traçar o rumo!
+00:10:45,710 --> 00:10:47,240
+Iremos ao Reino das Okamas!
 
 130
-00:10:48,430 --> 00:10:52,070
-Da Newkama Land
-pro coração do Newkamadom!
+00:10:47,240 --> 00:10:48,410
+Vamos lá!
 
 131
-00:10:55,610 --> 00:10:57,140
-Quem diabos são eles?
+00:10:48,410 --> 00:10:51,850
+Da Terra dos Novossexuais
+para o lar dos Novossexuais!
 
 132
-00:10:57,140 --> 00:10:59,940
-São prisioneiros de Impel Down.
+00:10:55,680 --> 00:10:57,120
+Quem são eles?
 
 133
-00:10:59,940 --> 00:11:01,940
-Parece que o Luffy fez amizade com eles.
+00:10:57,520 --> 00:11:02,020
+Prisioneiros de Impel Down.
+Parece que são amigos do Luffy.
 
 134
-00:11:01,940 --> 00:11:03,980
-Eles se esconderam no navio.
+00:11:02,020 --> 00:11:03,920
+Eles se infiltraram no navio.
 
 135
-00:11:03,980 --> 00:11:05,140
-Sim!
+00:11:05,760 --> 00:11:09,330
+Eu não acredito que ele se esforçou tanto assim!
 
 136
-00:11:05,140 --> 00:11:09,260
-A determinação dele é espantosa!
+00:11:09,330 --> 00:11:13,070
+Ele estava disposto a sacrificar
+tudo para salvar Ace, seu irmão!
 
 137
-00:11:09,260 --> 00:11:13,080
-Foi tudo isso que ele quis
-pra salvar o irmão dele, o Ace!
+00:11:13,070 --> 00:11:17,670
+Isso mesmo! Nós sabemos
+o quanto ele se sacrificou!
 
 138
-00:11:13,080 --> 00:11:17,720
-É verdade! Todos nós vimos
-o quanto ele se esforçou!
+00:11:18,340 --> 00:11:25,380
+Mas o irmão morreu bem diante dos
+olhos dele para protegê-lo...
 
 139
-00:11:18,390 --> 00:11:22,650
-Mas o irmão dele morreu... bem na frente dele...
+00:11:27,820 --> 00:11:32,520
+Não há Deus nem Buda neste mundo!
+É lógico que ele ficou nesse estado!
 
 140
-00:11:22,920 --> 00:11:24,500
-tudo pra protegê-lo.
+00:11:32,520 --> 00:11:36,020
+Maldição! Aguente firme,
+Chapéu de Palha!
 
 141
-00:11:27,670 --> 00:11:32,570
-Não existe justiça nesse mundo!
-Não é surpresa que ele tenha desmoronado!
+00:11:36,020 --> 00:11:39,190
+Você tem que viver e seguir
+em frente, Chapéu de Palha!
 
 142
-00:11:32,570 --> 00:11:36,070
-Droga! Aguenta firme, Chapéu de Palha!
+00:11:45,770 --> 00:11:51,870
+Que tragédia! Eu queria
+poder assumir a dor dele...
 
 143
-00:11:36,070 --> 00:11:39,240
-Você tem que viver! Tem que viver, Chapéu de Palha!
+00:11:51,870 --> 00:11:54,580
+Pobre Luffy!
 
 144
-00:11:45,450 --> 00:11:47,950
-Que tragédia!
-
-145
-00:11:47,950 --> 00:11:51,890
-Quem dera eu pudesse tomar o lugar dele!
-
-146
-00:11:51,890 --> 00:11:54,890
-Meu pobre Luffy!
-
-147
-00:11:57,550 --> 00:11:58,460
+00:11:57,550 --> 00:11:58,750
 Que inveja...
 
+145
+00:11:58,750 --> 00:12:01,680
+Deve ser bom ter tanta
+atenção da Imperatriz Pirata...
+
+146
+00:12:01,820 --> 00:12:02,820
+É, pois é...
+
+147
+00:12:02,820 --> 00:12:05,820
+Aliás, você é amigo do
+Chapéu de Palha-boy?
+
 148
-00:11:58,460 --> 00:12:01,730
-Deve ser bom ter a Imperatriz Pirata
-se preocupando tanto assim com você.
+00:12:06,350 --> 00:12:08,790
+Não, não tinha a menor
+obrigação de salvá-lo.
 
 149
-00:12:02,870 --> 00:12:05,840
-A propósito, você
-é amigo do garoto de palha?
-
-150
-00:12:06,360 --> 00:12:08,810
-Não... e eu não tinha nenhuma obrigação de salvá-lo.
-
-151
-00:12:08,810 --> 00:12:12,510
-Se você quer saber o que me motivou,
+00:12:08,790 --> 00:12:12,490
+Se está se perguntando minha motivação,
 eu posso inventar uma razão.
 
-152
-00:12:12,510 --> 00:12:16,620
+150
+00:12:12,490 --> 00:12:16,700
 Não, tudo bem.
-Às vezes as pessoas agem por instinto.
+Às vezes, instinto já basta.
+
+151
+00:12:16,700 --> 00:12:17,770
+Ei, espere!
+
+152
+00:12:17,770 --> 00:12:19,400
+Você ainda não pode andar!
 
 153
-00:12:16,620 --> 00:12:19,330
-Ei, espera! Você não pode sair andando ainda!
-
-154
-00:12:19,330 --> 00:12:23,510
-Não se esforce assim!
+00:12:19,400 --> 00:12:23,600
+Não se esforce demais!
 Ele mandou você descansar!
 
+154
+00:12:23,600 --> 00:12:25,240
+As feridas podem se abrir!
+
 155
-00:12:23,510 --> 00:12:25,000
-O ferimento pode reabrir!
+00:12:25,240 --> 00:12:26,840
+Aonde você vai?
 
 156
-00:12:25,000 --> 00:12:26,290
-P-Pra onde você tá indo?!
-
-157
-00:12:32,050 --> 00:12:33,000
+00:12:32,150 --> 00:12:33,650
 Jinbe!
 
-158
-00:12:35,430 --> 00:12:39,200
-Você é o Trafalgar Law
+157
+00:12:35,520 --> 00:12:39,190
+Você é Trafalgar Law,
 do North Blue, não é?
 
+158
+00:12:40,760 --> 00:12:41,990
+Sim.
+
 159
-00:12:42,010 --> 00:12:46,250
-Querida, pode mesmo se
-movimentar nesse estado?
+00:12:41,990 --> 00:12:46,030
+Ei, você já pode andar por aí nesse estado?
 
 160
-00:12:46,910 --> 00:12:48,930
+00:12:46,890 --> 00:12:48,730
 Obrigado!
 
 161
-00:12:49,940 --> 00:12:51,620
-Você salvou a minha vida!
+00:12:50,030 --> 00:12:51,570
+Você salvou minha vida!
 
 162
-00:12:51,620 --> 00:12:53,890
-Você precisa de repouso. Pode morrer.
+00:12:51,570 --> 00:12:53,870
+Você precisa descansar, ou vai morrer.
 
 163
-00:12:55,150 --> 00:12:58,030
-Minha mente não consegue descansar. Não tem como!
+00:12:55,240 --> 00:12:58,110
+Não consigo descansar a mente.
+É impossível!
 
 164
-00:12:58,030 --> 00:13:02,520
-O que eu acabei de perder era importante demais pra mim!
+00:12:58,110 --> 00:13:02,510
+O que acabei de perder era
+muito importante para mim!
 
 165
-00:13:02,520 --> 00:13:07,430
-É por isso que eu sei que o Luffy
+00:13:02,510 --> 00:13:07,410
+Por isso mesmo, sei que Luffy
 está passando por algo muito pior!
 
 166
-00:13:07,430 --> 00:13:13,700
-Foi uma misericórdia o instinto de sobrevivência
-ter forçado ele a perder a consciência!
+00:13:07,410 --> 00:13:10,450
+Naquele instante, o instinto
+de autopreservação
 
 167
-00:13:13,700 --> 00:13:16,460
-Mesmo que ele se recupere,
+00:13:10,450 --> 00:13:13,690
+o fez perder a consciência
+no último momento!
 
 168
-00:13:16,460 --> 00:13:20,680
-eu não consigo parar de me preocupar
-com o momento em que ele acordar.
+00:13:13,690 --> 00:13:16,560
+Mesmo que ele sobreviva,
 
 169
-00:13:27,510 --> 00:13:28,750
-Você! Bicho peludo!
+00:13:16,560 --> 00:13:20,630
+ainda me preocupa muito
+o momento em que ele acordar.
 
 170
-00:13:28,750 --> 00:13:30,690
-Você tem um Caramujo Telegráfico?
+00:13:27,600 --> 00:13:30,770
+Ei, besta peluda,
+você tem um Caracol Comunicador?
 
 171
-00:13:30,700 --> 00:13:31,690
-O quê?
+00:13:31,770 --> 00:13:34,940
+Sim... Digo, sim, senhora!
 
 172
-00:13:31,690 --> 00:13:34,850
-É... quer dizer... Sim, senhora!
+00:13:34,940 --> 00:13:35,980
+Sinto muito!
 
 173
-00:13:34,850 --> 00:13:36,030
-Desculpa!
+00:13:35,980 --> 00:13:39,250
+Que inveja. Ele virou servo dela...
 
 174
-00:13:36,030 --> 00:13:39,330
-Que inveja... Ele parece um servo dela.
+00:13:39,250 --> 00:13:40,580
+É, pois é...
 
 175
-00:13:40,890 --> 00:13:45,970
-Eu posso pedir pro navio das Piratas Kuja levar
-este submarino pela Calm Belt.
+00:13:40,980 --> 00:13:42,850
+Eu vou convocar o navio das Kuja
 
 176
-00:13:45,970 --> 00:13:50,470
-Se o governo descobrir que o
-Luffy está vivo, eles vão atrás dele!
+00:13:42,850 --> 00:13:45,920
+para cruzarmos o Calm Belt,
+mesmo no submarino.
 
 177
-00:13:50,470 --> 00:13:52,840
-Eu vou dar abrigo a vocês na Ilha das Mulheres.
+00:13:45,920 --> 00:13:50,560
+Se o Governo descobrir que
+Luffy está vivo, virão atrás dele!
 
 178
-00:13:52,840 --> 00:13:53,550
-O quê?!
+00:13:50,560 --> 00:13:52,790
+Vamos escondê-lo na Ilha das Mulheres!
 
 179
-00:13:53,550 --> 00:13:54,580
+00:13:53,690 --> 00:13:54,630
 O quê?!
 
 180
-00:13:55,810 --> 00:14:00,760
-Enquanto eu for uma das Guerreiras do Mar,
-o Luffy pode descansar em segurança!
+00:13:55,800 --> 00:14:00,730
+Enquanto eu for uma Shichibukai,
+Luffy poderá descansar em segurança!
 
 181
-00:14:20,680 --> 00:14:23,350
-Almirante de Frota Sengoku!
+00:14:20,650 --> 00:14:23,020
+Comandante Sengoku!
 
 182
-00:14:24,720 --> 00:14:26,580
-Estava te procurando!
+00:14:24,690 --> 00:14:26,560
+Aqui está o senhor!
 
 183
-00:14:27,540 --> 00:14:29,980
-Recebemos notícias de Impel Down!
+00:14:27,630 --> 00:14:29,860
+Recebemos relatos de Impel Down!
 
 184
-00:14:29,980 --> 00:14:32,400
-O Magellan está bem?
+00:14:30,300 --> 00:14:32,370
+Magellan está bem?
 
 185
-00:14:32,400 --> 00:14:34,950
-Ele foi espancado quase até a morte.
+00:14:32,370 --> 00:14:34,870
+Ele sofreu graves danos
+e quase não sobreviveu.
 
 186
-00:14:34,950 --> 00:14:38,700
-Neste momento, a equipe médica
-o tem em cuidados intensivos.
+00:14:35,300 --> 00:14:38,670
+Recebeu tratamento intensivo da equipe médica.
 
 187
-00:14:38,700 --> 00:14:43,530
-Ele é um homem dedicado; parece que
-está assumindo toda a responsabilidade.
+00:14:38,670 --> 00:14:43,180
+Como é um homem bastante honrado,
+ele está culpando a si próprio.
 
 188
-00:14:43,530 --> 00:14:47,290
-Estão dizendo que se ele pudesse
-se mover, acabaria com a própria vida.
+00:14:43,180 --> 00:14:47,280
+Dizem que, se ele pudesse se mexer,
+certamente se mataria.
 
 189
-00:14:47,290 --> 00:14:50,100
-Não deixem ele fazer essa besteira!
+00:14:47,280 --> 00:14:50,680
+Não o deixem fazer essa idiotice!
 
 190
-00:14:50,710 --> 00:14:52,910
+00:14:50,680 --> 00:14:52,590
 S-Sim, senhor!
 
 191
-00:14:53,880 --> 00:14:56,640
-Qual é a situação da prisão?
+00:14:53,850 --> 00:14:56,520
+O que aconteceu naquela prisão?
 
 192
-00:14:56,640 --> 00:14:58,970
-Deixe-me informá-lo.
+00:14:56,520 --> 00:14:58,960
+Permita-me explicar-lhe o ocorrido.
 
 193
-00:14:58,970 --> 00:15:03,480
-A situação no Nível 6 é especialmente ruim.
-É um desastre total lá embaixo.
+00:14:58,960 --> 00:15:03,360
+A situação no nível 6 foi a mais crítica.
+Um verdadeiro desastre.
 
 194
-00:15:05,180 --> 00:15:06,840
+00:15:05,170 --> 00:15:06,830
 Um desastre?
 
 195
-00:15:13,150 --> 00:15:15,180
-E aí, pessoal?
+00:15:07,570 --> 00:15:11,840
+Prisão Submarina de Impel Down
 
 196
-00:15:15,180 --> 00:15:19,600
-Prisioneiros como vocês estão condenados
-a definhar atrás das grades pra sempre!
+00:15:13,140 --> 00:15:15,180
+Prisioneiros!
 
 197
-00:15:20,530 --> 00:15:24,470
-Vocês todos estão esperando a morte chegar,
-então que tal isso?!
+00:15:15,180 --> 00:15:19,680
+Vocês, que estão condenados
+a apodrecer pelo resto das vidas!
 
 198
-00:15:24,470 --> 00:15:28,340
-Por que vocês não lutam
-até a morte nas celas?!
+00:15:20,450 --> 00:15:23,150
+Vocês, que aguardam aqui pela morte!
 
 199
-00:15:29,730 --> 00:15:35,480
-Eu vou libertar os sobreviventes...
-e colocá-los na minha tripulação!
+00:15:23,150 --> 00:15:28,220
+Que tal?! Por que não se
+enfrentam dentro das celas?!
 
 200
-00:15:35,480 --> 00:15:36,710
-Sério?!
+00:15:29,720 --> 00:15:35,360
+Libertarei os sobreviventes e
+os tornarei membros do meu bando!
 
 201
-00:15:36,710 --> 00:15:38,220
-Me tira daqui!
+00:15:35,360 --> 00:15:36,760
+Sério?
 
 202
-00:15:38,220 --> 00:15:40,320
-Eu vou ganhar um lugar na sua tripulação!
+00:15:36,760 --> 00:15:38,200
+Me tire daqui!
 
 203
-00:15:49,270 --> 00:15:55,470
-Então ele escolheu os prisioneiros mais
-infames do mundo e os libertou?!
+00:15:38,200 --> 00:15:40,200
+Eu quero ser do seu bando!
 
 204
-00:15:55,470 --> 00:15:58,710
-Sim... mas apenas quatro prisioneiros foram levados.
+00:15:49,240 --> 00:15:55,350
+Então ele libertou membros seletos
+do grupo de maiores criminosos do mundo?
 
 205
-00:15:58,710 --> 00:16:03,970
-Sanjuan Wolf, Avalo Pizarro,
-Vasco Shot e Catarina Devon.
+00:15:55,650 --> 00:15:58,690
+Sim, mas ele ficou apenas
+com quatro prisioneiros:
 
 206
-00:16:03,970 --> 00:16:09,920
-Mas claramente há outros
-prisioneiros desaparecidos do Nível 6!
+00:15:58,690 --> 00:16:03,890
+San Juan Wolf, Ávalo Pizarro,
+Vasco Shot e Catalina Devon.
 
 207
-00:16:09,920 --> 00:16:11,480
-O que significa...
+00:16:03,890 --> 00:16:09,900
+Entretanto, há outros
+desaparecidos no nível 6!
 
 208
-00:16:19,490 --> 00:16:25,300
-Entendo. Isso significa que
-há mais fugitivos do Nível 6!
+00:16:09,900 --> 00:16:11,370
+O que significa que...
 
 209
-00:16:25,300 --> 00:16:30,940
-Se até mesmo um dos fugitivos do Nível 6
-chegar a algum país,
+00:16:19,410 --> 00:16:25,210
+Entendo... Então houve
+mais fugitivos no nível 6?
 
 210
-00:16:30,940 --> 00:16:34,270
-os cidadãos estarão em grave perigo!
+00:16:25,210 --> 00:16:30,920
+Basta que um deles se
+infiltre em algum país,
 
 211
-00:16:34,270 --> 00:16:37,690
-Descubram quantos eram.
+00:16:30,920 --> 00:16:34,190
+e o povo correrá enorme perigo!
 
 212
-00:16:37,690 --> 00:16:41,980
-Consigam os nomes deles e montem
-uma lista de procurados imediatamente!
+00:16:34,190 --> 00:16:37,660
+Investigue e descubra quem fugiu.
 
 213
-00:16:43,120 --> 00:16:44,050
-O que houve?
+00:16:37,660 --> 00:16:41,900
+Quero os nomes e uma
+nova lista de procurados!
 
 214
-00:16:44,620 --> 00:16:47,350
-Bem, eu... é que...
+00:16:43,100 --> 00:16:43,930
+O que foi?
 
 215
-00:16:47,350 --> 00:16:51,560
-O Governo Mundial ordenou
-que este incidente no Nível 6...
+00:16:44,600 --> 00:16:47,270
+Bem, eu...
 
 216
-00:16:51,560 --> 00:16:53,100
-seja abafado!
+00:16:47,270 --> 00:16:50,900
+Eu tenho ordens do Governo Mundial
 
 217
-00:16:53,100 --> 00:16:53,630
-O quê?
+00:16:51,570 --> 00:16:53,110
+de acobertar o incidente no nível 6!
 
 218
-00:16:53,630 --> 00:16:58,430
-Mais erros da nossa parte vão
-prejudicar a reputação do governo.
+00:16:53,870 --> 00:16:58,310
+Esta negligência abalaria
+a reputação do Governo Mundial.
 
 219
-00:17:03,070 --> 00:17:05,410
-Malditos!
+00:17:03,050 --> 00:17:05,220
+Não pode ser verdade!
 
 220
 00:17:32,180 --> 00:17:34,720
-Seu desgraçado...!
+Miserável!
 
 221
-00:17:34,720 --> 00:17:36,770
+00:17:34,720 --> 00:17:36,620
 Doflamingo!
 
 222
-00:17:37,980 --> 00:17:43,410
-Moria, você ficou fraco, o que significa
-que não serve mais como Guerreiro do Mar.
+00:17:37,950 --> 00:17:43,290
+Moriah, você é muito fraco
+para manter o título de Shichibukai.
 
 223
-00:17:44,710 --> 00:17:51,720
-"Morreu na Guerra do Melhor" soa muito melhor
-do que "Eliminado pelo Governo."
+00:17:44,590 --> 00:17:48,900
+"Morto na Guerra dos Maiorais" soa bem...
 
 224
-00:17:52,520 --> 00:17:56,090
-De quem foi a ideia?! Do Sengoku?!
+00:17:48,900 --> 00:17:51,600
+É melhor que "Morto pelo Governo."
 
 225
-00:17:56,090 --> 00:18:00,120
-Não... Ainda mais acima.
+00:17:52,370 --> 00:17:55,970
+De quem foi a ideia?! Do Sengoku?!
 
 226
-00:18:22,450 --> 00:18:28,060
-Piratas se aproximando de Lascamp no West Blue,
-mas as bases de lá não têm navios pra contra-atacar!
+00:17:56,440 --> 00:17:59,970
+Não, alguém bem mais no topo!
 
 227
-00:18:28,060 --> 00:18:29,550
-Códigos das bases mais próximas?!
+00:18:03,080 --> 00:18:06,910
+West Blue
 
 228
-00:18:30,090 --> 00:18:32,960
-A 80ª Divisão vai enviar reforços!
+00:18:22,460 --> 00:18:24,700
+Navio pirata se aproxima
+de Lascamp, no West Blue!
 
 229
-00:18:35,430 --> 00:18:38,460
-South Blue informando. Local confirmado!
+00:18:24,700 --> 00:18:28,300
+Mas as bases na área não possuem navios!
 
 230
-00:18:38,460 --> 00:18:39,500
-Droga!
+00:18:28,300 --> 00:18:29,570
+As bases mais próximas são...
 
 231
-00:18:39,500 --> 00:18:46,070
-Eu achei que os piratas iam ter medo da gente depois que
-matamos o Whitebeard e vencemos a batalha de Marineford!
+00:18:30,400 --> 00:18:32,970
+A 80ª divisão enviará reforços!
 
 232
-00:18:46,070 --> 00:18:50,140
-Em vez de se esconderem,
-eles estão causando caos por todo lado!
+00:18:35,710 --> 00:18:38,510
+South Blue na linha, averiguando o local!
 
 233
-00:18:50,140 --> 00:18:52,400
-O que deu neles?
+00:18:38,510 --> 00:18:39,510
+Droga!
 
 234
-00:18:52,400 --> 00:18:55,210
-Piratas desembarcaram em Lascamp!
+00:18:39,510 --> 00:18:41,850
+Depois de vencermos o Barba Branca,
 
 235
-00:18:55,210 --> 00:18:57,860
-Perdemos as comunicações. Enviem reforços!
+00:18:41,850 --> 00:18:46,120
+pensei que os piratas iriam pensar
+duas vezes antes de nos atacar!
 
 236
-00:18:57,860 --> 00:19:00,280
-Repito, enviem reforços para Lascamp!
+00:18:46,420 --> 00:18:50,360
+Pelo contrário, eles estão fora de controle!
 
 237
-00:19:02,420 --> 00:19:07,230
-Carreguem os suprimentos!
-Vamos rumo à Grand Line!
+00:18:50,360 --> 00:18:52,530
+O que deu neles?
 
 238
-00:19:12,200 --> 00:19:15,230
-Duas semanas após a Guerra do Melhor,
+00:18:52,530 --> 00:18:55,160
+Os piratas atacaram Lascamp!
 
 239
-00:19:15,230 --> 00:19:19,340
-as pessoas ao redor do mundo
-começam a sentir os impactos.
+00:18:55,160 --> 00:18:57,930
+Perdemos contato com o local!
+Enviem reforços!
 
 240
-00:19:23,510 --> 00:19:27,450
-N-Não chegue mais perto!
-Fique fora da nossa cidade!
+00:18:57,930 --> 00:19:00,300
+Repito, enviem reforços para Lascamp!
 
 241
-00:19:30,720 --> 00:19:33,850
-Vocês ouviram as notícias, não é?
+00:19:02,470 --> 00:19:07,170
+Encham os paiois!
+Vamos para a Grand Line!
 
 242
-00:19:37,760 --> 00:19:42,360
-Então vocês sabem que esta ilha
-não é mais território do Whitebeard.
+00:19:10,640 --> 00:19:12,180
+Novo Mundo - Foodvalten
 
 243
-00:19:42,360 --> 00:19:44,860
-Esse símbolo não significa mais nada!
+00:19:12,450 --> 00:19:15,480
+Duas semanas após a Guerra dos Maiorais,
 
 244
-00:19:46,260 --> 00:19:49,670
-É isso aí! Whitebeard está morto!
+00:19:15,480 --> 00:19:19,350
+o povo começa a sentir
+os efeitos de seus desdobramentos.
 
 245
-00:20:06,750 --> 00:20:11,020
-Escutem bem e gravem isso na memória!
+00:19:23,790 --> 00:19:27,490
+N-Não cheguem mais perto!
+Não entrem na nossa cidade!
 
 246
-00:20:11,020 --> 00:20:13,930
-A partir de hoje, esta ilha pertence a mim,
+00:19:31,370 --> 00:19:33,870
+Vocês ouviram as notícias, não ouviram?
 
 247
-00:20:13,930 --> 00:20:17,830
-o grande pirata Brownbeard!
+00:19:38,210 --> 00:19:43,210
+Então sabem que esta ilha
+não é mais território do Barba Branca.
 
 248
-00:20:20,870 --> 00:20:25,340
-A guerra terminou com a morte do Whitebeard
-e a vitória da Marinha.
+00:19:43,210 --> 00:19:46,310
+Este símbolo não significa mais nada!
 
 249
-00:20:25,340 --> 00:20:28,070
-Mas ao contrário do que a Marinha esperava,
+00:19:46,310 --> 00:19:50,150
+Isso mesmo! O Barba Branca está morto!
 
 250
-00:20:28,070 --> 00:20:33,440
-os mares ao redor do mundo mostram
-sinais de cair em desordem.
+00:20:07,330 --> 00:20:11,040
+Olha, coloquem uma coisa
+nas suas cabeças!
 
 251
-00:20:34,550 --> 00:20:36,450
-Um pouco antes,
+00:20:11,510 --> 00:20:15,340
+O homem que governa esta ilha agora sou eu,
 
 252
-00:20:36,450 --> 00:20:42,550
-Hancock, Jinbe e os outros decidiram abrigar
-o inconsciente Luffy na Ilha das Mulheres.
+00:20:15,340 --> 00:20:17,880
+o pirata Barba Marrom!
 
 253
-00:20:42,550 --> 00:20:45,990
-E agora se encontraram
-com o navio das Kujas.
+00:20:21,110 --> 00:20:25,620
+A guerra se encerrou com a morte
+do Barba Branca e vitória da Marinha.
 
 254
-00:20:47,960 --> 00:20:49,290
-Bom, então...
+00:20:25,620 --> 00:20:28,360
+Mas, ao contrário do
+que pensou a Marinha,
 
 255
-00:20:49,290 --> 00:20:53,770
-meu papel em apoiar o garoto de palha acabou.
+00:20:28,360 --> 00:20:32,460
+a situação é de tensão
+em todo o mundo.
 
 256
-00:20:53,770 --> 00:20:55,770
-Irrá!
+00:20:34,530 --> 00:20:36,460
+Enquanto isso, pouco tempo antes,
 
 257
-00:20:55,770 --> 00:20:59,270
-Posso deixar o resto com você, Jinbe?
+00:20:36,460 --> 00:20:39,230
+com o intuito de esconder
+o inconsciente Luffy,
 
 258
-00:20:59,270 --> 00:21:02,370
-Sim. Eu ainda não consigo nadar mesmo.
+00:20:39,230 --> 00:20:42,340
+Hancock e Jinbe decidem seguir
+para a Ilha das Mulheres,
 
 259
-00:21:02,370 --> 00:21:06,410
-O mínimo que posso fazer é ficar aqui
-até o Luffy se recuperar.
+00:20:42,340 --> 00:20:46,040
+a bordo do navio das Kuja.
 
 260
-00:21:07,020 --> 00:21:10,780
-Mas eu não sei como posso ajudá-lo.
+00:20:47,980 --> 00:20:53,780
+Muito bem, meu apoio ao
+Chapéu de Palha-boy acaba aqui.
 
 261
-00:21:11,750 --> 00:21:14,650
-Que reviravolta curiosa do destino ter te encontrado.
+00:20:55,780 --> 00:20:59,090
+Posso deixar o resto com você, Jinbe?
 
 262
-00:21:14,650 --> 00:21:15,950
-Concordo.
+00:20:59,090 --> 00:21:02,360
+Sim. Ainda não posso nadar como quero.
 
 263
-00:21:15,950 --> 00:21:21,030
-Estávamos ambos presos na maior
-prisão do mundo, Impel Down,
+00:21:02,360 --> 00:21:06,230
+O mínimo que posso fazer
+é ficar aqui até que ele se recupere.
 
 264
-00:21:21,230 --> 00:21:24,000
-mas se não fosse pelo Luffy,
+00:21:06,930 --> 00:21:10,530
+Mas ainda não sei como vou ajudá-lo.
 
 265
-00:21:24,100 --> 00:21:28,600
-acho que nunca teríamos
-nos encontrado.
+00:21:11,670 --> 00:21:14,670
+Nós nos conhecemos por
+um acaso do destino, não é?
 
 266
-00:21:28,700 --> 00:21:35,410
-Nós dois nos esforçamos muito pra acompanhar
-o garoto de palha em Marineford, não é?
+00:21:14,670 --> 00:21:16,000
+Concordo.
 
 267
-00:21:35,410 --> 00:21:37,840
-É difícil dizer adeus a você,
+00:21:16,000 --> 00:21:21,240
+Estávamos ambos trancafiados na
+maior prisão do mundo, Impel Down,
 
 268
-00:21:37,840 --> 00:21:43,080
-mas eu tenho uns docinhos
-esperando meu retorno ao reino.
+00:21:21,240 --> 00:21:23,780
+mas se não fosse por Luffy,
 
 269
-00:21:43,080 --> 00:21:46,280
-Por favor, cuide bem do garoto de palha!
+00:21:23,780 --> 00:21:28,620
+creio que nunca teríamos nos conhecido.
 
 270
-00:21:51,260 --> 00:21:54,560
-Tchau, Chapéu de Palha! Obrigado por nos libertar!
+00:21:28,980 --> 00:21:35,320
+Nós fizemos de tudo para acompanhar
+o Chapéu de Palha-boy até Marineford, não é?
 
 271
-00:21:54,560 --> 00:21:58,400
-Meu sonho pode se realizar graças a você!
+00:21:35,660 --> 00:21:37,860
+É difícil me despedir de vocês,
 
 272
-00:21:58,400 --> 00:22:00,800
-Diz oi pra ele quando ele acordar!
+00:21:37,860 --> 00:21:42,700
+mas meus docinhos me esperam no Reino.
 
 273
-00:22:00,800 --> 00:22:04,270
-Até a próxima, se tivermos a chance!
+00:21:43,130 --> 00:21:46,630
+Por favor, cuide bem
+do Chapéu de Palha-boy!
 
 274
-00:22:04,270 --> 00:22:05,470
-Aguenta firme!
+00:21:51,270 --> 00:21:54,610
+Até, Chapéu de Palha!
+Obrigado por nos libertar!
 
 275
-00:22:05,470 --> 00:22:08,440
-Você não pode morrer, Chapéu de Palha!
+00:21:54,610 --> 00:21:58,450
+Meu sonho pode se tornar
+realidade graças a você!
 
 276
-00:22:08,440 --> 00:22:10,980
-Certo, vamos nessa!
+00:21:58,450 --> 00:22:01,110
+Mandem um abraço pra ele
+quando ele acordar!
 
 277
-00:22:10,980 --> 00:22:15,480
-Pro coração do Newkamadom
-e o lugar que sonhamos em ver!
+00:22:01,110 --> 00:22:04,220
+Quando chegar a hora,
+nos reencontraremos!
 
 278
-00:22:15,480 --> 00:22:16,250
-Pro...
+00:22:04,220 --> 00:22:05,290
+Força!
 
 279
-00:22:16,250 --> 00:22:18,520
-Reino de Kamabakka!
+00:22:05,290 --> 00:22:08,220
+Você não pode morrer,
+Chapéu de Palha!
 
 280
-00:22:18,520 --> 00:22:19,480
-Irrá...!
+00:22:08,220 --> 00:22:11,020
+Muito bem, vamos lá!
 
 281
-00:22:19,480 --> 00:22:23,820
-Precisamos começar a ir
-pra Ilha das Mulheres.
+00:22:11,020 --> 00:22:15,530
+Para o lar e paraíso dos Novossexuais!
 
 282
-00:22:25,260 --> 00:22:26,660
-Duas semanas se passaram.
+00:22:15,530 --> 00:22:19,500
+Rumo ao Reino dos Okamas!
 
 283
-00:22:27,430 --> 00:22:33,600
-Law e sua tripulação estão ancorados
-perto da costa para tratar o Luffy.
+00:22:19,500 --> 00:22:23,640
+Agora, nós também temos que seguir
+para a Ilha das Mulheres.
 
 284
-00:22:43,840 --> 00:22:45,040
-Espera!
+00:22:25,270 --> 00:22:30,340
+E então, duas semanas se passaram.
+Law e os demais estão no litoral,
 
 285
-00:22:46,640 --> 00:22:47,750
-Isso é perigoso!
+00:22:30,340 --> 00:22:33,250
+dando tratamento a Luffy.
 
 286
-00:22:47,750 --> 00:22:49,850
-Se acalma, Chapéu de Palha!
+00:22:43,860 --> 00:22:45,060
+Ei! Espere aí!
 
 287
-00:22:49,850 --> 00:22:52,520
-O que vai acontecer se a gente deixar ele assim?
+00:22:46,660 --> 00:22:49,330
+Que perigo! Acalme-se, Chapéu de Palha!
 
 288
-00:22:53,180 --> 00:22:56,020
-Bom... é simples.
+00:22:50,200 --> 00:22:52,500
+O que vai acontecer se o deixarmos assim?!
 
 289
-00:22:56,020 --> 00:23:01,890
-Como eu disse quando chegamos nesta ilha,
-se o ferimento abrir, ele morre.
+00:22:53,030 --> 00:22:56,040
+Bem, é simples.
 
 290
-00:23:04,960 --> 00:23:07,400
-Sim! Agora é a nossa chance!
+00:22:56,040 --> 00:22:58,270
+Como eu disse quando chegamos aqui,
 
 291
-00:23:07,400 --> 00:23:09,270
-Me solta, droga!
+00:22:58,270 --> 00:23:01,910
+se as feridas dele abrirem, ele morre.
 
 292
-00:23:09,270 --> 00:23:10,740
-Fica quieto, Chapéu de Palha!
+00:23:04,980 --> 00:23:07,150
+Agora é a nossa chance!
 
 293
-00:23:11,020 --> 00:23:12,380
-Eu disse me solta!
+00:23:07,480 --> 00:23:09,280
+Me soltem, droga!
 
 294
-00:23:14,940 --> 00:23:17,380
-Cadê o Ace?!
+00:23:09,280 --> 00:23:10,720
+Fique parado, Chapéu de Palha!
 
 295
-00:23:17,380 --> 00:23:22,080
-Ace!
+00:23:11,020 --> 00:23:13,350
+Eu mandei me soltar!
 
 296
-00:23:19,040 --> 00:23:22,080
-Droga! Ele tá fora de controle!
+00:23:14,990 --> 00:23:17,290
+Cadê o Ace?!
 
 297
-00:23:22,080 --> 00:23:23,380
-Luffy...
+00:23:17,590 --> 00:23:19,130
+Ace!
 
 298
-00:23:23,380 --> 00:23:25,720
-Precisamos avisar a Princesa Serpente!
+00:23:19,130 --> 00:23:22,100
+Droga! Ele está fora de controle!
 
 299
-00:23:25,720 --> 00:23:30,390
-Princesa Serpente! Princesa Serpente!
+00:23:22,100 --> 00:23:23,460
+O Luffy...
 
 300
-00:23:30,390 --> 00:23:32,760
-O Luffy acordou!
+00:23:23,460 --> 00:23:25,730
+Precisamos informar à Princesa Serpente!
 
 301
-00:23:32,760 --> 00:23:33,990
-– Mestre Luffy...?!
-– Mestre Luffy...?!
+00:23:26,030 --> 00:23:30,300
+Princesa Serpente! Princesa Serpente!
 
 302
-00:23:33,990 --> 00:23:35,890
-É verdade?!
+00:23:30,640 --> 00:23:32,670
+Luffy despertou!
 
 303
-00:23:35,890 --> 00:23:38,360
-Que bom. Eu quero vê-lo imediatamente!
+00:23:32,670 --> 00:23:34,110
+O Grande Luffy?!
 
 304
-00:23:38,360 --> 00:23:40,200
-Não, você não pode, Princesa Serpente!
+00:23:34,110 --> 00:23:35,380
+Sério?!
 
 305
-00:23:40,200 --> 00:23:43,170
-Todo mundo quer ver o Luffy.
+00:23:35,380 --> 00:23:38,380
+Que bom. Quero vê-lo agora mesmo!
 
 306
-00:23:43,170 --> 00:23:47,370
-Suas ordens não terão nenhum peso
-se você se permitir ir vê-lo.
+00:23:38,380 --> 00:23:40,210
+Não, Princesa Serpente!
 
 307
-00:23:47,950 --> 00:23:50,610
-Homens não podem pisar nesta ilha!
+00:23:40,210 --> 00:23:43,180
+Todas querem vê-lo.
 
 308
-00:23:50,610 --> 00:23:55,280
-Estamos permitindo homens estranhos
-ficarem perto da costa;
+00:23:43,180 --> 00:23:47,520
+Não conseguirá disciplinar seu povo
+se ceder à vontade de vê-lo.
 
 309
-00:23:55,280 --> 00:23:58,850
-não podemos fazer mais exceções!
+00:23:47,950 --> 00:23:50,620
+Homens são proibidos nesta ilha.
 
 310
-00:23:58,850 --> 00:24:00,850
-Eu sei, mas...
+00:23:50,620 --> 00:23:55,260
+Nós já permitimos que homens ficassem na baía,
 
 311
-00:24:00,850 --> 00:24:03,320
-Você precisa comer alguma coisa primeiro, irmã mais velha.
+00:23:55,260 --> 00:23:58,870
+e isso já é uma tremenda exceção!
 
 312
-00:24:03,320 --> 00:24:08,490
-É verdade, irmã querida! Você mal
-comeu desde que voltou!
+00:23:58,870 --> 00:24:00,870
+Eu sei, mas...
 
 313
-00:24:08,490 --> 00:24:11,730
-É verdade! O Luffy também deve estar morrendo de fome!
+00:24:00,870 --> 00:24:03,440
+Agora você precisa comer, Irmã!
 
 314
-00:24:11,730 --> 00:24:15,100
-Preparem uma montanha dos nossos
-melhores pratos pra restaurar a energia dele!
+00:24:03,440 --> 00:24:08,410
+Isso mesmo, Irmã! Você mal
+comeu desde que voltou!
 
 315
-00:24:15,100 --> 00:24:16,930
-– Sim, com prazer!
-– Sim, com prazer!
+00:24:08,410 --> 00:24:11,910
+É mesmo! O Luffy também deve
+estar morrendo de fome!
 
 316
-00:24:16,930 --> 00:24:18,210
-Eu vou ajudar!
+00:24:11,910 --> 00:24:15,180
+Preparem pratos em grandes
+quantidades para lhe dar energia!
 
 317
-00:24:18,670 --> 00:24:21,170
-Vamos lá, senhoras!
+00:24:15,180 --> 00:24:16,920
+Sim, com todo prazer!
 
 318
-00:24:21,170 --> 00:24:23,440
-– Sim, Princesa Serpente!
-– Sim, Princesa Serpente!
+00:24:16,920 --> 00:24:21,350
+Eu vou ajudá-las a cozinhar!
+Meninas, vamos começar agora mesmo!
 
 319
-00:24:23,440 --> 00:24:28,180
-Não devo pressioná-la mais.
-Ela só quer preparar comida.
+00:24:21,350 --> 00:24:23,420
+Sim, Princesa Serpente!
 
 320
-00:24:28,180 --> 00:24:29,810
-E quando terminarem...
+00:24:23,420 --> 00:24:28,260
+Deixa pra lá...
+Ela só quer cozinhar pra ele...
 
 321
-00:24:29,810 --> 00:24:33,050
-Eu vou pessoalmente levar tudo até ele!
+00:24:28,260 --> 00:24:31,400
+E aí, vou levar pra ele!
 
 322
-00:24:31,380 --> 00:24:33,050
-Então você vai mesmo?!
+00:24:31,400 --> 00:24:32,930
+Então você vai?!
 
 323
-00:24:33,050 --> 00:24:38,860
-Combinamos que quando ele melhorar,
-vamos receber apenas o Luffy.
+00:24:32,930 --> 00:24:38,870
+Prometemos que, quando Luffy se
+recuperasse, nós iríamos convidá-lo pra cá.
 
 324
-00:24:38,860 --> 00:24:40,420
+00:24:38,870 --> 00:24:40,610
 Espere por esse momento!
 
 325
-00:24:40,420 --> 00:24:44,230
-Eu não consigo! Eu sou uma imperatriz!
-Você não manda em mim!
+00:24:40,610 --> 00:24:44,240
+Não posso! Eu sou uma Imperatriz!
+Não me diga o que fazer!
 
 326
-00:24:44,230 --> 00:24:48,730
-Eu disse não! Nada deve
-se sobrepor às nossas tradições nacionais!
+00:24:44,240 --> 00:24:45,410
+Já disse que não!
 
 327
-00:24:49,430 --> 00:24:53,970
-Sinceramente! Ela foi infectada
-por um vírus tão forte!
+00:24:45,410 --> 00:24:48,750
+A coisa mais importante deste país
+é nossa lei, que dura gerações!
 
 328
-00:24:53,970 --> 00:24:58,110
-Eu não acredito que a temida
-Imperatriz Pirata ficou apaixonada!
+00:24:49,420 --> 00:24:53,990
+Minha nossa! Você foi infectada
+por um vírus poderosíssimo!
 
 329
-00:24:59,040 --> 00:25:03,080
-No entanto... ele deve ter
-sido como uma formiguinha...
+00:24:53,990 --> 00:24:58,120
+Eu não acredito que a temível Imperatriz
+Pirata tenha caído nas garras da paixão!
 
 330
-00:25:03,080 --> 00:25:06,650
-mergulhando numa tempestade em Impel Down
-e no Quartel-General da Marinha.
+00:24:59,060 --> 00:25:03,100
+Contudo, ele deve ter mesmo sido uma formiga
 
 331
-00:25:06,650 --> 00:25:11,620
-Só pode ser intervenção divina que
-permitiu que ele sobrevivesse e chegasse até aqui.
+00:25:03,100 --> 00:25:06,670
+no meio da tempestade em
+Impel Down e no QG da Marinha.
 
 332
-00:25:11,620 --> 00:25:16,760
-O que será que os céus esperam dele.
+00:25:06,670 --> 00:25:11,510
+Se ele sobreviveu e voltou para cá,
+só pode ser obra de Deus.
 
 333
-00:25:18,030 --> 00:25:19,860
-Ei, me passa a chave de fenda.
+00:25:11,510 --> 00:25:16,680
+O que será que os céus esperam dele?
 
 334
-00:25:19,860 --> 00:25:21,570
-Tá, aqui.
+00:25:18,040 --> 00:25:20,350
+Ei, me passe a chave.
 
 335
-00:25:21,570 --> 00:25:24,500
-Ei! Você acha que consegue consertar o navio?!
+00:25:20,350 --> 00:25:21,480
+Toma aqui.
 
 336
-00:25:24,500 --> 00:25:26,000
-É, eu me viro.
+00:25:21,480 --> 00:25:24,520
+Ei, acha que consegue
+consertar o navio?
 
 337
-00:25:26,000 --> 00:25:28,740
-Mudando de assunto, pra onde o Chapéu de Palha foi?
+00:25:24,520 --> 00:25:28,790
+Vou dar um jeito.
+E o Chapéu de Palha, aonde foi?
 
 338
-00:25:28,740 --> 00:25:30,340
+00:25:28,790 --> 00:25:30,720
 O Jinbe também sumiu.
 
 339
-00:25:30,340 --> 00:25:33,210
-Não sei te dizer.
+00:25:30,720 --> 00:25:32,690
+Sei lá.
 
 340
-00:25:34,010 --> 00:25:39,620
-Bom, eu ouvi dizer que se um homem entrar
-na Ilha das Mulheres, ele é transformado em pedra.
+00:25:33,990 --> 00:25:39,630
+Até onde sei, todo homem que entra
+na Ilha das Mulheres vira pedra.
 
 341
-00:25:39,620 --> 00:25:41,690
-Mas talvez valha a pena morrer por isso.
+00:25:39,630 --> 00:25:41,740
+Mas vai ver vale a pena.
 
 342
-00:25:41,690 --> 00:25:47,120
-Segundo a Aphelandra, só um punhado
-das mulheres estava no porto.
+00:25:41,740 --> 00:25:47,140
+Segundo a Aphelandra, nem todas
+as mulheres estavam no porto.
 
 343
-00:25:47,120 --> 00:25:52,060
-Uma ilha cheia de mulheres. É como um sonho!
-Queria tanto poder dar uma espiada lá dentro!
+00:25:47,140 --> 00:25:52,050
+A ilha das mulheres com a qual tanto sonhei!
+Queria poder olhar lá dentro!
 
 344
-00:25:52,060 --> 00:25:54,200
-Você ia morrer, seu idiota.
+00:25:52,050 --> 00:25:54,180
+Você vai morrer, idiota.
 
 345
-00:25:54,200 --> 00:25:56,270
-Será que tem ursos fêmeas...
+00:25:54,180 --> 00:25:56,280
+Será que tem ursas aqui?
 
 346
-00:25:56,270 --> 00:25:57,500
-– É a Ilha das Mulheres!
-– É a Ilha das Mulheres!
+00:25:56,280 --> 00:25:58,080
+É a Ilha das Mulheres!
 
 347
-00:25:58,070 --> 00:25:59,340
-Desculpa.
+00:25:58,080 --> 00:25:59,350
+Sinto muito.
 
 348
-00:25:59,340 --> 00:26:01,810
-Só humanos! Só tem humanos!
+00:25:59,350 --> 00:26:02,090
+Só humanas! Só tem humanas!
 
 349
-00:26:01,810 --> 00:26:04,020
-Sinto muito!
+00:26:02,090 --> 00:26:04,160
+Sinto muito mesmo!
 
 350
-00:26:40,440 --> 00:26:43,310
-Onde estou?
+00:26:40,590 --> 00:26:43,200
+Onde eu estou?
 
 351
-00:26:44,550 --> 00:26:48,090
-Talvez... tenha sido tudo um sonho.
+00:26:44,730 --> 00:26:48,000
+Talvez tenha sido tudo um sonho...
 
 352
-00:27:02,840 --> 00:27:06,480
-Me desculpa... Luffy...
+00:27:03,150 --> 00:27:06,750
+Sinto muito, Luffy...
 
 353
-00:27:10,470 --> 00:27:13,780
-Não havia como me salvar.
+00:27:10,560 --> 00:27:13,730
+Não deixei você me salvar...
 
 354
-00:27:23,950 --> 00:27:27,360
-Vai embora! Vai embora!
+00:27:24,340 --> 00:27:27,370
+Sai! Sai!
 
 355
-00:27:27,360 --> 00:27:28,630
+00:27:27,370 --> 00:27:28,740
 Luffy!
 
 356
-00:27:29,960 --> 00:27:32,700
-Para!
+00:27:29,980 --> 00:27:32,680
+Não!
 
 357
-00:27:39,100 --> 00:27:43,810
-Vai embora! Vai embora!
+00:27:39,120 --> 00:27:43,790
+Sai! Sai!
 
 358
-00:28:21,650 --> 00:28:25,180
-Se eu não sair dessa vivo...
+00:28:21,700 --> 00:28:24,430
+Se eu não conseguir fugir da morte,
 
 359
-00:28:25,580 --> 00:28:29,950
-poderia cuidar do meu irmão?
+00:28:25,570 --> 00:28:30,200
+perdão, mas pode cuidar do meu irmão?
 
 360
-00:28:32,420 --> 00:28:35,290
+00:28:32,510 --> 00:28:35,310
 A guerra acabou!
 
 361
-00:28:35,290 --> 00:28:36,730
-O Ace já não–
+00:28:35,310 --> 00:28:36,810
+Ace está...
 
 362
-00:28:36,730 --> 00:28:39,800
-Não diz isso! Não fala nada!
+00:28:36,810 --> 00:28:39,850
+Não diga! Não diga nada!
 
 363
-00:28:41,070 --> 00:28:43,130
-Eu já me belisquei...
+00:28:41,080 --> 00:28:45,390
+Eu já me belisquei com força
+pra rasgar a pele!
 
 364
-00:28:43,130 --> 00:28:45,370
-forte o bastante pra rasgar a pele!
+00:28:48,590 --> 00:28:50,720
+Se fosse um sonho,
+eu já tinha acordado!
 
 365
-00:28:48,340 --> 00:28:50,770
-Se fosse um sonho, eu já teria acordado!
+00:28:53,230 --> 00:28:55,600
+Não é sonho, né?
 
 366
-00:28:53,180 --> 00:28:55,880
-Não é um sonho, é?
+00:29:04,440 --> 00:29:08,540
+O Ace morreu mesmo, né?
 
 367
-00:29:04,420 --> 00:29:08,590
-O Ace está morto mesmo, não é?!
-
-368
-00:29:15,270 --> 00:29:18,140
+00:29:15,380 --> 00:29:18,150
 Sim, ele está morto!
 
+368
+00:29:26,130 --> 00:29:29,360
+Ei, vovô, quem é Ace?
+
 369
-00:29:26,010 --> 00:29:29,350
-Ei, vovô, quem é esse tal de "Ace"?
+00:29:29,360 --> 00:29:32,000
+Ah, ele...
 
 370
-00:29:29,350 --> 00:29:32,550
-Ah, ele é...
+00:29:32,830 --> 00:29:36,940
+É o cara que vai ser seu irmão!
 
 371
-00:29:32,820 --> 00:29:36,920
-o cara que vai ser seu irmão mais velho!
+00:29:37,970 --> 00:29:42,840
+Luffy! Te vejo no topo
+do mundo dos piratas!
 
 372
-00:29:37,960 --> 00:29:42,830
-Luffy! Te vejo no
-topo do mundo pirata!
+00:29:43,240 --> 00:29:45,410
+Chegue ao topo!
 
 373
-00:29:42,830 --> 00:29:46,230
-Vem, me encontra no topo!
-
-374
-00:30:00,980 --> 00:30:05,420
+00:30:01,190 --> 00:30:05,400
 Ace!
 
+374
+00:00:18,590 --> 00:00:22,170
+Vamos zarpar antes do amanhecer
+
 375
-00:03:00,990 --> 00:03:07,750
-"Bushido and Justice"
+00:00:22,260 --> 00:00:26,690
+para encontrar um amanhã ainda não visto.
 
 376
-00:07:28,630 --> 00:07:31,630
-East Blue
+00:00:26,970 --> 00:00:30,330
+Eu já tomei uma decisão e não me arrependo.
 
 377
-00:07:28,630 --> 00:07:31,630
-East Blue
+00:00:33,510 --> 00:00:37,070
+Não importa quais provações nos aguardem ao longo do caminho,
 
 378
-00:07:39,240 --> 00:07:41,910
-West Blue
+00:00:37,210 --> 00:00:41,700
+nada pode parar as batidas dos nossos corações.
 
 379
-00:07:39,240 --> 00:07:41,910
-West Blue
+00:00:41,810 --> 00:00:46,350
+Só existe um lugar para onde todos nós almejamos.
 
 380
-00:07:46,610 --> 00:07:49,250
-South Blue
+00:00:48,320 --> 00:00:52,090
+Os laços que ganhamos no final da batalha,
 
 381
-00:07:46,610 --> 00:07:49,250
-South Blue
+00:00:52,160 --> 00:00:55,670
+Eu não vou deixar ninguém machucá-los.
 
 382
-00:07:55,090 --> 00:07:57,790
-North Blue
+00:00:55,800 --> 00:00:58,470
+Se abrirmos nossos punhos cerrados,
 
 383
-00:07:55,090 --> 00:07:57,790
-North Blue
+00:00:58,600 --> 00:01:01,710
+encontraremos força dentro deles.
 
 384
-00:08:04,990 --> 00:08:07,900
-Grand Line
+00:01:01,870 --> 00:01:04,130
+Então vamos começar!
 
 385
-00:08:04,990 --> 00:08:07,900
-Grand Line
+00:01:04,270 --> 00:01:09,280
+Um mundo totalmente novo está nos chamando.
 
 386
-00:09:07,590 --> 00:09:10,600
-Foodvalten, New World
+00:01:09,380 --> 00:01:11,670
+Olhe para frente!
 
 387
-00:09:07,590 --> 00:09:10,600
-Foodvalten, New World
+00:01:11,780 --> 00:01:18,020
+Mesmo que incontáveis ​​mares estejam entre nós,
 
 388
-00:10:06,720 --> 00:10:10,720
-Captain Trafalgar Law
-Heart Pirates
+00:01:18,080 --> 00:01:21,790
+estamos sempre apoiando um ao outro
 
 389
-00:10:06,720 --> 00:10:10,720
-Captain Trafalgar Law
-Heart Pirates
+00:01:21,820 --> 00:01:25,460
+Vamos seguir em frente sem medos.
 
 390
-00:15:07,690 --> 00:15:11,920
-Impel Down, the Undersea Prison
+00:01:25,960 --> 00:01:27,850
+Por favor, não se esqueça.
 
 391
-00:15:07,690 --> 00:15:11,920
-Impel Down, the Undersea Prison
+00:01:29,860 --> 00:01:37,120
+O grande, amplo e distante céu,
 
 392
-00:18:03,030 --> 00:18:07,030
-West Blue
+00:01:37,540 --> 00:01:39,900
+que admiramos naquele dia,
 
 393
-00:18:03,030 --> 00:18:07,030
-West Blue
+00:01:40,010 --> 00:01:45,020
+ainda não foi contaminado.
 
 394
-00:19:10,630 --> 00:19:16,650
-Foodvalten, New World
+00:01:45,040 --> 00:01:48,450
+Nós percorremos um longo caminho,
 
 395
-00:19:10,630 --> 00:19:16,650
-Foodvalten, New World
+00:01:48,650 --> 00:01:52,410
+todos carregando os votos que fizemos em nossos corações.
+
+396
+00:01:52,450 --> 00:01:54,990
+Não há nada a temer.
+
+397
+00:01:55,050 --> 00:01:59,420
+Todos nós temos fardos que devemos carregar.
+
+398
+00:01:59,560 --> 00:02:01,880
+O sol nasce...
+
+399
+00:02:02,030 --> 00:02:06,840
+e isso ilumina tudo, até minha tristeza.
+
+400
+00:02:06,870 --> 00:02:09,240
+Eu acredito...
+
+401
+00:02:09,340 --> 00:02:15,580
+no futuro onde nos uniremos como um.
+
+402
+00:02:15,710 --> 00:02:19,300
+Vamos encontrá-lo juntos.
+
+403
+00:02:19,380 --> 00:02:23,110
+Não há ninguém que possa tomar seu lugar.
+
+404
+00:02:23,580 --> 00:02:25,240
+Por favor, não se esqueça.
+
+405
+00:00:30,640 --> 00:00:33,160
+Ah, eu sei o que devo fazer.
+
+406
+00:00:46,370 --> 00:00:48,070
+Voe para a luz!
+
+407
+00:01:28,200 --> 00:01:29,040
+Nós lutamos juntos.
+
+408
+00:02:25,930 --> 00:02:27,430
+Nós lutamos juntos.
