@@ -1,111 +1,111 @@
-# 🏴‍☠️ One Pace PT-BR Subs — Addon Stremio
+# One Pace PT-BR Subs — Stremio Addon
 
-Addon do Stremio que fornece legendas em **Português do Brasil** para os episódios do [One Pace](https://onepace.net).
+Addon do Stremio que fornece legendas em **Portugues do Brasil (PT-BR)** para o [One Pace](https://onepace.net), o fan edit que remove fillers do One Piece.
 
-As legendas são extraídas do [repositório oficial de legendas do One Pace](https://github.com/one-pace/one-pace-public-subtitles), convertidas de ASS para SRT, e servidas como addon de legendas para o Stremio.
+Funciona com o **One Pace Addon**, **One Pace RD Premium** e qualquer outro addon que use os episodios do One Pace no Stremio.
 
-## 📋 Episódios disponíveis
+## Instalar
 
-| Arco            | IDs        | Episódios |
-|-----------------|------------|-----------|
-| Romance Dawn    | RO_1–RO_4 | 4         |
-| Orange Town     | OR_1–OR_3 | 3         |
-| Syrup Village   | SY_1–SY_7 | 6 (falta SY_2) |
-| Gaimon          | GA_1       | 1         |
-| **Total**       |            | **14**    |
+Cole essa URL no Stremio (Addons > barra de busca):
 
-> Conforme a equipe portuguesa do One Pace traduz mais arcos, basta rodar o script de conversão novamente para atualizar.
+```
+https://3715ec511f6d-onepace-ptbr-addon.baby-beamup.club/manifest.json
+```
 
-## 🚀 Setup rápido
+Pronto. As legendas PT-BR aparecem automaticamente ao assistir episodios do One Pace.
 
-### 1. Clonar e instalar
+Cada episodio oferece duas opcoes de legenda:
+- **Portuguese** — SRT limpo, compativel com qualquer player
+- **PT-BR (Estilizado)** — ASS com formatacao original (sinais, posicionamento, efeitos)
+
+## Episodios Disponiveis
+
+| Saga | Arcos | Episodios |
+|------|-------|:---------:|
+| East Blue | Romance Dawn, Orange Town, Syrup Village, Gaimon, Baratie, Arlong Park, Buggy's Crew, Loguetown | 38 |
+| Alabasta | Reverse Mountain, Whisky Peak, Koby-Meppo, Little Garden, Drum Island, Alabasta | 39 |
+| Skypiea | Jaya, Skypiea | 33 |
+| Water Seven | Water Seven | 20 |
+| *Em andamento* | Enies Lobby, Post War, Egghead, e mais... | +134 |
+
+> O addon e atualizado conforme novas traducoes ficam prontas.
+
+## Rodar Localmente
 
 ```bash
-git clone https://github.com/SEU_USUARIO/onepace-ptbr-subs.git
-cd onepace-ptbr-subs
+git clone https://github.com/rafaelmotac/onepace-ptbr-addon.git
+cd onepace-ptbr-addon
 npm install
-```
-
-### 2. Configurar a URL dos SRTs
-
-Edite a variável `SUBS_BASE_URL` no `index.js` para apontar pro seu repositório GitHub:
-
-```
-https://raw.githubusercontent.com/SEU_USUARIO/onepace-ptbr-subs/main/subs
-```
-
-Ou defina via variável de ambiente:
-
-```bash
-export SUBS_BASE_URL="https://raw.githubusercontent.com/SEU_USUARIO/onepace-ptbr-subs/main/subs"
-```
-
-### 3. Rodar o addon
-
-```bash
 npm start
 ```
 
-O addon estará disponível em `http://127.0.0.1:7000/manifest.json`.
+O addon fica disponivel em `http://127.0.0.1:7000/manifest.json`.
 
-### 4. Instalar no Stremio
+Para usar na rede local (ex: TV na sala), substitua `127.0.0.1` pelo IP da maquina.
 
-1. Abra o Stremio
-2. Vá em **Addons** → cole a URL do manifest
-3. Instale o addon
-4. Ao assistir um episódio do One Pace, as legendas PT-BR aparecerão automaticamente na lista de legendas!
+## Atualizar Legendas
 
-## 🔄 Atualizar legendas
-
-Para converter novas legendas quando a equipe pt-BR traduzir mais arcos:
+### A partir do repo oficial do One Pace
 
 ```bash
-# Clone o repo oficial de legendas (se ainda não tiver)
+# Clone o repo de legendas
 git clone https://github.com/one-pace/one-pace-public-subtitles.git
 
-# Rode o script de conversão
-python3 scripts/convert-ass-to-srt.py ./one-pace-public-subtitles ./subs
+# Converta ASS -> SRT
+npm run convert
 ```
 
-## 🌐 Deploy (opcional)
+### A partir do Google Drive (onepaceptbr)
 
-### GitHub Pages (estático — sem servidor)
+```bash
+# Baixa todas as legendas do onepaceptbr.github.io
+npm run download
 
-Se preferir não rodar um servidor, hospede os SRTs no GitHub e crie um addon estático. Os arquivos SRT já estão na pasta `subs/` e podem ser acessados via `raw.githubusercontent.com`.
-
-### Vercel / Railway
-
-O addon funciona em qualquer plataforma que rode Node.js. Basta fazer deploy e ajustar a `SUBS_BASE_URL`.
-
-## 🏗️ Como funciona
-
-```
-Stremio → pede legendas para episódio "RO_1"
-       → addon verifica mapping.json
-       → encontra "RO_1.srt"
-       → retorna URL do SRT no GitHub
-       → Stremio exibe a legenda "Português" na lista
+# Ou so lista o que seria baixado
+npm run download:dry
 ```
 
-## 📁 Estrutura
+## Estrutura
 
 ```
-onepace-ptbr-subs/
-├── index.js                    # Addon Stremio
+onepace-ptbr-addon/
+├── index.js                     # Addon Stremio (ESM)
 ├── package.json
-├── subs/                       # Legendas SRT convertidas
-│   ├── mapping.json            # Mapeamento ID → arquivo
-│   ├── RO_1.srt
-│   ├── RO_2.srt
+├── Procfile                     # Deploy Beamup/Heroku
+├── subs/                        # Legendas
+│   ├── mapping.json             # Mapeamento ID -> arquivos
+│   ├── RO_1.srt                 # SRT (texto limpo)
+│   ├── RO_1.ass                 # ASS (estilizado)
 │   └── ...
 ├── scripts/
-│   └── convert-ass-to-srt.py   # Converte ASS → SRT
-└── README.md
+│   ├── subtitle_converter.py    # Modulo compartilhado
+│   ├── convert_ass_to_srt.py    # Converte ASS -> SRT
+│   ├── download_all_subs.py     # Baixa do Google Drive
+│   └── translate_subs.py        # Traduz EN -> PT-BR
+└── tests/
+    └── addon.test.js            # Testes do addon
 ```
 
-## 🙏 Créditos
+## Como Funciona
 
-- [One Pace](https://onepace.net) — projeto de fan edit
+```
+Stremio pede legendas para o episodio "RO_1"
+  -> addon consulta mapping.json
+  -> encontra RO_1.srt e RO_1.ass
+  -> retorna ambas as URLs (GitHub raw)
+  -> Stremio exibe "Portuguese" e "PT-BR (Estilizado)" na lista de legendas
+```
+
+Os arquivos de legenda ficam hospedados no GitHub (raw.githubusercontent.com) e o addon roda no Beamup (hosting gratuito do Stremio).
+
+## Creditos
+
+- [One Pace](https://onepace.net) — projeto de fan edit do One Piece
 - [One Pace Public Subtitles](https://github.com/one-pace/one-pace-public-subtitles) — legendas oficiais
-- Equipe de tradução pt-BR do One Pace
+- [onepaceptbr](https://onepaceptbr.github.io/) — equipe de traducao PT-BR
 - [Stremio Addon SDK](https://github.com/Stremio/stremio-addon-sdk)
+- [One Pace Addon](https://github.com/fedew04/OnePaceStremio) — catalogo e streams para Stremio
+
+## Licenca
+
+MIT
