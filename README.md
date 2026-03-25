@@ -1,36 +1,36 @@
 # One Pace PT-BR Subs — Stremio Addon
 
-Addon do Stremio que fornece legendas em **Portugues do Brasil (PT-BR)** para o [One Pace](https://onepace.net), o fan edit que remove fillers do One Piece.
+Stremio addon that provides **Brazilian Portuguese (PT-BR)** subtitles for [One Pace](https://onepace.net), the fan edit that removes filler from One Piece.
 
-Funciona com o **One Pace Addon**, **One Pace RD Premium** e qualquer outro addon que use os episodios do One Pace no Stremio.
+Works with **One Pace Addon**, **One Pace RD Premium**, and any other addon that uses One Pace episodes on Stremio.
 
-## Instalar
+## Install
 
-Cole essa URL no Stremio (Addons > barra de busca):
+Paste this URL in Stremio (Addons > search bar):
 
 ```
 https://3715ec511f6d-onepace-ptbr-addon.baby-beamup.club/manifest.json
 ```
 
-Pronto. As legendas PT-BR aparecem automaticamente ao assistir episodios do One Pace.
+Done. PT-BR subtitles will automatically appear when watching One Pace episodes.
 
-Cada episodio oferece duas opcoes de legenda:
-- **Portuguese** — SRT limpo, compativel com qualquer player
-- **PT-BR (Estilizado)** — ASS com formatacao original (sinais, posicionamento, efeitos)
+Each episode offers two subtitle options:
+- **Portuguese** — clean SRT, compatible with any player
+- **PT-BR Styled** — ASS with original formatting (signs, positioning, effects)
 
-## Episodios Disponiveis
+## Available Episodes
 
-| Saga | Arcos | Episodios |
-|------|-------|:---------:|
+| Saga | Arcs | Episodes |
+|------|------|:--------:|
 | East Blue | Romance Dawn, Orange Town, Syrup Village, Gaimon, Baratie, Arlong Park, Buggy's Crew, Loguetown | 38 |
 | Alabasta | Reverse Mountain, Whisky Peak, Koby-Meppo, Little Garden, Drum Island, Alabasta | 39 |
 | Skypiea | Jaya, Skypiea | 33 |
 | Water Seven | Water Seven | 20 |
-| *Em andamento* | Enies Lobby, Post War, Egghead, e mais... | +134 |
+| *In progress* | Enies Lobby, Post War, Egghead, and more... | +134 |
 
-> O addon e atualizado conforme novas traducoes ficam prontas.
+> The addon is updated as new translations become available.
 
-## Rodar Localmente
+## Run Locally
 
 ```bash
 git clone https://github.com/rafaelmotac/onepace-ptbr-addon.git
@@ -39,73 +39,73 @@ npm install
 npm start
 ```
 
-O addon fica disponivel em `http://127.0.0.1:7000/manifest.json`.
+The addon will be available at `http://127.0.0.1:7000/manifest.json`.
 
-Para usar na rede local (ex: TV na sala), substitua `127.0.0.1` pelo IP da maquina.
+To use on your local network (e.g. TV in the living room), replace `127.0.0.1` with your machine's IP address.
 
-## Atualizar Legendas
+## Update Subtitles
 
-### A partir do repo oficial do One Pace
+### From the official One Pace repo
 
 ```bash
-# Clone o repo de legendas
+# Clone the subtitles repo
 git clone https://github.com/one-pace/one-pace-public-subtitles.git
 
-# Converta ASS -> SRT
+# Convert ASS -> SRT
 npm run convert
 ```
 
-### A partir do Google Drive (onepaceptbr)
+### From Google Drive (onepaceptbr)
 
 ```bash
-# Baixa todas as legendas do onepaceptbr.github.io
+# Download all subtitles from onepaceptbr.github.io
 npm run download
 
-# Ou so lista o que seria baixado
+# Or just list what would be downloaded
 npm run download:dry
 ```
 
-## Estrutura
+## Project Structure
 
 ```
 onepace-ptbr-addon/
-├── index.js                     # Addon Stremio (ESM)
+├── index.js                     # Stremio addon (ESM)
 ├── package.json
-├── Procfile                     # Deploy Beamup/Heroku
-├── subs/                        # Legendas
-│   ├── mapping.json             # Mapeamento ID -> arquivos
-│   ├── RO_1.srt                 # SRT (texto limpo)
-│   ├── RO_1.ass                 # ASS (estilizado)
+├── Procfile                     # Beamup/Heroku deploy
+├── subs/                        # Subtitles
+│   ├── mapping.json             # Episode ID -> file mapping
+│   ├── RO_1.srt                 # SRT (clean text)
+│   ├── RO_1.ass                 # ASS (styled)
 │   └── ...
 ├── scripts/
-│   ├── subtitle_converter.py    # Modulo compartilhado
-│   ├── convert_ass_to_srt.py    # Converte ASS -> SRT
-│   ├── download_all_subs.py     # Baixa do Google Drive
-│   └── translate_subs.py        # Traduz EN -> PT-BR
+│   ├── subtitle_converter.py    # Shared module
+│   ├── convert_ass_to_srt.py    # Converts ASS -> SRT
+│   ├── download_all_subs.py     # Downloads from Google Drive
+│   └── translate_subs.py        # Translates EN -> PT-BR
 └── tests/
-    └── addon.test.js            # Testes do addon
+    └── addon.test.js            # Addon tests
 ```
 
-## Como Funciona
+## How It Works
 
 ```
-Stremio pede legendas para o episodio "RO_1"
-  -> addon consulta mapping.json
-  -> encontra RO_1.srt e RO_1.ass
-  -> retorna ambas as URLs (GitHub raw)
-  -> Stremio exibe "Portuguese" e "PT-BR (Estilizado)" na lista de legendas
+Stremio requests subtitles for episode "RO_1"
+  -> addon looks up mapping.json
+  -> finds RO_1.srt and RO_1.ass
+  -> returns both URLs (GitHub raw)
+  -> Stremio shows "Portuguese" and "PT-BR Styled" in the subtitle list
 ```
 
-Os arquivos de legenda ficam hospedados no GitHub (raw.githubusercontent.com) e o addon roda no Beamup (hosting gratuito do Stremio).
+Subtitle files are hosted on GitHub (raw.githubusercontent.com) and the addon runs on Beamup (free Stremio hosting).
 
-## Creditos
+## Credits
 
-- [One Pace](https://onepace.net) — projeto de fan edit do One Piece
-- [One Pace Public Subtitles](https://github.com/one-pace/one-pace-public-subtitles) — legendas oficiais
-- [onepaceptbr](https://onepaceptbr.github.io/) — equipe de traducao PT-BR
+- [One Pace](https://onepace.net) — One Piece fan edit project
+- [One Pace Public Subtitles](https://github.com/one-pace/one-pace-public-subtitles) — official subtitles
+- [onepaceptbr](https://onepaceptbr.github.io/) — PT-BR translation team
 - [Stremio Addon SDK](https://github.com/Stremio/stremio-addon-sdk)
-- [One Pace Addon](https://github.com/fedew04/OnePaceStremio) — catalogo e streams para Stremio
+- [One Pace Addon](https://github.com/fedew04/OnePaceStremio) — catalog and streams for Stremio
 
-## Licenca
+## License
 
 MIT
