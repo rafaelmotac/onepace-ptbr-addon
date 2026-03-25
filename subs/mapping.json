@@ -199,6 +199,74 @@
     "srt": "DI_8.srt",
     "ass": "DI_8.ass"
   },
+  "EH_1": {
+    "srt": "EH_1.srt",
+    "ass": "EH_1.ass"
+  },
+  "EH_2": {
+    "srt": "EH_2.srt",
+    "ass": "EH_2.ass"
+  },
+  "EH_6": {
+    "srt": "EH_6.srt",
+    "ass": "EH_6.ass"
+  },
+  "EH_11": {
+    "srt": "EH_11.srt",
+    "ass": "EH_11.ass"
+  },
+  "EH_12": {
+    "srt": "EH_12.srt",
+    "ass": "EH_12.ass"
+  },
+  "EH_13": {
+    "srt": "EH_13.srt",
+    "ass": "EH_13.ass"
+  },
+  "EH_14": {
+    "srt": "EH_14.srt",
+    "ass": "EH_14.ass"
+  },
+  "EH_15": {
+    "srt": "EH_15.srt",
+    "ass": "EH_15.ass"
+  },
+  "EH_16": {
+    "srt": "EH_16.srt",
+    "ass": "EH_16.ass"
+  },
+  "EH_17": {
+    "srt": "EH_17.srt",
+    "ass": "EH_17.ass"
+  },
+  "EH_18": {
+    "srt": "EH_18.srt",
+    "ass": "EH_18.ass"
+  },
+  "EH_19": {
+    "srt": "EH_19.srt",
+    "ass": "EH_19.ass"
+  },
+  "EH_20": {
+    "srt": "EH_20.srt",
+    "ass": "EH_20.ass"
+  },
+  "EN_1": {
+    "srt": "EN_1.srt",
+    "ass": "EN_1.ass"
+  },
+  "EN_2": {
+    "srt": "EN_2.srt",
+    "ass": "EN_2.ass"
+  },
+  "EN_3": {
+    "srt": "EN_3.srt",
+    "ass": "EN_3.ass"
+  },
+  "EN_4": {
+    "srt": "EN_4.srt",
+    "ass": "EN_4.ass"
+  },
   "GA_1": {
     "srt": "GA_1.srt",
     "ass": "GA_1.ass"
@@ -279,6 +347,22 @@
     "srt": "OR_3.srt",
     "ass": "OR_3.ass"
   },
+  "PW_1": {
+    "srt": "PW_1.srt",
+    "ass": "PW_1.ass"
+  },
+  "PW_2": {
+    "srt": "PW_2.srt",
+    "ass": "PW_2.ass"
+  },
+  "PW_3": {
+    "srt": "PW_3.srt",
+    "ass": "PW_3.ass"
+  },
+  "REV_1": {
+    "srt": "REV_1.srt",
+    "ass": "REV_1.ass"
+  },
   "RM_1": {
     "srt": "RM_1.srt",
     "ass": "RM_1.ass"
@@ -302,6 +386,18 @@
   "RO_4": {
     "srt": "RO_4.srt",
     "ass": "RO_4.ass"
+  },
+  "RTS_1": {
+    "srt": "RTS_1.srt",
+    "ass": "RTS_1.ass"
+  },
+  "RTS_2": {
+    "srt": "RTS_2.srt",
+    "ass": "RTS_2.ass"
+  },
+  "RTS_3": {
+    "srt": "RTS_3.srt",
+    "ass": "RTS_3.ass"
   },
   "SK_1": {
     "srt": "SK_1.srt",
