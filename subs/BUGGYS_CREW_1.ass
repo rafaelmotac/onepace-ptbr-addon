@@ -1,0 +1,762 @@
+[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1440
+LayoutResX: 1440
+LayoutResY: 1080
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Flashbacks-207-,Impress BT Pace,82,&H00FFFFFF,&H00FFFFFF,&H00525252,&H78000000,0,-1,0,0,100,100,0,0,1,3.8,3.8,2,180,180,27,1
+Style: Captions-207-,Chinacat,99,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,-1,0,0,0,100,100,5,0,1,3.4,0,2,16,16,27,1
+Style: Thoughts-207-,Impress BT Pace,82,&H00FFFFFF,&H00FFFFFF,&H00525252,&H78000000,0,0,0,0,100,100,0,0,1,4.4,3.8,2,180,180,27,1
+Style: Secondary-207-,Impress BT Pace,82,&H00D6D6D6,&H00FFFFFF,&H00000000,&H78000000,0,0,0,0,100,100,0,0,1,3.8,3.8,2,180,180,27,1
+Style: Title-207-,M+ 1c,95,&H00FEFEFE,&H00002EFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.s5,0,2,15,15,383,1
+Style: Credits-207-,FOT-Greco Std B Strp,50,&H00FFFFFF,&H00002EFF,&H00000000,&H00000000,-1,0,0,0,95,100,1.6,0,1,3,0,7,16,16,16,1
+Style: Narrator-207-,Impress BT Pace,82,&H00FFFFFF,&H000000FF,&H00000000,&H78000000,0,-1,0,0,100,100,0,0,1,3.8,3.8,8,180,180,27,1
+Style: Main-207-,Impress BT Pace,82,&H00FFFFFF,&H00002EFF,&H00000000,&H78000000,0,0,0,0,100,100,0,0,1,3.8,3.8,2,180,180,27,1
+Style: Warning,Impress BT Pace,90,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Kanji-furigana,Duality,41,&H00DC8F37,&H000019FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,4.5,0,8,23,23,180,1
+Style: Lyrics,Duality,72,&H00DC8F37,&H000019FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,3,0,1,5.9,0,2,23,23,34,1
+Style: Karaoke,Duality,72,&H00DC8F37,&H000019FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,3,0,1,5.9,0,8,23,23,23,1
+Style: Kanji,Duality,72,&H00DC8F37,&H000019FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,3,0,1,5.9,0,8,23,23,146,1
+Style: Roger-Monologue,Impress BT Pace,82,&H00FFFFFF,&H00002EFF,&H00000000,&H78000000,0,0,0,0,100,100,0,0,1,3.8,3.8,2,180,180,27,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:09.99,Warning,,0,0,0,,{\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
+Dialogue: 0,0:02:32.51,0:02:42.50,Warning,,0,0,0,,{\fscx0\fscy0\clip(0,0,0,0)}Your media player does not support the subtitle format used in this episode.\NSubtitles will likely not function properly.\NPlease use one of the recommended video players, preferably mpv:\Nhttps://mpv.io
+Dialogue: 50,0:01:50.63,0:01:53.38,Flashbacks-207-,,0,0,0,,{\fad(150,150)}Gomu-Gomu no... Bazooka!
+Dialogue: 50,0:01:55.72,0:01:58.14,Flashbacks-207-,,0,0,0,,Retirem-se por enquanto, homens!
+Dialogue: 50,0:01:58.14,0:02:01.14,Flashbacks-207-,,0,0,0,,Todos! Encontrem qualquer saída que puderem!
+Dialogue: 50,0:02:01.73,0:02:04.27,Main-207-,,0,0,0,,– Espere por nós! – Espere por nós!
+Dialogue: 50,0:02:07.73,0:02:09.32,Main-207-,,0,0,0,,Será que todos conseguimos?!
+Dialogue: 50,0:02:09.32,0:02:12.61,Main-207-,,0,0,0,,As pessoas com quem você estava quando saiu do navio estão aqui?! 
+Dialogue: 50,0:02:12.61,0:02:14.32,Main-207-,,0,0,0,,Sim!
+Dialogue: 50,0:02:14.32,0:02:15.49,Main-207-,,0,0,0,,Sim.
+Dialogue: 50,0:02:15.49,0:02:16.62,Main-207-,,0,0,0,,Sim.
+Dialogue: 50,0:02:16.62,0:02:17.58,Main-207-,,0,0,0,,Sim!
+Dialogue: 50,0:02:18.12,0:02:19.70,Main-207-,,0,0,0,,Capitão Buggy não...
+Dialogue: 50,0:02:19.70,0:02:21.91,Main-207-,,0,0,0,,Capitão Buggy não está aqui!
+Dialogue: 50,0:02:26.00,0:02:28.50,Main-207-,,0,0,0,,Tudo bem!
+Dialogue: 50,0:02:28.96,0:02:31.26,Main-207-,,0,0,0,,Finalmente terminei minha vistosa jangada!
+Dialogue: 50,0:02:34.63,0:02:36.14,Main-207-,,0,0,0,,Vai!
+Dialogue: 50,0:02:36.14,0:02:38.76,Main-207-,,0,0,0,,Parta!
+Dialogue: 50,0:02:44.48,0:02:46.19,Main-207-,,0,0,0,,O que há com essa porcaria tão cedo?!
+Dialogue: 50,0:02:46.65,0:02:49.86,Main-207-,,0,0,0,,Eu me recuso a perder! Maldito!
+Dialogue: 50,0:03:01.24,0:03:02.20,Main-207-,,0,0,0,,Eu vou te comer!
+Dialogue: 50,0:03:10.59,0:03:12.26,Main-207-,,0,0,0,,{\fad(150,150)}Canhão Bara-Bara!
+Dialogue: 50,0:03:19.93,0:03:21.64,Main-207-,,0,0,0,,Pare de lutar!
+Dialogue: 50,0:03:22.14,0:03:23.43,Main-207-,,0,0,0,,Apenas aceite seu destino!
+Dialogue: 50,0:03:33.36,0:03:36.32,Main-207-,,0,0,0,,Desculpe! Desculpe!
+Dialogue: 50,0:03:37.41,0:03:40.12,Main-207-,,0,0,0,,Perdoe-me!
+Dialogue: 50,0:03:52.42,0:03:53.63,Thoughts-207-,,0,0,0,,Vamos! Vamos!
+Dialogue: 50,0:03:54.13,0:03:56.76,Thoughts-207-,,0,0,0,,Meu plano é infalível!
+Dialogue: 50,0:04:02.47,0:04:04.02,Main-207-,,0,0,0,,Idiota! Idiota! Idiota!
+Dialogue: 50,0:04:11.48,0:04:12.65,Main-207-,,0,0,0,,Eu peguei ele!
+Dialogue: 50,0:04:13.11,0:04:15.03,Main-207-,,0,0,0,,Fui{\i0} pego?! Ahn! O que?!
+Dialogue: 50,0:04:16.36,0:04:18.61,Main-207-,,0,0,0,,Como as coisas acabaram assim?!
+Dialogue: 50,0:04:18.61,0:04:20.78,Main-207-,,0,0,0,,Pare! Pare! Ai, ai, ai!
+Dialogue: 50,0:04:20.78,0:04:24.20,Main-207-,,0,0,0,,O fim já chegou?!
+Dialogue: 50,0:04:24.20,0:04:24.95,Main-207-,,0,0,0,,Pare.
+Dialogue: 50,0:04:39.43,0:04:41.26,Main-207-,,0,0,0,,Onde estou agora?
+Dialogue: 50,0:04:43.97,0:04:46.14,Main-207-,,0,0,0,,{\i1}Saia deste lugar!{Gaimon 06:32}
+Dialogue: 50,0:04:47.06,0:04:47.89,Main-207-,,0,0,0,,Quem está aí?!
+Dialogue: 50,0:04:48.56,0:04:51.98,Main-207-,,0,0,0,,{\i1}Saia desta ilha imediatamente se você valoriza sua vida!{Gaimon 06:39 }
+Dialogue: 50,0:04:55.82,0:04:57.49,Main-207-,,0,0,0,,O que são essas coisas?
+Dialogue: 50,0:04:57.49,0:04:59.57,Main-207-,,0,0,0,,{\i1}Os ​​animais desta floresta.
+Dialogue: 50,0:04:59.57,0:05:02.95,Main-207-,,0,0,0,,{\i1}Não mexa com eles a menos que queira morrer!
+Dialogue: 50,0:05:02.95,0:05:03.95,Main-207-,,0,0,0,,Ah?
+Dialogue: 50,0:05:03.95,0:05:07.37,Main-207-,,0,0,0,,Esses animais são bem chamativos e interessantes...
+Dialogue: 50,0:05:07.91,0:05:10.50,Main-207-,,0,0,0,,Eu disse para você não ir mais longe!
+Dialogue: 50,0:05:12.63,0:05:13.63,Main-207-,,0,0,0,,Droga!
+Dialogue: 50,0:05:13.63,0:05:15.71,Main-207-,,0,0,0,,Ele atirou em mim! 
+Dialogue: 50,0:05:15.71,0:05:17.42,Main-207-,,0,0,0,,Droga! Errei!
+Dialogue: 50,0:05:18.01,0:05:19.17,Main-207-,,0,0,0,,Aí está você!
+Dialogue: 50,0:05:21.18,0:05:22.22,Main-207-,,0,0,0,,O que é isso?!
+Dialogue: 50,0:05:23.47,0:05:25.01,Main-207-,,0,0,0,,Te peguei!
+Dialogue: 50,0:05:25.56,0:05:27.97,Main-207-,,0,0,0,,Saia!
+Dialogue: 50,0:05:26.10,0:05:27.97,Secondary-207-,,0,0,0,,Ai! Ai! Ai!
+Dialogue: 50,0:05:27.97,0:05:30.81,Main-207-,,0,0,0,,Droga! Você tem uma habilidade de fruta do diabo!
+Dialogue: 50,0:05:31.19,0:05:32.85,Main-207-,,0,0,0,,E daí se eu tiver?!
+Dialogue: 50,0:05:32.85,0:05:33.94,Main-207-,,0,0,0,,Você não é nada...
+Dialogue: 50,0:05:34.65,0:05:36.02,Main-207-,,0,0,0,,Você é...
+Dialogue: 50,0:05:36.73,0:05:38.11,Main-207-,,0,0,0,,O que {\i1}é{\i0} você?
+Dialogue: 50,0:05:43.28,0:05:45.45,Main-207-,,0,0,0,,Sua família valorizava muito você? 
+Dialogue: 50,0:05:45.45,0:05:49.12,Main-207-,,0,0,0,,Sim. Desde que eu era criança, eles expressavam seu amor por mim...
+Dialogue: 50,0:05:49.12,0:05:50.29,Main-207-,,0,0,0,,Até parece!
+Dialogue: 50,0:05:50.29,0:05:52.12,Main-207-,,0,0,0,,Essa piada envelheceu rápido! 
+Dialogue: 50,0:05:52.50,0:05:54.96,Main-207-,,0,0,0,,Maldito seja! Não seja arrogante!
+Dialogue: 50,0:05:54.96,0:05:59.67,Main-207-,,0,0,0,,Eu não tenho piedade de quem mexe com esses animais!{Coelho}
+Dialogue: 50,0:06:00.46,0:06:02.97,Main-207-,,0,0,0,,Ah? Você quer lutar comigo?
+Dialogue: 50,0:06:02.97,0:06:06.80,Main-207-,,0,0,0,,Eu elogio sua bravura, mas não chore quando morrer! 
+Dialogue: 50,0:06:16.40,0:06:18.19,Main-207-,,0,0,0,,Te peguei!
+Dialogue: 50,0:06:18.19,0:06:19.73,Main-207-,,0,0,0,,Droga!
+Dialogue: 50,0:06:22.65,0:06:24.99,Main-207-,,0,0,0,,Armas de longo alcance são trapaça!{Ravenfire/PJ}
+Dialogue: 50,0:06:24.99,0:06:27.66,Main-207-,,0,0,0,,E essa coisa aqui?! 
+Dialogue: 50,0:06:27.66,0:06:29.49,Main-207-,,0,0,0,,Pare de ser egoísta!{Coelho}
+Dialogue: 50,0:06:29.49,0:06:30.62,Main-207-,,0,0,0,,Faça suas orações!
+Dialogue: 50,0:06:46.68,0:06:49.43,Main-207-,,0,0,0,,{\fad(150,150)}Bara-Bara Fuga Rápida!
+Dialogue: 50,0:06:49.89,0:06:51.35,Main-207-,,0,0,0,,Ai!
+Dialogue: 50,0:06:51.35,0:06:57.19,Main-207-,,0,0,0,,Como você se atreve?! Exploda! Ai! 
+Dialogue: 50,0:06:54.31,0:06:57.19,Secondary-207-,,0,0,0,,Como ouso o quê?! Ahn?!
+Dialogue: 50,0:07:06.91,0:07:10.83,Main-207-,,0,0,0,,Quem mexe com os animais tem que pagar!
+Dialogue: 50,0:07:10.83,0:07:15.41,Main-207-,,0,0,0,,Você veio a esta ilha para ir atrás dessas criaturas! 
+Dialogue: 50,0:07:15.41,0:07:17.17,Main-207-,,0,0,0,,Por que eu faria isso?!
+Dialogue: 50,0:07:17.17,0:07:19.38,Main-207-,,0,0,0,,Eu nem {\i1}queria{\i0} vir aqui!
+Dialogue: 50,0:07:20.75,0:07:23.30,Main-207-,,0,0,0,,Quer dizer que você não é um caçador furtivo?
+Dialogue: 50,0:07:36.77,0:07:38.56,Main-207-,,0,0,0,,O que você acha? Bom, né?!
+Dialogue: 50,0:07:38.56,0:07:40.86,Main-207-,,0,0,0,,É uma bebida que eu mesmo fiz!
+Dialogue: 50,0:07:40.86,0:07:42.98,Main-207-,,0,0,0,,Sim, isso é o melhor!
+Dialogue: 50,0:07:42.98,0:07:45.49,Main-207-,,0,0,0,,Não me lembro da última vez que tomei uma bebida…
+Dialogue: 50,0:07:45.49,0:07:49.74,Main-207-,,0,0,0,,Você pode ter quantas doses quiser! Beba!
+Dialogue: 50,0:07:49.74,0:07:52.83,Main-207-,,0,0,0,,E sinto muito pelo que aconteceu mais cedo! 
+Dialogue: 50,0:07:53.24,0:07:55.50,Main-207-,,0,0,0,,Isso foi uma coisa horrível que você fez,
+Dialogue: 50,0:07:55.50,0:07:57.67,Main-207-,,0,0,0,,mas são águas passadas!
+Dialogue: 50,0:07:57.67,0:07:59.04,Main-207-,,0,0,0,,– Saúde! – Saúde!
+Dialogue: 50,0:08:09.51,0:08:13.60,Main-207-,,0,0,0,,Desculpe por pedir para você ajudar a fazer uma jangada também.
+Dialogue: 50,0:08:13.60,0:08:16.73,Main-207-,,0,0,0,,De jeito nenhum. Foi um prazer.
+Dialogue: 50,0:08:17.73,0:08:20.06,Main-207-,,0,0,0,,Ok! Cuide-se! 
+Dialogue: 50,0:08:20.06,0:08:21.40,Main-207-,,0,0,0,,Você também!
+Dialogue: 50,0:08:34.58,0:08:36.29,Main-207-,,0,0,0,,Adeus, amigo!
+Dialogue: 50,0:08:37.00,0:08:38.12,Main-207-,,0,0,0,,Tome cuidado!
+Dialogue: 50,0:08:41.08,0:08:42.84,Main-207-,,0,0,0,,Sim...
+Dialogue: 50,0:08:42.84,0:08:44.80,Main-207-,,0,0,0,,Você também!
+Dialogue: 50,0:08:47.72,0:08:49.88,Main-207-,,0,0,0,,Zarpar!
+Dialogue: 50,0:08:53.26,0:08:55.72,Main-207-,,0,0,0,,Tudo bem!
+Dialogue: 50,0:08:56.97,0:08:58.23,Thoughts-207-,,0,0,0,,Buggy...
+Dialogue: 50,0:08:59.48,0:09:03.15,Thoughts-207-,,0,0,0,,Há muitas coisas estranhas nestas águas. 
+Dialogue: 50,0:09:03.65,0:09:07.11,Thoughts-207-,,0,0,0,,Fique ainda mais seguro em sua jornada! 
+Dialogue: 50,0:09:11.07,0:09:13.91,Main-207-,,0,0,0,,Espere, esqueci de contar a ele sobre isso!
+Dialogue: 50,0:09:23.25,0:09:25.88,Main-207-,,0,0,0,,Siga em frente, Buggy!{Z}
+Dialogue: 50,0:09:27.80,0:09:29.59,Main-207-,,0,0,0,,Cuidado!
+Dialogue: 50,0:09:29.59,0:09:32.59,Main-207-,,0,0,0,,Vai! Saia daí!{Z}
+Dialogue: 50,0:09:36.51,0:09:38.06,Main-207-,,0,0,0,,O que é isso?
+Dialogue: 50,0:10:01.46,0:10:02.87,Thoughts-207-,,0,0,0,,Linda...
+Dialogue: 50,0:10:04.00,0:10:05.67,Main-207-,,0,0,0,,Quem é essa?
+Dialogue: 50,0:10:06.04,0:10:08.71,Main-207-,,0,0,0,,Que gata!
+Dialogue: 50,0:10:08.71,0:10:12.76,Main-207-,,0,0,0,,Bem, pelo menos ele parece estar salvo! 
+Dialogue: 50,0:10:13.38,0:10:15.93,Main-207-,,0,0,0,,Ele me fez suar muito aqui!
+Dialogue: 50,0:10:19.52,0:10:26.48,Main-207-,,0,0,0,,Mas de qualquer forma, cuide-se! 
+Dialogue: 50,0:10:26.77,0:10:29.65,Main-207-,,0,0,0,,Obrigado pela ajuda!
+Dialogue: 50,0:10:29.65,0:10:32.19,Main-207-,,0,0,0,,Eu pensei que era um caso perdido lá!
+Dialogue: 50,0:10:32.19,0:10:34.07,Main-207-,,0,0,0,,Não há necessidade de agradecimento.{Coelho}
+Dialogue: 50,0:10:35.11,0:10:36.95,Main-207-,,0,0,0,,Você é Buggy, o Palhaço, certo?
+Dialogue: 50,0:10:37.49,0:10:39.12,Main-207-,,0,0,0,,C-Como você sabe disso?!
+Dialogue: 50,0:10:39.83,0:10:41.29,Main-207-,,0,0,0,,Quem é você?
+Dialogue: 50,0:10:41.29,0:10:44.04,Main-207-,,0,0,0,,Estou procurando um certo homem.
+Dialogue: 50,0:10:45.12,0:10:46.75,Main-207-,,0,0,0,,Acredito que você o conheça?
+Dialogue: 50,0:10:47.71,0:10:49.04,Main-207-,,0,0,0,,Aquele maldito pirralho de borracha!
+Dialogue: 50,0:10:49.04,0:10:50.38,Main-207-,,0,0,0,,Maldito seja! 
+Dialogue: 50,0:10:50.38,0:10:52.88,Main-207-,,0,0,0,,Algum dia, acertarei as contas com você! 
+Dialogue: 50,0:10:52.88,0:10:54.68,Main-207-,,0,0,0,,Apenas espere!
+Dialogue: 50,0:10:56.01,0:10:58.01,Main-207-,,0,0,0,,Esse é o cara que você procura?
+Dialogue: 50,0:11:00.51,0:11:02.64,Main-207-,,0,0,0,,Entendo.
+Dialogue: 50,0:11:02.64,0:11:05.44,Main-207-,,0,0,0,,Então é por isso que você me ajudou.
+Dialogue: 50,0:11:05.44,0:11:06.77,Main-207-,,0,0,0,,Bem, o que você me diz? 
+Dialogue: 50,0:11:07.44,0:11:08.86,Main-207-,,0,0,0,,Você se juntaria a mim?
+Dialogue: 50,0:11:12.69,0:11:13.82,Main-207-,,0,0,0,,Claro, por que não?
+Dialogue: 50,0:11:13.82,0:11:15.82,Main-207-,,0,0,0,,Nós dois temos o mesmo objetivo.
+Dialogue: 50,0:11:15.82,0:11:17.74,Main-207-,,0,0,0,,Vamos trabalhar juntos.
+Dialogue: 50,0:11:17.74,0:11:20.58,Main-207-,,0,0,0,,Isso é ótimo. Então, saúde!
+Dialogue: 50,0:11:21.49,0:11:22.62,Main-207-,,0,0,0,,Saúde!
+Dialogue: 50,0:11:32.76,0:11:34.59,Main-207-,,0,0,0,,Capitão Buggy!
+Dialogue: 50,0:11:37.59,0:11:40.12,Main-207-,,0,0,0,,Quando ele estava vivo,\Nmuitas vezes eu sentia
+Dialogue: 50,0:11:40.15,0:11:42.68,Main-207-,,0,0,0,,que ele era um capitão\Ncruel e assustador,
+Dialogue: 50,0:11:42.68,0:11:48.02,Main-207-,,0,0,0,,mas agora percebo que ele era um pirata ousado e de coração aberto!
+Dialogue: 50,0:11:48.02,0:11:51.52,Main-207-,,0,0,0,,Olhando para trás, podíamos saquear o quanto quiséssemos
+Dialogue: 50,0:11:51.52,0:11:54.65,Main-207-,,0,0,0,,só porque tínhamos o apoio do Capitão Buggy! 
+Dialogue: 50,0:11:55.19,0:12:01.12,Main-207-,,0,0,0,,Hoje, vamos realizar o maior e mais vistoso funeral do Capitão Buggy! 
+Dialogue: 50,0:12:03.33,0:12:06.16,Main-207-,,0,0,0,,Capitão, descanse em paz!
+Dialogue: 50,0:12:06.62,0:12:09.67,Main-207-,,0,0,0,,Por favor, deixe tudo comigo, Cabaji, o Acrobata, 
+Dialogue: 50,0:12:09.67,0:12:12.96,Main-207-,,0,0,0,,primeiro imediato dos Piratas Buggy! 
+Dialogue: 50,0:12:13.80,0:12:17.42,Main-207-,,0,0,0,,{\q2}Prometo reconstruir os Piratas Buggy!
+Dialogue: 50,0:12:17.42,0:12:19.05,Main-207-,,0,0,0,,Espere!
+Dialogue: 50,0:12:19.68,0:12:21.97,Main-207-,,0,0,0,,Cabaji!
+Dialogue: 50,0:12:20.43,0:12:21.97,Secondary-207-,,0,0,0,,O quê?!
+Dialogue: 50,0:12:22.30,0:12:27.81,Main-207-,,0,0,0,,É natural que o sucessor do Capitão Buggy seja eu,
+Dialogue: 50,0:12:27.81,0:12:32.36,Main-207-,,0,0,0,,o primeiro imediato e incrível Domador de Bestas Mohji! 
+Dialogue: 50,0:12:32.86,0:12:35.32,Main-207-,,0,0,0,,{\i1}Eu sou{\i0} o capitão!
+Dialogue: 50,0:12:36.32,0:12:37.44,Main-207-,,0,0,0,,Ei, pessoal!
+Dialogue: 50,0:12:37.44,0:12:40.28,Main-207-,,0,0,0,,Vamos testar nossa força para ver quem será o capitão! 
+Dialogue: 50,0:12:41.57,0:12:43.37,Main-207-,,0,0,0,,Tudo bem por mim!
+Dialogue: 50,0:12:49.83,0:12:52.88,Main-207-,,0,0,0,,{\an8\fad(440,0)}– Mohji! Mohji! Mohji! – Mohji! Mohji! Mohji!
+Dialogue: 50,0:12:53.71,0:12:56.63,Main-207-,,0,0,0,,{\an8}– Cabaji! Cabaji! Cabaji! – Cabaji! Cabaji! Cabaji!
+Dialogue: 50,0:12:56.63,0:12:58.59,Main-207-,,0,0,0,,– Mohji! Mohji! – Mohji! Mohji!
+Dialogue: 50,0:12:58.59,0:13:00.47,Main-207-,,0,0,0,,– Cabaji! Cabaji! – Cabaji! Cabaji!
+Dialogue: 50,0:13:00.47,0:13:02.59,Main-207-,,0,0,0,,– Mohji! Mohji! – Mohji! Mohji!
+Dialogue: 50,0:13:02.59,0:13:04.47,Main-207-,,0,0,0,,– Cabaji! Cabaji! – Cabaji! Cabaji!
+Dialogue: 50,0:13:04.47,0:13:06.93,Main-207-,,0,0,0,,– Mohji! Mohji! – Mohji! Mohji!
+Dialogue: 50,0:13:23.87,0:13:27.87,Main-207-,,0,0,0,,Parece que terei que lutar com você até seu corpo desmoronar!
+Dialogue: 50,0:13:27.87,0:13:30.50,Main-207-,,0,0,0,,Sim, vamos brigar mano a mano.{Z}
+Dialogue: 50,0:13:30.50,0:13:32.83,Main-207-,,0,0,0,,Vou derrubar você com minhas próprias mãos!{Lor}
+Dialogue: 50,0:13:45.39,0:13:50.85,Main-207-,,0,0,0,,Maldito seja... D-Desista já.
+Dialogue: 50,0:13:50.85,0:13:54.15,Main-207-,,0,0,0,,N-Não, você que deve desistir.
+Dialogue: 50,0:14:17.34,0:14:20.67,Main-207-,,0,0,0,,– Sim! Nosso capitão Richie! - Sim! Nosso capitão Richie!
+Dialogue: 50,0:14:50.45,0:14:52.83,Main-207-,,0,0,0,,– Capitão Richie! Capitão Richie! – Capitão Richie! Capitão Richie!
+Dialogue: 50,0:14:52.83,0:14:54.96,Main-207-,,0,0,0,,– Nosso grande capitão! – Nosso grande capitão!
+Dialogue: 50,0:14:54.96,0:14:57.42,Secondary-207-,,0,0,0,,{\an8}– Capitão Richie! Capitão Richie! – Capitão Richie! Capitão Richie!
+Dialogue: 50,0:14:57.42,0:14:59.67,Secondary-207-,,0,0,0,,{\an8}– Nosso grande capitão! – Nosso grande capitão!
+Dialogue: 50,0:14:59.67,0:15:00.42,Secondary-207-,,0,0,0,,{\an8}– Capitão Richie! Capitão Richie! – Capitão Richie! Capitão Richie!
+Dialogue: 50,0:15:00.42,0:15:01.63,Main-207-,,0,0,0,,– Capitão Richie! Capitão Richie! – Capitão Richie! Capitão Richie!
+Dialogue: 50,0:15:01.63,0:15:03.80,Main-207-,,0,0,0,,– Nosso grande capitão! – Nosso grande capitão!
+Dialogue: 50,0:14:54.96,0:14:56.58,Main-207-,,0,0,0,,Com o Capitão Buggy desaparecido,
+Dialogue: 50,0:14:56.58,0:15:00.42,Main-207-,,0,0,0,,o mais digno de ser capitão é o capitão Richie!
+Dialogue: 50,0:15:03.80,0:15:05.88,Main-207-,,0,0,0,,– Capitão Richie! Capitão Richie! – Capitão Richie! Capitão Richie!
+Dialogue: 50,0:15:05.88,0:15:08.60,Main-207-,,0,0,0,,– Nosso grande capitão! – Nosso grande capitão!
+Dialogue: 50,0:15:08.60,0:15:10.56,Main-207-,,0,0,0,,{\an8}– Capitão Richie! Capitão Richie! – Capitão Richie! Capitão Richie!
+Dialogue: 50,0:15:10.56,0:15:12.85,Main-207-,,0,0,0,,{\an8}– Nosso grande Capitão! – Nosso grande Capitão!
+Dialogue: 50,0:15:12.85,0:15:14.56,Main-207-,,0,0,0,,{\an8}– Capitão Richie! Capitão Richie! – Capitão Richie! Capitão Richie!
+Dialogue: 50,0:15:15.10,0:15:17.23,Main-207-,,0,0,0,,– Nosso grande capitão! – Nosso grande capitão
+Dialogue: 50,0:15:17.23,0:15:19.44,Main-207-,,0,0,0,,– Capitão Richie! Capitão Richie! – Capitão Richie! Capitão Richie!
+Dialogue: 50,0:15:19.44,0:15:21.69,Main-207-,,0,0,0,,– Nosso grande capitão! – Nosso grande capitão
+Dialogue: 50,0:15:21.69,0:15:23.86,Main-207-,,0,0,0,,– Capitão Richie! Capitão Richie! – Capitão Richie! Capitão Richie!
+Dialogue: 50,0:15:23.86,0:15:26.28,Main-207-,,0,0,0,,– Nosso grande capitão! – Nosso grande capitão
+Dialogue: 50,0:15:41.09,0:15:45.80,Main-207-,,0,0,0,,Você percebe que esta ilha pertence a nós, a Tribo Pata de Urso, certo?!
+Dialogue: 50,0:15:47.43,0:15:48.43,Main-207-,,0,0,0,,Capitão!
+Dialogue: 50,0:15:53.89,0:15:56.06,Main-207-,,0,0,0,,Que divertido. Você quer brigar?! 
+Dialogue: 50,0:16:14.79,0:16:16.66,Main-207-,,0,0,0,,N-Nós nos rendemos.
+Dialogue: 50,0:16:22.84,0:16:24.84,Main-207-,,0,0,0,,Você encontrou algo bom?
+Dialogue: 50,0:16:24.84,0:16:26.80,Main-207-,,0,0,0,,Sim! Isso é...{Westfal}
+Dialogue: 50,0:16:27.47,0:16:31.93,Main-207-,,0,0,0,,o navio pirata super chamativo dos Piratas Buggy!
+Dialogue: 50,0:16:32.80,0:16:36.35,Main-207-,,0,0,0,,Mas quem fez isso? Isso trás má sorte!
+Dialogue: 50,0:16:36.93,0:16:40.48,Main-207-,,0,0,0,,Sem mencionar que este é um antigo pôster de procurado.
+Dialogue: 50,0:16:40.94,0:16:43.86,Main-207-,,0,0,0,,Ah? Tem alguém no chão ali.
+Dialogue: 50,0:16:44.90,0:16:46.15,Main-207-,,0,0,0,,O quê...?!
+Dialogue: 50,0:16:46.61,0:16:49.03,Main-207-,,0,0,0,,Mohji! Cabaji!
+Dialogue: 50,0:16:49.03,0:16:50.61,Main-207-,,0,0,0,,O que aconteceu com vocês?!
+Dialogue: 50,0:16:51.11,0:16:54.58,Main-207-,,0,0,0,,C-Capitão Buggy...
+Dialogue: 50,0:16:55.08,0:16:58.54,Main-207-,,0,0,0,,É-É tão bom ver você.
+Dialogue: 50,0:16:59.79,0:17:02.50,Main-207-,,0,0,0,,Estou tão feliz que você esteja vivo! 
+Dialogue: 50,0:17:02.50,0:17:04.92,Main-207-,,0,0,0,,Achei que nunca mais veríamos você!
+Dialogue: 50,0:17:04.92,0:17:07.55,Main-207-,,0,0,0,,E-eu também estou tão feliz!
+Dialogue: 50,0:17:09.01,0:17:13.10,Main-207-,,0,0,0,,Mas o que diabos aconteceu aqui? 
+Dialogue: 50,0:17:14.22,0:17:16.01,Main-207-,,0,0,0,,Quem fez isso com você?!
+Dialogue: 50,0:17:16.01,0:17:17.27,Main-207-,,0,0,0,,Hein?
+Dialogue: 50,0:17:17.27,0:17:20.77,Main-207-,,0,0,0,,Fomos socados do nada. 
+Dialogue: 50,0:17:21.14,0:17:25.07,Main-207-,,0,0,0,,É constrangedor, mas não conseguimos lembrar de nada. 
+Dialogue: 50,0:17:25.82,0:17:29.74,Main-207-,,0,0,0,,A tribo Pata de Urso fez isso.
+Dialogue: 50,0:17:30.28,0:17:32.91,Main-207-,,0,0,0,,Se você vai salvá-los, é melhor se apressar.
+Dialogue: 50,0:17:34.87,0:17:38.25,Main-207-,,0,0,0,,Os membros da tribo Pata de Urso são famosos por seu paladar exigente.
+Dialogue: 50,0:17:51.68,0:17:55.05,Main-207-,,0,0,0,,O capitão disse que os leões têm gosto ruim!
+Dialogue: 50,0:17:55.05,0:17:56.97,Main-207-,,0,0,0,,Nós também temos um gosto ruim!
+Dialogue: 50,0:17:56.97,0:17:58.72,Main-207-,,0,0,0,,Não darei uma boa refeição de jeito nenhum! 
+Dialogue: 50,0:17:58.72,0:18:01.44,Main-207-,,0,0,0,,Esse cara parece melhor para comer do que eu! 
+Dialogue: 50,0:18:00.23,0:18:01.44,Secondary-207-,,0,0,0,,Mentira! Mentira!
+Dialogue: 50,0:18:01.44,0:18:03.27,Main-207-,,0,0,0,,Ele tem um gosto muito melhor!
+Dialogue: 50,0:18:03.27,0:18:06.57,Main-207-,,0,0,0,,Eu sou só ossos! Quase não tem carne em mim!
+Dialogue: 50,0:18:08.78,0:18:10.28,Main-207-,,0,0,0,,Não se preocupe!
+Dialogue: 50,0:18:10.28,0:18:13.28,Main-207-,,0,0,0,,Nós somos a tribo Pata de Urso! Isso nos torna bons chefs!
+Dialogue: 50,0:18:13.28,0:18:15.74,Main-207-,,0,0,0,,Um pouco de vinho e temperos vão tirar seu cheiro!
+Dialogue: 50,0:18:20.58,0:18:22.62,Main-207-,,0,0,0,,O que fazemos com essa comida?
+Dialogue: 50,0:18:22.62,0:18:24.00,Main-207-,,0,0,0,,O que são?
+Dialogue: 50,0:18:24.00,0:18:26.21,Main-207-,,0,0,0,,Nunca vi ingredientes tão estranhos. 
+Dialogue: 50,0:18:26.67,0:18:28.17,Main-207-,,0,0,0,,Vamos ferver isso com eles? 
+Dialogue: 50,0:18:28.80,0:18:31.01,Main-207-,,0,0,0,,Só espero que isso não perturbe meu estômago.{Ravenfire/Z}
+Dialogue: 50,0:18:31.01,0:18:32.47,Main-207-,,0,0,0,,{\fad(150,150)}Bara-Bara-Bara...
+Dialogue: 50,0:18:37.05,0:18:39.01,Main-207-,,0,0,0,,{\fad(150,150)}Bara-Bara-Bara-Bara...
+Dialogue: 50,0:19:06.42,0:19:08.09,Main-207-,,0,0,0,,Isso é...?!
+Dialogue: 50,0:19:10.67,0:19:12.96,Main-207-,,0,0,0,,{\fad(150,150)}...Remontar rapidamente!
+Dialogue: 50,0:19:41.33,0:19:44.50,Main-207-,,0,0,8,,Estou de volta!
+Dialogue: 50,0:19:45.37,0:19:49.38,Main-207-,,0,0,0,,– Capitão Buggy! – Capitão Buggy!
+Dialogue: 50,0:19:51.42,0:19:54.09,Main-207-,,0,0,0,,Desculpe por ter demorado tanto, homens!
+Dialogue: 50,0:19:55.42,0:19:59.43,Main-207-,,0,0,0,,Hora de animar as coisas com uma Buggy Ball super chamativa!
+Dialogue: 50,0:20:08.73,0:20:10.52,Main-207-,,0,0,0,,Richie!
+Dialogue: 50,0:20:18.95,0:20:22.87,Main-207-,,0,0,0,,{\fad(150,150)}Acrobacias: Mistério de assassinato em fontes termais fumegantes!
+Dialogue: 50,0:20:22.87,0:20:26.12,Main-207-,,0,0,0,,Que comece o show de domesticação de feras!
+Dialogue: 50,0:20:33.25,0:20:37.59,Main-207-,,0,0,0,,Você realmente acha que pode acertar o grande Buggy, o Palhaço?! 
+Dialogue: 50,0:20:39.97,0:20:42.02,Main-207-,,0,0,0,,Tenho que agradecer\Na todos vocês,
+Dialogue: 50,0:20:42.04,0:20:44.39,Main-207-,,0,0,0,,Por tudo que fizeram aos meus\Nhomens!{Westfal}
+Dialogue: 50,0:20:45.02,0:20:47.43,Main-207-,,0,0,0,,Lá vou eu chamativamente!
+Dialogue: 50,0:20:48.81,0:20:50.90,Main-207-,,0,0,0,,{\fad(150,150)}Chute Bara-Bara!
+Dialogue: 50,0:20:56.53,0:20:58.86,Main-207-,,0,0,0,,{\fad(150,150)}Soco Bara-Bara!
+Dialogue: 50,0:21:00.70,0:21:02.62,Main-207-,,0,0,0,,Esse é o nosso capitão!
+Dialogue: 50,0:21:06.79,0:21:11.29,Main-207-,,0,0,0,,– Capitão Buggy! – Capitão Buggy!
+Dialogue: 50,0:21:13.75,0:21:15.67,Main-207-,,0,0,0,,Estou tão feliz que você esteja bem! 
+Dialogue: 50,0:21:16.55,0:21:20.63,Main-207-,,0,0,0,,Eu causei tanta dor a vocês, meus queridos subordinados! 
+Dialogue: 50,0:21:21.01,0:21:24.97,Main-207-,,0,0,0,,Nossa dor não é nada!
+Dialogue: 50,0:21:30.02,0:21:34.44,Main-207-,,0,0,0,,Todas as dificuldades que você teve foram por causa de... 
+Dialogue: 50,0:21:34.44,0:21:36.69,Main-207-,,0,0,0,,aquele maldito Chapéu de Palha!
+Dialogue: 50,0:21:38.03,0:21:41.66,Main-207-,,0,0,0,,A propósito, quem é essa adorável jovem? 
+Dialogue: 50,0:21:42.36,0:21:46.33,Main-207-,,0,0,0,,Essa linda mulher salvou minha vida! O nome dela é...
+Dialogue: 50,0:21:47.04,0:21:48.37,Main-207-,,0,0,0,,Uh...
+Dialogue: 50,0:21:48.37,0:21:50.33,Main-207-,,0,0,0,,Hum, me desculpe.
+Dialogue: 50,0:21:50.33,0:21:52.54,Main-207-,,0,0,0,,Qual era mesmo o seu nome?
+Dialogue: 50,0:21:55.29,0:21:56.67,Main-207-,,0,0,0,,Todos!
+Dialogue: 50,0:21:56.67,0:21:59.80,Main-207-,,0,0,0,,Os Piratas as Buggy estão de volta à ação!
+Dialogue: 50,0:22:01.88,0:22:05.51,Main-207-,,0,0,0,,Capitão! O que devemos fazer primeiro? 
+Dialogue: 50,0:22:05.51,0:22:09.93,Main-207-,,0,0,0,,Pegar a cabeça do Monkey D. Luffy!
+Dialogue: 0,0:02:24.67,0:02:28.50,Captions-207-,,0,0,0,,{\blur0.8\fad(475,0)\fnDFPGiHi-W7-Strp\pos(720,625)\fscx85\fscy90\bord4.5\c&H000000&\3c&H000000&\1a&HFF&\t(433,475,\1a&H00&)}Tempo presente\NEm uma ilha no East Blue
+Dialogue: 1,0:02:24.67,0:02:28.50,Captions-207-,,0,0,0,,{\blur0.8\fad(475,0)\fnDFPGiHi-W7-Strp\pos(720,625)\fscx85\fscy90\bord0.3\3c&HFBFAFA&\c&HFBFAFA&\4a&HFF&}Tempo presente\NEm uma ilha no East Blue
+Dialogue: 2,0:02:24.67,0:02:28.50,Captions-207-,,0,0,0,,{\blur0.8\fad(475,0)\fnDFPGiHi-W7-Strp\pos(720,625)\fscx85\fscy90\bord0\c&HFBFAFA&\4a&HFF&}Tempo presente\NEm uma ilha no East Blue
+Dialogue: 0,0:02:38.81,0:02:40.72,Captions-207-,,0,0,0,,{\blur0.8\fad(182,0)\fnDFPGiHi-W7-Strp\fscx85\fscy90\bord4.5\c&H000000&\3c&H000000&\1a&HFF&\t(140,182,\1a&H00&)\pos(720,188)}Capitão Buggy\N(Faltando algumas peças)
+Dialogue: 1,0:02:38.81,0:02:40.72,Captions-207-,,0,0,0,,{\blur0.8\fad(182,0)\fnDFPGiHi-W7-Strp\fscx85\fscy90\bord0\3c&HFFFFFF&\c&HFBFBFA&\4a&HFF&\pos(720,188)}Capitão Buggy\N(Faltando algumas peças)
+Dialogue: 1,0:02:38.81,0:02:40.72,Captions-207-,,0,0,0,,{\blur0.8\fad(182,0)\fnDFPGiHi-W7-Strp\fscx85\fscy90\bord0\3c&HFFFFFF&\c&HFBFBFA&\4a&HFF&\pos(720,188)}Capitão Buggy\N(Faltando algumas peças)
+Dialogue: 0,0:02:46.23,0:02:50.36,Title-207-,,0,0,0,,{\blur0.5\fad(478,0)\bord2\c&H000000&\1a&HFF&\t(437,478,\1a&H00&)\fscx90\fscy90\fsp-1}Aventuras da tripulação de Buggy
+Dialogue: 1,0:02:46.23,0:02:50.36,Title-207-,,0,0,0,,{\blur0.5\fad(478,0)\c&HE7E6E5&\bord0\4a&HFF&\fscx90\fscy90\fsp-1}Aventuras da tripulação de Buggy
+Dialogue: 0,0:03:33.40,0:03:36.32,Captions-207-,,0,0,0,,{\blur0.8\fad(731,0)\fnDFPGiHi-W7-Strp\pos(720,710)\fscx85\fscy90\bord4.5\c&H000000&\3c&H000000&\1a&HFF&\t(689,731,\1a&H00&)}Um grande pássaro
+Dialogue: 1,0:03:33.40,0:03:36.32,Captions-207-,,0,0,0,,{\blur0.8\fad(731,0)\fnDFPGiHi-W7-Strp\pos(720,710)\fscx85\fscy90\bord0\3c&HFFFFFF&\c&HFAFAFA&\4a&HFF&}Um grande pássaro
+Dialogue: 1,0:03:33.40,0:03:36.32,Captions-207-,,0,0,0,,{\blur0.8\fad(731,0)\fnDFPGiHi-W7-Strp\pos(720,710)\fscx85\fscy90\bord0\3c&HFFFFFF&\c&HFAFAFA&\4a&HFF&}Um grande pássaro
+Dialogue: 0,0:09:56.12,0:10:00.87,Captions-207-,,0,0,0,,{\blur0.8\fad(726,0)\fnDFPGiHi-W7-Strp\pos(720,710)\fscx85\fscy90\bord4.5\c&H000000&\3c&H000000&\1a&HFF&\t(685,726,\1a&H00&)}Uma mulher misteriosa
+Dialogue: 1,0:09:56.12,0:10:00.87,Captions-207-,,0,0,0,,{\blur0.8\fad(726,0)\fnDFPGiHi-W7-Strp\pos(720,710)\fscx85\fscy90\bord0\3c&HFFFFFF&\c&HF8F9F9&\4a&HFF&}Uma mulher misteriosa
+Dialogue: 1,0:09:56.12,0:10:00.87,Captions-207-,,0,0,0,,{\blur0.8\fad(726,0)\fnDFPGiHi-W7-Strp\pos(720,710)\fscx85\fscy90\bord0\3c&HFFFFFF&\c&HF8F9F9&\4a&HFF&}Uma mulher misteriosasss
+Dialogue: 0,0:12:49.87,0:12:51.96,Captions-207-,,0,0,0,,{\blur0.8\fad(358,0)\fnDFPGiHi-W7-Strp\pos(720,640)\fscx80\fscy85\bord4.5\c&H000000&\3c&H000000&\1a&HFF&\t(316,358,\1a&H00&)}"Domador de feras" Mohji\NPrimeiro Imediato\Ndos Piratas Buggy
+Dialogue: 1,0:12:49.87,0:12:51.96,Captions-207-,,0,0,0,,{\blur0.8\fad(358,0)\fnDFPGiHi-W7-Strp\pos(720,640)\fscx80\fscy85\bord0\3c&HFFFFFF&\c&HF2F2F2&\4a&HFF&}"Domador de feras" Mohji\NPrimeiro Imediato\Ndos Piratas Buggy
+Dialogue: 1,0:12:49.87,0:12:51.96,Captions-207-,,0,0,0,,{\blur0.8\fad(358,0)\fnDFPGiHi-W7-Strp\pos(720,640)\fscx80\fscy85\bord0\3c&HFFFFFF&\c&HF2F2F2&\4a&HFF&}"Domador de feras" Mohji\NPrimeiro Imediato\Ndos Piratas Buggy
+Dialogue: 0,0:12:54.67,0:12:56.63,Captions-207-,,0,0,0,,{\blur0.8\fad(354,0)\fnDFPGiHi-W7-Strp\pos(720,640)\fscx80\fscy85\bord4.5\c&H000000&\3c&H000000&\1a&HFF&\t(313,354,\1a&H00&)}Cabaji "o Acrobata"\N(Segundo) Primeiro Imediato\Ndos Piratas Buggy
+Dialogue: 1,0:12:54.67,0:12:56.63,Captions-207-,,0,0,0,,{\blur0.8\fad(354,0)\fnDFPGiHi-W7-Strp\pos(720,640)\fscx80\fscy85\bord0\3c&HFFFFFF&\c&HEAEAEA&\4a&HFF&}Cabaji "o Acrobata"\N(Segundo) Primeiro Imediato\Ndos Piratas Buggy
+Dialogue: 1,0:12:54.67,0:12:56.63,Captions-207-,,0,0,0,,{\blur0.8\fad(354,0)\fnDFPGiHi-W7-Strp\pos(720,640)\fscx80\fscy85\bord0\3c&HFFFFFF&\c&HEAEAEA&\4a&HFF&}Cabaji "o Acrobata"\N(Segundo) Primeiro Imediato\Ndos Piratas Buggy
+Dialogue: 0,0:13:41.93,0:13:44.89,Captions-207-,,0,0,0,,{\blur0.8\fad(475,0)\fnDFPGiHi-W7-Strp\pos(720,710)\fscx85\fscy90\bord4.5\c&H000000&\3c&H000000&\1a&HFF&\t(433,475,\1a&H00&)}Doze horas\Ndesde que a batalha começou
+Dialogue: 1,0:13:41.93,0:13:44.89,Captions-207-,,0,0,0,,{\blur0.8\fad(475,0)\fnDFPGiHi-W7-Strp\pos(720,710)\fscx85\fscy90\bord0\3c&HFFFFFF&\c&HFBFAFA&\4a&HFF&}Doze horas\Ndesde que a batalha começou
+Dialogue: 1,0:13:41.93,0:13:44.89,Captions-207-,,0,0,0,,{\blur0.8\fad(475,0)\fnDFPGiHi-W7-Strp\pos(720,710)\fscx85\fscy90\bord0\3c&HFFFFFF&\c&HFBFAFA&\4a&HFF&}Doze horas\Ndesde que a batalha começou
+Dialogue: 0,0:15:08.64,0:15:14.56,Captions-207-,,0,0,0,,{\blur0.8\fad(727,0)\fnDFPGiHi-W7-Strp\pos(720,650)\fscx85\fscy90\bord4.5\c&H000000&\3c&H000000&\1a&HFF&\t(685,727,\1a&H00&)}Richie\NCapitão dos Piratas Richie
+Dialogue: 1,0:15:08.64,0:15:14.56,Captions-207-,,0,0,0,,{\blur0.8\fad(727,0)\fnDFPGiHi-W7-Strp\pos(720,650)\fscx85\fscy90\bord0\3c&HFFFFFF&\c&HFBFBFB&\4a&HFF&}Richie\NCapitão dos Piratas Richie
+Dialogue: 1,0:15:08.64,0:15:14.56,Captions-207-,,0,0,0,,{\blur0.8\fad(727,0)\fnDFPGiHi-W7-Strp\pos(720,650)\fscx85\fscy90\bord0\3c&HFFFFFF&\c&HFBFBFB&\4a&HFF&}Richie\NCapitão dos Piratas Richie
+Dialogue: 0,0:19:42.16,0:19:45.37,Captions-207-,,0,0,0,,{\blur0.8\fnDFPGiHi-W7-Strp\pos(720,640)\fscx80\fscy85\bord4.5\c&H000000&\3c&H000000&\1a&HFF&}Buggy "o Palhaço"\NCapitão dos Piratas Buggy
+Dialogue: 1,0:19:42.16,0:19:45.37,Captions-207-,,0,0,0,,{\blur0.8\fnDFPGiHi-W7-Strp\pos(720,640)\fscx80\fscy85\bord0\3c&HFFFFFF&\c&HEFEFEF&\4a&HFF&}Buggy "o Palhaço"\NCapitão dos Piratas Buggy
+Dialogue: 1,0:19:42.16,0:19:45.37,Captions-207-,,0,0,0,,{\blur0.8\fnDFPGiHi-W7-Strp\pos(720,640)\fscx80\fscy85\bord0\3c&HFFFFFF&\c&HEFEFEF&\4a&HFF&}Buggy "o Palhaço"\NCapitão dos Piratas Buggy
+Dialogue: 0,0:00:00.44,0:00:02.44,Credits-207-,,0,0,0,,{\pos(90,90)\fad(600,600)\blur0.6\bord3\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1400,1445,\1a&HFF&)}Video Editing
+Dialogue: 1,0:00:00.44,0:00:02.44,Credits-207-,,0,0,0,,{\pos(90,90)\fad(600,600)\blur0.6\bord0\4a&HFF&}Video Editing
+Dialogue: 0,0:00:00.44,0:00:02.44,Credits-207-,,0,0,0,,{\pos(130,136)\fad(600,600)\blur0.6\bord3\fscx120\fscy125\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1400,1445,\1a&HFF&)}Feeso\NZenef
+Dialogue: 1,0:00:00.44,0:00:02.44,Credits-207-,,0,0,0,,{\pos(130,136)\fad(600,600)\blur0.6\bord0\fscx120\fscy125\4a&HFF&}Feeso\NZenef
+Dialogue: 0,0:00:02.44,0:00:04.44,Credits-207-,,0,0,0,,{\pos(90,90)\fad(600,600)\blur0.6\bord3\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1400,1445,\1a&HFF&)}Graphics
+Dialogue: 1,0:00:02.44,0:00:04.44,Credits-207-,,0,0,0,,{\pos(90,90)\fad(600,600)\blur0.6\bord0\4a&HFF&}Graphics
+Dialogue: 0,0:00:02.44,0:00:04.44,Credits-207-,,0,0,0,,{\pos(130,136)\fad(600,600)\blur0.6\bord3\fscx120\fscy125\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1400,1445,\1a&HFF&)}Datenshi
+Dialogue: 1,0:00:02.44,0:00:04.44,Credits-207-,,0,0,0,,{\pos(130,136)\fad(600,600)\blur0.6\bord0\fscx120\fscy125\4a&HFF&}Datenshi
+Dialogue: 0,0:00:04.44,0:00:06.44,Credits-207-,,0,0,0,,{\pos(90,90)\fad(600,600)\blur0.6\bord3\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1400,1445,\1a&HFF&)}Soundtracking
+Dialogue: 1,0:00:04.44,0:00:06.44,Credits-207-,,0,0,0,,{\pos(90,90)\fad(600,600)\blur0.6\bord0\4a&HFF&}Soundtracking
+Dialogue: 0,0:00:04.44,0:00:06.44,Credits-207-,,0,0,0,,{\pos(130,136)\fad(600,600)\blur0.6\bord3\fscx120\fscy125\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1400,1445,\1a&HFF&)}Halee
+Dialogue: 1,0:00:04.44,0:00:06.44,Credits-207-,,0,0,0,,{\pos(130,136)\fad(600,600)\blur0.6\bord0\fscx120\fscy125\4a&HFF&}Halee
+Dialogue: 0,0:00:06.44,0:00:09.44,Credits-207-,,0,0,0,,{\pos(90,90)\fad(600,600)\blur0.6\bord3\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(2400,2445,\1a&HFF&)}Quality Control
+Dialogue: 1,0:00:06.44,0:00:09.44,Credits-207-,,0,0,0,,{\pos(90,90)\fad(600,600)\blur0.6\bord0\4a&HFF&}Quality Control
+Dialogue: 0,0:00:06.44,0:00:09.44,Credits-207-,,0,0,0,,{\pos(130,136)\fad(600,600)\blur0.6\bord3\fscx120\fscy125\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(2400,2445,\1a&HFF&)}Dimelo\NGalaxy 9000\NPepperjack\NPhosCity
+Dialogue: 1,0:00:06.44,0:00:09.44,Credits-207-,,0,0,0,,{\pos(130,136)\fad(600,600)\blur0.6\bord0\fscx120\fscy125\4a&HFF&}Dimelo\NGalaxy 9000\NPepperjack\NPhosCity
+Dialogue: 0,0:00:09.44,0:00:11.44,Credits-207-,,0,0,0,,{\pos(90,90)\fad(600,600)\blur0.6\bord3\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1400,1445,\1a&HFF&)}Karaoke
+Dialogue: 1,0:00:09.44,0:00:11.44,Credits-207-,,0,0,0,,{\pos(90,90)\fad(600,600)\blur0.6\bord0\4a&HFF&}Karaoke
+Dialogue: 0,0:00:09.44,0:00:11.44,Credits-207-,,0,0,0,,{\pos(130,136)\fad(600,600)\blur0.6\bord3\fscx120\fscy125\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1400,1445,\1a&HFF&)}KaitouYahiko
+Dialogue: 1,0:00:09.44,0:00:11.44,Credits-207-,,0,0,0,,{\pos(130,136)\fad(600,600)\blur0.6\bord0\fscx120\fscy125\4a&HFF&}KaitouYahiko
+Dialogue: 0,0:00:11.44,0:00:13.44,Credits-207-,,0,0,0,,{\pos(90,90)\fad(600,600)\blur0.6\bord3\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1400,1445,\1a&HFF&)}Timing and Typesetting
+Dialogue: 1,0:00:11.44,0:00:13.44,Credits-207-,,0,0,0,,{\pos(90,90)\fad(600,600)\blur0.6\bord0\4a&HFF&}Timing and Typesetting
+Dialogue: 0,0:00:11.44,0:00:13.44,Credits-207-,,0,0,0,,{\pos(130,136)\fad(600,600)\blur0.6\bord3\fscx120\fscy125\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1400,1445,\1a&HFF&)}Gab
+Dialogue: 1,0:00:11.44,0:00:13.44,Credits-207-,,0,0,0,,{\pos(130,136)\fad(600,600)\blur0.6\bord0\fscx120\fscy125\4a&HFF&}Gab
+Dialogue: 0,0:00:13.44,0:00:15.44,Credits-207-,,0,0,0,,{\pos(90,90)\fad(600,600)\blur0.6\bord3\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1400,1445,\1a&HFF&)}Subtitle Editing
+Dialogue: 1,0:00:13.44,0:00:15.44,Credits-207-,,0,0,0,,{\pos(90,90)\fad(600,600)\blur0.6\bord0\4a&HFF&}Subtitle Editing
+Dialogue: 0,0:00:13.44,0:00:15.44,Credits-207-,,0,0,0,,{\pos(130,136)\fad(600,600)\blur0.6\bord3\fscx120\fscy125\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1400,1445,\1a&HFF&)}AphantasticRabbit\NLorphex\NMuphen\NRavenfire\NWestfal
+Dialogue: 1,0:00:13.44,0:00:15.44,Credits-207-,,0,0,0,,{\pos(130,136)\fad(600,600)\blur0.6\bord0\fscx120\fscy125\4a&HFF&}AphantasticRabbit\NLorphex\NMuphen\NRavenfire\NWestfal
+Dialogue: 0,0:00:15.44,0:00:17.45,Credits-207-,,0,0,0,,{\pos(90,90)\fad(600,600)\blur0.6\bord3\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1410,1455,\1a&HFF&)}Tradução PT-BR
+Dialogue: 1,0:00:15.44,0:00:17.45,Credits-207-,,0,0,0,,{\pos(90,90)\fad(600,600)\blur0.6\bord0\4a&HFF&}Tradução PT-BR
+Dialogue: 0,0:00:15.44,0:00:17.45,Credits-207-,,0,0,0,,{\pos(130,136)\fad(600,600)\blur0.6\bord3\fscx120\fscy125\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1410,1455,\1a&HFF&)}RAFAEL
+Dialogue: 1,0:00:15.44,0:00:17.45,Credits-207-,,0,0,0,,{\pos(130,136)\fad(600,600)\blur0.6\bord0\fscx120\fscy125\4a&HFF&}RAFAEL
+Dialogue: 0,0:00:17.45,0:00:19.25,Credits-207-,,0,0,0,,{\pos(90,90)\fad(600,600)\blur0.6\bord3\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1200,1245,\1a&HFF&)}Raws
+Dialogue: 1,0:00:17.45,0:00:19.25,Credits-207-,,0,0,0,,{\pos(90,90)\fad(600,600)\blur0.6\bord0\4a&HFF&}Raws
+Dialogue: 0,0:00:17.45,0:00:19.25,Credits-207-,,0,0,0,,{\pos(130,136)\fad(600,600)\blur0.6\bord3\fscx120\fscy125\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1200,1245,\1a&HFF&)}df68
+Dialogue: 1,0:00:17.45,0:00:19.25,Credits-207-,,0,0,0,,{\pos(130,136)\fad(600,600)\blur0.6\bord0\fscx120\fscy125\4a&HFF&}df68
+Dialogue: 0,0:00:01.15,0:00:01.27,Roger-Monologue,,0,0,0,,{\i1\clip(m 921.25 995.16 l 969.9 1024.69 1016.33 1053.54 1047.9 1055.42 1047.56 994.83)}Riqueza, fama, poder...
+Dialogue: 0,0:00:01.27,0:00:01.40,Roger-Monologue,,0,0,0,,{\i1\clip(m 414.24 977.6 l 455.9 1018.55 488.84 1046.73 1057.33 1069.41 1056.24 968.21)}Riqueza, fama, poder...
+Dialogue: 0,0:00:01.40,0:00:03.69,Roger-Monologue,,0,0,0,,{\i1}Riqueza, fama, poder...
+Dialogue: 0,0:00:03.69,0:00:05.59,Roger-Monologue,,0,0,0,,Um homem conquistou tudo o que este mundo podia oferecer,
+Dialogue: 0,0:00:05.62,0:00:07.90,Roger-Monologue,,0,0,0,,o Rei dos Piratas, Gold Roger.
+Dialogue: 0,0:00:07.90,0:00:09.86,Roger-Monologue,,0,0,0,,{\i1}Suas últimas palavras antes de sua execução,
+Dialogue: 0,0:00:09.88,0:00:11.74,Roger-Monologue,,0,0,0,,{\i1} fizeram legiões de todo o mundo\Nse lançarem aos mares:
+Dialogue: 0,0:00:11.74,0:00:16.62,Roger-Monologue,,0,0,0,,Meu tesouro?\NPodem pegar, se quiserem!
+Dialogue: 0,0:00:16.62,0:00:19.25,Roger-Monologue,,0,0,0,,Procurem-no! Ele contém tudo\Nque este mundo pode oferecer!
+Dialogue: 0,0:00:21.75,0:00:26.38,Roger-Monologue,,0,0,0,,{\i1}Homens desbravam o caminho de\Nseus sonhos em direção à Grand Line.
+Dialogue: 0,0:00:26.38,0:00:27.84,Roger-Monologue,,0,0,0,,{\i1}Assim começou a
+Dialogue: 0,0:00:27.84,0:00:29.68,Roger-Monologue,,0,0,0,,{\i1}Grande Era dos Piratas!
+Dialogue: 1,0:00:29.94,0:00:30.34,Lyrics,,0,0,0,fx,{\an5\bord2.6\blur0\pos(232.2,1010)\fad(300,0)}
+Dialogue: 2,0:00:30.34,0:00:35.18,Lyrics,,0,0,0,fx,{\an5\blur0\pos(232.2,1010)\bord2.6\t(0,100,\1c&HD8933F&\3c&HFFFFFF&\fscx100\fscy100)\t(100,4590,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}
+Dialogue: 1,0:00:29.99,0:00:34.93,Lyrics,,0,0,0,fx,{\an5\bord2.6\blur0\pos(700,1010)\fad(300,0)}Vamos reunir todos os nossos sonhos
+Dialogue: 1,0:00:35.45,0:00:40.76,Lyrics,,0,0,0,fx,{\an5\bord2.6\blur0\pos(700,1010)\fad(300,0)}e partir em busca de algo para encontrar!
+Dialogue: 1,0:00:47.50,0:00:52.16,Lyrics,,0,0,0,fx,{\an5\bord2.6\blur0\pos(700,1010)\fad(300,0)}Bússolas só causam atrasos
+Dialogue: 1,0:00:53.18,0:00:57.69,Lyrics,,0,0,0,fx,{\an5\bord2.6\blur0\pos(700,1010)\fad(300,0)}Cheio de emoção eu assumo o leme.
+Dialogue: 1,0:00:58.93,0:01:03.68,Lyrics,,0,0,0,fx,{\an5\bord2.6\blur0\pos(700,1010)\fad(300,0)}Se eu provar que o mapa existe,
+Dialogue: 1,0:01:04.14,0:01:09.34,Lyrics,,0,0,0,fx,{\an5\bord2.6\blur0\pos(700,1010)\fad(300,0)}não será mais uma lenda!
+Dialogue: 1,0:01:10.98,0:01:16.15,Lyrics,,0,0,0,fx,{\an5\bord2.6\blur0\pos(700,1010)\fad(300,0)}Se tiver uma tempestade de problemas,
+Dialogue: 1,0:01:16.78,0:01:21.24,Lyrics,,0,0,0,fx,{\an5\bord2.6\blur0\pos(700,1010)\fad(300,0)}só siga o biorritmo de alguém
+Dialogue: 1,0:01:22.00,0:01:23.69,Lyrics,,0,0,0,fx,{\an5\bord2.6\blur0\pos(700,1010)\fad(300,0)}Não perca tempo pensando nisso!
+Dialogue: 1,0:01:25.71,0:01:30.68,Lyrics,,0,0,0,fx,{\an5\bord2.6\blur0\pos(700,1010)\fad(300,0)}Vamos reunir todos os nossos sonhos
+Dialogue: 1,0:01:31.21,0:01:36.17,Lyrics,,0,0,0,fx,{\an5\bord2.6\blur0\pos(700,1010)\fad(300,0)}e partir em busca de algo para encontrar!
+Dialogue: 1,0:01:36.93,0:01:39.61,Lyrics,,0,0,0,fx,{\an5\bord2.6\blur0\pos(700,1010)\fad(300,0)}Uma moeda no meu bolso
+Dialogue: 1,0:01:39.64,0:01:42.68,Lyrics,,0,0,0,fx,{\an5\bord2.6\blur0\pos(700,1010)\fad(300,0)}e você quer ser meu amigo?
+Dialogue: 1,0:01:43.14,0:01:46.46,Lyrics,,0,0,0,fx,{\an5\bord2.6\blur0\pos(700,1010)\fad(300,0)}Nós estamos, nós estamos na rota!
+Dialogue: 1,0:01:48.52,0:01:49.97,Lyrics,,0,0,0,fx,{\an5\bord2.6\blur0\pos(700,1010)\fad(300,0)}Nós estamos!
+Dialogue: 1,0:00:01.66,0:00:02.06,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(720,23)\fad(300,0)}
+Dialogue: 2,0:00:02.06,0:00:02.31,Karaoke,,0,0,0,fx,{\an5\blur0\pos(720,23)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,0,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}
+Dialogue: 1,0:00:29.94,0:00:30.34,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(302.3,59)\fad(300,0)}
+Dialogue: 2,0:00:30.34,0:00:30.67,Karaoke,,0,0,0,fx,{\an5\blur0\pos(302.3,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,80,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}
+Dialogue: 1,0:00:29.99,0:00:30.42,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(322.4,59)\fad(300,0)}A
+Dialogue: 2,0:00:30.42,0:00:30.76,Karaoke,,0,0,0,fx,{\an5\blur0\pos(322.4,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,90,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}A
+Dialogue: 1,0:00:30.04,0:00:30.51,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(365.1,59)\fad(300,0)}ri
+Dialogue: 2,0:00:30.51,0:00:30.85,Karaoke,,0,0,0,fx,{\an5\blur0\pos(365.1,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,90,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}ri
+Dialogue: 1,0:00:30.09,0:00:30.60,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(419,59)\fad(300,0)}tta
+Dialogue: 2,0:00:30.60,0:00:31.04,Karaoke,,0,0,0,fx,{\an5\blur0\pos(419,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,190,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}tta
+Dialogue: 1,0:00:30.14,0:00:30.79,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(480.1,59)\fad(300,0)}ke
+Dialogue: 2,0:00:30.79,0:00:31.24,Karaoke,,0,0,0,fx,{\an5\blur0\pos(480.1,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,200,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}ke
+Dialogue: 1,0:00:30.19,0:00:30.99,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(556.1,59)\fad(300,0)}no
+Dialogue: 2,0:00:30.99,0:00:31.76,Karaoke,,0,0,0,fx,{\an5\blur0\pos(556.1,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,520,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}no
+Dialogue: 1,0:00:30.24,0:00:31.51,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(632,59)\fad(300,0)}yu
+Dialogue: 2,0:00:31.51,0:00:32.10,Karaoke,,0,0,0,fx,{\an5\blur0\pos(632,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,340,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}yu
+Dialogue: 1,0:00:30.29,0:00:31.85,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(697.9,59)\fad(300,0)}me
+Dialogue: 2,0:00:31.85,0:00:32.30,Karaoke,,0,0,0,fx,{\an5\blur0\pos(697.9,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,200,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}me
+Dialogue: 1,0:00:30.34,0:00:32.05,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(785.6,59)\fad(300,0)}wo
+Dialogue: 2,0:00:32.05,0:00:33.26,Karaoke,,0,0,0,fx,{\an5\blur0\pos(785.6,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,960,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}wo
+Dialogue: 1,0:00:30.39,0:00:33.01,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(837,59)\fad(300,0)}
+Dialogue: 2,0:00:33.01,0:00:33.57,Karaoke,,0,0,0,fx,{\an5\blur0\pos(837,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,310,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}
+Dialogue: 1,0:00:30.44,0:00:33.32,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(867,59)\fad(300,0)}ka
+Dialogue: 2,0:00:33.32,0:00:33.71,Karaoke,,0,0,0,fx,{\an5\blur0\pos(867,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,140,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}ka
+Dialogue: 1,0:00:30.49,0:00:33.46,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(923.5,59)\fad(300,0)}ki
+Dialogue: 2,0:00:33.46,0:00:33.90,Karaoke,,0,0,0,fx,{\an5\blur0\pos(923.5,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,190,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}ki
+Dialogue: 1,0:00:30.54,0:00:33.65,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(979.5,59)\fad(300,0)}a
+Dialogue: 2,0:00:33.65,0:00:34.18,Karaoke,,0,0,0,fx,{\an5\blur0\pos(979.5,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,280,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}a
+Dialogue: 1,0:00:30.59,0:00:33.93,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(1029,59)\fad(300,0)}tsu
+Dialogue: 2,0:00:33.93,0:00:34.40,Karaoke,,0,0,0,fx,{\an5\blur0\pos(1029,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,220,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}tsu
+Dialogue: 1,0:00:30.64,0:00:34.15,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(1101.4,59)\fad(300,0)}me
+Dialogue: 2,0:00:34.15,0:00:35.83,Karaoke,,0,0,0,fx,{\an5\blur0\pos(1101.4,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,1430,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}me
+Dialogue: 1,0:00:35.40,0:00:35.80,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(232.8,59)\fad(300,0)}
+Dialogue: 2,0:00:35.80,0:00:36.18,Karaoke,,0,0,0,fx,{\an5\blur0\pos(232.8,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,130,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}
+Dialogue: 1,0:00:35.45,0:00:35.93,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(262.8,59)\fad(300,0)}Sa
+Dialogue: 2,0:00:35.93,0:00:36.40,Karaoke,,0,0,0,fx,{\an5\blur0\pos(262.8,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,220,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}Sa
+Dialogue: 1,0:00:35.50,0:00:36.15,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(319.2,59)\fad(300,0)}ga
+Dialogue: 2,0:00:36.15,0:00:36.53,Karaoke,,0,0,0,fx,{\an5\blur0\pos(319.2,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,130,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}ga
+Dialogue: 1,0:00:35.55,0:00:36.28,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(384,59)\fad(300,0)}shi
+Dialogue: 2,0:00:36.28,0:00:36.76,Karaoke,,0,0,0,fx,{\an5\blur0\pos(384,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,230,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}shi
+Dialogue: 1,0:00:35.60,0:00:36.51,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(475.4,59)\fad(300,0)}mo
+Dialogue: 2,0:00:36.51,0:00:36.98,Karaoke,,0,0,0,fx,{\an5\blur0\pos(475.4,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,220,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}mo
+Dialogue: 1,0:00:35.65,0:00:36.73,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(542,59)\fad(300,0)}no
+Dialogue: 2,0:00:36.73,0:00:37.13,Karaoke,,0,0,0,fx,{\an5\blur0\pos(542,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,150,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}no
+Dialogue: 1,0:00:35.70,0:00:36.88,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(623.4,59)\fad(300,0)}wo
+Dialogue: 2,0:00:36.88,0:00:37.42,Karaoke,,0,0,0,fx,{\an5\blur0\pos(623.4,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,290,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}wo
+Dialogue: 1,0:00:35.75,0:00:37.17,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(700.3,59)\fad(300,0)}sa
+Dialogue: 2,0:00:37.17,0:00:37.84,Karaoke,,0,0,0,fx,{\an5\blur0\pos(700.3,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,420,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}sa
+Dialogue: 1,0:00:35.80,0:00:37.59,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(752,59)\fad(300,0)}ga
+Dialogue: 2,0:00:37.59,0:00:37.93,Karaoke,,0,0,0,fx,{\an5\blur0\pos(752,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,90,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}ga
+Dialogue: 1,0:00:35.85,0:00:37.68,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(816.9,59)\fad(300,0)}shi
+Dialogue: 2,0:00:37.68,0:00:38.55,Karaoke,,0,0,0,fx,{\an5\blur0\pos(816.9,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,620,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}shi
+Dialogue: 1,0:00:35.90,0:00:38.30,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(898.3,59)\fad(300,0)}ni
+Dialogue: 2,0:00:38.30,0:00:38.91,Karaoke,,0,0,0,fx,{\an5\blur0\pos(898.3,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,360,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}ni
+Dialogue: 1,0:00:35.95,0:00:38.66,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(970.7,59)\fad(300,0)}yu
+Dialogue: 2,0:00:38.66,0:00:39.27,Karaoke,,0,0,0,fx,{\an5\blur0\pos(970.7,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,360,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}yu
+Dialogue: 1,0:00:36.00,0:00:39.02,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(1032,59)\fad(300,0)}ku
+Dialogue: 2,0:00:39.02,0:00:39.60,Karaoke,,0,0,0,fx,{\an5\blur0\pos(1032,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,330,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}ku
+Dialogue: 1,0:00:36.05,0:00:39.35,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(1109.9,59)\fad(300,0)}no
+Dialogue: 2,0:00:39.35,0:00:39.86,Karaoke,,0,0,0,fx,{\an5\blur0\pos(1109.9,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,260,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}no
+Dialogue: 1,0:00:36.10,0:00:39.61,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(1181.7,59)\fad(300,0)}sa
+Dialogue: 2,0:00:39.61,0:00:41.66,Karaoke,,0,0,0,fx,{\an5\blur0\pos(1181.7,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,1800,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}sa
+Dialogue: 1,0:00:41.32,0:00:41.72,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(576.5,59)\fad(300,0)}
+Dialogue: 2,0:00:41.72,0:00:42.10,Karaoke,,0,0,0,fx,{\an5\blur0\pos(576.5,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,130,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}
+Dialogue: 1,0:00:41.37,0:00:41.85,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(631.9,59)\fad(300,0)}ONE
+Dialogue: 2,0:00:41.85,0:00:42.45,Karaoke,,0,0,0,fx,{\an5\blur0\pos(631.9,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,350,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}ONE
+Dialogue: 1,0:00:41.42,0:00:42.20,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(783.6,59)\fad(300,0)}PIECE
+Dialogue: 2,0:00:42.20,0:00:42.87,Karaoke,,0,0,0,fx,{\an5\blur0\pos(783.6,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,420,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}PIECE
+Dialogue: 1,0:00:47.45,0:00:47.85,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(326.4,59)\fad(300,0)}
+Dialogue: 2,0:00:47.85,0:00:48.21,Karaoke,,0,0,0,fx,{\an5\blur0\pos(326.4,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,110,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}
+Dialogue: 1,0:00:47.50,0:00:47.96,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(359.2,59)\fad(300,0)}Ra
+Dialogue: 2,0:00:47.96,0:00:48.41,Karaoke,,0,0,0,fx,{\an5\blur0\pos(359.2,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,200,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}Ra
+Dialogue: 1,0:00:47.55,0:00:48.16,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(447.4,59)\fad(300,0)}shin
+Dialogue: 2,0:00:48.16,0:00:48.75,Karaoke,,0,0,0,fx,{\an5\blur0\pos(447.4,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,340,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}shin
+Dialogue: 1,0:00:47.60,0:00:48.50,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(530.5,59)\fad(300,0)}ba
+Dialogue: 2,0:00:48.50,0:00:48.95,Karaoke,,0,0,0,fx,{\an5\blur0\pos(530.5,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,200,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}ba
+Dialogue: 1,0:00:47.65,0:00:48.70,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(575.1,59)\fad(300,0)}n
+Dialogue: 2,0:00:48.70,0:00:49.26,Karaoke,,0,0,0,fx,{\an5\blur0\pos(575.1,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,310,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}n
+Dialogue: 1,0:00:47.70,0:00:49.01,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(655.1,59)\fad(300,0)}nan
+Dialogue: 2,0:00:49.01,0:00:49.62,Karaoke,,0,0,0,fx,{\an5\blur0\pos(655.1,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,360,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}nan
+Dialogue: 1,0:00:47.75,0:00:49.37,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(723.9,59)\fad(300,0)}te
+Dialogue: 2,0:00:49.37,0:00:49.86,Karaoke,,0,0,0,fx,{\an5\blur0\pos(723.9,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,240,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}te
+Dialogue: 1,0:00:47.80,0:00:49.61,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(762.2,59)\fad(300,0)}
+Dialogue: 2,0:00:49.61,0:00:51.03,Karaoke,,0,0,0,fx,{\an5\blur0\pos(762.2,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,1170,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}
+Dialogue: 1,0:00:47.85,0:00:50.78,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(800.8,59)\fad(300,0)}juu
+Dialogue: 2,0:00:50.78,0:00:51.41,Karaoke,,0,0,0,fx,{\an5\blur0\pos(800.8,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,380,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}juu
+Dialogue: 1,0:00:47.90,0:00:51.16,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(871.4,59)\fad(300,0)}tai
+Dialogue: 2,0:00:51.16,0:00:51.76,Karaoke,,0,0,0,fx,{\an5\blur0\pos(871.4,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,350,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}tai
+Dialogue: 1,0:00:47.95,0:00:51.51,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(949.7,59)\fad(300,0)}no
+Dialogue: 2,0:00:51.51,0:00:52.11,Karaoke,,0,0,0,fx,{\an5\blur0\pos(949.7,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,350,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}no
+Dialogue: 1,0:00:48.00,0:00:51.86,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(1032.6,59)\fad(300,0)}mo
+Dialogue: 2,0:00:51.86,0:00:52.48,Karaoke,,0,0,0,fx,{\an5\blur0\pos(1032.6,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,370,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}mo
+Dialogue: 1,0:00:48.05,0:00:52.23,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(1091.4,59)\fad(300,0)}to
+Dialogue: 2,0:00:52.23,0:00:52.91,Karaoke,,0,0,0,fx,{\an5\blur0\pos(1091.4,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,430,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}to
+Dialogue: 1,0:00:53.13,0:00:53.53,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(280.8,59)\fad(300,0)}
+Dialogue: 2,0:00:53.53,0:00:53.88,Karaoke,,0,0,0,fx,{\an5\blur0\pos(280.8,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,100,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}
+Dialogue: 1,0:00:53.18,0:00:53.63,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(315,59)\fad(300,0)}Ne
+Dialogue: 2,0:00:53.63,0:00:54.10,Karaoke,,0,0,0,fx,{\an5\blur0\pos(315,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,220,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}Ne
+Dialogue: 1,0:00:53.23,0:00:53.85,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(385.3,59)\fad(300,0)}tsu
+Dialogue: 2,0:00:53.85,0:00:54.25,Karaoke,,0,0,0,fx,{\an5\blur0\pos(385.3,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,150,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}tsu
+Dialogue: 1,0:00:53.28,0:00:54.00,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(464.2,59)\fad(300,0)}ni
+Dialogue: 2,0:00:54.00,0:00:54.42,Karaoke,,0,0,0,fx,{\an5\blur0\pos(464.2,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,170,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}ni
+Dialogue: 1,0:00:53.33,0:00:54.17,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(522,59)\fad(300,0)}u
+Dialogue: 2,0:00:54.17,0:00:54.60,Karaoke,,0,0,0,fx,{\an5\blur0\pos(522,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,180,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}u
+Dialogue: 1,0:00:53.38,0:00:54.35,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(566.9,59)\fad(300,0)}ka
+Dialogue: 2,0:00:54.35,0:00:54.92,Karaoke,,0,0,0,fx,{\an5\blur0\pos(566.9,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,320,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}ka
+Dialogue: 1,0:00:53.43,0:00:54.67,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(622.4,59)\fad(300,0)}sa
+Dialogue: 2,0:00:54.67,0:00:55.34,Karaoke,,0,0,0,fx,{\an5\blur0\pos(622.4,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,420,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}sa
+Dialogue: 1,0:00:53.48,0:00:55.09,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(673.7,59)\fad(300,0)}re
+Dialogue: 2,0:00:55.09,0:00:55.57,Karaoke,,0,0,0,fx,{\an5\blur0\pos(673.7,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,230,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}re
+Dialogue: 1,0:00:53.53,0:00:55.32,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(715.8,59)\fad(300,0)}
+Dialogue: 2,0:00:55.32,0:00:56.01,Karaoke,,0,0,0,fx,{\an5\blur0\pos(715.8,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,440,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}
+Dialogue: 1,0:00:53.58,0:00:55.76,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(745.8,59)\fad(300,0)}ka
+Dialogue: 2,0:00:55.76,0:00:56.39,Karaoke,,0,0,0,fx,{\an5\blur0\pos(745.8,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,380,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}ka
+Dialogue: 1,0:00:53.63,0:00:56.14,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(794.3,59)\fad(300,0)}ji
+Dialogue: 2,0:00:56.14,0:00:56.76,Karaoke,,0,0,0,fx,{\an5\blur0\pos(794.3,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,370,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}ji
+Dialogue: 1,0:00:53.68,0:00:56.51,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(864.1,59)\fad(300,0)}wo
+Dialogue: 2,0:00:56.51,0:00:57.47,Karaoke,,0,0,0,fx,{\an5\blur0\pos(864.1,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,710,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}wo
+Dialogue: 1,0:00:53.73,0:00:57.22,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(937.8,59)\fad(300,0)}to
+Dialogue: 2,0:00:57.22,0:00:57.65,Karaoke,,0,0,0,fx,{\an5\blur0\pos(937.8,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,180,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}to
+Dialogue: 1,0:00:53.78,0:00:57.40,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(987.8,59)\fad(300,0)}ru
+Dialogue: 2,0:00:57.40,0:00:57.82,Karaoke,,0,0,0,fx,{\an5\blur0\pos(987.8,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,170,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}ru
+Dialogue: 1,0:00:53.83,0:00:57.57,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(1061.9,59)\fad(300,0)}no
+Dialogue: 2,0:00:57.57,0:00:57.96,Karaoke,,0,0,0,fx,{\an5\blur0\pos(1061.9,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,140,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}no
+Dialogue: 1,0:00:53.88,0:00:57.71,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(1133.7,59)\fad(300,0)}sa
+Dialogue: 2,0:00:57.71,0:00:58.69,Karaoke,,0,0,0,fx,{\an5\blur0\pos(1133.7,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,730,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}sa
+Dialogue: 1,0:00:58.88,0:00:59.28,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(247.1,59)\fad(300,0)}
+Dialogue: 2,0:00:59.28,0:00:59.62,Karaoke,,0,0,0,fx,{\an5\blur0\pos(247.1,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,90,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}
+Dialogue: 1,0:00:58.93,0:00:59.37,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(284.3,59)\fad(300,0)}HO
+Dialogue: 2,0:00:59.37,0:00:59.87,Karaoke,,0,0,0,fx,{\an5\blur0\pos(284.3,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,250,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}HO
+Dialogue: 1,0:00:58.98,0:00:59.62,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(358.9,59)\fad(300,0)}KO
+Dialogue: 2,0:00:59.62,0:00:59.97,Karaoke,,0,0,0,fx,{\an5\blur0\pos(358.9,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,100,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}KO
+Dialogue: 1,0:00:59.03,0:00:59.72,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(427.9,59)\fad(300,0)}RI
+Dialogue: 2,0:00:59.72,0:01:00.16,Karaoke,,0,0,0,fx,{\an5\blur0\pos(427.9,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,190,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}RI
+Dialogue: 1,0:00:59.08,0:00:59.91,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(505.8,59)\fad(300,0)}ka
+Dialogue: 2,0:00:59.91,0:01:00.33,Karaoke,,0,0,0,fx,{\an5\blur0\pos(505.8,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,170,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}ka
+Dialogue: 1,0:00:59.13,0:01:00.08,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(565.3,59)\fad(300,0)}bu
+Dialogue: 2,0:01:00.08,0:01:00.70,Karaoke,,0,0,0,fx,{\an5\blur0\pos(565.3,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,370,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}bu
+Dialogue: 1,0:00:59.18,0:01:00.45,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(625.8,59)\fad(300,0)}tte
+Dialogue: 2,0:01:00.45,0:01:01.02,Karaoke,,0,0,0,fx,{\an5\blur0\pos(625.8,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,320,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}tte
+Dialogue: 1,0:00:59.23,0:01:00.77,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(679.1,59)\fad(300,0)}ta
+Dialogue: 2,0:01:00.77,0:01:01.28,Karaoke,,0,0,0,fx,{\an5\blur0\pos(679.1,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,260,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}ta
+Dialogue: 1,0:00:59.28,0:01:01.03,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(717.8,59)\fad(300,0)}
+Dialogue: 2,0:01:01.03,0:01:02.12,Karaoke,,0,0,0,fx,{\an5\blur0\pos(717.8,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,840,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}
+Dialogue: 1,0:00:59.33,0:01:01.87,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(740.1,59)\fad(300,0)}ta
+Dialogue: 2,0:01:01.87,0:01:02.30,Karaoke,,0,0,0,fx,{\an5\blur0\pos(740.1,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,180,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}ta
+Dialogue: 1,0:00:59.38,0:01:02.05,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(792.4,59)\fad(300,0)}ka
+Dialogue: 2,0:01:02.05,0:01:02.45,Karaoke,,0,0,0,fx,{\an5\blur0\pos(792.4,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,150,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}ka
+Dialogue: 1,0:00:59.43,0:01:02.20,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(848.6,59)\fad(300,0)}ra
+Dialogue: 2,0:01:02.20,0:01:02.82,Karaoke,,0,0,0,fx,{\an5\blur0\pos(848.6,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,370,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}ra
+Dialogue: 1,0:00:59.48,0:01:02.57,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(921,59)\fad(300,0)}no
+Dialogue: 2,0:01:02.57,0:01:03.14,Karaoke,,0,0,0,fx,{\an5\blur0\pos(921,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,320,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}no
+Dialogue: 1,0:00:59.53,0:01:02.89,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(1006.5,59)\fad(300,0)}chi
+Dialogue: 2,0:01:02.89,0:01:03.56,Karaoke,,0,0,0,fx,{\an5\blur0\pos(1006.5,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,420,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}chi
+Dialogue: 1,0:00:59.58,0:01:03.31,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(1074.6,59)\fad(300,0)}zu
+Dialogue: 2,0:01:03.31,0:01:03.74,Karaoke,,0,0,0,fx,{\an5\blur0\pos(1074.6,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,180,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}zu
+Dialogue: 1,0:00:59.63,0:01:03.49,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(1156.3,59)\fad(300,0)}mo
+Dialogue: 2,0:01:03.49,0:01:04.73,Karaoke,,0,0,0,fx,{\an5\blur0\pos(1156.3,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,990,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}mo
+Dialogue: 1,0:01:04.09,0:01:04.49,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(265.8,59)\fad(300,0)}
+Dialogue: 2,0:01:04.49,0:01:04.96,Karaoke,,0,0,0,fx,{\an5\blur0\pos(265.8,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,220,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}
+Dialogue: 1,0:01:04.14,0:01:04.71,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(296.8,59)\fad(300,0)}Ta
+Dialogue: 2,0:01:04.71,0:01:05.07,Karaoke,,0,0,0,fx,{\an5\blur0\pos(296.8,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,110,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}Ta
+Dialogue: 1,0:01:04.19,0:01:04.82,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(366.4,59)\fad(300,0)}shi
+Dialogue: 2,0:01:04.82,0:01:05.34,Karaoke,,0,0,0,fx,{\an5\blur0\pos(366.4,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,270,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}shi
+Dialogue: 1,0:01:04.24,0:01:05.09,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(435,59)\fad(300,0)}ka
+Dialogue: 2,0:01:05.09,0:01:05.70,Karaoke,,0,0,0,fx,{\an5\blur0\pos(435,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,360,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}ka
+Dialogue: 1,0:01:04.29,0:01:05.45,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(501.3,59)\fad(300,0)}me
+Dialogue: 2,0:01:05.45,0:01:06.01,Karaoke,,0,0,0,fx,{\an5\blur0\pos(501.3,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,310,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}me
+Dialogue: 1,0:01:04.34,0:01:05.76,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(559.9,59)\fad(300,0)}ta
+Dialogue: 2,0:01:05.76,0:01:06.42,Karaoke,,0,0,0,fx,{\an5\blur0\pos(559.9,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,410,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}ta
+Dialogue: 1,0:01:04.39,0:01:06.17,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(628.5,59)\fad(300,0)}no
+Dialogue: 2,0:01:06.17,0:01:06.76,Karaoke,,0,0,0,fx,{\an5\blur0\pos(628.5,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,340,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}no
+Dialogue: 1,0:01:04.44,0:01:06.51,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(704.9,59)\fad(300,0)}na
+Dialogue: 2,0:01:06.51,0:01:07.30,Karaoke,,0,0,0,fx,{\an5\blur0\pos(704.9,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,540,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}na
+Dialogue: 1,0:01:04.49,0:01:07.05,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(761.1,59)\fad(300,0)}ra
+Dialogue: 2,0:01:07.05,0:01:07.85,Karaoke,,0,0,0,fx,{\an5\blur0\pos(761.1,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,550,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}ra
+Dialogue: 1,0:01:04.54,0:01:07.60,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(847.5,59)\fad(300,0)}den
+Dialogue: 2,0:01:07.60,0:01:08.11,Karaoke,,0,0,0,fx,{\an5\blur0\pos(847.5,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,260,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}den
+Dialogue: 1,0:01:04.59,0:01:07.86,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(916.6,59)\fad(300,0)}se
+Dialogue: 2,0:01:07.86,0:01:08.49,Karaoke,,0,0,0,fx,{\an5\blur0\pos(916.6,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,380,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}se
+Dialogue: 1,0:01:04.64,0:01:08.24,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(977.9,59)\fad(300,0)}tsu
+Dialogue: 2,0:01:08.24,0:01:08.90,Karaoke,,0,0,0,fx,{\an5\blur0\pos(977.9,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,410,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}tsu
+Dialogue: 1,0:01:04.69,0:01:08.65,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(1052.3,59)\fad(300,0)}ja
+Dialogue: 2,0:01:08.65,0:01:09.26,Karaoke,,0,0,0,fx,{\an5\blur0\pos(1052.3,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,360,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}ja
+Dialogue: 1,0:01:04.74,0:01:09.01,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(1104.4,59)\fad(300,0)}na
+Dialogue: 2,0:01:09.01,0:01:09.50,Karaoke,,0,0,0,fx,{\an5\blur0\pos(1104.4,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,240,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}na
+Dialogue: 1,0:01:04.79,0:01:09.25,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(1154.3,59)\fad(300,0)}i!
+Dialogue: 2,0:01:09.25,0:01:09.99,Karaoke,,0,0,0,fx,{\an5\blur0\pos(1154.3,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,490,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}i!
+Dialogue: 1,0:01:10.93,0:01:11.33,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(289.3,59)\fad(300,0)}
+Dialogue: 2,0:01:11.33,0:01:11.71,Karaoke,,0,0,0,fx,{\an5\blur0\pos(289.3,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,130,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}
+Dialogue: 1,0:01:10.98,0:01:11.46,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(322.7,59)\fad(300,0)}Ko
+Dialogue: 2,0:01:11.46,0:01:12.08,Karaoke,,0,0,0,fx,{\an5\blur0\pos(322.7,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,370,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}Ko
+Dialogue: 1,0:01:11.03,0:01:11.83,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(374.6,59)\fad(300,0)}ji
+Dialogue: 2,0:01:11.83,0:01:12.46,Karaoke,,0,0,0,fx,{\an5\blur0\pos(374.6,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,380,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}ji
+Dialogue: 1,0:01:11.08,0:01:12.21,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(409.8,59)\fad(300,0)}n
+Dialogue: 2,0:01:12.21,0:01:13.14,Karaoke,,0,0,0,fx,{\an5\blur0\pos(409.8,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,680,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}n
+Dialogue: 1,0:01:11.13,0:01:12.89,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(464.8,59)\fad(300,0)}te
+Dialogue: 2,0:01:12.89,0:01:13.23,Karaoke,,0,0,0,fx,{\an5\blur0\pos(464.8,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,90,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}te
+Dialogue: 1,0:01:11.18,0:01:12.98,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(513.3,59)\fad(300,0)}ki
+Dialogue: 2,0:01:12.98,0:01:13.72,Karaoke,,0,0,0,fx,{\an5\blur0\pos(513.3,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,490,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}ki
+Dialogue: 1,0:01:11.23,0:01:13.47,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(586.1,59)\fad(300,0)}na
+Dialogue: 2,0:01:13.47,0:01:14.43,Karaoke,,0,0,0,fx,{\an5\blur0\pos(586.1,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,710,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}na
+Dialogue: 1,0:01:11.28,0:01:14.18,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(645.8,59)\fad(300,0)}a
+Dialogue: 2,0:01:14.18,0:01:14.76,Karaoke,,0,0,0,fx,{\an5\blur0\pos(645.8,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,330,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}a
+Dialogue: 1,0:01:11.33,0:01:14.51,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(685.2,59)\fad(300,0)}ra
+Dialogue: 2,0:01:14.51,0:01:14.91,Karaoke,,0,0,0,fx,{\an5\blur0\pos(685.2,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,150,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}ra
+Dialogue: 1,0:01:11.38,0:01:14.66,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(749.9,59)\fad(300,0)}shi
+Dialogue: 2,0:01:14.66,0:01:15.03,Karaoke,,0,0,0,fx,{\an5\blur0\pos(749.9,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,120,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}shi
+Dialogue: 1,0:01:11.43,0:01:14.78,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(839.9,59)\fad(300,0)}wa
+Dialogue: 2,0:01:14.78,0:01:15.65,Karaoke,,0,0,0,fx,{\an5\blur0\pos(839.9,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,620,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}wa
+Dialogue: 1,0:01:11.48,0:01:15.40,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(918.9,59)\fad(300,0)}da
+Dialogue: 2,0:01:15.40,0:01:16.18,Karaoke,,0,0,0,fx,{\an5\blur0\pos(918.9,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,530,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}da
+Dialogue: 1,0:01:11.53,0:01:15.93,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(972.2,59)\fad(300,0)}re
+Dialogue: 2,0:01:15.93,0:01:16.37,Karaoke,,0,0,0,fx,{\an5\blur0\pos(972.2,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,190,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}re
+Dialogue: 1,0:01:11.58,0:01:16.12,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(1044.3,59)\fad(300,0)}ka
+Dialogue: 2,0:01:16.12,0:01:16.56,Karaoke,,0,0,0,fx,{\an5\blur0\pos(1044.3,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,190,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}ka
+Dialogue: 1,0:01:11.63,0:01:16.31,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(1120.7,59)\fad(300,0)}no
+Dialogue: 2,0:01:16.31,0:01:17.05,Karaoke,,0,0,0,fx,{\an5\blur0\pos(1120.7,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,490,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}no
+Dialogue: 1,0:01:16.73,0:01:17.13,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(426.4,59)\fad(300,0)}
+Dialogue: 2,0:01:17.13,0:01:17.47,Karaoke,,0,0,0,fx,{\an5\blur0\pos(426.4,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,90,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}
+Dialogue: 1,0:01:16.78,0:01:17.22,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(464.3,59)\fad(300,0)}BA
+Dialogue: 2,0:01:17.22,0:01:17.83,Karaoke,,0,0,0,fx,{\an5\blur0\pos(464.3,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,360,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}BA
+Dialogue: 1,0:01:16.83,0:01:17.58,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(514.2,59)\fad(300,0)}I
+Dialogue: 2,0:01:17.58,0:01:18.15,Karaoke,,0,0,0,fx,{\an5\blur0\pos(514.2,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,320,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}I
+Dialogue: 1,0:01:16.88,0:01:17.90,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(543.4,59)\fad(300,0)}O
+Dialogue: 2,0:01:17.90,0:01:18.89,Karaoke,,0,0,0,fx,{\an5\blur0\pos(543.4,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,740,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}O
+Dialogue: 1,0:01:16.93,0:01:18.64,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(592.2,59)\fad(300,0)}RI
+Dialogue: 2,0:01:18.64,0:01:19.17,Karaoke,,0,0,0,fx,{\an5\blur0\pos(592.2,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,280,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}RI
+Dialogue: 1,0:01:16.98,0:01:18.92,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(659,59)\fad(300,0)}ZU
+Dialogue: 2,0:01:18.92,0:01:19.43,Karaoke,,0,0,0,fx,{\an5\blur0\pos(659,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,260,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}ZU
+Dialogue: 1,0:01:17.03,0:01:19.18,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(737.9,59)\fad(300,0)}MU
+Dialogue: 2,0:01:19.18,0:01:19.97,Karaoke,,0,0,0,fx,{\an5\blur0\pos(737.9,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,540,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}MU
+Dialogue: 1,0:01:17.08,0:01:19.72,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(828,59)\fad(300,0)}no
+Dialogue: 2,0:01:19.72,0:01:20.23,Karaoke,,0,0,0,fx,{\an5\blur0\pos(828,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,260,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}no
+Dialogue: 1,0:01:17.13,0:01:19.98,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(904.7,59)\fad(300,0)}kka
+Dialogue: 2,0:01:19.98,0:01:20.51,Karaoke,,0,0,0,fx,{\an5\blur0\pos(904.7,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,280,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}kka
+Dialogue: 1,0:01:17.18,0:01:20.26,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(960.5,59)\fad(300,0)}t
+Dialogue: 2,0:01:20.26,0:01:20.85,Karaoke,,0,0,0,fx,{\an5\blur0\pos(960.5,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,340,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}t
+Dialogue: 1,0:01:17.23,0:01:20.60,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(991.6,59)\fad(300,0)}te
+Dialogue: 2,0:01:20.60,0:01:22.39,Karaoke,,0,0,0,fx,{\an5\blur0\pos(991.6,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,1540,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}te
+Dialogue: 1,0:01:21.95,0:01:22.35,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(504.2,59)\fad(300,0)}
+Dialogue: 2,0:01:22.35,0:01:22.67,Karaoke,,0,0,0,fx,{\an5\blur0\pos(504.2,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,70,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}
+Dialogue: 1,0:01:22.00,0:01:22.42,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(521.5,59)\fad(300,0)}O
+Dialogue: 2,0:01:22.42,0:01:22.84,Karaoke,,0,0,0,fx,{\an5\blur0\pos(521.5,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,170,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}O
+Dialogue: 1,0:01:22.05,0:01:22.59,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(575.3,59)\fad(300,0)}mo
+Dialogue: 2,0:01:22.59,0:01:23.00,Karaoke,,0,0,0,fx,{\an5\blur0\pos(575.3,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,160,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}mo
+Dialogue: 1,0:01:22.10,0:01:22.75,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(621.5,59)\fad(300,0)}i
+Dialogue: 2,0:01:22.75,0:01:23.11,Karaoke,,0,0,0,fx,{\an5\blur0\pos(621.5,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,110,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}i
+Dialogue: 1,0:01:22.15,0:01:22.86,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(674.7,59)\fad(300,0)}su
+Dialogue: 2,0:01:22.86,0:01:23.37,Karaoke,,0,0,0,fx,{\an5\blur0\pos(674.7,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,260,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}su
+Dialogue: 1,0:01:22.20,0:01:23.12,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(728,59)\fad(300,0)}go
+Dialogue: 2,0:01:23.12,0:01:23.53,Karaoke,,0,0,0,fx,{\an5\blur0\pos(728,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,160,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}go
+Dialogue: 1,0:01:22.25,0:01:23.28,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(779.4,59)\fad(300,0)}se
+Dialogue: 2,0:01:23.28,0:01:23.76,Karaoke,,0,0,0,fx,{\an5\blur0\pos(779.4,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,230,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}se
+Dialogue: 1,0:01:22.30,0:01:23.51,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(832.4,59)\fad(300,0)}ba
+Dialogue: 2,0:01:23.51,0:01:23.93,Karaoke,,0,0,0,fx,{\an5\blur0\pos(832.4,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,170,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}ba
+Dialogue: 1,0:01:22.35,0:01:23.68,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(906.2,59)\fad(300,0)}ii!
+Dialogue: 2,0:01:23.68,0:01:24.44,Karaoke,,0,0,0,fx,{\an5\blur0\pos(906.2,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,510,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}ii!
+Dialogue: 1,0:01:25.66,0:01:26.06,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(302.3,59)\fad(300,0)}
+Dialogue: 2,0:01:26.06,0:01:26.38,Karaoke,,0,0,0,fx,{\an5\blur0\pos(302.3,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,70,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}
+Dialogue: 1,0:01:25.71,0:01:26.13,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(322.4,59)\fad(300,0)}A
+Dialogue: 2,0:01:26.13,0:01:26.47,Karaoke,,0,0,0,fx,{\an5\blur0\pos(322.4,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,90,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}A
+Dialogue: 1,0:01:25.76,0:01:26.22,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(365.1,59)\fad(300,0)}ri
+Dialogue: 2,0:01:26.22,0:01:26.56,Karaoke,,0,0,0,fx,{\an5\blur0\pos(365.1,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,90,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}ri
+Dialogue: 1,0:01:25.81,0:01:26.31,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(419,59)\fad(300,0)}tta
+Dialogue: 2,0:01:26.31,0:01:26.75,Karaoke,,0,0,0,fx,{\an5\blur0\pos(419,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,190,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}tta
+Dialogue: 1,0:01:25.86,0:01:26.50,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(480.1,59)\fad(300,0)}ke
+Dialogue: 2,0:01:26.50,0:01:26.95,Karaoke,,0,0,0,fx,{\an5\blur0\pos(480.1,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,200,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}ke
+Dialogue: 1,0:01:25.91,0:01:26.70,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(556.1,59)\fad(300,0)}no
+Dialogue: 2,0:01:26.70,0:01:27.47,Karaoke,,0,0,0,fx,{\an5\blur0\pos(556.1,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,520,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}no
+Dialogue: 1,0:01:25.96,0:01:27.22,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(632,59)\fad(300,0)}yu
+Dialogue: 2,0:01:27.22,0:01:27.81,Karaoke,,0,0,0,fx,{\an5\blur0\pos(632,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,340,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}yu
+Dialogue: 1,0:01:26.01,0:01:27.56,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(697.9,59)\fad(300,0)}me
+Dialogue: 2,0:01:27.56,0:01:28.01,Karaoke,,0,0,0,fx,{\an5\blur0\pos(697.9,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,200,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}me
+Dialogue: 1,0:01:26.06,0:01:27.76,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(785.6,59)\fad(300,0)}wo
+Dialogue: 2,0:01:27.76,0:01:28.97,Karaoke,,0,0,0,fx,{\an5\blur0\pos(785.6,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,960,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}wo
+Dialogue: 1,0:01:26.11,0:01:28.72,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(837,59)\fad(300,0)}
+Dialogue: 2,0:01:28.72,0:01:29.28,Karaoke,,0,0,0,fx,{\an5\blur0\pos(837,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,310,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}
+Dialogue: 1,0:01:26.16,0:01:29.03,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(867,59)\fad(300,0)}ka
+Dialogue: 2,0:01:29.03,0:01:29.42,Karaoke,,0,0,0,fx,{\an5\blur0\pos(867,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,140,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}ka
+Dialogue: 1,0:01:26.21,0:01:29.17,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(923.5,59)\fad(300,0)}ki
+Dialogue: 2,0:01:29.17,0:01:29.61,Karaoke,,0,0,0,fx,{\an5\blur0\pos(923.5,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,190,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}ki
+Dialogue: 1,0:01:26.26,0:01:29.36,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(979.5,59)\fad(300,0)}a
+Dialogue: 2,0:01:29.36,0:01:29.89,Karaoke,,0,0,0,fx,{\an5\blur0\pos(979.5,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,280,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}a
+Dialogue: 1,0:01:26.31,0:01:29.64,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(1029,59)\fad(300,0)}tsu
+Dialogue: 2,0:01:29.64,0:01:30.11,Karaoke,,0,0,0,fx,{\an5\blur0\pos(1029,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,220,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}tsu
+Dialogue: 1,0:01:26.36,0:01:29.86,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(1101.4,59)\fad(300,0)}me
+Dialogue: 2,0:01:29.86,0:01:31.54,Karaoke,,0,0,0,fx,{\an5\blur0\pos(1101.4,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,1430,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}me
+Dialogue: 1,0:01:31.16,0:01:31.56,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(232.8,59)\fad(300,0)}
+Dialogue: 2,0:01:31.56,0:01:31.88,Karaoke,,0,0,0,fx,{\an5\blur0\pos(232.8,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,70,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}
+Dialogue: 1,0:01:31.21,0:01:31.63,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(262.8,59)\fad(300,0)}Sa
+Dialogue: 2,0:01:31.63,0:01:32.10,Karaoke,,0,0,0,fx,{\an5\blur0\pos(262.8,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,220,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}Sa
+Dialogue: 1,0:01:31.26,0:01:31.85,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(319.2,59)\fad(300,0)}ga
+Dialogue: 2,0:01:31.85,0:01:32.23,Karaoke,,0,0,0,fx,{\an5\blur0\pos(319.2,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,130,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}ga
+Dialogue: 1,0:01:31.31,0:01:31.98,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(384,59)\fad(300,0)}shi
+Dialogue: 2,0:01:31.98,0:01:32.46,Karaoke,,0,0,0,fx,{\an5\blur0\pos(384,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,230,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}shi
+Dialogue: 1,0:01:31.36,0:01:32.21,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(475.4,59)\fad(300,0)}mo
+Dialogue: 2,0:01:32.21,0:01:32.68,Karaoke,,0,0,0,fx,{\an5\blur0\pos(475.4,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,220,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}mo
+Dialogue: 1,0:01:31.41,0:01:32.43,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(542,59)\fad(300,0)}no
+Dialogue: 2,0:01:32.43,0:01:32.83,Karaoke,,0,0,0,fx,{\an5\blur0\pos(542,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,150,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}no
+Dialogue: 1,0:01:31.46,0:01:32.58,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(623.4,59)\fad(300,0)}wo
+Dialogue: 2,0:01:32.58,0:01:33.12,Karaoke,,0,0,0,fx,{\an5\blur0\pos(623.4,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,290,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}wo
+Dialogue: 1,0:01:31.51,0:01:32.87,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(700.3,59)\fad(300,0)}sa
+Dialogue: 2,0:01:32.87,0:01:33.54,Karaoke,,0,0,0,fx,{\an5\blur0\pos(700.3,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,420,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}sa
+Dialogue: 1,0:01:31.56,0:01:33.29,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(752,59)\fad(300,0)}ga
+Dialogue: 2,0:01:33.29,0:01:33.63,Karaoke,,0,0,0,fx,{\an5\blur0\pos(752,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,90,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}ga
+Dialogue: 1,0:01:31.61,0:01:33.38,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(816.9,59)\fad(300,0)}shi
+Dialogue: 2,0:01:33.38,0:01:34.25,Karaoke,,0,0,0,fx,{\an5\blur0\pos(816.9,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,620,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}shi
+Dialogue: 1,0:01:31.66,0:01:34.00,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(898.3,59)\fad(300,0)}ni
+Dialogue: 2,0:01:34.00,0:01:34.61,Karaoke,,0,0,0,fx,{\an5\blur0\pos(898.3,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,360,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}ni
+Dialogue: 1,0:01:31.71,0:01:34.36,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(970.7,59)\fad(300,0)}yu
+Dialogue: 2,0:01:34.36,0:01:34.97,Karaoke,,0,0,0,fx,{\an5\blur0\pos(970.7,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,360,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}yu
+Dialogue: 1,0:01:31.76,0:01:34.72,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(1032,59)\fad(300,0)}ku
+Dialogue: 2,0:01:34.72,0:01:35.30,Karaoke,,0,0,0,fx,{\an5\blur0\pos(1032,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,330,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}ku
+Dialogue: 1,0:01:31.81,0:01:35.05,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(1109.9,59)\fad(300,0)}no
+Dialogue: 2,0:01:35.05,0:01:35.56,Karaoke,,0,0,0,fx,{\an5\blur0\pos(1109.9,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,260,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}no
+Dialogue: 1,0:01:31.86,0:01:35.31,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(1181.7,59)\fad(300,0)}sa
+Dialogue: 2,0:01:35.31,0:01:37.36,Karaoke,,0,0,0,fx,{\an5\blur0\pos(1181.7,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,1800,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}sa
+Dialogue: 1,0:01:36.88,0:01:37.28,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(477.8,59)\fad(300,0)}
+Dialogue: 2,0:01:37.28,0:01:37.62,Karaoke,,0,0,0,fx,{\an5\blur0\pos(477.8,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,90,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}
+Dialogue: 1,0:01:36.93,0:01:37.37,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(513.1,59)\fad(300,0)}PO
+Dialogue: 2,0:01:37.37,0:01:37.80,Karaoke,,0,0,0,fx,{\an5\blur0\pos(513.1,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,180,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}PO
+Dialogue: 1,0:01:36.98,0:01:37.55,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(585.7,59)\fad(300,0)}KE
+Dialogue: 2,0:01:37.55,0:01:38.17,Karaoke,,0,0,0,fx,{\an5\blur0\pos(585.7,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,370,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}KE
+Dialogue: 1,0:01:37.03,0:01:37.92,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(675.6,59)\fad(300,0)}TTO
+Dialogue: 2,0:01:37.92,0:01:38.74,Karaoke,,0,0,0,fx,{\an5\blur0\pos(675.6,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,570,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}TTO
+Dialogue: 1,0:01:37.08,0:01:38.49,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(774.7,59)\fad(300,0)}no
+Dialogue: 2,0:01:38.49,0:01:39.26,Karaoke,,0,0,0,fx,{\an5\blur0\pos(774.7,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,520,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}no
+Dialogue: 1,0:01:37.13,0:01:39.01,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(858.5,59)\fad(300,0)}KO
+Dialogue: 2,0:01:39.01,0:01:39.54,Karaoke,,0,0,0,fx,{\an5\blur0\pos(858.5,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,280,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}KO
+Dialogue: 1,0:01:37.18,0:01:39.29,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(929.1,59)\fad(300,0)}IN
+Dialogue: 2,0:01:39.29,0:01:40.26,Karaoke,,0,0,0,fx,{\an5\blur0\pos(929.1,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,720,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}IN
+Dialogue: 1,0:01:39.59,0:01:39.99,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(306.2,59)\fad(300,0)}
+Dialogue: 2,0:01:39.99,0:01:40.44,Karaoke,,0,0,0,fx,{\an5\blur0\pos(306.2,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,200,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}
+Dialogue: 1,0:01:39.64,0:01:40.19,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(336.1,59)\fad(300,0)}So
+Dialogue: 2,0:01:40.19,0:01:40.68,Karaoke,,0,0,0,fx,{\an5\blur0\pos(336.1,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,240,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}So
+Dialogue: 1,0:01:39.69,0:01:40.43,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(391.9,59)\fad(300,0)}re
+Dialogue: 2,0:01:40.43,0:01:40.86,Karaoke,,0,0,0,fx,{\an5\blur0\pos(391.9,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,180,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}re
+Dialogue: 1,0:01:39.74,0:01:40.61,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(440,59)\fad(300,0)}to
+Dialogue: 2,0:01:40.61,0:01:40.97,Karaoke,,0,0,0,fx,{\an5\blur0\pos(440,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,110,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}to
+Dialogue: 1,0:01:39.79,0:01:40.72,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(526.6,59)\fad(300,0)}You
+Dialogue: 2,0:01:40.72,0:01:41.23,Karaoke,,0,0,0,fx,{\an5\blur0\pos(526.6,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,260,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}You
+Dialogue: 1,0:01:39.84,0:01:40.98,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(642.8,59)\fad(300,0)}wan
+Dialogue: 2,0:01:40.98,0:01:41.37,Karaoke,,0,0,0,fx,{\an5\blur0\pos(642.8,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,140,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}wan
+Dialogue: 1,0:01:39.89,0:01:41.12,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(724.8,59)\fad(300,0)}na
+Dialogue: 2,0:01:41.12,0:01:41.56,Karaoke,,0,0,0,fx,{\an5\blur0\pos(724.8,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,190,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}na
+Dialogue: 1,0:01:39.94,0:01:41.31,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(798.7,59)\fad(300,0)}be
+Dialogue: 2,0:01:41.31,0:01:41.92,Karaoke,,0,0,0,fx,{\an5\blur0\pos(798.7,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,360,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}be
+Dialogue: 1,0:01:39.99,0:01:41.67,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(880.5,59)\fad(300,0)}my
+Dialogue: 2,0:01:41.67,0:01:42.22,Karaoke,,0,0,0,fx,{\an5\blur0\pos(880.5,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,300,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}my
+Dialogue: 1,0:01:40.04,0:01:41.97,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(1034.3,59)\fad(300,0)}Friend?
+Dialogue: 2,0:01:41.97,0:01:43.43,Karaoke,,0,0,0,fx,{\an5\blur0\pos(1034.3,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,1210,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}Friend?
+Dialogue: 1,0:01:43.09,0:01:43.49,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(347.9,59)\fad(300,0)}
+Dialogue: 2,0:01:43.49,0:01:43.86,Karaoke,,0,0,0,fx,{\an5\blur0\pos(347.9,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,120,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}
+Dialogue: 1,0:01:43.14,0:01:43.61,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(389.1,59)\fad(300,0)}We
+Dialogue: 2,0:01:43.61,0:01:44.40,Karaoke,,0,0,0,fx,{\an5\blur0\pos(389.1,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,540,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}We
+Dialogue: 1,0:01:43.19,0:01:44.15,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(494,59)\fad(300,0)}are,
+Dialogue: 2,0:01:44.15,0:01:45.31,Karaoke,,0,0,0,fx,{\an5\blur0\pos(494,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,910,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}are,
+Dialogue: 1,0:01:43.24,0:01:45.06,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(599,59)\fad(300,0)}We
+Dialogue: 2,0:01:45.06,0:01:45.84,Karaoke,,0,0,0,fx,{\an5\blur0\pos(599,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,530,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}We
+Dialogue: 1,0:01:43.29,0:01:45.59,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(695.6,59)\fad(300,0)}are
+Dialogue: 2,0:01:45.59,0:01:46.34,Karaoke,,0,0,0,fx,{\an5\blur0\pos(695.6,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,500,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}are
+Dialogue: 1,0:01:43.34,0:01:46.09,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(781,59)\fad(300,0)}on
+Dialogue: 2,0:01:46.09,0:01:46.54,Karaoke,,0,0,0,fx,{\an5\blur0\pos(781,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,200,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}on
+Dialogue: 1,0:01:43.39,0:01:46.29,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(866,59)\fad(300,0)}the
+Dialogue: 2,0:01:46.29,0:01:46.71,Karaoke,,0,0,0,fx,{\an5\blur0\pos(866,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,170,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}the
+Dialogue: 1,0:01:43.44,0:01:46.46,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(1006.5,59)\fad(300,0)}cruise!
+Dialogue: 2,0:01:46.46,0:01:48.31,Karaoke,,0,0,0,fx,{\an5\blur0\pos(1006.5,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,1600,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}cruise!
+Dialogue: 1,0:01:48.47,0:01:48.87,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(621.4,59)\fad(300,0)}
+Dialogue: 2,0:01:48.87,0:01:49.29,Karaoke,,0,0,0,fx,{\an5\blur0\pos(621.4,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,170,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}
+Dialogue: 1,0:01:48.52,0:01:49.04,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(662.6,59)\fad(300,0)}We
+Dialogue: 2,0:01:49.04,0:01:49.59,Karaoke,,0,0,0,fx,{\an5\blur0\pos(662.6,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,300,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}We
+Dialogue: 1,0:01:48.57,0:01:49.34,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(769.4,59)\fad(300,0)}are!
+Dialogue: 2,0:01:49.34,0:01:49.97,Karaoke,,0,0,0,fx,{\an5\blur0\pos(769.4,59)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,380,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}are!
+Dialogue: 1,0:00:30.06,0:00:30.46,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(720,23)\fad(300,0)}
+Dialogue: 2,0:00:30.46,0:00:30.71,Karaoke,,0,0,0,fx,{\an5\blur0\pos(720,23)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,0,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}

@@ -1,66 +1,87 @@
 {
   "AL_1": {
-    "srt": "AL_1.srt"
+    "srt": "AL_1.srt",
+    "ass": "AL_1.ass"
   },
   "AL_2": {
-    "srt": "AL_2.srt"
+    "srt": "AL_2.srt",
+    "ass": "AL_2.ass"
   },
   "AL_3": {
-    "srt": "AL_3.srt"
+    "srt": "AL_3.srt",
+    "ass": "AL_3.ass"
   },
   "AL_4": {
-    "srt": "AL_4.srt"
+    "srt": "AL_4.srt",
+    "ass": "AL_4.ass"
   },
   "AL_5": {
-    "srt": "AL_5.srt"
+    "srt": "AL_5.srt",
+    "ass": "AL_5.ass"
   },
   "AL_6": {
-    "srt": "AL_6.srt"
+    "srt": "AL_6.srt",
+    "ass": "AL_6.ass"
   },
   "AL_7": {
-    "srt": "AL_7.srt"
+    "srt": "AL_7.srt",
+    "ass": "AL_7.ass"
   },
   "AL_8": {
-    "srt": "AL_8.srt"
+    "srt": "AL_8.srt",
+    "ass": "AL_8.ass"
   },
   "AL_9": {
-    "srt": "AL_9.srt"
+    "srt": "AL_9.srt",
+    "ass": "AL_9.ass"
   },
   "AL_10": {
-    "srt": "AL_10.srt"
+    "srt": "AL_10.srt",
+    "ass": "AL_10.ass"
   },
   "AL_11": {
-    "srt": "AL_11.srt"
+    "srt": "AL_11.srt",
+    "ass": "AL_11.ass"
   },
   "AL_12": {
-    "srt": "AL_12.srt"
+    "srt": "AL_12.srt",
+    "ass": "AL_12.ass"
   },
   "AL_13": {
-    "srt": "AL_13.srt"
+    "srt": "AL_13.srt",
+    "ass": "AL_13.ass"
   },
   "AL_14": {
-    "srt": "AL_14.srt"
+    "srt": "AL_14.srt",
+    "ass": "AL_14.ass"
   },
   "AL_15": {
-    "srt": "AL_15.srt"
+    "srt": "AL_15.srt",
+    "ass": "AL_15.ass"
   },
   "AL_16": {
-    "srt": "AL_16.srt"
+    "srt": "AL_16.srt",
+    "ass": "AL_16.ass"
   },
   "AL_17": {
-    "srt": "AL_17.srt"
+    "srt": "AL_17.srt",
+    "ass": "AL_17.ass"
   },
   "AL_18": {
-    "srt": "AL_18.srt"
+    "srt": "AL_18.srt",
+    "ass": "AL_18.ass"
   },
   "AL_19": {
-    "srt": "AL_19.srt"
+    "srt": "AL_19.srt",
+    "ass": "AL_19.ass"
   },
   "AL_20": {
-    "srt": "AL_20.srt"
+    "srt": "AL_20.srt",
+    "ass": "AL_20.ass"
   },
   "AL_21": {
-    "srt": "AL_21.srt"
+    "srt": "AL_21.srt",
+    "ass": "AL_21.ass"
   },
   "AR_1": {
     "srt": "AR_1.srt",
@@ -139,76 +160,100 @@
     "ass": "BA_9.ass"
   },
   "BUGGYS_CREW_1": {
-    "srt": "BUGGYS_CREW_1.srt"
+    "srt": "BUGGYS_CREW_1.srt",
+    "ass": "BUGGYS_CREW_1.ass"
   },
   "COVER_KOBYMEPPO_1": {
-    "srt": "COVER_KOBYMEPPO_1.srt"
+    "srt": "COVER_KOBYMEPPO_1.srt",
+    "ass": "COVER_KOBYMEPPO_1.ass"
   },
   "DI_1": {
-    "srt": "DI_1.srt"
+    "srt": "DI_1.srt",
+    "ass": "DI_1.ass"
   },
   "DI_2": {
-    "srt": "DI_2.srt"
+    "srt": "DI_2.srt",
+    "ass": "DI_2.ass"
   },
   "DI_3": {
-    "srt": "DI_3.srt"
+    "srt": "DI_3.srt",
+    "ass": "DI_3.ass"
   },
   "DI_4": {
-    "srt": "DI_4.srt"
+    "srt": "DI_4.srt",
+    "ass": "DI_4.ass"
   },
   "DI_5": {
-    "srt": "DI_5.srt"
+    "srt": "DI_5.srt",
+    "ass": "DI_5.ass"
   },
   "DI_6": {
-    "srt": "DI_6.srt"
+    "srt": "DI_6.srt",
+    "ass": "DI_6.ass"
   },
   "DI_7": {
-    "srt": "DI_7.srt"
+    "srt": "DI_7.srt",
+    "ass": "DI_7.ass"
   },
   "DI_8": {
-    "srt": "DI_8.srt"
+    "srt": "DI_8.srt",
+    "ass": "DI_8.ass"
   },
   "GA_1": {
-    "srt": "GA_1.srt"
+    "srt": "GA_1.srt",
+    "ass": "GA_1.ass"
   },
   "JA_1": {
-    "srt": "JA_1.srt"
+    "srt": "JA_1.srt",
+    "ass": "JA_1.ass"
   },
   "JA_2": {
-    "srt": "JA_2.srt"
+    "srt": "JA_2.srt",
+    "ass": "JA_2.ass"
   },
   "JA_3": {
-    "srt": "JA_3.srt"
+    "srt": "JA_3.srt",
+    "ass": "JA_3.ass"
   },
   "JA_4": {
-    "srt": "JA_4.srt"
+    "srt": "JA_4.srt",
+    "ass": "JA_4.ass"
   },
   "JA_5": {
-    "srt": "JA_5.srt"
+    "srt": "JA_5.srt",
+    "ass": "JA_5.ass"
   },
   "JA_6": {
-    "srt": "JA_6.srt"
+    "srt": "JA_6.srt",
+    "ass": "JA_6.ass"
   },
   "JA_7": {
-    "srt": "JA_7.srt"
+    "srt": "JA_7.srt",
+    "ass": "JA_7.ass"
   },
   "JA_8": {
-    "srt": "JA_8.srt"
+    "srt": "JA_8.srt",
+    "ass": "JA_8.ass"
   },
   "LI_1": {
-    "srt": "LI_1.srt"
+    "srt": "LI_1.srt",
+    "ass": "LI_1.ass"
   },
   "LI_2": {
-    "srt": "LI_2.srt"
+    "srt": "LI_2.srt",
+    "ass": "LI_2.ass"
   },
   "LI_3": {
-    "srt": "LI_3.srt"
+    "srt": "LI_3.srt",
+    "ass": "LI_3.ass"
   },
   "LI_4": {
-    "srt": "LI_4.srt"
+    "srt": "LI_4.srt",
+    "ass": "LI_4.ass"
   },
   "LI_5": {
-    "srt": "LI_5.srt"
+    "srt": "LI_5.srt",
+    "ass": "LI_5.ass"
   },
   "LO_1": {
     "srt": "LO_1.srt",
@@ -223,43 +268,56 @@
     "ass": "LO_3.ass"
   },
   "OR_1": {
-    "srt": "OR_1.srt"
+    "srt": "OR_1.srt",
+    "ass": "OR_1.ass"
   },
   "OR_2": {
-    "srt": "OR_2.srt"
+    "srt": "OR_2.srt",
+    "ass": "OR_2.ass"
   },
   "OR_3": {
-    "srt": "OR_3.srt"
+    "srt": "OR_3.srt",
+    "ass": "OR_3.ass"
   },
   "RM_1": {
-    "srt": "RM_1.srt"
+    "srt": "RM_1.srt",
+    "ass": "RM_1.ass"
   },
   "RM_2": {
-    "srt": "RM_2.srt"
+    "srt": "RM_2.srt",
+    "ass": "RM_2.ass"
   },
   "RO_1": {
-    "srt": "RO_1.srt"
+    "srt": "RO_1.srt",
+    "ass": "RO_1.ass"
   },
   "RO_2": {
-    "srt": "RO_2.srt"
+    "srt": "RO_2.srt",
+    "ass": "RO_2.ass"
   },
   "RO_3": {
-    "srt": "RO_3.srt"
+    "srt": "RO_3.srt",
+    "ass": "RO_3.ass"
   },
   "RO_4": {
-    "srt": "RO_4.srt"
+    "srt": "RO_4.srt",
+    "ass": "RO_4.ass"
   },
   "SK_1": {
-    "srt": "SK_1.srt"
+    "srt": "SK_1.srt",
+    "ass": "SK_1.ass"
   },
   "SK_2": {
-    "srt": "SK_2.srt"
+    "srt": "SK_2.srt",
+    "ass": "SK_2.ass"
   },
   "SK_3": {
-    "srt": "SK_3.srt"
+    "srt": "SK_3.srt",
+    "ass": "SK_3.ass"
   },
   "SK_4": {
-    "srt": "SK_4.srt"
+    "srt": "SK_4.srt",
+    "ass": "SK_4.ass"
   },
   "SK_5": {
     "srt": "SK_5.srt",
@@ -346,32 +404,40 @@
     "ass": "SK_25.ass"
   },
   "SY_1": {
-    "srt": "SY_1.srt"
+    "srt": "SY_1.srt",
+    "ass": "SY_1.ass"
   },
   "SY_2": {
     "srt": "SY_2.srt",
     "ass": "SY_2.ass"
   },
   "SY_3": {
-    "srt": "SY_3.srt"
+    "srt": "SY_3.srt",
+    "ass": "SY_3.ass"
   },
   "SY_4": {
-    "srt": "SY_4.srt"
+    "srt": "SY_4.srt",
+    "ass": "SY_4.ass"
   },
   "SY_5": {
-    "srt": "SY_5.srt"
+    "srt": "SY_5.srt",
+    "ass": "SY_5.ass"
   },
   "SY_6": {
-    "srt": "SY_6.srt"
+    "srt": "SY_6.srt",
+    "ass": "SY_6.ass"
   },
   "SY_7": {
-    "srt": "SY_7.srt"
+    "srt": "SY_7.srt",
+    "ass": "SY_7.ass"
   },
   "WH_1": {
-    "srt": "WH_1.srt"
+    "srt": "WH_1.srt",
+    "ass": "WH_1.ass"
   },
   "WH_2": {
-    "srt": "WH_2.srt"
+    "srt": "WH_2.srt",
+    "ass": "WH_2.ass"
   },
   "WS_1": {
     "srt": "WS_1.srt",
