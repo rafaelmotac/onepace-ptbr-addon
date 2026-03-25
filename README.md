@@ -18,17 +18,23 @@ Each episode offers two subtitle options:
 - **Portuguese** — clean SRT, compatible with any player
 - **PT-BR Styled** — ASS with original formatting (signs, positioning, effects)
 
-## Available Episodes
+## Available Episodes (465 total)
 
 | Saga | Arcs | Episodes |
 |------|------|:--------:|
 | East Blue | Romance Dawn, Orange Town, Syrup Village, Gaimon, Baratie, Arlong Park, Buggy's Crew, Loguetown | 38 |
 | Alabasta | Reverse Mountain, Whisky Peak, Koby-Meppo, Little Garden, Drum Island, Alabasta | 39 |
 | Skypiea | Jaya, Skypiea | 33 |
-| Water Seven | Water Seven | 20 |
-| *In progress* | Enies Lobby, Post War, Egghead, and more... | +134 |
+| Water Seven | Long Ring Long Land, Water Seven, Enies Lobby, Post-Enies Lobby | 57 |
+| Thriller Bark | Thriller Bark | 22 |
+| Marineford | Sabaody, Amazon Lily, Impel Down, Straw Hats Adventures, Marineford, Post-War | 52 |
+| Fishman Island | Return to Sabaody, Fishman Island | 27 |
+| Dressrosa | Punk Hazard, Dressrosa, Zou | 80 |
+| Whole Cake Island | Whole Cake Island, Wapol's Omnivorous Hurrah, Reverie | 43 |
+| Wano | Wano (Acts 1-3) | 54 |
+| Egghead | Egghead | 20 |
 
-> The addon is updated as new translations become available.
+> Subtitles sourced from [onepaceptbr](https://onepaceptbr.github.io/) community translations and the [official One Pace subtitles repo](https://github.com/one-pace/one-pace-public-subtitles).
 
 ## Run Locally
 
@@ -48,21 +54,15 @@ To use on your local network (e.g. TV in the living room), replace `127.0.0.1` w
 ### From the official One Pace repo
 
 ```bash
-# Clone the subtitles repo
 git clone https://github.com/one-pace/one-pace-public-subtitles.git
-
-# Convert ASS -> SRT
 npm run convert
 ```
 
 ### From Google Drive (onepaceptbr)
 
 ```bash
-# Download all subtitles from onepaceptbr.github.io
 npm run download
-
-# Or just list what would be downloaded
-npm run download:dry
+npm run download:dry  # list only
 ```
 
 ## Project Structure
@@ -72,6 +72,7 @@ onepace-ptbr-addon/
 ├── index.js                     # Stremio addon (ESM)
 ├── package.json
 ├── Procfile                     # Beamup/Heroku deploy
+├── logo.png                     # Addon logo
 ├── subs/                        # Subtitles
 │   ├── mapping.json             # Episode ID -> file mapping
 │   ├── RO_1.srt                 # SRT (clean text)
