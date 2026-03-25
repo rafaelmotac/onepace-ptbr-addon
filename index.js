@@ -48,20 +48,31 @@ builder.defineSubtitlesHandler(async ({ type, id, extra }) => {
   console.log(`🔍 Request: type=${type} id=${id} videoID=${videoID}`);
 
   if (Object.hasOwn(subtitleMap, videoID)) {
-    const srtFile = subtitleMap[videoID];
-    const srtUrl = `${SUBS_BASE_URL}/${srtFile}`;
+    const entry = subtitleMap[videoID];
+    const srtFile = typeof entry === "string" ? entry : entry.srt;
+    const assFile = typeof entry === "object" ? entry.ass : null;
+    const subtitles = [];
 
-    console.log(`  ✅ ${videoID} → ${srtFile}`);
+    if (srtFile) {
+      subtitles.push({
+        id: `onepace-ptbr-${videoID}`,
+        url: `${SUBS_BASE_URL}/${srtFile}`,
+        lang: "por",
+      });
+    }
 
-    return {
-      subtitles: [
-        {
-          id: `onepace-ptbr-${videoID}`,
-          url: srtUrl,
-          lang: "por",
-        },
-      ],
-    };
+    if (assFile) {
+      subtitles.push({
+        id: `onepace-ptbr-styled-${videoID}`,
+        url: `${SUBS_BASE_URL}/${assFile}`,
+        lang: "por",
+        title: "PT-BR (Estilizado)",
+      });
+    }
+
+    console.log(`  ✅ ${videoID} → ${subtitles.length} opções`);
+
+    return { subtitles };
   }
 
   return { subtitles: [] };
