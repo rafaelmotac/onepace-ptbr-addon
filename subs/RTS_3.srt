@@ -1,2140 +1,2090 @@
 1
-00:00:00,000 --> 00:00:09,990
-Your media player does not support the subtitle format used in this episode.
-Subtitles will likely not function properly.
-Please use one of the recommended video players, preferably mpv:
-https://mpv.io
+00:02:15,830 --> 00:02:17,070
+O quê?! Ah...
 
 2
-00:02:32,510 --> 00:02:42,500
-Your media player does not support the subtitle format used in this episode.
-Subtitles will likely not function properly.
-Please use one of the recommended video players, preferably mpv:
-https://mpv.io
+00:02:23,300 --> 00:02:24,840
+Imbecis!
 
 3
-00:02:15,850 --> 00:02:17,090
-O quê?! Ah...!
+00:02:24,840 --> 00:02:27,040
+Por causa de vocês ele escapou!
 
 4
-00:02:23,310 --> 00:02:24,870
-Seus idiotas!
+00:02:27,040 --> 00:02:29,510
+Ele era nossa galinha dos ovos dourados.
 
 5
-00:02:24,870 --> 00:02:27,060
-A culpa é de vocês que ele escapou!
+00:02:31,880 --> 00:02:35,520
+Ei, seus idiotas! Vamos prender todos
+vocês que estão atrapalhando!
 
 6
-00:02:27,060 --> 00:02:29,530
-Ele era nossa galinha dos ovos de ouro!
+00:02:35,520 --> 00:02:39,020
+O que vocês estão fazendo, Marinha?!
+Não atrapalhem o Rei do Soul!
 
 7
-00:02:31,870 --> 00:02:35,110
-Saiam do caminho!
-Não pensem que a gente não vai prender todos vocês!
+00:02:39,020 --> 00:02:41,090
+Ei, o que está havendo aí?!
 
 8
-00:02:35,110 --> 00:02:38,680
-O que vocês estão fazendo, Marinheiros?!
-Não interrompam o Soul King!
+00:02:41,090 --> 00:02:42,760
+O pânico é geral!
 
 9
-00:02:38,680 --> 00:02:41,110
-Ei, o que tá acontecendo lá dentro?
+00:02:42,760 --> 00:02:45,260
+A Marinha veio prender o Rei do Soul,
 
 10
-00:02:41,110 --> 00:02:42,850
-Tá um tumulto!
+00:02:45,260 --> 00:02:47,230
+e está sendo impedida pelos fãs!
 
 11
-00:02:42,850 --> 00:02:46,720
-Os Marinheiros invadiram de repente
-pra prender o Soul King,
+00:02:47,230 --> 00:02:50,400
+E de alguma forma, ele conseguiu fugir!
 
 12
-00:02:47,280 --> 00:02:50,390
-mas ele escapou porque
-os fãs bloquearam os perseguidores!
+00:02:50,700 --> 00:02:53,800
+Maldito traidor!
 
 13
-00:02:50,390 --> 00:02:53,760
-Droga! Aquele traidor...!
+00:02:54,340 --> 00:02:56,370
+Sim, notícias urgentes!
 
 14
-00:02:54,360 --> 00:02:56,390
-Isso mesmo! Essa é uma grande notícia!
+00:02:56,740 --> 00:03:00,740
+O músico Brook é pirata e companheiro
+de Luffy do Chapéu de Palha!
 
 15
-00:02:56,390 --> 00:02:59,260
-O músico Brook faz parte
-da tripulação do Chapéu de Palha!
+00:03:07,580 --> 00:03:11,720
+Obrigado! Chegou em bora hora!
 
 16
-00:02:59,260 --> 00:03:00,760
-Ele na verdade é um pirata!
+00:03:11,990 --> 00:03:13,790
+A irmã Shakky pediu pra ajudar!
 
 17
-00:03:07,670 --> 00:03:11,740
-Muito obrigado!
-Isso é que é ter timing.
+00:03:13,790 --> 00:03:16,560
+Seus companheiros estão te
+esperando no Mangue #42!
 
 18
-00:03:11,740 --> 00:03:16,580
-A Shakky-nee me mandou! Seus amigos
-devem estar esperando no Grove 42!
+00:03:16,560 --> 00:03:19,990
+Há quanto tempo! Meu coração já
+está batendo de ansiedade!
 
 19
-00:03:16,580 --> 00:03:20,080
-Faz tempo! Meu coração tá
-cheio de expectativa!
+00:03:19,990 --> 00:03:23,230
+Se bem que eu não tenho coração...
 
 20
-00:03:20,080 --> 00:03:23,220
-Ah, eu não tenho um coração pra encher.
+00:03:28,700 --> 00:03:30,770
+Ah, é mesmo!
 
 21
-00:03:29,560 --> 00:03:30,690
-Isso mesmo!
+00:03:30,770 --> 00:03:33,710
+A Marinha entrou em ação,
+e o Luffy está na ilha!
 
 22
-00:03:30,690 --> 00:03:33,630
-Os Marinheiros estão se movendo,
-e o Luffy tá na área!
+00:03:33,710 --> 00:03:38,210
+Nós vamos levar o Sunny até
+o Mangue #42! Encontrem a gente lá!
 
 23
-00:03:33,630 --> 00:03:38,100
-Estamos levando o Sunny pro Grove 42,
-então nos vemos lá!
-
-24
-00:03:38,100 --> 00:03:39,240
+00:03:38,210 --> 00:03:39,250
 Entendido.
 
+24
+00:03:40,080 --> 00:03:40,750
+O que ele queria?
+
 25
-00:03:39,940 --> 00:03:40,740
-O que foi isso?
+00:03:40,750 --> 00:03:42,550
+Não ouviu?
 
 26
-00:03:40,740 --> 00:03:42,470
-Ei, você não tava ouvindo?
+00:03:42,880 --> 00:03:44,150
+Bom...
 
 27
-00:03:42,470 --> 00:03:44,240
-Como eu posso dizer...?
+00:03:44,850 --> 00:03:50,630
+Marinha. Vindo. Nós. Correr. Navio.
 
 28
-00:03:44,880 --> 00:03:50,610
-Marinheiros. Vindo. Nós. Navio. Fugir.
-
-29
-00:03:51,180 --> 00:03:52,150
+00:03:51,230 --> 00:03:52,230
 Entendeu?
 
+29
+00:03:52,230 --> 00:03:54,560
+Não! Por que está falando dessa maneira?!
+
 30
-00:03:52,150 --> 00:03:55,750
-Eu entenderia melhor se você falasse normalmente!
+00:03:54,560 --> 00:03:55,830
+Forme uma sentença!
 
 31
-00:03:56,690 --> 00:03:59,490
-Mas frases completas são difíceis pra cabeça-dura.
+00:03:56,800 --> 00:03:59,670
+Achei que um brutamontes feito você
+não entendesse orações complexas...
 
 32
-00:03:59,490 --> 00:04:00,290
-O quê?!
+00:04:00,970 --> 00:04:05,040
+Tudo bem. Você. Depois. Fatiado.
 
 33
-00:04:00,960 --> 00:04:05,260
-Tá bom. Você. Depois. Cortado.
-
-34
-00:04:05,260 --> 00:04:06,660
+00:04:05,510 --> 00:04:06,640
 Tá, tá.
 
+34
+00:04:06,640 --> 00:04:09,110
+Aliás, ouviu aquele bafafá?
+
 35
-00:04:06,660 --> 00:04:08,900
-Aliás, você tá ouvindo esse barulho?
+00:04:09,070 --> 00:04:09,630
+Ahn?
 
 36
-00:04:08,900 --> 00:04:09,630
-Hã?
+00:04:12,180 --> 00:04:14,920
+É verdade. Barulho. Ali.
 
 37
-00:04:12,170 --> 00:04:14,840
-De fato. Lá. Barulho.
+00:04:23,320 --> 00:04:26,030
+Silêncio, seus canalhas!
 
 38
-00:04:23,350 --> 00:04:25,580
-Calem a boca, todos vocês!
+00:04:28,100 --> 00:04:33,870
+Já achamos um dos criminosos
+que me insultaram!
 
 39
-00:04:28,190 --> 00:04:31,360
-A gente encontrou
-um dos culpados...
+00:04:35,040 --> 00:04:36,440
+É ele!
 
 40
-00:04:31,360 --> 00:04:33,890
-que ousou me desrespeitar!
+00:04:36,390 --> 00:04:37,090
+Ahn?
 
 41
-00:04:35,060 --> 00:04:37,090
-Esse cara!
+00:04:37,340 --> 00:04:39,940
+Primeiro, eu vou ensinar uma lição a ele!
 
 42
-00:04:36,390 --> 00:04:37,090
-Hã?
+00:04:40,410 --> 00:04:44,280
+Vou mostrar o quanto sou temível!
 
 43
-00:04:37,090 --> 00:04:40,230
-Vou começar dando uma lição nesse cara!
+00:04:44,580 --> 00:04:47,450
+E quero que isto que vou fazer com ele
 
 44
-00:04:40,230 --> 00:04:44,230
-Ele vai aprender a não mexer comigo!
+00:04:47,750 --> 00:04:50,890
+sirva de aviso para vocês, meus homens!
 
 45
-00:04:44,230 --> 00:04:47,370
-E o que eu vou fazer com ele...
+00:04:50,890 --> 00:04:54,090
+Se tentarem me sacanear,
+é assim que vão acabar!
 
 46
-00:04:47,370 --> 00:04:50,810
-vai servir de aviso pra cada
-um de vocês!
+00:04:54,660 --> 00:04:56,860
+Me fiz entender?!
 
 47
-00:04:50,810 --> 00:04:54,010
-Se mexer comigo, é assim
-que você vai acabar!
+00:04:58,590 --> 00:05:02,000
+Um homem com recompensa de 400 milhões
+é mesmo de dar medo!
 
 48
-00:04:54,650 --> 00:04:56,780
-Entenderam, seus vermes?!
+00:05:02,330 --> 00:05:03,900
+Qual é a dele?
 
 49
-00:04:58,220 --> 00:05:01,950
-Um cara com uma recompensa de
-400 milhões de belly é assustador mesmo!
+00:05:03,900 --> 00:05:06,600
+Zoro, Sanji, conhecem ele?
 
 50
-00:05:01,950 --> 00:05:03,850
-Qual é o problema desse cara?
+00:05:06,560 --> 00:05:07,120
+Ahn?
 
 51
-00:05:03,850 --> 00:05:06,560
-Zoro, Sanji, vocês conhecem ele?
+00:05:07,300 --> 00:05:08,400
+Sabe, é que...
 
 52
-00:05:06,560 --> 00:05:07,120
-Hã?
+00:05:09,840 --> 00:05:12,440
+Já chega, seus piratas!
 
 53
-00:05:07,120 --> 00:05:08,360
-É que, antes...
+00:05:13,110 --> 00:05:17,710
+Luffy do Chapéu de Palha e seguidores!
+Rendam-se sem resistir!
 
 54
-00:05:09,860 --> 00:05:12,400
-Fim da linha, piratas!
+00:05:17,710 --> 00:05:18,950
+A Marinha?!
 
 55
-00:05:13,100 --> 00:05:17,630
-Chapéu de Palha Luffy e todos os seus
-seguidores, se rendam agora!
+00:05:19,110 --> 00:05:23,120
+Estamos bloqueando todas
+as saídas do Mangue #46!
 
 56
-00:05:17,630 --> 00:05:18,870
-O-Os Marinheiros...?!
+00:05:23,120 --> 00:05:25,050
+Vocês não vão conseguir fugir!
 
 57
-00:05:18,870 --> 00:05:23,070
-Bloqueamos todas as saídas do Grove 46!
+00:05:25,550 --> 00:05:28,460
+Hã?! Como é que a Marinha me descobriu?
 
 58
-00:05:23,070 --> 00:05:24,980
-Não tem como escapar agora!
+00:05:29,720 --> 00:05:30,990
+O que você disse?
 
 59
-00:05:25,580 --> 00:05:28,380
-C... Como os Marinheiros descobriram sobre mim?
+00:05:30,990 --> 00:05:33,760
+Capitão, estamos cercados pela Marinha!
 
 60
-00:05:29,610 --> 00:05:30,950
-O que você quer dizer com isso?!
+00:05:33,760 --> 00:05:35,800
+Idiota! Não entre em pânico!
 
 61
-00:05:30,950 --> 00:05:33,550
-Ei, Capitão! Estamos cercados!
+00:05:35,800 --> 00:05:38,030
+É pra isso que recrutamos
+os novos membros!
 
 62
-00:05:33,550 --> 00:05:35,720
-Não entre em pânico, idiota!
+00:05:38,030 --> 00:05:40,230
+Temos homens com recompensas
+de mais de 100 milhões!
 
 63
-00:05:35,720 --> 00:05:37,960
-Pra que você acha que a gente
-recrutou esses membros novos?!
+00:05:40,230 --> 00:05:41,570
+Mas são muitos...
 
 64
-00:05:37,960 --> 00:05:40,120
-Alguns deles valem mais de 100 milhões!
+00:05:41,570 --> 00:05:42,770
+Idiota! Olha só!
 
 65
-00:05:40,120 --> 00:05:41,490
-Mas a gente tá em desvantagem numérica...
-
-66
-00:05:41,490 --> 00:05:42,690
-Fica olhando, imbecil!
-
-67
-00:05:44,360 --> 00:05:46,060
+00:05:44,340 --> 00:05:46,110
 Ei, Caribou!
 
+66
+00:05:46,110 --> 00:05:48,940
+Use aquele soldado da Marinha
+como refém para abrir caminho!
+
+67
+00:05:49,380 --> 00:05:50,680
+Soldado da Marinha?
+
 68
-00:05:46,060 --> 00:05:48,870
-Usa aquele Marinheiro de escudo pra abrir caminho!
+00:05:50,680 --> 00:05:54,020
+Eles pegaram nosso espião!
 
 69
-00:05:49,470 --> 00:05:50,630
-Ele disse "Marinheiro"...?
+00:05:54,320 --> 00:05:55,480
+Droga, maldição!
 
 70
-00:05:50,630 --> 00:05:54,270
-Parece que capturaram um dos nossos batedores!
+00:05:55,880 --> 00:05:58,020
+O que está fazendo, Caribou?!
 
 71
-00:05:54,270 --> 00:05:55,440
-Droga, isso não é bom!
+00:05:58,020 --> 00:06:00,490
+Nós vamos usá-lo para fugir daqui!
 
 72
-00:05:55,910 --> 00:05:57,670
-O que você tá fazendo, Caribou?!
+00:06:02,080 --> 00:06:06,620
+Não vai dar, Grande Líder!
 
 73
-00:05:57,670 --> 00:06:00,510
-Usar ele é nosso passaporte pra sair daqui!
+00:06:05,820 --> 00:06:06,620
+O que?
 
 74
-00:06:02,080 --> 00:06:06,620
-Eu não posso fazer isso, Chefão!
+00:06:07,400 --> 00:06:13,670
+Porque este soldado aqui mentiu pra mim,
+quando disse que não chamou a Marinha!
 
 75
-00:06:05,820 --> 00:06:06,620
-O quê?
+00:06:15,040 --> 00:06:16,040
+Não, idiota!
 
 76
-00:06:07,120 --> 00:06:09,620
-Porque esse soldado mentiu...
+00:06:24,750 --> 00:06:28,420
+Aquele imbecil ignorou ordens do capitão!
 
 77
-00:06:09,620 --> 00:06:13,260
-Ele disse que ainda não tinha chamado os Marinheiros!
+00:06:29,180 --> 00:06:31,320
+Ah, ele aprontou mais uma...
 
 78
-00:06:14,860 --> 00:06:15,760
-Não faça isso!
+00:06:32,020 --> 00:06:37,590
+Eles acham que podem mentir à vontade
+para nós porque somos os vilões,
 
 79
-00:06:24,840 --> 00:06:28,440
-Aquele maluco ignorou minha ordem!
+00:06:37,590 --> 00:06:39,660
+mas isso precisa mudar!
 
 80
-00:06:29,270 --> 00:06:31,340
-Eita, ele fez mesmo...
+00:06:41,260 --> 00:06:44,370
+Vocês parecem não ter nenhuma
+intenção de se renderem!
 
 81
-00:06:32,110 --> 00:06:37,650
-Eles parecem seguir uma regra suja
-que permite mentir pros inimigos!
+00:06:44,870 --> 00:06:46,830
+Derrotem esses piratas!
 
 82
-00:06:37,650 --> 00:06:39,680
-Cara, que coisa mais desagradável!
+00:06:48,940 --> 00:06:53,510
+Idiotas! Nosso chefe é um homem
+de 400 milhões, Luffy do Chapéu de Palha!
 
 83
-00:06:41,080 --> 00:06:44,350
-Então nenhum de vocês
-tem intenção de se render!
+00:06:53,510 --> 00:06:55,140
+Vamos lutar!
 
 84
-00:06:44,890 --> 00:06:46,890
-Atrás deles! Peguem os piratas!
+00:06:58,750 --> 00:07:00,650
+Ah, não, Capitão! Vamos fugir!
 
 85
-00:06:48,760 --> 00:06:53,500
-Idiotas! Nosso chefe vale 400 milhões!
-Ele é o Chapéu de Palha Luffy, sabia?!
+00:07:00,650 --> 00:07:02,980
+Idiotas, me escutem!
 
 86
-00:06:53,500 --> 00:06:55,200
-Pode vir!
+00:07:03,250 --> 00:07:06,820
+Hã? Por que eles estão
+me chamando de líder?
 
 87
-00:06:58,900 --> 00:07:00,770
-A situação tá feia, Capitão. Vamos fugir!
+00:07:07,190 --> 00:07:09,590
+Mas do que você está falando?!
 
 88
-00:07:00,770 --> 00:07:03,010
-Ingratos! Obedeçam o capitão!
+00:07:21,040 --> 00:07:23,270
+Não tenham medo! Avancem!
 
 89
-00:07:03,010 --> 00:07:06,840
-Hã? Por que estão me chamando de "chefe"?
+00:07:24,940 --> 00:07:25,970
+Você...
 
 90
-00:07:06,840 --> 00:07:09,610
-De novo, o que você quer dizer com isso?
+00:07:26,740 --> 00:07:30,780
+É Lip Service Doughty, um criminoso
+com 88 milhões de recompensa!
 
 91
-00:07:21,060 --> 00:07:23,730
-Não se assustem! Vamos!
+00:07:32,210 --> 00:07:34,720
+Gostei do seu jeito de lutar.
 
 92
-00:07:24,960 --> 00:07:26,030
-Você é...
+00:07:34,950 --> 00:07:36,920
+Não tenham medo!
+Preparem-se para atirar!
 
 93
-00:07:26,760 --> 00:07:30,830
-o que vale 88 milhões,
-Lip "Service" Doughty!
+00:07:41,190 --> 00:07:44,090
+Ele é o homem de 92 milhões...
 
 94
-00:07:32,300 --> 00:07:34,740
-Eu simplesmente adoro seu jeito de lutar.
+00:07:45,260 --> 00:07:46,660
+Albion, o Retalhado!
 
 95
-00:07:34,740 --> 00:07:36,940
-Não se assustem! Preparem-se pra atirar!
-
-96
-00:07:41,210 --> 00:07:44,350
-Ele tem uma recompensa de 92 milhões...
-
-97
-00:07:45,280 --> 00:07:46,980
-Albion, "o Mutilado"!
-
-98
-00:07:49,320 --> 00:07:52,420
+00:07:49,330 --> 00:07:52,400
 Não recuem! Lutem pela justiça!
 
+96
+00:07:52,400 --> 00:07:53,500
+Sim!
+
+97
+00:07:54,770 --> 00:08:00,010
+Sangue de gente hipócrita fede!
+
+98
+00:08:00,010 --> 00:08:03,010
+Um criminoso de 210 milhões,
+Caribou do Cabelo Molhado!
+
 99
-00:07:52,420 --> 00:07:53,420
-– É!
-– É!
+00:08:03,780 --> 00:08:05,350
+Renda-se!
 
 100
-00:07:54,830 --> 00:08:00,000
-O sangue dos hipócritas fede demais!
+00:08:06,610 --> 00:08:09,380
+O quê?! Você usa uma Akuma no Mi?!
 
 101
-00:08:00,000 --> 00:08:03,470
-Uma recompensa de 210 milhões...
-O pirata "Cabelo Molhado" Caribou!
+00:08:11,390 --> 00:08:13,820
+Não faça isso!
 
 102
-00:08:03,870 --> 00:08:05,270
-Se renda agora!
+00:08:13,820 --> 00:08:16,160
+Não faz bem se esforçar demais!
 
 103
-00:08:07,070 --> 00:08:09,370
-Espera... você comeu uma fruta do diabo?!
+00:08:18,230 --> 00:08:19,260
+Minha espada...
 
 104
-00:08:11,540 --> 00:08:13,810
-Você não devia ter feito isso!
+00:08:22,960 --> 00:08:24,900
+Ei! O que foi isso?!
 
 105
-00:08:13,810 --> 00:08:16,180
-Não faz bem se forçar demais!
+00:08:25,100 --> 00:08:26,530
+Pacifistas!
 
 106
-00:08:18,320 --> 00:08:19,280
-Minha espada...!
-
-107
-00:08:23,020 --> 00:08:25,020
-U-Uau! O que tá acontecendo agora?!
-
-108
-00:08:25,020 --> 00:08:26,720
-Pacifista!
-
-109
-00:08:26,720 --> 00:08:27,420
+00:08:26,700 --> 00:08:27,570
 O quê?!
 
+107
+00:08:34,280 --> 00:08:36,980
+O que as armas humanas
+da Marinha fazem aqui?!
+
+108
+00:08:38,650 --> 00:08:41,020
+São os homens-kuma!
+
+109
+00:08:41,020 --> 00:08:43,720
+Mas a Hancock falou pra eu
+não me meter em encrenca...
+
 110
-00:08:34,160 --> 00:08:36,930
-Por que as armas humanas dos Marinheiros estão aqui?!
+00:08:43,720 --> 00:08:47,860
+De novo, do que você
+está falando, afinal?!
 
 111
-00:08:38,470 --> 00:08:41,140
-São aqueles caras parecidos com o Kuma!
+00:08:53,530 --> 00:08:56,600
+Pirata Luffy do Chapéu de Palha. Confirmado.
 
 112
-00:08:41,140 --> 00:08:43,610
-Mas a Hancock disse pra eu não causar problemas...
+00:08:56,760 --> 00:09:00,670
+São Pacifistas de verdade?
+Estão mirando em mim?!
 
 113
-00:08:43,610 --> 00:08:47,910
-Sério, que diabos você
-quer dizer com isso?!
+00:09:02,140 --> 00:09:04,740
+Pacifistas, é? Agora ficou interessante!
 
 114
-00:08:53,320 --> 00:08:56,690
-Pirata Chapéu de Palha Luffy: Confirmado.
+00:09:10,480 --> 00:09:16,050
+Lip Service Doughty, de recompensa
+de 88 milhões. Silenciado.
 
 115
-00:08:56,690 --> 00:09:00,720
-São pacifistas de verdade?
-E estão atirando em mim?!
-
-116
-00:09:02,260 --> 00:09:04,730
-Pacifista, é? Que emocionante!
-
-117
-00:09:10,670 --> 00:09:16,210
-Recompensa de 88 milhões de belly,
-Lip "Service" Doughty: Neutralizado.
-
-118
-00:09:16,210 --> 00:09:18,080
+00:09:16,050 --> 00:09:18,120
 Capitão Doughty!
 
+116
+00:09:20,620 --> 00:09:24,130
+Sigam os Pacifistas! Peguem os piratas!
+
+117
+00:09:24,130 --> 00:09:24,960
+Sim!
+
+118
+00:09:25,130 --> 00:09:26,530
+Um golpe só?!
+
 119
-00:09:20,840 --> 00:09:24,180
-Sigam o pacifista! Capturem os piratas!
+00:09:26,530 --> 00:09:29,460
+Ele valia 88 milhões e não foi páreo...
 
 120
-00:09:24,180 --> 00:09:25,020
-– É!
-– É!
+00:09:29,600 --> 00:09:32,600
+Essa, não! Ei, Capitão,
+aonde o senhor vai?
 
 121
-00:09:25,020 --> 00:09:26,620
-Com um tiro só...?!
+00:09:32,690 --> 00:09:34,420
+Esperem por mim!
 
 122
-00:09:26,620 --> 00:09:29,520
-Mesmo com uma recompensa de 88 milhões,
-ele não teve chance.
-
-123
-00:09:29,520 --> 00:09:32,690
-Isso não é bo– O quê...?!
-Capitão, aonde você vai?!
-
-124
-00:09:32,690 --> 00:09:34,420
-Espere por mim!
-
-125
 00:09:33,760 --> 00:09:34,420
 Ei, ei!
 
+123
+00:09:34,440 --> 00:09:37,640
+Idiotas! Não vou enfrentar esses
+caras que mataram o Foughty!
+
+124
+00:09:37,640 --> 00:09:38,410
+Vamos fugir!
+
+125
+00:09:44,250 --> 00:09:46,980
+Líder Chapéu de Palha, faça alguma coisa!
+
 126
-00:09:34,420 --> 00:09:38,460
-Idiotas! Ele destruiu o Doughty,
-então não temos chance! Melhor fugir!
+00:09:48,150 --> 00:09:52,350
+Desse jeito, aquelas armas
+humanas vão matar todos nós!
 
 127
-00:09:44,430 --> 00:09:47,170
-Chefe Chapéu de Palha, faça alguma coisa!
+00:09:52,350 --> 00:09:54,190
+Grande Líder!
 
 128
-00:09:48,140 --> 00:09:52,310
-Desse jeito, essas armas humanas
-vão acabar com todos nós!
+00:09:54,320 --> 00:09:55,290
+Hã?!
 
 129
-00:09:52,310 --> 00:09:54,480
-Chefão...!
+00:09:55,490 --> 00:09:57,390
+O Grande Líder se foi!
 
 130
-00:09:54,480 --> 00:09:55,350
-Hã?
+00:09:57,490 --> 00:09:59,030
+Grande Líder...
 
 131
-00:09:55,350 --> 00:09:57,450
-O Chefão sumiu!
+00:09:59,930 --> 00:10:01,660
+É assim que eles chamam
+o Chapéu de Palha?
 
 132
-00:09:57,450 --> 00:09:59,280
-Chefão?
+00:10:02,800 --> 00:10:04,630
+Esperem! Minha barriga tá doendo!
 
 133
-00:10:00,080 --> 00:10:01,750
-Eles estão falando do Chapéu de Palha?
+00:10:04,770 --> 00:10:07,230
+Corra, seu idiota, ou vai morrer!
 
 134
-00:10:02,450 --> 00:10:04,720
-Espera! Meu lado tá doendo!
+00:10:08,640 --> 00:10:10,870
+Imbecil! Saia do meu caminho!
 
 135
-00:10:04,720 --> 00:10:07,360
-Seus idiotas...! Fujam, ou eles vão matar–
+00:10:10,870 --> 00:10:13,070
+Hã? Quem é você?!
 
 136
-00:10:08,830 --> 00:10:10,560
-Você tá no caminho, idiota!
+00:10:16,840 --> 00:10:17,880
+Aquele é...
 
 137
-00:10:10,960 --> 00:10:13,130
-Hã? Quem é você?
+00:10:18,880 --> 00:10:20,480
+O Grande Líder!
 
 138
-00:10:16,700 --> 00:10:17,970
-Esse é...
+00:10:24,620 --> 00:10:27,590
+Por que estão te
+chamando de Chapéu de Palha?
 
 139
-00:10:18,970 --> 00:10:20,040
-O Chefão!
+00:10:27,920 --> 00:10:31,960
+Ei, você! Não sabe quem eu sou?
 
 140
-00:10:24,640 --> 00:10:27,440
-Por que você tá se passando pelo Chapéu de Palha?
+00:10:31,960 --> 00:10:35,830
+Saia do meu caminho ou vou
+matá-lo e arrancar suas vísceras!
 
 141
-00:10:27,440 --> 00:10:31,780
-E-E-Ei, seu bastardo!
-Você sabe quem eu sou?!
+00:10:36,200 --> 00:10:41,000
+Você pode não saber, mas sou
+filho do Revolucionário Dragon!
 
 142
-00:10:31,780 --> 00:10:35,690
-Sai da frente, ou eu vou arrancar
-suas tripas até você morrer!
+00:10:41,240 --> 00:10:43,770
+E neto do grande herói Garp!
 
 143
-00:10:35,690 --> 00:10:40,860
-Isso pode te surpreender, mas eu sou
-o filho de Dragon, o Revolucionário!
+00:10:44,140 --> 00:10:47,440
+Eu fiz meu nome na Guerra dos Maiorais!
 
 144
-00:10:40,860 --> 00:10:43,590
-E neto de Garp, o Herói!
+00:10:47,440 --> 00:10:48,580
+Eu sou um pirata famoso com
+recompensa de 400 milhões!
 
 145
-00:10:43,590 --> 00:10:48,600
-Eu sou um pirata de primeira com uma
-recompensa de 400 milhões de belly, Chapéu de–
+00:10:51,510 --> 00:10:55,150
+O Chapéu de Palha não é
+um verme feito você!
 
 146
-00:10:51,540 --> 00:10:55,170
-Um lixo como você não pode ser o Chapéu de Palha!
+00:10:57,920 --> 00:10:58,690
+Que?...
 
 147
-00:10:57,940 --> 00:10:58,710
-O quê...?
-
-148
-00:10:58,710 --> 00:10:59,680
+00:10:58,690 --> 00:10:59,650
 Hã?
 
-149
-00:10:59,680 --> 00:11:00,880
+148
+00:10:59,650 --> 00:11:00,860
 Ah...!
 
+149
+00:11:00,860 --> 00:11:02,820
+O quê?!
+
 150
-00:11:00,880 --> 00:11:02,850
-– O quê?!
-– O quê?!
+00:11:03,760 --> 00:11:07,030
+Líder Chapéu de Palha!
 
 151
-00:11:03,810 --> 00:11:07,050
-Chefe Chapéu de Palha...!
+00:11:08,230 --> 00:11:09,560
+Entendi...
 
 152
-00:11:08,080 --> 00:11:09,550
-Agora eu entendo.
+00:11:09,560 --> 00:11:13,430
+Todos eles foram tapeados
+pelo Chapéu de Palha impostor...
 
 153
-00:11:09,550 --> 00:11:13,920
-Todos foram enganados e entraram
-pra uma tripulação falsa do Chapéu de Palha.
+00:11:14,000 --> 00:11:16,270
+PX-5, quem é ele de verdade?
 
 154
-00:11:13,920 --> 00:11:16,260
-PX-5, quem é esse cara de verdade?
+00:11:20,240 --> 00:11:23,680
+Demaro Black das Três Línguas.
 
 155
-00:11:20,400 --> 00:11:23,630
-Pirata "Três Línguas" Demaro Black.
+00:11:23,680 --> 00:11:26,150
+Recompensa de 26 milhões.
 
 156
-00:11:23,630 --> 00:11:26,140
-Recompensa: 26 milhões de belly.
+00:11:27,080 --> 00:11:29,450
+26 milhões?! Então ele...
 
 157
-00:11:26,140 --> 00:11:27,000
-– O quê?!
-– O quê?!
+00:11:30,520 --> 00:11:32,650
+É um impostor?!
 
 158
-00:11:27,000 --> 00:11:29,470
-Vinte e seis milhões? Isso quer dizer que ele é...
+00:11:34,560 --> 00:11:36,320
+Eles descobriram! Vamos fugir!
 
 159
-00:11:30,570 --> 00:11:32,580
-– ...um impostor?!
-– ...um impostor?!
+00:11:37,560 --> 00:11:39,460
+Que história é essa?!
 
 160
-00:11:34,410 --> 00:11:36,110
-Eles descobriram! Foge!
+00:11:39,460 --> 00:11:43,460
+Ele se fez passar pelo
+Luffy do Chapéu de Palha!
 
 161
-00:11:37,310 --> 00:11:39,280
-Esse cara é sério?!
+00:11:43,460 --> 00:11:45,630
+Aproveitou que o verdadeiro está morto!
 
 162
-00:11:39,280 --> 00:11:43,450
-Então ele se passou pelo Chapéu de Palha
-Luffy e enganou a gente!
+00:11:45,930 --> 00:11:49,400
+Droga! Eu quase fui enganado
+por um desgraçado
 
 163
-00:11:43,450 --> 00:11:45,620
-Porque o verdadeiro morreu!
+00:11:49,400 --> 00:11:51,370
+com uma recompensazinha
+de 26 milhões!
 
 164
-00:11:45,620 --> 00:11:51,360
-Droga! Quase fui enganado por um fracote
-com uma recompensa mísera de 26 milhões!
+00:11:53,140 --> 00:11:55,810
+Então ele estava se passando por mim?
 
 165
-00:11:51,360 --> 00:11:52,130
-O quê?
+00:11:55,810 --> 00:11:57,580
+Aqueles Sanji e Zoro também eram falsos?
 
 166
-00:11:52,930 --> 00:11:55,770
-Aquele cara tava fingindo ser eu?
+00:11:57,580 --> 00:12:00,180
+São iguaizinhos aos verdadeiros!
 
 167
-00:11:55,770 --> 00:11:57,370
-Então, o Sanji e o Zoro também?
+00:12:00,550 --> 00:12:03,380
+Melhor dar o fora daqui
+antes que seja tarde.
 
 168
-00:11:57,370 --> 00:12:00,140
-Eles eram igualzinhos aos verdadeiros!
+00:12:04,290 --> 00:12:09,060
+Quem enganou vocês é um idiota,
+mas vocês são uns azarados!
 
 169
-00:12:00,640 --> 00:12:03,540
-É melhor eu ir embora antes que algo mais aconteça.
+00:12:09,320 --> 00:12:11,560
+Vão todos vir conosco.
 
 170
-00:12:04,110 --> 00:12:09,050
-Esse impostor é um idiota,
-mas vocês também deram azar.
+00:12:14,230 --> 00:12:18,530
+Mas, por coincidência, o verdadeiro
+Chapéu de Palha também está por aqui.
 
 171
-00:12:09,050 --> 00:12:11,680
-Estão todos presos!
+00:12:18,800 --> 00:12:19,600
+O quê?!
 
 172
-00:12:13,950 --> 00:12:18,560
-E por acaso o verdadeiro
-Chapéu de Palha também tá aqui.
+00:12:19,600 --> 00:12:23,940
+Quando ele entrou na área, PX-5 o detectou.
 
 173
-00:12:19,520 --> 00:12:23,960
-O PX-5 detectou ele quando entramos nessa área.
+00:12:24,240 --> 00:12:26,370
+Atire nele, PX-5!
 
 174
-00:12:23,960 --> 00:12:26,430
-Acabe com ele, PX-5!
+00:12:37,150 --> 00:12:38,250
+Foi por pouco!
 
 175
-00:12:37,240 --> 00:12:38,340
-Essa foi por pouco!
+00:12:41,220 --> 00:12:42,420
+Que história é essa?!
 
 176
-00:12:41,210 --> 00:12:42,410
-O que você tá fazendo?!
+00:12:42,420 --> 00:12:45,360
+Essa mochila tá com toda a minha comida!
 
 177
-00:12:42,410 --> 00:12:45,350
-Essa bolsa tem todos os meus preciosos almoços!
+00:12:47,830 --> 00:12:51,130
+A-Aqui está o cartaz dele...
 
 178
-00:12:47,850 --> 00:12:50,990
-O... O rosto dele...
+00:12:55,040 --> 00:12:58,210
+É ele mesmo!
 
 179
-00:12:55,060 --> 00:12:58,130
-– É igualzinho ao cartaz!
-– É igualzinho ao cartaz!
+00:13:00,940 --> 00:13:03,980
+Então aquele cara era
+o verdadeiro Chapéu de Palha!
 
 180
-00:13:00,830 --> 00:13:03,970
-Aquele cara é o verdadeiro Chapéu de Palha!
+00:13:03,980 --> 00:13:05,350
+Preparem-se!
 
 181
-00:13:03,970 --> 00:13:05,440
-Firmes!
+00:13:05,350 --> 00:13:08,250
+Nós queremos mesmo é o verdadeiro!
 
 182
-00:13:05,440 --> 00:13:08,270
-A gente veio aqui pra pegar o verdadeiro mesmo!
-
-183
-00:13:08,270 --> 00:13:09,010
-– Sim, senhor!
-– Sim, senhor!
-
-184
-00:13:09,010 --> 00:13:10,210
+00:13:08,980 --> 00:13:09,980
 Chapéu de Palha!
 
+183
+00:13:10,350 --> 00:13:13,650
+Ah, é você! Vai tentar
+me impedir de novo?!
+
+184
+00:13:14,220 --> 00:13:17,690
+Eu não posso arrumar briga!
+Quero partir daqui em paz!
+
 185
-00:13:10,210 --> 00:13:13,680
-O quê?! Vai tentar
-me parar de novo?!
+00:13:17,690 --> 00:13:20,900
+Não se preocupe!
+Você não vai nem içar velas!
 
 186
-00:13:14,240 --> 00:13:17,710
-Eu tenho que evitar problemas
-pra poder zarpar!
+00:13:21,330 --> 00:13:25,430
+A situação mudou de dois anos pra cá.
+Agora eu sou oficial da Marinha!
 
 187
-00:13:17,710 --> 00:13:20,920
-Não se preocupe! Você não vai precisar zarpar!
+00:13:25,770 --> 00:13:28,140
+E vou te capturar aqui!
 
 188
-00:13:21,350 --> 00:13:25,820
-Diferente de dois anos atrás, agora eu sou
-oficialmente um membro da Marinha!
-
-189
-00:13:25,820 --> 00:13:28,060
-Então é aqui que eu te capturo!
-
-190
-00:13:28,490 --> 00:13:29,790
+00:13:28,570 --> 00:13:29,840
 PX-5!
 
+189
+00:13:37,510 --> 00:13:38,610
+Que Lento!
+
+190
+00:13:42,850 --> 00:13:43,950
+O quê?!
+
 191
-00:13:37,530 --> 00:13:38,700
-Bem devagar...
+00:13:49,290 --> 00:13:51,190
+Gia Sekando!
 
 192
-00:13:42,870 --> 00:13:43,870
-O quê?!
-
-193
-00:13:48,910 --> 00:13:50,810
-Gear Second!
-
-194
-00:13:57,050 --> 00:13:58,420
+00:13:57,360 --> 00:13:58,800
 Gomu Gomu no...
 
+193
+00:14:08,810 --> 00:14:10,740
+Jetto Pisutoru!
+
+194
+00:14:17,890 --> 00:14:22,690
+O Chapéu de Palha... está usando Haki!
+
 195
-00:14:08,530 --> 00:14:10,400
-Jet Pistol!
+00:14:25,430 --> 00:14:28,760
+Ele derrotou o Pacifista com um só golpe!
 
 196
-00:14:17,410 --> 00:14:18,880
-Chapéu de Palha...
+00:14:36,870 --> 00:14:38,210
+Falou!
 
 197
-00:14:20,040 --> 00:14:22,110
-Ele tá usando Haki!
+00:14:38,540 --> 00:14:41,080
+Acho que vamos nos ver de novo!
 
 198
-00:14:24,950 --> 00:14:28,420
-– Ele derrotou o pacifista com um golpe só!
-– Ele derrotou o pacifista com um golpe só!
-
-199
-00:14:36,590 --> 00:14:37,830
-Até mais!
-
-200
-00:14:37,830 --> 00:14:40,700
-Aposto que a gente se encontra de novo por aí!
-
-201
-00:14:40,700 --> 00:14:42,100
+00:14:41,210 --> 00:14:42,440
 Espere, Chapéu de Palha!
 
-202
-00:14:42,100 --> 00:14:44,300
-Não deixem o Chapéu de Palha escapar!
+199
+00:14:42,710 --> 00:14:44,610
+Não o deixem fugir!
 
-203
-00:14:44,300 --> 00:14:45,540
-– É!
-– É!
+200
+00:14:44,610 --> 00:14:45,880
+Sim!
 
-204
-00:14:47,640 --> 00:14:49,670
+201
+00:14:47,980 --> 00:14:50,150
 Ei, Luffy!
 
+202
+00:14:50,950 --> 00:14:53,420
+Luffy! Sabia que era você!
+
+203
+00:14:53,420 --> 00:14:56,390
+Por que você vive
+arrumando encrenca?!
+
+204
+00:14:58,760 --> 00:15:03,600
+Agora são vocês mesmos!
+Há quanto tempo, pessoal!
+
 205
-00:14:49,670 --> 00:14:50,570
-Opa?
+00:15:03,600 --> 00:15:07,100
+Roronoa! Perna Negra!
+Então eles estavam vivos!
 
 206
-00:14:50,570 --> 00:14:53,010
-Luffy! Eu sabia que era você!
-
-207
-00:14:53,010 --> 00:14:56,010
-Por que você sempre se mete em confusão?!
-
-208
-00:14:56,510 --> 00:14:58,380
-Ohhh!
-
-209
-00:14:58,380 --> 00:15:03,220
-Sem erro dessa vez! Faz tempo, galera!
-
-210
-00:15:03,220 --> 00:15:06,990
-Roronoa! Perna Negra! Então eles tão vivos?!
-
-211
-00:15:06,990 --> 00:15:08,790
+00:15:07,800 --> 00:15:09,140
 PX-7!
 
-212
-00:15:16,930 --> 00:15:18,900
-– Sai da frente!
-– Sai da frente!
+207
+00:15:16,810 --> 00:15:18,880
+Fora do meu caminho!
 
-213
-00:15:24,340 --> 00:15:25,640
-Eu cortei ele!
+208
+00:15:24,320 --> 00:15:25,690
+Eu o cortei!
 
-214
-00:15:25,640 --> 00:15:28,010
+209
+00:15:25,950 --> 00:15:28,090
 Não, eu quebrei o pescoço dele!
 
+210
+00:15:30,090 --> 00:15:33,330
+Os Chapéus de Palha! Os verdadeiros!
+
+211
+00:15:33,330 --> 00:15:36,460
+Não têm nada a ver com os farsantes!
+
+212
+00:15:41,870 --> 00:15:44,070
+Ei, Luffy, você foi o nono!
+
+213
+00:15:44,070 --> 00:15:46,240
+Cala a boca! Corta essa!
+
+214
+00:15:46,240 --> 00:15:48,680
+Anda, Luffy! Tá todo mundo
+esperando no navio!
+
 215
-00:15:30,110 --> 00:15:33,280
-São os Chapéu de Palha! Os verdadeiros!
+00:15:48,680 --> 00:15:49,610
+Beleza!
 
 216
-00:15:33,280 --> 00:15:36,390
-Eles não têm nada a ver com os impostores!
+00:15:51,550 --> 00:15:55,120
+Não deixem os Chapéus de Palha fugirem!
+Peguem-nos, custe o que custar!
 
 217
-00:15:41,560 --> 00:15:43,730
-Ei, Luffy, você é o nono.
+00:15:55,880 --> 00:16:00,520
+Há quanto tempo, hein?
+Como será que está o pessoal?
 
 218
-00:15:43,730 --> 00:15:45,900
-Cala a boca! Para de se gabar por isso!
+00:16:00,520 --> 00:16:02,560
+Que felicidade!
 
 219
-00:15:45,900 --> 00:15:48,330
-Vamos, Luffy! Todo mundo tá no navio!
+00:16:09,730 --> 00:16:11,200
+Ei, o que foi?
 
 220
-00:15:48,330 --> 00:15:49,170
-Tá bom!
+00:16:16,300 --> 00:16:19,340
+Rayleigh!
 
 221
-00:15:50,900 --> 00:15:54,440
-Não deixem eles escaparem!
-Capturem a qualquer custo!
+00:16:19,340 --> 00:16:20,310
+O quê?!
 
 222
-00:15:54,440 --> 00:15:55,240
-– Sim, senhor!
-– Sim, senhor!
-
-223
-00:15:55,240 --> 00:16:00,180
-Faz muito tempo mesmo!
-Seria como todo mundo tá!
-
-224
-00:16:00,180 --> 00:16:01,850
-Tô tão feliz!
-
-225
-00:16:09,390 --> 00:16:10,850
-Ei, o que houve?
-
-226
-00:16:13,890 --> 00:16:14,690
-Oh!
-
-227
-00:16:16,030 --> 00:16:19,000
-Rayleigh!
-
-228
-00:16:19,000 --> 00:16:20,560
-O quê?!
-
-229
-00:16:20,560 --> 00:16:22,230
+00:16:21,210 --> 00:16:22,310
 Não pode ser!
 
+223
+00:16:23,440 --> 00:16:25,380
+Rayleigh, o Rei das Trevas?!
+
+224
+00:16:29,020 --> 00:16:33,050
+Só vim ver como você estava,
+mas parece que está tudo resolvido.
+
+225
+00:16:33,590 --> 00:16:36,220
+Está claramente mais forte!
+
+226
+00:16:36,590 --> 00:16:37,690
+Sim!
+
+227
+00:16:37,960 --> 00:16:41,560
+Agora volte para os seus companheiros!
+
+228
+00:16:41,860 --> 00:16:47,230
+Tá! Rayleigh, obrigado por
+tudo nestes dois anos!
+
+229
+00:16:48,370 --> 00:16:51,670
+Não precisa ser tão formal! Ande logo!
+
 230
-00:16:23,170 --> 00:16:24,970
-Rei Sombrio Rayleigh?!
-
-231
-00:16:28,710 --> 00:16:32,710
-Vim ver como você tava,
-mas parece que tá tudo bem.
-
-232
-00:16:33,380 --> 00:16:36,250
-Você refinou suas habilidades ainda mais.
-
-233
-00:16:36,250 --> 00:16:37,310
-Aham!
-
-234
-00:16:37,710 --> 00:16:41,220
-Agora vai! Seus amigos estão esperando.
-
-235
-00:16:41,220 --> 00:16:46,890
-Aham! Rayleigh, muito obrigado
-por tudo nesses dois anos!
-
-236
-00:16:48,060 --> 00:16:51,260
-Isso não combina com você. Só vai!
-
-237
-00:17:00,700 --> 00:17:01,470
+00:17:01,050 --> 00:17:01,850
 Rayleigh!
 
-238
-00:17:04,170 --> 00:17:05,640
+231
+00:17:04,520 --> 00:17:06,020
 Eu vou conseguir!
 
-239
-00:17:09,480 --> 00:17:15,320
-Eu vou me tornar o Rei dos Piratas!
+232
+00:17:10,090 --> 00:17:15,230
+Eu serei o Rei dos Piratas!
 
-240
-00:17:28,360 --> 00:17:29,730
-O que vocês tão fazendo?!
+233
+00:17:28,340 --> 00:17:29,710
+O que vocês estão fazendo?!
 
-241
-00:17:29,730 --> 00:17:31,570
-Peguem o Chapéu de Palha logo!
+234
+00:17:29,710 --> 00:17:31,610
+Capturem o Chapéu de Palha imediatamente!
 
-242
-00:17:32,500 --> 00:17:33,540
-Opa!
+235
+00:17:33,510 --> 00:17:34,750
+Anda, Luffy!
 
-243
-00:17:33,540 --> 00:17:35,270
-Anda logo, Luffy!
-
-244
-00:17:35,270 --> 00:17:37,170
+236
+00:17:35,220 --> 00:17:37,180
 Rayleigh, obrigado por tudo!
 
-245
-00:17:37,170 --> 00:17:39,140
-Então, Rayleigh...!
+237
+00:17:37,550 --> 00:17:39,190
+Ei, Rayleigh...
 
-246
-00:17:40,040 --> 00:17:42,410
-Obrigado mais uma vez por tudo!
+238
+00:17:40,090 --> 00:17:41,790
+Obrigado por tudo mesmo!
 
-247
-00:17:42,410 --> 00:17:45,180
-Eu tô indo agora!
+239
+00:17:42,590 --> 00:17:44,890
+Até mais!
 
-248
-00:17:49,720 --> 00:17:50,750
-É...
+240
+00:17:49,730 --> 00:17:50,860
+Sim...
 
-249
-00:18:08,540 --> 00:18:09,970
+241
+00:18:08,720 --> 00:18:09,950
 Eles foram por ali!
 
-250
-00:18:09,970 --> 00:18:11,910
-– Atrás deles!
-– Não deixem eles escaparem!
+242
+00:18:09,950 --> 00:18:11,850
+Atrás deles! Eles não podem fugir!
 
-251
-00:18:14,510 --> 00:18:16,750
-Cheguem ao topo!
+243
+00:18:14,720 --> 00:18:17,320
+Chegue ao topo!
 
-252
-00:18:19,650 --> 00:18:23,790
-Os Chapéu de Palha estão indo pro Grove 42!
+244
+00:18:20,030 --> 00:18:23,430
+Os Chapéus de Palha estão
+a caminho do Mangue #42!
 
-253
-00:18:23,790 --> 00:18:25,860
-Não deixem eles escaparem!
+245
+00:18:23,830 --> 00:18:25,800
+Não os deixem fugir!
 
-254
-00:18:30,330 --> 00:18:31,790
+246
+00:18:30,240 --> 00:18:31,810
 O que foi isso?
 
+247
+00:18:33,970 --> 00:18:35,880
+Rayleigh, o Rei das Trevas!
+
+248
+00:18:36,380 --> 00:18:38,410
+É um novo começo para o meu pupilo!
+
+249
+00:18:38,410 --> 00:18:40,350
+Peguem leve com ele.
+
+250
+00:18:43,180 --> 00:18:45,450
+Q-Que linha é essa?!
+
+251
+00:18:46,720 --> 00:18:48,890
+Eu recomendo que não a atravessem.
+
+252
+00:18:54,960 --> 00:18:58,070
+Ih, uma porção de Sabao-Bolsas!
+
+253
+00:18:58,070 --> 00:18:59,270
+O que tem elas?
+
+254
+00:18:59,600 --> 00:19:01,300
+Elas estão cheias de comida.
+
 255
-00:18:34,000 --> 00:18:36,170
-Rei Sombrio Rayleigh!
+00:19:01,300 --> 00:19:05,340
+Aposto que um certo alguém também
+treinou o estômago nos últimos dois anos.
 
 256
-00:18:36,170 --> 00:18:38,500
-É um novo começo pro meu pupilo!
+00:19:05,710 --> 00:19:07,770
+Eu te deixo encher o bucho depois!
 
 257
-00:18:38,500 --> 00:18:40,370
-Não pegue pesado demais com ele.
+00:19:07,770 --> 00:19:10,510
+Sério?! Mal posso esperar
+pra comer sua comida!
 
 258
-00:18:43,240 --> 00:18:45,480
-Q-O que é essa linha?
+00:19:11,380 --> 00:19:13,410
+Lá estão eles! Eles foram por aqui!
 
 259
-00:18:46,380 --> 00:18:49,310
-Eu não recomendo cruzá-la.
+00:19:14,980 --> 00:19:16,880
+Hã? Eles deram a volta!
 
 260
-00:18:54,680 --> 00:18:58,120
-Ah, bolsas de bolha! Tem um monte!
+00:19:18,120 --> 00:19:19,690
+Não temos escolha!
 
 261
-00:18:58,120 --> 00:18:59,520
-O que tem dentro delas?
+00:19:19,920 --> 00:19:21,760
+Ataquem com tudo!
 
 262
-00:18:59,520 --> 00:19:05,760
-Estão cheias de comida. Imagino que o estômago
-de todo mundo cresceu nesses dois anos.
+00:19:21,760 --> 00:19:23,020
+Sim!
 
 263
-00:19:05,760 --> 00:19:07,900
-Depois eu deixo vocês se encherem!
+00:19:27,030 --> 00:19:29,660
+Eu quero virar uma pulga...
 
 264
-00:19:07,900 --> 00:19:11,130
-Sério?! Mal posso esperar pra comer sua comida!
+00:19:29,660 --> 00:19:31,200
+O que houve com você?
 
 265
-00:19:11,130 --> 00:19:13,470
-Ali estão eles! Por aqui!
-
-266
-00:19:14,970 --> 00:19:16,910
-Opa? Eles deram a volta!
-
-267
-00:19:18,170 --> 00:19:19,710
-Não tem jeito, né?
-
-268
-00:19:19,710 --> 00:19:21,710
-Todo mundo, avançar!
-
-269
-00:19:21,710 --> 00:19:22,850
-– É!
-– É!
-
-270
-00:19:27,150 --> 00:19:29,690
-Eu quero... virar uma pulga...
-
-271
-00:19:29,690 --> 00:19:31,220
-O que houve? O que você...?
-
-272
-00:19:31,220 --> 00:19:33,220
+00:19:31,600 --> 00:19:33,030
 Eu quero virar um ácaro...
 
-273
-00:19:33,220 --> 00:19:34,690
+266
+00:19:33,370 --> 00:19:34,370
 O quê?!
 
-274
-00:19:34,690 --> 00:19:36,460
-Que diabos...?
+267
+00:19:35,040 --> 00:19:36,340
+O que houve?!
 
-275
-00:19:40,660 --> 00:19:42,270
-Eu... eu...
+268
+00:19:40,570 --> 00:19:42,580
+Eu... Eu...
 
-276
-00:19:43,230 --> 00:19:45,840
+269
+00:19:43,210 --> 00:19:45,780
 Eu quero virar um piolho...
 
+270
+00:19:47,110 --> 00:19:48,380
+Isso é coisa da...
+
+271
+00:19:51,620 --> 00:19:55,420
+Eu sabia que eram vocês
+que estavam aprontando!
+
+272
+00:19:57,420 --> 00:19:58,790
+Não acredito!
+
+273
+00:20:00,060 --> 00:20:03,230
+Vocês ainda não chegaram a lugar nenhum!
+
+274
+00:20:03,630 --> 00:20:06,900
+Ah! Te conheço de Thriller Bark!
+
+275
+00:20:07,430 --> 00:20:08,400
+Quem é ela?
+
+276
+00:20:08,770 --> 00:20:12,040
+O que você ainda faz aqui?
+
 277
-00:19:45,840 --> 00:19:47,140
-Ei!
+00:20:12,040 --> 00:20:15,840
+Não fala assim comigo!
+Fui que te trouxe pra cá!
 
 278
-00:19:47,140 --> 00:19:48,400
-Deve ser...
+00:20:15,840 --> 00:20:18,150
+Se não fosse por mim, você...
 
 279
-00:19:51,670 --> 00:19:53,640
-Como eu suspeitava,
+00:20:20,110 --> 00:20:22,280
+Coloque-se no seu lugar!
 
 280
-00:19:53,640 --> 00:19:55,480
-essa confusão é obra de vocês.
+00:20:23,820 --> 00:20:26,550
+Uma mulher de verdade!
+Uma mulher de verdade!
 
 281
-00:19:57,250 --> 00:19:58,850
-Não acredito nisso!
+00:20:26,550 --> 00:20:28,990
+Claro que sou! Que doença você tem?
 
 282
-00:20:00,150 --> 00:20:03,520
-Vocês ainda não foram embora!
+00:20:29,390 --> 00:20:31,760
+Enfim, saiam logo deste lugar!
 
 283
-00:20:03,520 --> 00:20:06,920
-É mesmo! Eu me lembro de você de Thriller Bark!
+00:20:31,760 --> 00:20:33,630
+Eu vi navios da Marinha por aí.
 
 284
-00:20:07,590 --> 00:20:08,830
-Ela era...?
+00:20:33,730 --> 00:20:34,490
+O quê?!
 
 285
-00:20:08,830 --> 00:20:11,990
-O que você ainda tá fazendo aqui?
+00:20:35,060 --> 00:20:37,560
+Logo, eles cercarão a ilha!
 
 286
-00:20:11,990 --> 00:20:15,930
-Você devia ser mais gentil com quem
-te trouxe de volta pra essa ilha!
+00:20:43,740 --> 00:20:44,740
+Essa voz!
 
 287
-00:20:15,930 --> 00:20:18,170
-Se eu não tivesse te guiado, você estaria...
-
-288
-00:20:19,900 --> 00:20:22,410
-Pelo menos tenha um pouco de gratid–
-
-289
-00:20:23,810 --> 00:20:26,540
-Uma mulher de verdade! Uma mulher de verdade!
-
-290
-00:20:26,540 --> 00:20:29,010
-É claro que eu sou! O quê,
-você tá maluco da cabeça?
-
-291
-00:20:29,010 --> 00:20:31,580
-Enfim, zarpe logo!
-
-292
-00:20:31,580 --> 00:20:33,680
-Eu vi alguns navios da Marinha por aqui!
-
-293
-00:20:33,680 --> 00:20:34,550
-– O quê?
-– O quê?
-
-294
-00:20:35,180 --> 00:20:37,590
-Logo não vai ter saída!
-
-295
-00:20:42,460 --> 00:20:43,530
-Oh?!
-
-296
-00:20:43,530 --> 00:20:44,690
-Essa voz...!
-
-297
-00:20:44,690 --> 00:20:49,430
+00:20:44,940 --> 00:20:49,410
 Usopp! Nami! Robin!
 
-298
-00:20:49,430 --> 00:20:52,670
-♪ Frrranky! ♪
+288
+00:20:49,410 --> 00:20:52,710
+Fraaanky!
 
-299
-00:20:57,110 --> 00:20:57,910
+289
+00:20:57,150 --> 00:20:58,220
 Brook!
 
-300
-00:20:57,910 --> 00:21:00,910
-Ei! Não acredito que você largou o estrelato!
+290
+00:20:58,220 --> 00:21:01,090
+O quê?! Não acredito que você
+vai abandonar o estrelato!
 
-301
-00:21:00,910 --> 00:21:01,640
-Esse é o cara!
+291
+00:21:01,090 --> 00:21:02,260
+Mandou bem!
 
-302
-00:21:04,150 --> 00:21:07,020
-Faz muito tempo, galera!
+292
+00:21:04,060 --> 00:21:07,060
+Há quanto tempo, pessoal!
 
-303
-00:21:07,020 --> 00:21:10,720
-Vocês duas ficaram ainda mais bonitas!
+293
+00:21:07,430 --> 00:21:10,860
+Vocês duas estão ainda mais lindas!
 
-304
-00:21:13,590 --> 00:21:14,920
+294
+00:21:13,530 --> 00:21:14,940
 Bom, Nami...
 
-305
-00:21:15,360 --> 00:21:16,860
-já faz dois anos, então...
+295
+00:21:15,700 --> 00:21:16,900
+Dois anos se passaram...
 
-306
-00:21:18,830 --> 00:21:21,600
-Ah, você vai cantar pra gente?
+296
+00:21:19,070 --> 00:21:21,480
+Ah, vai tocar uma pra gente?
 
-307
-00:21:25,540 --> 00:21:28,000
-...você seria tão gentil
-de me mostrar sua calci–
+297
+00:21:25,810 --> 00:21:28,050
+Posso ver sua calcinha?
 
-308
-00:21:28,000 --> 00:21:29,810
+298
+00:21:28,050 --> 00:21:29,280
 O que você acha?!
 
-309
-00:21:29,810 --> 00:21:32,880
-Eu nunca deixei você ver dois anos atrás também!
+299
+00:21:29,980 --> 00:21:32,920
+Dois anos atrás, eu também não deixava!
 
-310
-00:21:32,880 --> 00:21:36,210
-E-Eu tô tão animado em te ver de novo... Olha?
+300
+00:21:33,150 --> 00:21:36,220
+E-Estou tão emocionado de revê-la...
 
-311
-00:21:36,210 --> 00:21:39,980
-Tá... fazendo meu coração estremecer. Embora...
+301
+00:21:36,220 --> 00:21:38,990
+O meu peito chega a tremer...
 
-312
+302
+00:21:38,990 --> 00:21:40,730
+Mesmo não tendo peito...
+
+303
 00:21:39,980 --> 00:21:44,250
-Eu não tenha um coração que possa estremecer...
+Eu não tenho um coração que possa tremer...
 
-313
-00:21:40,720 --> 00:21:44,250
-Ei...! O astro do rock tá tendo convulsões.
+304
+00:21:40,730 --> 00:21:43,830
+Ei, o astro da música
+está passando mal...
 
-314
-00:21:44,250 --> 00:21:48,320
-Francamente! Nenhum de vocês amadureceu.
+305
+00:21:44,300 --> 00:21:48,340
+Fala sério! Vocês não crescem!
 
-315
-00:21:49,490 --> 00:21:50,730
-Aliás...
+306
+00:21:49,470 --> 00:21:54,640
+Então nem todos estão aqui...
 
-316
-00:21:51,430 --> 00:21:54,700
-Parece que faltam alguns membros.
+307
+00:21:54,640 --> 00:21:57,910
+Ah, sim, o Chopper foi buscá-los.
 
-317
-00:21:54,700 --> 00:21:58,170
-Ah, é verdade. O Chopper foi buscar eles–
-
-318
+308
 00:21:56,870 --> 00:21:58,630
 Ei!
 
-319
-00:21:58,170 --> 00:21:58,630
-– Hã?
-– Hã?
+309
+00:22:05,820 --> 00:22:07,450
+Lá vêm eles!
 
-320
-00:22:05,810 --> 00:22:07,480
-Finalmente chegaram!
-
-321
-00:22:07,480 --> 00:22:10,080
-Uau, ei!
-
-322
-00:22:11,980 --> 00:22:14,480
-Todo mundo!
-
-323
-00:22:16,590 --> 00:22:18,920
-Eu encontrei eles!
-
-324
-00:22:20,420 --> 00:22:23,430
-Luffy! Zoro! Sanji!
-
-325
-00:22:23,430 --> 00:22:25,660
+310
+00:22:07,450 --> 00:22:10,060
 Ei!
 
-326
-00:22:27,630 --> 00:22:31,430
-Luffy! Senti tanto sua falta!
+311
+00:22:11,930 --> 00:22:14,800
+Pessoal!
 
-327
-00:22:31,430 --> 00:22:34,500
-Vocês tão com cara de mais homens!
+312
+00:22:16,560 --> 00:22:18,970
+Eu os trouxe!
 
-328
-00:22:36,740 --> 00:22:38,670
-Estamos todos juntos de novo!
+313
+00:22:20,400 --> 00:22:23,640
+Luffy! Zoro! Sanji!
 
-329
-00:22:42,510 --> 00:22:43,350
-Finalmente–
+314
+00:22:23,640 --> 00:22:25,570
+Ei!
 
-330
-00:22:43,350 --> 00:22:44,210
-Oh!
+315
+00:22:27,770 --> 00:22:31,480
+Luffy! Que saudades!
 
-331
-00:22:44,210 --> 00:22:46,620
-Galera!
+316
+00:22:31,980 --> 00:22:34,550
+Vocês parecem bem mais fortes!
 
-332
-00:22:55,120 --> 00:22:57,290
+317
+00:22:36,750 --> 00:22:38,690
+Agora estamos todos juntos de novo!
+
+318
+00:22:42,460 --> 00:22:44,220
+Finalmente...
+
+319
+00:22:44,590 --> 00:22:46,760
+Pessoal!
+
+320
+00:22:55,200 --> 00:22:57,170
 O quê?!
 
-333
-00:22:58,060 --> 00:23:00,230
+321
+00:22:57,940 --> 00:23:00,240
 Sanji!
+
+322
+00:23:06,380 --> 00:23:08,550
+Bom, obrigado por tudo!
+
+323
+00:23:08,550 --> 00:23:10,850
+Manda um abraço meu pra todo
+mundo do Reino dos Pássaros!
+
+324
+00:23:12,620 --> 00:23:14,860
+Usopp! O Sanji está bem?!
+
+325
+00:23:14,810 --> 00:23:18,010
+U-Uma linda mulher...
+
+326
+00:23:18,010 --> 00:23:20,520
+Ei, fale comigo!
+
+327
+00:23:18,910 --> 00:23:20,520
+Duas lindas mulheres...
+
+328
+00:23:20,530 --> 00:23:23,630
+Essa não, Chopper!
+Pare o sangramento!
+
+329
+00:23:25,200 --> 00:23:28,000
+F-Franky, você...
+
+330
+00:23:28,340 --> 00:23:29,400
+O que foi?
+
+331
+00:23:30,700 --> 00:23:33,810
+Está intrigado com algo-robô?
+
+332
+00:23:34,300 --> 00:23:37,200
+- Robô?! Quero brincar!
+
+333
+00:23:36,230 --> 00:23:37,200
+Espere, Luffy!
 
 334
-00:23:06,570 --> 00:23:08,540
-Bom, então, obrigado!
+00:23:37,940 --> 00:23:40,180
+Eu não vejo graça alguma nisso,
 
 335
-00:23:08,540 --> 00:23:10,870
-Manda um oi pra todo mundo no Reino Birdie!
+00:23:40,180 --> 00:23:42,880
+e parece que a Marinha já está aqui!
 
 336
-00:23:12,610 --> 00:23:14,810
-Usopp! O Sanji tá bem?!
+00:23:46,150 --> 00:23:48,320
+Ah, não! Quando eles chegaram?!
 
 337
-00:23:14,810 --> 00:23:18,010
-Uma... Uma... Uma mulher bonita...
+00:23:50,260 --> 00:23:51,930
+Há três navios da Marinha!
 
 338
-00:23:18,010 --> 00:23:20,520
-Ei, fica comigo!
+00:23:55,860 --> 00:23:58,300
+Ei, vamos revidar?!
+Eles vão nos pegar!
 
 339
-00:23:18,910 --> 00:23:20,520
-Duas mulheres bonitas...
+00:23:58,570 --> 00:24:01,270
+Atirem! Atirem e afundem-nos!
 
 340
-00:23:20,520 --> 00:23:23,320
-Chopper, isso é muito sério!
-Precisamos estancar o sangue!
+00:24:04,840 --> 00:24:05,770
+Sureibu...
 
 341
-00:23:25,020 --> 00:23:27,960
-F-F-Franky, você tá...!
+00:24:06,570 --> 00:24:07,240
+Arō!
 
 342
-00:23:27,960 --> 00:23:29,490
-Qual o problema?
+00:24:13,480 --> 00:24:15,520
+O-O que aconteceu?
 
 343
-00:23:30,590 --> 00:23:33,760
-Tem algo que te preocupa-mecha?
+00:24:15,520 --> 00:24:17,250
+S-São...
 
 344
-00:23:34,300 --> 00:23:37,200
-"Mecha"?! Eu também quero brincar!
-
-345
-00:23:36,230 --> 00:23:37,200
-Espera, Luffy!
-
-346
-00:23:37,970 --> 00:23:39,640
-Deixa essa besteira pra depois!
-
-347
-00:23:39,640 --> 00:23:42,970
-Parece que os navios da Marinha já chegaram!
-
-348
-00:23:45,880 --> 00:23:48,010
-Não! Quando eles chegaram?!
-
-349
-00:23:50,280 --> 00:23:52,420
-Três navios da Marinha!
-
-350
-00:23:55,580 --> 00:23:58,290
-Ei, a gente luta?!
-Eles tão se aproximando!
-
-351
-00:23:58,290 --> 00:24:01,220
-Fogo! Mandem eles pro fundo!
-
-352
-00:24:04,730 --> 00:24:05,660
-Slave...
-
-353
-00:24:06,460 --> 00:24:07,130
-Arrow!
-
-354
-00:24:13,500 --> 00:24:15,440
-O quê...? O que acabou de acontecer?
-
-355
-00:24:15,440 --> 00:24:17,270
-I-Isso é...
-
-356
-00:24:20,540 --> 00:24:22,580
+00:24:20,550 --> 00:24:22,560
 As Piratas Kuja!
 
-357
-00:24:24,910 --> 00:24:26,220
+345
+00:24:24,890 --> 00:24:26,160
 Quem...
 
-358
-00:24:27,920 --> 00:24:30,390
+346
+00:24:27,930 --> 00:24:30,100
 colocou um navio da Marinha...
 
-359
-00:24:31,950 --> 00:24:34,090
+347
+00:24:31,930 --> 00:24:34,100
 no meu caminho?
 
-360
-00:24:42,400 --> 00:24:44,370
-Esse é o emblema Kuja!
+348
+00:24:42,380 --> 00:24:44,410
+É o emblema das Kuja!
 
-361
-00:24:44,370 --> 00:24:45,870
-As "Kuja"?
+349
+00:24:44,640 --> 00:24:45,510
+Kuja?
 
-362
-00:24:45,870 --> 00:24:50,710
-São piratas Amazonas poderosas lideradas
-pela Imperatriz Pirata, uma dos Warlords.
+350
+00:24:45,910 --> 00:24:50,320
+São poderosas piratas amazonas lideradas
+por uma imperatriz pirata e Shichibukai.
 
-363
-00:24:50,710 --> 00:24:52,110
-Uma Warlord?!
+351
+00:24:50,880 --> 00:24:52,250
+Shichibukai.
 
-364
-00:24:52,110 --> 00:24:54,180
-A Imperatriz Boa Hancock.
+352
+00:24:52,250 --> 00:24:54,250
+Ela se chama Boa Hancock.
 
-365
-00:24:54,180 --> 00:25:00,250
-Dizem que quem a vê fica enfeitiçado
-e se transforma em pedra.
+353
+00:24:54,250 --> 00:24:57,220
+Dizem que qualquer um que a vê
+se apaixona por sua beleza
 
-366
-00:25:00,250 --> 00:25:03,320
-Ai, que brilhante! Ela é deslumbrante!
+354
+00:24:57,220 --> 00:25:00,060
+e acaba transformado em pedra.
 
-367
-00:25:03,320 --> 00:25:05,690
+355
+00:25:00,330 --> 00:25:02,900
+Ah, que deslumbrante!
+Ela é de outro mundo!
+
+356
+00:25:03,500 --> 00:25:05,730
 A beleza dela não tem fim!
 
+357
+00:25:05,730 --> 00:25:08,440
+Rapaz! Mas é uma deusa!
+
+358
+00:25:09,500 --> 00:25:10,940
+Uma deusa?!
+
+359
+00:25:11,170 --> 00:25:13,640
+Cadê? Deusa?! Deusa?!
+
+360
+00:25:14,140 --> 00:25:17,680
+Deusa... Ah, deusa...
+
+361
+00:25:19,050 --> 00:25:20,680
+Virou pedra!
+
+362
+00:25:21,180 --> 00:25:23,120
+Ah, é o barco da Hancock!
+
+363
+00:25:24,620 --> 00:25:26,920
+Saia do caminho, Boa Hancock!
+
+364
+00:25:27,320 --> 00:25:29,790
+Está tentando interferir com
+o cumprimento do nosso dever?
+
+365
+00:25:30,060 --> 00:25:31,990
+Nada disso!
+
+366
+00:25:31,990 --> 00:25:35,030
+Só não quero abrir caminho para vocês.
+
+367
+00:25:35,160 --> 00:25:37,260
+E-Ela está agindo feito uma criança!
+
 368
-00:25:05,690 --> 00:25:08,390
-Não tavam exagerando! Ela é uma deusa!
+00:25:37,960 --> 00:25:38,830
+Algum problema?
 
 369
-00:25:09,260 --> 00:25:10,860
-Deusa?!
+00:25:40,900 --> 00:25:44,140
+Vá, Luffy. Agora é a chance!
 
 370
-00:25:10,860 --> 00:25:11,830
-Onde ela tá?!
+00:25:45,640 --> 00:25:48,510
+Ela piscou na nossa direção...
 
 371
-00:25:11,830 --> 00:25:13,600
-Deusa? Deusa?
+00:25:48,810 --> 00:25:51,310
+Ela nos ajudou.
+Vamos partir agora!
 
 372
-00:25:14,160 --> 00:25:18,030
-Deusa... Ah, deusa... Ah, deusa... D... D... Deusa...
+00:25:51,310 --> 00:25:52,980
+Você conhece essa Shichibukai?
 
 373
-00:25:18,770 --> 00:25:20,370
-Ele virou pedra!
+00:25:53,280 --> 00:25:57,480
+Sim, eu fui parar na Ilha
+das Mulheres e fiquei amigo delas.
 
 374
-00:25:21,170 --> 00:25:23,010
-Ei, são a Hancock e as piratas dela!
+00:25:57,780 --> 00:26:00,850
+A lendária ilha habitada só por mulheres?
 
 375
-00:25:23,010 --> 00:25:23,710
-– Hã?
-– Hã?
+00:26:00,850 --> 00:26:02,160
+Não sabia que existia mesmo...
 
 376
-00:25:24,570 --> 00:25:27,310
-Mova seu navio, Boa Hancock!
+00:26:02,690 --> 00:26:05,560
+Amigo da Imperatriz Pirata?!
 
 377
-00:25:27,310 --> 00:25:29,710
-Não interfira na nossa missão!
+00:26:05,860 --> 00:26:09,900
+Ei, e você treinou mesmo?!
 
 378
-00:25:29,710 --> 00:25:34,980
-Parem com essas acusações sem fundamento! Eu só
-não tô a fim de sair do caminho.
+00:26:09,900 --> 00:26:11,130
+Sim, estou pronto!
 
 379
-00:25:34,980 --> 00:25:37,190
-E-Ela tá agindo como uma criança!
+00:26:11,130 --> 00:26:13,970
+Não é justo! Não é justo!
 
 380
-00:25:37,650 --> 00:25:38,790
-Algum problema com isso?
-
-381
-00:25:40,890 --> 00:25:44,060
-Vai, Luffy... Eu abri caminho pra você!
-
-382
-00:25:44,860 --> 00:25:48,700
-Ela acabou de piscar pra gente...
-
-383
-00:25:48,700 --> 00:25:51,070
-Ela nos ajudou. Vamos zarpar agora!
-
-384
-00:25:51,070 --> 00:25:52,940
-Você conhece aquela Warlord?
-
-385
-00:25:52,940 --> 00:25:57,640
-É... Eu fui mandado pra Ilha das Mulheres
-e fiz amizade com elas.
-
-386
-00:25:57,640 --> 00:26:00,810
-Não é a lendária ilha das mulheres?
-
-387
-00:26:00,810 --> 00:26:02,080
-Ela existe de verdade?
-
-388
-00:26:02,680 --> 00:26:05,510
-Você é amigo da Imperatriz Pirata?!
-
-389
-00:26:05,510 --> 00:26:09,890
-Ei! Você pelo menos treinou direito?!
-
-390
-00:26:09,890 --> 00:26:11,050
-É, tô pronto!
-
-391
-00:26:11,050 --> 00:26:14,890
-Droga... Não é justo...! Não é justo...!
-
-392
-00:26:14,890 --> 00:26:16,460
+00:26:13,970 --> 00:26:15,570
 O que foi, Sanji?
 
-393
-00:26:17,360 --> 00:26:20,400
-Uau, então eles são os amigos do Luffy!
+381
+00:26:17,370 --> 00:26:20,470
+Nossa, então aqueles são
+os companheiros do Luffy!
 
-394
-00:26:20,400 --> 00:26:23,830
-Tem um monte de criaturas
-que eu nunca vi antes.
+382
+00:26:20,670 --> 00:26:23,810
+Há umas criaturas que nunca vi antes...
 
-395
-00:26:23,830 --> 00:26:26,470
-– Um, dois, três, quatro...
-– Parece que eles tão se divertindo!
+383
+00:26:23,810 --> 00:26:26,510
+- Um, dois, três, quatro...
+- Parece que estão se divertindo!
 
-396
-00:26:27,170 --> 00:26:30,140
-Tá bom, vamos nos preparar pra zarpar!
+384
+00:26:27,180 --> 00:26:30,180
+Vamos nos preparar para partir!
 
-397
-00:26:30,140 --> 00:26:31,910
-– É!
-– Sim, Nami-swan!
+385
+00:26:30,320 --> 00:26:32,190
+- Sim!
+- Sim, Nami!
 
-398
-00:26:31,910 --> 00:26:34,940
-Hã? Qual o problema, Usopp?
+386
+00:26:32,850 --> 00:26:34,550
+O que foi, Usopp?
 
-399
-00:26:34,940 --> 00:26:39,050
-É que... Vocês derrotaram
-todos aqueles Marinheiros?
+387
+00:26:35,220 --> 00:26:39,390
+Por curiosidade, vocês derrotaram
+todos os soldados da Marinha?
 
-400
-00:26:39,050 --> 00:26:43,720
-Não. A gente ainda podia ouvir eles
-gritando enquanto a gente voava.
+388
+00:26:39,390 --> 00:26:43,760
+Não... Quando alçamos vôo,
+ainda ouvíamos eles gritando.
 
-401
-00:26:44,620 --> 00:26:47,820
-Então por que eles não tão
-vindo atrás da gente por terra?
+389
+00:26:44,530 --> 00:26:47,800
+Então por que não continuaram
+nos perseguindo até esta ilha?
 
-402
-00:26:55,430 --> 00:26:57,670
-Aqui é o Pelotão de Reforço 3!
+390
+00:26:55,510 --> 00:26:57,640
+Pelotão 3 da Unidade de Reforço falando!
 
-403
-00:26:57,670 --> 00:26:58,770
-Tá me ouvindo?
+391
+00:26:57,640 --> 00:26:58,780
+Copiam?
 
-404
-00:27:00,000 --> 00:27:01,970
+392
+00:27:00,110 --> 00:27:02,020
 O que houve? O que aconteceu?
 
-405
-00:27:01,970 --> 00:27:04,610
-Não conseguimos chegar no Grove 42!
+393
+00:27:02,020 --> 00:27:04,520
+Não conseguimos chegar ao Mangue #42!
 
-406
-00:27:04,610 --> 00:27:05,710
-Por que não?!
+394
+00:27:04,580 --> 00:27:05,790
+Por quê?
 
-407
-00:27:05,710 --> 00:27:07,740
-P-Porque...
+395
+00:27:05,790 --> 00:27:06,950
+Porque...
 
-408
-00:27:07,740 --> 00:27:10,550
-tem insetos gigantes bloqueando nosso caminho!
+396
+00:27:08,120 --> 00:27:10,520
+Há insetos gigantes impedindo nosso caminho!
 
-409
-00:27:10,550 --> 00:27:12,010
-O quê? Insetos?!
+397
+00:27:10,520 --> 00:27:11,960
+O quê?! Insetos?!
 
-410
-00:27:14,920 --> 00:27:16,650
+398
+00:27:15,230 --> 00:27:16,660
 O que são essas coisas?!
 
+399
+00:27:20,530 --> 00:27:21,600
+Atirem!
+
+400
+00:27:29,080 --> 00:27:33,180
+Eu não permitirei que atrapalhem
+a nova aventura do Usopp'm!
+
+401
+00:27:36,650 --> 00:27:39,490
+Quando homens se despedem,
+não derramam lágrimas'm!
+
+402
+00:27:40,550 --> 00:27:42,920
+Boa sorte, Usopp'm!
+
+403
+00:27:45,130 --> 00:27:47,590
+Contanto que eles não venham, tudo bem.
+
+404
+00:27:47,590 --> 00:27:49,930
+Se eles estiverem encrencados,
+sorte a nossa.
+
+405
+00:27:49,930 --> 00:27:52,030
+Vamos logo embora!
+
+406
+00:27:52,370 --> 00:27:54,830
+Nami, você comanda!
+
+407
+00:27:54,830 --> 00:27:55,600
+Conte comigo!
+
+408
+00:27:57,570 --> 00:27:58,270
+Muito bem!
+
+409
+00:28:00,710 --> 00:28:02,110
+Pelotão 4 na linha!
+
+410
+00:28:02,510 --> 00:28:05,580
+Sinto muito. De repente, começou a chover
+
 411
-00:27:20,420 --> 00:27:21,760
-Fogo!
+00:28:05,580 --> 00:28:07,150
+e a pólvora molhou!
 
 412
-00:27:29,200 --> 00:27:33,270
-Eu não vou deixar eles atrapalharem
-a nova aventura do Usopp'n!
+00:28:07,150 --> 00:28:09,620
+Chuva? Onde?
 
 413
-00:27:36,670 --> 00:27:39,440
-Quando homens se separam, não derramamos lágrimas'n.
+00:28:10,220 --> 00:28:13,950
+O céu do Arquipélago Sabaody deveria
+estar claro e ensolarado!
 
 414
-00:27:40,540 --> 00:27:43,650
-Boa sorte, Usopp'n!
+00:28:17,960 --> 00:28:23,230
+Sem trovões... Não queremos machucar os civis!
 
 415
-00:27:45,110 --> 00:27:47,550
-Se eles não tão vindo, ótimo.
+00:28:23,230 --> 00:28:26,370
+As bolhas aqui atrapalham bastante...
 
 416
-00:27:47,550 --> 00:27:50,050
-O problema deles é nossa sorte.
+00:28:26,370 --> 00:28:29,840
+Mas não acredito que pegamos
+um vento tão perfeito!
 
 417
-00:27:50,050 --> 00:27:52,350
-Vamos embora logo!
+00:28:29,840 --> 00:28:32,640
+Ele nos trouxe bem aonde precisávamos.
 
 418
-00:27:52,350 --> 00:27:54,720
-Nami, mostre o caminho!
+00:28:33,070 --> 00:28:36,710
+É porque a Nami é uma boa menina.
 
 419
-00:27:54,720 --> 00:27:55,520
-Deixa comigo!
+00:28:40,480 --> 00:28:45,750
+Boa sorte! Sentiremos sua
+falta em Climatéria!
 
 420
-00:27:57,560 --> 00:27:58,330
-Beleza!
+00:29:02,500 --> 00:29:03,800
+Ah, está inflando!
 
 421
-00:28:00,830 --> 00:28:02,030
-Aqui é o Pelotão 4.
+00:29:05,640 --> 00:29:08,510
+O quê? Esta gelatina infla?
 
 422
-00:28:02,030 --> 00:28:03,770
-Me desculpe.
+00:29:12,050 --> 00:29:15,150
+Estamos dentro de uma bolha!
 
 423
-00:28:03,770 --> 00:28:07,100
-Fomos pegos por uma chuva repentina e a pólvora molhou!
+00:29:15,720 --> 00:29:16,750
+Escutem bem, pessoal.
 
 424
-00:28:07,100 --> 00:28:08,800
-Chuva? Onde tá chovendo?
+00:29:17,450 --> 00:29:21,760
+Um navio revestido consegue reduzir qualquer tipo
+de pressão.
 
 425
-00:28:08,800 --> 00:28:10,140
-Chuva? Onde tá chovendo?
+00:29:22,260 --> 00:29:26,290
+Portanto, quando removermos a bolsa
+flutuante presa à popa do navio,
 
 426
-00:28:10,140 --> 00:28:14,210
-Sabaody Archipelago deveria estar
-com céu limpo e sol hoje!
+00:29:26,290 --> 00:29:31,560
+a bolha vai anular o empuxo
+e o Sunny revestido afundará.
 
 427
-00:28:17,950 --> 00:28:19,780
-Sem trovão.
-
-428
-00:28:19,780 --> 00:28:23,050
-Queremos evitar machucar civis.
-
-429
-00:28:23,050 --> 00:28:26,060
-As bolhas daqui são um saco...
-
-430
-00:28:26,060 --> 00:28:29,660
-Mas é difícil acreditar que
-pegamos um vento tão perfeito.
-
-431
-00:28:29,660 --> 00:28:32,600
-Nos trouxe direitinho pro Sabaody Archipelago.
-
-432
-00:28:32,600 --> 00:28:36,570
-É porque a Nami é uma expert nisso.
-
-433
-00:28:40,100 --> 00:28:45,670
-Boa sorte! Vamos sentir saudades
-daqui de Weatheria!
-
-434
-00:29:02,420 --> 00:29:03,730
-Oh, tá inflando!
-
-435
-00:29:05,660 --> 00:29:08,530
-O quê? Essa geleia infla?
-
-436
-00:29:12,070 --> 00:29:15,070
-Oh, ganhamos um teto de bolha!
-
-437
-00:29:15,740 --> 00:29:16,710
-Ouçam, todos.
-
-438
-00:29:17,440 --> 00:29:22,180
-Um navio revestido consegue suportar
-qualquer tipo de pressão.
-
-439
-00:29:22,180 --> 00:29:27,680
-Quando o Franky remover a bolsa de flutuação
-que sustenta a quilha do navio,
-
-440
-00:29:27,680 --> 00:29:31,620
-o revestimento do Sunny vai fazê-lo começar a afundar.
-
-441
-00:29:31,620 --> 00:29:32,620
+00:29:31,560 --> 00:29:32,700
 É assim que funciona.
 
-442
-00:29:32,620 --> 00:29:34,220
-– Entendi.
-– Entendi.
+428
+00:29:33,000 --> 00:29:34,270
+Entendi.
 
-443
-00:29:34,220 --> 00:29:35,690
-Complicado demais, né?
+429
+00:29:34,470 --> 00:29:35,740
+Complicado, né?
 
-444
-00:29:35,690 --> 00:29:37,830
-Enfim, baixem a vela agora!
+430
+00:29:35,740 --> 00:29:37,740
+Enfim, desfraldem as velas agora!
 
-445
-00:29:37,830 --> 00:29:38,660
-– A vela?
-– A vela?
+431
+00:29:37,940 --> 00:29:38,770
+As velas?
 
-446
-00:29:38,660 --> 00:29:42,830
-Em vez do vento, são as correntes marítimas
-que movem um navio revestido.
+432
+00:29:38,770 --> 00:29:42,910
+Um navio revestido é impulsionado
+pelas correntes marítimas, e não pelo vento.
 
-447
-00:29:42,830 --> 00:29:45,870
-Então ele não só afunda até o destino.
+433
+00:29:43,140 --> 00:29:45,910
+Achei que fosse só submergir e navegar...
 
-448
-00:29:46,540 --> 00:29:49,370
-Certo! Vamos logo antes de encontrar
-mais Marinheiros!
+434
+00:29:46,510 --> 00:29:49,380
+Certo, vamos antes que
+a Marinha apareça de novo!
 
-449
-00:29:50,710 --> 00:29:54,080
-Aqui é o Pelotão Central 5 no Grove 42!
+435
+00:29:50,720 --> 00:29:54,120
+Pelotão 5 da Unidade Central
+do Mangue #42 falando!
 
-450
-00:29:54,080 --> 00:29:55,740
-Temos uma emergência!
+436
+00:29:54,390 --> 00:29:55,790
+Emergência!
 
-451
-00:29:55,740 --> 00:29:59,650
-As tropas que chegaram antes de nós,
-o Pelotão 2, parecem ter ficado negativos!
+437
+00:29:55,790 --> 00:29:59,730
+Todos os soldados do
+Pelotão 2 estão deprimidos...
 
-452
-00:29:59,650 --> 00:30:01,780
-Do que você tá falando? "Negativos"?!
+438
+00:29:59,730 --> 00:30:01,730
+Como assim, deprimidos?!
 
-453
-00:30:01,780 --> 00:30:03,050
+439
+00:30:01,730 --> 00:30:03,100
 Eu quero virar musgo...
 
-454
-00:30:03,050 --> 00:30:05,850
-Eu sou inútil. Quero virar uma pulga d'água...
+440
+00:30:03,100 --> 00:30:05,930
+Eu não presto...
+Quero virar uma pulga d'água...
 
-455
-00:30:05,850 --> 00:30:10,630
-Segundo eles, o Chapéu de Palha Luffy
-subiu num pássaro gigante e voou embora!
+441
+00:30:06,070 --> 00:30:08,940
+Eles dizem que o Chapéu de Palha
 
-456
-00:30:10,630 --> 00:30:13,200
-Pássaro? O que vocês tão fazendo agora?!
+442
+00:30:08,940 --> 00:30:10,700
+montou num pássaro
+gigante e foi embora!
 
-457
-00:30:13,200 --> 00:30:16,030
-Estamos lutando contra inimigos desconhecidos!
+443
+00:30:10,700 --> 00:30:13,210
+Um pássaro? E o que vocês
+estão fazendo agora?!
 
-458
-00:30:17,200 --> 00:30:20,870
-Reforços da Marinha!
-Era pra gente já ter saído...
+444
+00:30:13,540 --> 00:30:16,140
+Estamos enfrentando inimigos
+não-identificados!
 
-459
-00:30:20,870 --> 00:30:22,740
-Todo mundo!
+445
+00:30:17,210 --> 00:30:20,880
+Reforços da Marinha logo na hora que estamos partindo.
 
-460
-00:30:24,740 --> 00:30:27,340
-O navio do Chapéu de Palha está no alcance agora!
+446
+00:30:20,880 --> 00:30:22,750
+Pessoal!
 
-461
-00:30:28,510 --> 00:30:31,510
-Espera! Um pássaro gigante
-tá vindo na nossa direção!
+447
+00:30:24,750 --> 00:30:27,350
+O navio dos Chapéus de Palha está no perímetro!
 
-462
-00:30:41,490 --> 00:30:42,990
-É ele!
+448
+00:30:28,520 --> 00:30:31,520
+Espera um pouco!
+Um pássaro gigante está nos seguindo!
 
-463
-00:30:44,530 --> 00:30:45,860
-Eles estão atrás da gente!
+449
+00:30:41,700 --> 00:30:42,640
+Ele...
 
-464
-00:30:45,860 --> 00:30:47,160
+450
+00:30:44,500 --> 00:30:45,770
+Também estão vindo pela retaguarda!
+
+451
+00:30:46,110 --> 00:30:47,210
 Deixa comigo!
 
-465
-00:30:49,770 --> 00:30:51,100
-E aí, Nami?
+452
+00:30:49,680 --> 00:30:51,080
+Que tal, Nami?
 
-466
-00:30:51,100 --> 00:30:53,300
-Por favor, olha pra mim...
+453
+00:30:51,510 --> 00:30:55,150
+Viu como fiquei mais forte?
 
-467
-00:30:53,300 --> 00:30:55,800
-Veja o quanto eu fiquei mais forte.
-
-468
-00:30:55,800 --> 00:30:58,070
+454
+00:30:56,420 --> 00:30:58,050
 Sanji!
 
-469
-00:31:00,540 --> 00:31:03,550
-Respondam, Pelotão 5! O que tá acontecendo?!
+455
+00:31:00,520 --> 00:31:03,260
+Responda, Pelotão 5!
+O que está acontecendo?!
 
-470
-00:31:03,550 --> 00:31:05,610
+456
+00:31:03,390 --> 00:31:05,360
 N-Nós estamos...
 
+457
+00:31:05,630 --> 00:31:09,530
+Estamos encarando um
+obstáculo inesperado...
+
+458
+00:31:09,960 --> 00:31:11,730
+Não façam isso!
+
+459
+00:31:14,330 --> 00:31:18,040
+Como podem nos recusar?
+
+460
+00:31:18,300 --> 00:31:20,410
+Vai ver, são todos tímidos...
+
+461
+00:31:20,410 --> 00:31:23,240
+Não precisam ter vergonha!
+
+462
+00:31:24,210 --> 00:31:26,810
+Vamos tomar chá juntos!
+
+463
+00:31:27,750 --> 00:31:31,550
+M-Meu coração... Meu coração não aguenta!
+
+464
+00:31:34,420 --> 00:31:37,460
+Ah! Que rostinho fofo!
+
+465
+00:31:37,620 --> 00:31:39,190
+Não! Não faça isso!
+
+466
+00:31:42,160 --> 00:31:44,900
+O que houve? Responda, Pelotão 5!
+
+467
+00:31:46,600 --> 00:31:49,000
+Sanji, a hora é essa!
+
+468
+00:31:51,500 --> 00:31:53,540
+Ei! O que foi, Sanji?
+
+469
+00:31:54,910 --> 00:31:57,040
+E-Eu não sei... De repente, eu...
+
+470
+00:31:57,040 --> 00:32:00,150
+Senti como se estivessem
+espremendo meu coração...
+
 471
-00:31:05,610 --> 00:31:10,250
-Estamos enfrentando... um obstáculo inesperado...
+00:32:00,150 --> 00:32:01,810
+A bolsa flutuante foi removida!
 
 472
-00:31:10,250 --> 00:31:11,750
-Não faça isso!
+00:32:02,050 --> 00:32:04,020
+Certo! E as velas?
 
 473
-00:31:14,220 --> 00:31:18,260
-Como vocês ousam nos rejeitar assim?!
+00:32:04,320 --> 00:32:06,320
+Basta dar o sinal!
 
 474
-00:31:18,260 --> 00:31:20,700
-Talvez eles sejam todos tímidos.
+00:32:06,850 --> 00:32:08,390
+Hora de ir, Nami?
 
 475
-00:31:20,700 --> 00:31:23,600
-Vocês não precisam ter vergonha!
+00:32:08,390 --> 00:32:10,360
+Sim. Ao seu comando, Capitão.
 
 476
-00:31:24,200 --> 00:31:27,140
-Vamos tomar um chá juntos!
+00:32:17,600 --> 00:32:18,800
+Beleza...
 
 477
-00:31:27,900 --> 00:31:31,810
-E-Eu tô ficando... tô ficando maluco, né?!
+00:32:23,470 --> 00:32:25,240
+Pessoal!
 
 478
-00:31:34,440 --> 00:31:38,210
-Oh! Que rostinho mais fofo!
+00:32:26,140 --> 00:32:30,480
+Tenho muita coisa para contar a vocês,
 
 479
-00:31:38,210 --> 00:31:39,350
-Não, não faça isso!
+00:32:31,080 --> 00:32:35,150
+mas obrigado por aceitarem minha
+decisão egoísta de dois anos atrás!
 
 480
-00:31:42,250 --> 00:31:44,920
-O que houve? Respondam, Pelotão 5!
+00:32:35,580 --> 00:32:37,950
+Não foi a primeira vez.
 
 481
-00:31:46,760 --> 00:31:49,020
-Sanji-kins, agora é sua chance!
+00:32:38,080 --> 00:32:41,120
+Pois é! Você só olha
+pro próprio umbigo!
 
 482
-00:31:51,460 --> 00:31:53,900
-Ei, ei, o que houve, Sanji?!
+00:32:46,130 --> 00:32:49,630
+Contra-Almirante, o navio
+pirata está submergindo!
 
 483
-00:31:55,060 --> 00:32:00,240
-E-E-Eu não sei... De repente, senti como
-se alguém tivesse apertado meu coração...
+00:32:49,630 --> 00:32:51,630
+O quê?! Droga!
 
 484
-00:32:00,240 --> 00:32:01,870
-Removi a bolsa de flutuação!
+00:32:52,000 --> 00:32:53,030
+Idiotas!
 
 485
-00:32:01,870 --> 00:32:04,040
-Tá bom! E a vela?!
+00:32:53,030 --> 00:32:57,240
+Fazem ideia de como
+eles são cruéis? Ei!
 
 486
-00:32:04,040 --> 00:32:06,340
-Prontos quando quiser!
-
-487
-00:32:06,910 --> 00:32:08,410
-Tá na hora de ir, Nami?
-
-488
-00:32:08,410 --> 00:32:10,410
-Sim, ao seu comando, Capitão.
-
-489
-00:32:17,750 --> 00:32:18,920
-Certo...
-
-490
-00:32:23,430 --> 00:32:25,130
-Galera!
-
-491
-00:32:26,260 --> 00:32:31,230
-Eu tenho tanta coisa que quero
-contar pra vocês, mas antes de tudo,
-
-492
-00:32:31,230 --> 00:32:35,240
-obrigado por aceitarem minha decisão
-egoísta por dois anos!
-
-493
-00:32:35,240 --> 00:32:38,040
-Não é como se fosse a primeira vez.
-
-494
-00:32:38,040 --> 00:32:41,240
-Ele tem razão! Você sempre foi assim!
-
-495
-00:32:45,810 --> 00:32:49,720
-Contra-Almirante, o navio pirata tá submergindo!
-
-496
-00:32:49,720 --> 00:32:51,720
-O quê?! Maldição!
-
-497
-00:32:51,720 --> 00:32:53,090
-Desgraçados!
-
-498
-00:32:53,090 --> 00:32:54,990
-Vocês têm ideia...
-
-499
-00:32:54,990 --> 00:32:57,560
-de quão perigosos esses piratas são? Ei!
-
-500
-00:32:57,560 --> 00:32:58,990
+00:32:57,500 --> 00:32:58,870
 Contra-Almirante!
 
-501
-00:32:59,960 --> 00:33:02,530
-Se cuida, Luffy...
+487
+00:32:59,810 --> 00:33:02,440
+Cuide-se, Luffy...
 
-502
-00:33:05,400 --> 00:33:07,570
-Baixem a vela!
+488
+00:33:05,550 --> 00:33:07,550
+Desfraldar velas!
 
-503
-00:33:07,570 --> 00:33:08,700
-– Sim!
-– É!
+489
+00:33:07,550 --> 00:33:08,650
+- Sim!
+- Sim!
 
-504
-00:33:16,410 --> 00:33:19,410
-Zarpar!
+490
+00:33:16,290 --> 00:33:19,330
+Partir!
 
-505
-00:33:19,410 --> 00:33:21,780
-– É!
-– É!
+491
+00:33:19,530 --> 00:33:21,930
+Sim!
 
-506
-00:33:28,290 --> 00:33:32,290
-Vamos pra Ilha dos Homens-Peixe!
+492
+00:33:28,170 --> 00:33:32,140
+Vamos para a Ilha dos Homens-Peixe!
 
-507
+493
 00:03:27,220 --> 00:03:33,760
-Grove 41
+Mangue 41
 
-508
+494
 00:03:27,220 --> 00:03:33,760
-Grove 41
+Mangue 41
 
-509
+495
 00:20:37,690 --> 00:20:42,460
-The Straw Hats' Rendezvous Point, Grove 42 Shore
+Ponto de Encontro dos Chapéus de Palha, Mangue 42
 
-510
+496
 00:20:37,690 --> 00:20:42,460
-The Straw Hats' Rendezvous Point, Grove 42 Shore
+Ponto de Encontro dos Chapéus de Palha, Mangue 42
