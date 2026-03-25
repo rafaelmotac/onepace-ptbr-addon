@@ -41,6 +41,10 @@ const manifest = {
   resources: [{ name: "subtitles", types: ["series"] }],
   types: ["series"],
   catalogs: [],
+  stremioAddonsConfig: {
+    issuer: "https://stremio-addons.net",
+    signature: "eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..88UH-tGgydOyq6eixRlbXg.FSOuyDTwn-tF3WZ_26t-KaiQ4skAUvx5Is8H4xMlWXqp8DwI-vNv9aRg-tHuUCZU-XIXhUWm27eX4Zvo9WbqiVL377n-rDiS8XmETG2kwM2hDcZeAKlueKOSVGhv48vU.V-40wPBFYpm00eMhukBpyg",
+  },
 };
 
 const builder = new addonBuilder(manifest);
