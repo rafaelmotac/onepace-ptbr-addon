@@ -3,26 +3,26 @@
 Riqueza, fama, poder...
 
 2
-00:00:05,600 --> 00:00:08,340
-Um homem conquistou tudo
- o que este mundo tinha a oferecer,
+00:00:05,600 --> 00:00:10,900
+Gold Roger, o Rei dos Piratas,
+conquistou tudo o que este mundo tinha a oferecer.
 
 3
-00:00:08,340 --> 00:00:10,900
-o Rei dos Piratas, Gold Roger.
-
-4
 00:00:11,470 --> 00:00:17,370
 Suas últimas palavras lançaram 
 multidões de aventureiros aos mares.
 
+4
+00:00:17,710 --> 00:00:19,640
+Meu tesouro?
+
 5
-00:00:17,770 --> 00:00:23,590
-Meu tesouro? 
-Se quiserem, podem pegá-lo! Procurem-no!
+00:00:20,170 --> 00:00:23,590
+Se quiserem, podem pegá-lo!
+ Procurem-no!
 
 6
-00:00:23,590 --> 00:00:26,330
+00:00:23,590 --> 00:00:26,340
 Tudo está exatamente onde eu deixei!
 
 7
@@ -31,1660 +31,1692 @@ Agora, os homens desbravam a Grand Line
  à procura de seus sonhos.
 
 8
-00:00:31,950 --> 00:00:34,020
+00:00:31,950 --> 00:00:36,100
 E assim teve início...
+a Grande Era dos Piratas!
 
 9
-00:00:34,020 --> 00:00:36,100
-A Grande Era dos Piratas!
+00:00:39,060 --> 00:00:41,650
+Esta é uma pequena vila portuária.
 
 10
-00:00:51,860 --> 00:00:54,740
-Ei, Luffy! O que deu em você dessa vez?!
+00:00:42,190 --> 00:00:46,440
+E neste porto, um navio pirata está ancorado
+a cerca de um ano.
 
 11
-00:00:56,900 --> 00:01:02,040
-Já chega! Eu não sou mais uma criancinha!
-E vou provar pra vocês!
+00:00:46,440 --> 00:00:51,170
+Um vento vindo do leste
+ sopra por esta vila pacífica...
 
 12
-00:01:04,080 --> 00:01:07,880
+00:00:51,780 --> 00:00:54,200
+Ei, Luffy! O que deu em você dessa vez?!
+
+13
+00:00:56,790 --> 00:01:00,290
+Já chega! Eu não sou mais uma criancinha!
+
+14
+00:01:00,290 --> 00:01:02,040
+E vou provar pra vocês!
+
+15
+00:01:04,130 --> 00:01:07,880
 Então manda ver...
  seja lá o que for que você vai aprontar!
 
-13
-00:01:10,710 --> 00:01:12,000
+16
+00:01:10,720 --> 00:01:11,840
 Ai!
 
-14
-00:01:12,000 --> 00:01:14,380
+17
+00:01:11,840 --> 00:01:14,390
 Seu idiota!
  Por que inventou de fazer isso?!
 
-15
-00:01:14,380 --> 00:01:15,950
+18
+00:01:14,390 --> 00:01:15,930
 Saúde, pessoal!
 
-16
-00:01:17,560 --> 00:01:22,560
+19
+00:01:17,560 --> 00:01:21,940
 À coragem do Luffy 
 e a outra jornada bem-sucedida!
 
-17
+20
 00:01:23,400 --> 00:01:25,440
 Ah, nem doeu de verdade!
 
-18
-00:01:25,440 --> 00:01:27,860
-Seu mentiroso.
- Tem que parar com essas idiotices.
-
-19
-00:01:27,860 --> 00:01:28,940
-Mentira nada!
-
-20
-00:01:28,940 --> 00:01:31,770
-Eu não tenho medo de me machucar!
-
 21
-00:01:31,770 --> 00:01:35,950
-Me leva na sua próxima viagem!
-Eu também quero ser um pirata!
+00:01:25,440 --> 00:01:27,730
+Mentiroso. Tem que parar
+ com essas idiotices.
 
 22
-00:01:37,520 --> 00:01:39,950
-Até parece que você leva jeito pra ser pirata!
+00:01:27,730 --> 00:01:28,940
+Mentira nada!
 
 23
-00:01:40,460 --> 00:01:43,580
+00:01:28,940 --> 00:01:31,780
+Eu não tenho medo de me machucar!
+
+24
+00:01:31,780 --> 00:01:34,160
+Me leva na sua próxima viagem!
+
+25
+00:01:34,160 --> 00:01:35,950
+Eu também quero ser um pirata!
+
+26
+00:01:37,620 --> 00:01:39,950
+Até parece que você leva jeito pra ser pirata!
+
+27
+00:01:40,370 --> 00:01:43,580
 A pior coisa que um pirata pode ser
  é uma âncora que nem você!
 
-24
-00:01:43,580 --> 00:01:46,520
+28
+00:01:43,580 --> 00:01:46,380
 É só eu não cair do navio, ora!
 
-25
-00:01:46,520 --> 00:01:48,710
+29
+00:01:46,380 --> 00:01:48,710
 Além disso, eu sou bom de briga!
 
-26
-00:01:48,710 --> 00:01:53,460
+30
+00:01:48,710 --> 00:01:53,470
 Eu tô treinando bastante!
  Meu soco é que nem um tiro de pistola!
 
-27
-00:01:53,460 --> 00:01:56,200
-Uma pistola, é? Não me diga...
-
-28
-00:01:56,200 --> 00:01:57,800
-Tá debochando de mim, é?!
-
-29
-00:01:57,800 --> 00:01:59,180
-Luffy!
-
-30
-00:01:59,470 --> 00:02:01,720
-Pra quê essa cara amarrada?
-
 31
-00:02:01,720 --> 00:02:04,140
-Vem se divertir com a gente!
+00:01:53,470 --> 00:01:54,800
+Uma pistola, é?
 
 32
-00:02:04,140 --> 00:02:06,810
+00:01:54,800 --> 00:01:56,180
+Não me diga...
+
+33
+00:01:56,180 --> 00:01:57,810
+Tá tirando com a minha cara, é?!
+
+34
+00:01:58,470 --> 00:01:59,180
+Luffy!
+
+35
+00:01:59,180 --> 00:02:01,730
+Pra quê essa cara amarrada?
+
+36
+00:02:01,730 --> 00:02:04,020
+Vem se divertir com a gente!
+
+37
+00:02:04,020 --> 00:02:06,730
 É isso aí! Ser um pirata
  é sempre se divertir ao máximo!
 
-33
-00:02:06,810 --> 00:02:09,100
+38
+00:02:06,730 --> 00:02:09,110
 O mar é infinitamente vasto!
 
-34
-00:02:09,100 --> 00:02:11,560
+39
+00:02:09,110 --> 00:02:11,570
 Tem muitas ilhas pra se aventurar!
 
-35
-00:02:11,560 --> 00:02:13,190
+40
+00:02:11,570 --> 00:02:13,200
 Somos completamente livres!
 
-36
-00:02:14,650 --> 00:02:18,030
+41
+00:02:14,660 --> 00:02:17,990
 Parem de ficar botando
  essas ideias na cabeça dele, gente.
 
-37
-00:02:18,030 --> 00:02:20,030
-Ué, mas é verdade, né?
+42
+00:02:17,990 --> 00:02:19,330
+Ué, mas é tudo verdade, né?
 
-38
-00:02:20,030 --> 00:02:23,450
+43
+00:02:19,330 --> 00:02:20,040
+– Não é?!
+– Não é?!
+
+44
+00:02:20,040 --> 00:02:23,460
 Qual é, chefe! Bem que a gente podia levar ele na próxima viagem!
 
-39
-00:02:23,450 --> 00:02:25,780
+45
+00:02:23,460 --> 00:02:24,960
 Apoio essa ideia!
 
-40
-00:02:25,780 --> 00:02:28,250
+46
+00:02:26,000 --> 00:02:28,250
 Então, alguém fica aqui no lugar dele.
 
-41
-00:02:28,250 --> 00:02:31,360
+47
+00:02:28,250 --> 00:02:31,420
 Beleza, chega de papo! 
 Vamo beber!
 
-42
-00:02:31,360 --> 00:02:32,960
+48
+00:02:31,420 --> 00:02:32,970
 Vocês não tavam do meu lado?!
 
-43
-00:02:32,970 --> 00:02:36,290
+49
+00:02:32,970 --> 00:02:35,930
 Olha, você é novo demais pra isso, moleque.
 
-44
-00:02:36,290 --> 00:02:38,930
+50
+00:02:35,930 --> 00:02:38,930
 Quem sabe, daqui uns 10 anos, eu pense no seu caso.
 
-45
-00:02:38,930 --> 00:02:41,680
-Shanks, seu idiota! 
+51
+00:02:38,930 --> 00:02:40,140
+Shanks, seu idiota!
+
+52
+00:02:40,140 --> 00:02:41,680
 Eu não sou criança coisa nenhuma!
 
-46
-00:02:41,680 --> 00:02:44,300
-Ei, vem cá, esfria a cabeça! 
+53
+00:02:41,680 --> 00:02:43,060
+Ei, vem cá, esfria a cabeça!
+
+54
+00:02:43,060 --> 00:02:44,350
 Toma esse suquinho aqui.
 
-47
-00:02:44,300 --> 00:02:46,360
+55
+00:02:44,350 --> 00:02:46,160
 Opa, valeu aí!
 
-48
-00:02:47,940 --> 00:02:49,820
+56
+00:02:47,560 --> 00:02:49,730
 Viu como você é só uma criancinha?
 
-49
-00:02:49,820 --> 00:02:51,480
+57
+00:02:49,730 --> 00:02:51,480
 Isso foi jogo sujo, Shanks!
 
-50
-00:02:52,480 --> 00:02:54,500
+58
+00:02:52,490 --> 00:02:54,400
 Já cansei disso!
 
-51
-00:02:54,500 --> 00:02:58,220
+59
+00:02:54,400 --> 00:02:57,910
 Luffy, você precisa
  tentar entender o lado do Chefe.
 
-52
-00:02:58,220 --> 00:02:58,990
+60
+00:02:57,910 --> 00:02:58,870
 Imediato!
 
-53
-00:02:59,920 --> 00:03:03,420
+61
+00:02:59,830 --> 00:03:03,330
 Tem que ter em mente
  que ele é o líder de um bando pirata.
 
-54
-00:03:03,420 --> 00:03:07,370
+62
+00:03:03,330 --> 00:03:07,250
 Ele conhece os perigos e dificuldades
  de ser um pirata melhor do que qualquer um.
 
-55
-00:03:07,370 --> 00:03:11,920
-Não é que ele esteja querendo te desencorajar, entende?
-
-56
-00:03:12,340 --> 00:03:16,630
-Não entendo, não!
- O Shanks só quer tirar uma com a minha cara!
-
-57
-00:03:16,630 --> 00:03:17,910
-Âncorazinha!
-
-58
-00:03:17,910 --> 00:03:18,630
-Viu só?!
-
-59
-00:03:18,630 --> 00:03:20,990
-Parece estar se divertindo, como sempre.
-
-60
-00:03:20,990 --> 00:03:24,670
-É que eu adoro provocar ele.
-
-61
-00:03:25,290 --> 00:03:27,810
-Luffy, quer comer alguma coisa?
-
-62
-00:03:27,810 --> 00:03:30,390
-Sim! Coloca na minha conta de tesouros!
-
 63
-00:03:30,390 --> 00:03:34,470
-Essa tal conta de tesouros de novo?
-Isso aí é golpe seu, né?
+00:03:07,250 --> 00:03:08,380
+Entende?
 
 64
-00:03:34,470 --> 00:03:35,250
-Nada disso!
+00:03:08,380 --> 00:03:11,800
+Não é que ele esteja querendo te desencorajar.
 
 65
-00:03:35,250 --> 00:03:39,070
+00:03:11,800 --> 00:03:13,210
+Não entendo, não!
+
+66
+00:03:13,210 --> 00:03:16,590
+O Shanks só quer encher o meu saco!
+
+67
+00:03:16,590 --> 00:03:17,720
+Âncorazinha!
+
+68
+00:03:17,720 --> 00:03:18,510
+Viu só?!
+
+69
+00:03:18,930 --> 00:03:20,930
+Parece estar se divertindo, como sempre.
+
+70
+00:03:20,930 --> 00:03:24,640
+É que eu adoro provocar ele.
+
+71
+00:03:24,640 --> 00:03:27,270
+Luffy, quer comer alguma coisa?
+
+72
+00:03:27,270 --> 00:03:29,860
+Sim! Coloca na minha conta de tesouros!
+
+73
+00:03:29,860 --> 00:03:31,650
+Essa tal conta de tesouros de novo?
+
+74
+00:03:31,650 --> 00:03:33,900
+Isso aí é golpe seu, né?
+
+75
+00:03:33,900 --> 00:03:34,650
+Nada disso!
+
+76
+00:03:34,650 --> 00:03:38,530
 Eu pago quando virar pirata
 e achar um tesouro!
 
-66
-00:03:39,940 --> 00:03:41,680
+77
+00:03:39,370 --> 00:03:40,740
 Estou contando com isso.
 
-67
-00:03:43,300 --> 00:03:44,370
+78
+00:03:42,790 --> 00:03:43,830
 Shanks.
 
-68
-00:03:44,370 --> 00:03:45,290
+79
+00:03:43,830 --> 00:03:44,790
 Que foi?
 
-69
-00:03:45,290 --> 00:03:47,980
+80
+00:03:44,790 --> 00:03:47,500
 Até quando vão ficar nessa vila?
 
-70
-00:03:47,980 --> 00:03:49,420
+81
+00:03:47,500 --> 00:03:48,620
 Deixa eu ver...
 
-71
-00:03:49,420 --> 00:03:55,110
+82
+00:03:48,620 --> 00:03:54,510
 Depois de mais umas viagens,
  vamos embora dessa vila, rumo ao norte.
 
-72
-00:03:57,000 --> 00:03:59,010
+83
+00:03:56,260 --> 00:03:58,220
 Mais umas viagens, é?
 
-73
-00:04:02,510 --> 00:04:05,390
+84
+00:04:01,050 --> 00:04:04,020
 Então tenho que aprender a nadar 
 antes de vocês irem!
 
-74
-00:04:05,390 --> 00:04:08,310
-Boa. Se esforça bastante, viu?
-
-75
-00:04:13,080 --> 00:04:14,850
-Com sua licença.
-
-76
-00:04:14,850 --> 00:04:19,400
-Então, esses aí são os tais piratas. 
-Parecem só um bando de otários pra mim.
-
-77
-00:04:28,620 --> 00:04:33,990
-Somos bandidos das montanhas,
- mas não viemos causar problemas.
-
-78
-00:04:33,990 --> 00:04:35,290
-Só viemos pegar umas bebidas.
-
-79
-00:04:35,290 --> 00:04:38,920
-Sinto muito, mas acabou o nosso estoque.
-
-80
-00:04:39,990 --> 00:04:44,010
-Mas então, o que é que esses piratas estão bebendo? É água, por acaso?
-
-81
-00:04:44,010 --> 00:04:47,640
-Infelizmente, eles estão bebendo nossa últimas reservas.
-
-82
-00:04:47,640 --> 00:04:53,700
-É uma pena mesmo.
-Parece que a gente acabou bebendo tudo.
-
-83
-00:04:53,700 --> 00:04:54,600
-Desculpa aí.
-
-84
-00:04:55,490 --> 00:04:58,860
-Pode ficar com essa, se quiser.
-Nem abrimos ainda.
-
 85
-00:05:06,780 --> 00:05:11,390
-Ei, desgraçado! 
-Você sabe com quem tá falando?!
+00:04:04,020 --> 00:04:05,600
+Boa.
 
 86
-00:05:11,390 --> 00:05:14,710
-Uma garrafa não dá nem pra começar.
+00:04:05,600 --> 00:04:06,850
+Se esforça bastante, viu?
 
 87
-00:05:16,380 --> 00:05:18,250
-Molhou o chão todo!
+00:04:11,650 --> 00:04:13,400
+Com sua licença.
 
 88
-00:05:18,250 --> 00:05:19,490
-Dá uma olhada nisso aqui.
+00:04:13,400 --> 00:04:15,990
+Então, esses aí são os tais piratas.
 
 89
-00:05:19,490 --> 00:05:22,380
-Minha cabeça vale oito milhões de bellys.
+00:04:15,990 --> 00:04:17,950
+Parecem só um bando de otários pra mim.
 
 90
-00:05:23,000 --> 00:05:27,720
+00:04:27,160 --> 00:04:29,330
+Somos bandidos das montanhas,
+
+91
+00:04:29,330 --> 00:04:32,340
+mas não viemos causar problemas.
+
+92
+00:04:32,340 --> 00:04:33,840
+Só viemos pegar umas bebidas.
+
+93
+00:04:33,840 --> 00:04:35,000
+Sinto muito.
+
+94
+00:04:35,000 --> 00:04:37,470
+Acabou todo o nosso estoque.
+
+95
+00:04:38,550 --> 00:04:40,970
+Mas então, o que é
+ que esses piratas estão bebendo?
+
+96
+00:04:40,970 --> 00:04:42,600
+É água, por acaso?
+
+97
+00:04:42,600 --> 00:04:46,180
+Infelizmente, eles estão bebendo nossa últimas reservas.
+
+98
+00:04:46,180 --> 00:04:48,350
+Foi mal aí.
+
+99
+00:04:48,350 --> 00:04:52,230
+Parece que a gente acabou bebendo tudo.
+
+100
+00:04:52,230 --> 00:04:53,150
+Desculpa aí!
+
+101
+00:04:54,070 --> 00:04:55,570
+Pode ficar com essa.
+
+102
+00:04:55,570 --> 00:04:57,400
+Nem abrimos ainda.
+
+103
+00:05:05,410 --> 00:05:06,870
+Ei, desgraçado!
+
+104
+00:05:07,540 --> 00:05:09,910
+Você sabe com quem tá falando?!
+
+105
+00:05:09,910 --> 00:05:13,250
+Uma garrafa não dá nem pra começar.
+
+106
+00:05:14,920 --> 00:05:16,800
+Molhou o chão todo!
+
+107
+00:05:16,800 --> 00:05:18,090
+Dá uma olhada nisso aqui.
+
+108
+00:05:18,090 --> 00:05:20,930
+Minha cabeça vale oito milhões de berrys.
+
+109
+00:05:21,470 --> 00:05:26,260
 Já matei umas cinquenta e seis pessoas,
 todas uns otários que nem você.
 
-91
-00:05:27,720 --> 00:05:30,190
+110
+00:05:26,260 --> 00:05:28,560
 Então, é melhor ficar esperto.
 
-92
-00:05:30,190 --> 00:05:34,080
+111
+00:05:28,560 --> 00:05:32,520
 Mas, como somos das montanhas, e vocês, do mar, 
 duvido que a gente se esbarre de novo.
 
-93
-00:05:36,270 --> 00:05:39,800
-Sinto muito por essa bagunça toda, Srta. Makino. Tem um pano aí?
+112
+00:05:34,810 --> 00:05:36,980
+Sinto muito por essa bagunça toda, Makino.
 
-94
-00:05:39,800 --> 00:05:42,850
+113
+00:05:36,980 --> 00:05:38,480
+Tem um pano aí?
+
+114
+00:05:38,480 --> 00:05:41,360
 Ah, tudo bem!
  Pode deixar que eu mesma limpo!
 
-95
-00:05:50,070 --> 00:05:54,950
+115
+00:05:48,660 --> 00:05:50,660
 Parece que gosta de ajudar na limpeza.
- Talvez isso te apeteça mais.
 
-96
-00:06:08,900 --> 00:06:11,300
+116
+00:05:50,660 --> 00:05:53,500
+Talvez isso te apeteça mais.
+
+117
+00:06:04,180 --> 00:06:06,600
 A gente se vê por aí, otários!
 
-97
-00:06:17,940 --> 00:06:20,100
+118
+00:06:13,230 --> 00:06:15,400
 Capitão, tudo bem com o senhor?
 
-98
-00:06:20,100 --> 00:06:21,980
+119
+00:06:15,400 --> 00:06:17,270
 Ah, tá tranquilo.
 
-99
-00:06:26,610 --> 00:06:28,940
+120
+00:06:20,940 --> 00:06:23,320
 Que vergonha, Chefe!
 
-100
-00:06:28,940 --> 00:06:30,540
+121
+00:06:23,320 --> 00:06:24,990
 Ele te pegou de jeito!
 
-101
-00:06:32,490 --> 00:06:34,990
+122
+00:06:26,950 --> 00:06:28,620
 Por que é que vocês tão rindo?!
 
-102
-00:06:34,990 --> 00:06:39,010
-Isso foi ridículo! 
+123
+00:06:28,620 --> 00:06:29,490
+– Hã?
+– Oh...
+
+124
+00:06:29,490 --> 00:06:31,540
+Isso foi ridículo!
+
+125
+00:06:31,540 --> 00:06:33,410
 Por que não enfrentou ele?!
 
-103
-00:06:39,010 --> 00:06:44,090
+126
+00:06:33,410 --> 00:06:38,540
 Homem de verdade não fica rindo
  depois de uma vergonha dessas, muito menos um pirata!
 
-104
-00:06:45,840 --> 00:06:50,720
+127
+00:06:39,500 --> 00:06:44,680
 Eu entendo como se sente,
  mas ele só derramou um pouco de bebida em mim.
 
-105
-00:06:50,720 --> 00:06:53,130
+128
+00:06:44,680 --> 00:06:46,940
 Não é motivo pra se estressar.
 
-106
-00:06:55,390 --> 00:06:57,220
+129
+00:06:49,180 --> 00:06:51,020
 Ei, peraí, Luffy.
 
-107
-00:06:57,220 --> 00:06:59,690
+130
+00:06:51,020 --> 00:06:53,480
 Pra mim, chega!
  Me recuso a ser um covarde feito vocês!
 
-108
-00:07:07,780 --> 00:07:09,280
+131
+00:07:00,360 --> 00:07:01,860
 O braço dele esticou!
 
-109
-00:07:09,280 --> 00:07:10,950
+132
+00:07:01,860 --> 00:07:03,530
 N-Não pode ser...!
 
-110
-00:07:10,950 --> 00:07:12,530
+133
+00:07:03,530 --> 00:07:05,110
 Mas que raios tá acontecendo?!
 
-111
-00:07:12,530 --> 00:07:14,580
+134
+00:07:05,110 --> 00:07:05,820
 Sumiu!
 
-112
-00:07:13,320 --> 00:07:14,580
-O quê?!
+135
+00:07:05,820 --> 00:07:07,030
+– O quê?!
+– O quê?!
 
-113
-00:07:14,580 --> 00:07:17,040
+136
+00:07:07,030 --> 00:07:09,620
 A Fruta Gomu-Gomu
- que roubamos dos inimigos!
+ que roubamos do navio inimigo!
 
-114
-00:07:14,580 --> 00:07:17,040
+137
+00:07:07,030 --> 00:07:09,620
 (Nota: Gomu-Gomu = Borracha)
 
-115
-00:07:17,040 --> 00:07:21,210
+138
+00:07:09,620 --> 00:07:13,500
 Luffy! Me diz, por favor, que você não comeu
  uma fruta que nem essa!
 
-116
-00:07:21,210 --> 00:07:23,790
+139
+00:07:13,500 --> 00:07:14,830
 E-Eu comi, sim...
+
+140
+00:07:14,830 --> 00:07:16,370
 O gosto era ruim demais.
 
-117
-00:07:23,790 --> 00:07:25,250
+141
+00:07:16,370 --> 00:07:17,790
 Aquela era a Fruta Gomu-Gomu!
 
-118
-00:07:23,790 --> 00:07:25,250
+142
+00:07:16,370 --> 00:07:17,790
 (Nota: Fruta de Borracha)
 
-119
-00:07:25,250 --> 00:07:28,300
+143
+00:07:17,790 --> 00:07:20,800
 Um tesouro raro do mar
 chamado de Fruta do Diabo!
 
-120
-00:07:28,300 --> 00:07:33,180
+144
+00:07:20,800 --> 00:07:25,760
 Quem come, fica com um corpo de borracha,
-e nunca mais consegue nadar!
+mas nunca mais consegue nadar!
 
-121
-00:07:33,180 --> 00:07:35,660
-Como é que é?! 
-Não pode ser!
+145
+00:07:25,760 --> 00:07:28,090
+Como é que é?! Não pode ser!
 
-122
-00:07:35,660 --> 00:07:38,010
+146
+00:07:28,090 --> 00:07:31,430
 Seu imbecil!
 
-123
-00:07:41,980 --> 00:07:44,150
+147
+00:07:34,390 --> 00:07:36,730
 Me dá um peixe aí, ô tio do peixe!
 
-124
-00:07:44,150 --> 00:07:48,910
-Ei, Luffy! Ouvi dizer
+148
+00:07:36,730 --> 00:07:38,060
+Ei, Luffy!
+
+149
+00:07:38,060 --> 00:07:41,400
+Ouvi dizer
  que zarparam sem você de novo!
 
-125
-00:07:48,910 --> 00:07:49,780
+150
+00:07:41,400 --> 00:07:42,360
 Tá tudo bem!
 
-126
-00:07:50,160 --> 00:07:56,190
-Ter virado de borracha me deixou
- bem mais feliz que uma viagenzinha.
+151
+00:07:42,360 --> 00:07:48,700
+Ter virado de borracha
+ é bem mais legal que uma viagenzinha.
 
-127
-00:07:58,290 --> 00:08:01,660
-Já faz um tempo desde que o capitão 
-e os outros partiram pro mar.
+152
+00:07:50,870 --> 00:07:54,250
+Já faz um bom tempo desde que o capitão 
+e os outros partiram para o mar.
 
-128
-00:08:02,150 --> 00:08:03,700
-Aposto que você está com saudades.
+153
+00:07:54,660 --> 00:07:56,290
+Aposto que está com saudades.
 
-129
-00:08:03,700 --> 00:08:06,540
+154
+00:07:56,290 --> 00:07:59,130
 Que nada!
  Ainda não perdoei eles!
 
-130
-00:08:06,540 --> 00:08:10,590
+155
+00:07:59,130 --> 00:08:03,170
 Achei que o Shanks e o pessoal
 fossem uns piratas bem mais legais!
 
-131
-00:08:10,590 --> 00:08:16,390
-É mesmo? Eu acho bem mais legal só deixar pra lá
+156
+00:08:03,170 --> 00:08:04,460
+É mesmo?
+
+157
+00:08:04,460 --> 00:08:08,970
+Eu acho bem mais legal só deixar pra lá
 e rir depois de uma humilhação daquelas.
 
-132
-00:08:16,390 --> 00:08:18,530
+158
+00:08:08,970 --> 00:08:11,140
 Makino, você não entende.
 
-133
-00:08:18,530 --> 00:08:21,100
+159
+00:08:11,140 --> 00:08:13,760
 Tem horas que um homem tem que lutar.
 
-134
-00:08:21,100 --> 00:08:23,140
+160
+00:08:13,760 --> 00:08:15,730
 É, acho que eu não entendo dessas coisas.
 
-135
-00:08:23,590 --> 00:08:25,310
+161
+00:08:16,100 --> 00:08:17,890
 Com sua licença.
 
-136
-00:08:26,190 --> 00:08:28,980
+162
+00:08:18,770 --> 00:08:21,560
 Aqueles piratas imundos não estão aqui hoje, né?
 
-137
-00:08:28,980 --> 00:08:32,110
+163
+00:08:21,560 --> 00:08:24,690
 Estávamos por perto,
- então resolvemos passar aqui.
+ então resolvemos passar por aqui.
 
-138
-00:08:37,880 --> 00:08:41,160
+164
+00:08:30,410 --> 00:08:32,030
 Tá aí parada esperando o quê?
- Traga a bebida!
 
-139
-00:08:45,040 --> 00:08:46,060
+165
+00:08:32,030 --> 00:08:33,740
+Traga a bebida!
+
+166
+00:08:37,370 --> 00:08:38,620
 Prefeito, é terrível!
 
-140
-00:08:46,060 --> 00:08:47,840
+167
+00:08:38,620 --> 00:08:40,420
 O que houve, Makino?
 
-141
-00:08:48,220 --> 00:08:50,670
+168
+00:08:40,790 --> 00:08:43,250
 É o Luffy... e os bandidos das montanhas...!
 
-142
-00:08:51,840 --> 00:08:54,130
+169
+00:08:44,500 --> 00:08:46,710
 Me solta, caramba!
 
-143
-00:08:52,550 --> 00:08:54,130
+170
+00:08:44,920 --> 00:08:46,710
 Que corpinho mais esquisito...
 
-144
-00:08:56,260 --> 00:08:57,430
+171
+00:08:48,840 --> 00:08:50,010
 Pede desculpa logo!
 
-145
-00:08:57,430 --> 00:08:59,890
+172
+00:08:50,010 --> 00:08:52,470
 Que tipo de criatura será essa?
 
-146
-00:08:58,620 --> 00:08:59,890
+173
+00:08:51,090 --> 00:08:52,470
 Seu desgraçado!
 
-147
-00:09:03,810 --> 00:09:06,020
+174
+00:08:56,310 --> 00:08:58,600
 Que droga! Você vai pagar por isso!
 
-148
-00:09:06,020 --> 00:09:09,070
+175
+00:08:58,600 --> 00:09:01,650
 Podemos vender ele por uma boa grana.
 
-149
-00:09:11,320 --> 00:09:12,780
+176
+00:09:03,900 --> 00:09:05,360
 Quanta teimosia.
 
-150
-00:09:12,780 --> 00:09:13,800
+177
+00:09:05,360 --> 00:09:06,360
 Moleque!
 
-151
-00:09:15,530 --> 00:09:18,700
+178
+00:09:08,110 --> 00:09:11,280
 Eu disse alguma coisa que te ofendeu?
 
-152
-00:09:18,700 --> 00:09:22,620
-Disse! Pede desculpa e tira esse pé de mim!
+179
+00:09:11,280 --> 00:09:13,660
+Disse! Pede desculpa!
 
-153
-00:09:22,620 --> 00:09:24,790
+180
+00:09:13,660 --> 00:09:15,200
+Tira esse pé de mim!
+
+181
+00:09:15,200 --> 00:09:17,370
 Solte o menino!
 
-154
-00:09:25,700 --> 00:09:26,670
+182
+00:09:18,330 --> 00:09:19,250
 Eu lhes imploro!
 
-155
-00:09:27,510 --> 00:09:31,550
+183
+00:09:20,210 --> 00:09:24,090
 Não queremos lhes enfrentar,
 mas estamos dispostos a pagar quanto for!
 
-156
-00:09:31,550 --> 00:09:34,720
+184
+00:09:24,090 --> 00:09:27,300
 Poupem o menino!
 
-157
-00:09:34,720 --> 00:09:38,890
+185
+00:09:27,300 --> 00:09:31,470
 Os mais velhos sabem
  como o mundo funciona de verdade.
 
-158
-00:09:40,180 --> 00:09:42,140
+186
+00:09:32,800 --> 00:09:33,930
 Mas não vai dar.
 
-159
-00:09:42,140 --> 00:09:46,940
+187
+00:09:33,930 --> 00:09:34,720
+O quê?
+
+188
+00:09:34,720 --> 00:09:36,810
 Agora já é tarde demais.
+
+189
+00:09:36,810 --> 00:09:39,520
 Ele me tirou do sério.
 
-160
-00:09:46,940 --> 00:09:48,060
+190
+00:09:39,520 --> 00:09:40,640
 Não...
 
-161
-00:09:48,060 --> 00:09:52,980
+191
+00:09:40,640 --> 00:09:45,560
 Já perdi a paciência
  com esse moleque de borracha!
 
-162
-00:09:52,980 --> 00:09:57,150
+192
+00:09:45,560 --> 00:09:49,400
 Vocês que tão errados nisso tudo, seus macacos da montanha!
 
-163
-00:09:58,340 --> 00:10:01,620
+193
+00:09:50,820 --> 00:09:52,700
 Esquece essa história de vender.
+
+194
+00:09:52,700 --> 00:09:54,200
 Vamos matar ele de uma vez!
 
-164
-00:10:02,580 --> 00:10:03,330
+195
+00:09:55,160 --> 00:09:55,830
 Luffy!
 
-165
-00:10:03,330 --> 00:10:05,120
+196
+00:09:55,830 --> 00:09:57,700
 Por favor! Poupem a vida dele!
 
-166
-00:10:11,790 --> 00:10:14,470
+197
+00:10:00,960 --> 00:10:03,620
 Ninguém veio nos receber no porto.
 
-167
-00:10:16,690 --> 00:10:18,510
+198
+00:10:05,670 --> 00:10:07,500
 Então, esse é o motivo.
 
-168
-00:10:19,680 --> 00:10:22,930
-São aqueles bandidos
- das montanhas de antes.
+199
+00:10:08,710 --> 00:10:10,510
+Os bandidos das montanhas de antes.
 
-169
-00:10:21,720 --> 00:10:22,930
+200
+00:10:10,510 --> 00:10:11,920
 Capitão!
 
-170
-00:10:23,290 --> 00:10:27,810
+201
+00:10:12,260 --> 00:10:16,800
 Luffy, achei que seus socos
 eram como um tiro de pistola.
 
-171
-00:10:29,000 --> 00:10:29,980
+202
+00:10:17,810 --> 00:10:18,760
 Cala a boca!
 
-172
-00:10:30,270 --> 00:10:32,610
+203
+00:10:18,760 --> 00:10:21,390
 Então os piratas ainda estão por aqui, hein?
 
-173
-00:10:35,810 --> 00:10:38,240
+204
+00:10:23,890 --> 00:10:26,400
 É melhor irem embora
 antes que se machuquem.
 
-174
-00:10:38,580 --> 00:10:41,950
+205
+00:10:26,400 --> 00:10:30,110
 Mais um passo
  e eu estouro sua cabeça, otário.
 
-175
-00:10:43,910 --> 00:10:46,170
+206
+00:10:31,940 --> 00:10:34,070
 Não ouviu o que ele disse, maldito?
 
-176
-00:10:46,170 --> 00:10:47,790
+207
+00:10:34,070 --> 00:10:35,950
 Olha que eu explodo essa sua cabeça!
 
-177
-00:10:52,370 --> 00:10:55,900
+208
+00:10:38,410 --> 00:10:41,910
 Já que sacou uma arma,
- está disposto a arriscar a própria vida.
+ deve estar disposto a arriscar a própria vida.
 
-178
-00:10:55,900 --> 00:10:57,630
+209
+00:10:41,910 --> 00:10:43,620
 Hã? Que conversa é essa?
 
-179
-00:10:57,630 --> 00:11:01,640
+210
+00:10:43,620 --> 00:10:47,840
 Estou dizendo que isso aqui não é pra fazer ameaças.
 
-180
-00:11:15,290 --> 00:11:17,150
+211
+00:10:58,470 --> 00:11:00,260
 A-Agora vocês foram longe demais!
 
-181
-00:11:17,150 --> 00:11:19,070
+212
+00:11:00,260 --> 00:11:02,140
 Esses miseráveis jogam sujo!
 
-182
-00:11:19,070 --> 00:11:20,400
+213
+00:11:02,140 --> 00:11:03,430
 "Sujo"?
 
-183
-00:11:20,400 --> 00:11:22,240
+214
+00:11:03,430 --> 00:11:05,310
 Não vem com essa.
 
-184
-00:11:22,240 --> 00:11:24,550
+215
+00:11:05,310 --> 00:11:07,610
 Vocês acham que somos santos, é?
 
-185
-00:11:25,500 --> 00:11:29,000
+216
+00:11:08,310 --> 00:11:12,070
 Vocês estão olhando para piratas de verdade.
 
-186
-00:11:29,380 --> 00:11:32,460
-Calem a boca! 
+217
+00:11:12,070 --> 00:11:13,320
+Calem a boca!
+
+218
+00:11:13,320 --> 00:11:15,530
 Vocês não têm nada a ver com isso!
 
-187
-00:11:33,210 --> 00:11:34,900
+219
+00:11:15,530 --> 00:11:17,530
 Escutem, bandidos.
 
-188
-00:11:34,900 --> 00:11:38,710
+220
+00:11:17,530 --> 00:11:21,330
 Eu não me importo
  se jogarem bebida ou comida em mim,
 
-189
-00:11:38,710 --> 00:11:41,680
+221
+00:11:21,330 --> 00:11:24,250
 pois, na maioria das vezes,
- eu vou apenas dar risada e deixar pra lá.
+ eu vou apenas rir e deixar pra lá.
 
-190
-00:11:42,500 --> 00:11:43,590
+222
+00:11:24,750 --> 00:11:25,870
 Mas saibam disto!
 
-191
-00:11:44,390 --> 00:11:47,140
-Seja pelo motivo que for,
- quem machucar os meus amigos,
+223
+00:11:26,330 --> 00:11:29,080
+Seja pelo motivo que for...
 
-192
-00:11:47,140 --> 00:11:51,440
+224
+00:11:29,080 --> 00:11:32,770
+Quem machucar os meus amigos,
 vai acertar as contas comigo.
 
-193
-00:11:52,520 --> 00:11:53,980
-Shanks.
+225
+00:11:34,260 --> 00:11:35,930
+Shanks...
 
-194
-00:11:55,290 --> 00:11:56,820
+226
+00:11:37,130 --> 00:11:38,760
 Acertar as contas com você, é?!
 
-195
-00:11:56,820 --> 00:11:59,940
-Piratinhas nojentos!
+227
+00:11:38,760 --> 00:11:40,140
+Piratinhas nojentos
+
+228
+00:11:40,140 --> 00:11:41,890
 Acabem com eles, homens!
 
-196
-00:12:04,820 --> 00:12:06,990
-Eu cuido disso. 
+229
+00:11:46,640 --> 00:11:47,900
+Eu cuido disso.
+
+230
+00:11:47,900 --> 00:11:48,940
 Não vai demorar.
 
-197
-00:12:08,330 --> 00:12:10,310
-Vem pra cima! 
-Cai dentro!
+231
+00:11:50,270 --> 00:11:52,110
+Vem pra cima! Cai dentro!
 
-198
-00:12:11,040 --> 00:12:12,120
+232
+00:11:52,980 --> 00:11:54,490
 Tá queimando!
 
-199
-00:12:19,470 --> 00:12:22,380
+233
+00:12:01,410 --> 00:12:03,790
 Não fique se achando, bandido.
 
-200
-00:12:23,500 --> 00:12:27,260
+234
+00:12:05,370 --> 00:12:09,210
 Se quer nos enfrentar,
 é melhor trazer um navio de guerra.
 
-201
-00:12:28,230 --> 00:12:29,600
+235
+00:12:10,130 --> 00:12:11,540
 Que forte!
 
-202
-00:12:30,400 --> 00:12:31,520
-Incrível!
-
-203
-00:12:31,520 --> 00:12:35,230
-E-Espera aí...!
- Foi o menino que atacou a gente!
-
-204
-00:12:35,570 --> 00:12:37,610
-Você é um homem procurado, não é?
-
-205
-00:12:40,170 --> 00:12:41,200
-Uma bomba de fumaça!
-
-206
-00:12:41,200 --> 00:12:44,030
-– Me solta! Me larga!
-– Vem comigo, pirralho!
-
-207
-00:12:46,200 --> 00:12:47,070
-Luffy!
-
-208
-00:12:47,070 --> 00:12:50,240
-Que inferno! Eu baixei a guarda! O Luffy sumiu!
-O que a gente faz agora?
-
-209
-00:12:50,240 --> 00:12:54,690
-Não dá chilique, Chefe!
-Vamos achar eles num instante!
-
-210
-00:12:54,690 --> 00:12:57,420
-Esse cara não existe mesmo...
-
-211
-00:12:59,200 --> 00:13:01,260
-Consegui escapar numa boa!
-
-212
-00:13:01,570 --> 00:13:04,220
-Você não tem mais utilidade pra mim!
-
-213
-00:13:05,010 --> 00:13:06,590
-Seu maldito!
-
-214
-00:13:07,180 --> 00:13:08,640
-Adeuzinho!
-
-215
-00:13:09,180 --> 00:13:10,810
-Droga! Droga!
-
-216
-00:13:10,810 --> 00:13:12,180
-Esses caras são uns lixos,
-
-217
-00:13:12,180 --> 00:13:14,940
-e mesmo assim,
- eu não consegui fazer nada contra ele!
-
-218
-00:13:14,940 --> 00:13:17,420
-Droga! Que droga!
-
-219
-00:13:19,700 --> 00:13:22,360
-Viu a cara daqueles piratas?!
-
-220
-00:13:22,800 --> 00:13:24,900
-Piratas não passam de um bando de covardes.
-
-221
-00:13:24,900 --> 00:13:27,900
-Parem já com isso!
-Parem de zombar do Shanks e do bando dele!
-
-222
-00:13:27,900 --> 00:13:28,990
-Pare com isso, Luffy!
-
-223
-00:13:30,450 --> 00:13:33,910
-Não zombem do Shanks e do bando dele!
-
-224
-00:13:41,310 --> 00:13:42,610
-Moleque imbecil.
-
-225
-00:13:48,470 --> 00:13:49,640
-O-O quê?!
-
-226
-00:13:52,790 --> 00:13:53,890
-Socorro!
-
-227
-00:13:57,560 --> 00:13:58,810
-Isso vai me comer!
-
-228
-00:14:00,230 --> 00:14:01,230
-Socorro!
-
-229
-00:14:15,890 --> 00:14:17,210
-Shanks...
-
-230
-00:14:25,810 --> 00:14:27,720
-Suma daqui.
-
-231
-00:14:49,900 --> 00:14:55,060
-Estou te devendo uma, Luffy...
-A Srta. Makino me contou tudo.
-
-232
-00:14:55,060 --> 00:14:58,210
-Você defendeu a gente.
-
-233
-00:14:59,040 --> 00:15:02,170
-Ei, não chora! 
-Você é um homem, não é?
-
-234
-00:15:03,560 --> 00:15:06,170
-Mas... Shanks...
-
-235
-00:15:07,440 --> 00:15:09,410
-Seu braço!
-
 236
-00:15:12,220 --> 00:15:15,140
-É só um braço.
- Não é grande coisa.
+00:12:12,290 --> 00:12:13,460
+Incrível...
 
 237
-00:15:15,900 --> 00:15:17,760
-O importante é que você está bem.
+00:12:13,460 --> 00:12:14,880
+E-Espera aí...!
 
 238
-00:15:27,900 --> 00:15:31,490
+00:12:14,880 --> 00:12:17,170
+Foi o menino que atacou a gente!
+
+239
+00:12:17,170 --> 00:12:19,550
+Você é um homem procurado, não é?
+
+240
+00:12:22,010 --> 00:12:23,640
+Uma bomba de fumaça!
+
+241
+00:12:23,640 --> 00:12:24,720
+Vem comigo, pirralho!
+
+242
+00:12:24,720 --> 00:12:26,020
+Me solta! Me larga!
+
+243
+00:12:28,230 --> 00:12:29,020
+Luffy!
+
+244
+00:12:29,020 --> 00:12:31,690
+Inferno! Baixei a guarda!
+ O Luffy sumiu! O que a gente faz agora?
+
+245
+00:12:31,690 --> 00:12:34,020
+Não dá chilique, Chefe!
+
+246
+00:12:34,400 --> 00:12:36,570
+Vamos achar eles num instante!
+
+247
+00:12:36,570 --> 00:12:39,360
+Esse cara não existe mesmo...
+
+248
+00:12:41,160 --> 00:12:43,200
+Consegui escapar numa boa!
+
+249
+00:12:43,200 --> 00:12:46,160
+Você não tem mais utilidade pra mim!
+
+250
+00:12:46,950 --> 00:12:47,660
+Seu maldito...!
+
+251
+00:12:49,120 --> 00:12:50,580
+Adeuzinho!
+
+252
+00:12:51,040 --> 00:12:52,670
+Droga! Droga!
+
+253
+00:12:52,670 --> 00:12:56,710
+Eu não consegui fazer nada contra esses lixos!
+
+254
+00:12:56,710 --> 00:12:59,300
+Droga! Que droga!
+
+255
+00:13:01,640 --> 00:13:04,310
+Viu a cara daqueles piratas?!
+
+256
+00:13:04,720 --> 00:13:07,600
+Piratas não passam de um bando de covardes.
+
+257
+00:13:06,890 --> 00:13:07,600
+Parem já com isso!
+
+258
+00:13:07,600 --> 00:13:09,810
+Parem de debochar do Shanks e do bando dele!
+
+259
+00:13:09,810 --> 00:13:10,940
+Pare com isso, Luffy!
+
+260
+00:13:12,400 --> 00:13:15,860
+Não zombem do Shanks e do bando dele!
+
+261
+00:13:23,240 --> 00:13:24,450
+Moleque imbecil.
+
+262
+00:13:30,410 --> 00:13:31,580
+O-O quê?!
+
+263
+00:13:34,790 --> 00:13:35,840
+Socorro!
+
+264
+00:13:38,920 --> 00:13:40,760
+Isso vai me comer!
+
+265
+00:13:42,180 --> 00:13:43,180
+Socorro!
+
+266
+00:13:57,610 --> 00:13:59,150
+Shanks...
+
+267
+00:14:06,700 --> 00:14:08,200
+Suma daqui.
+
+268
+00:14:30,850 --> 00:14:32,680
+Estou te devendo uma, Luffy...
+
+269
+00:14:33,230 --> 00:14:35,480
+A Makino me contou tudo.
+
+270
+00:14:36,110 --> 00:14:39,150
+Você defendeu a gente.
+
+271
+00:14:39,980 --> 00:14:41,900
+Ei, não chora!
+
+272
+00:14:41,900 --> 00:14:43,110
+Você é um homem, não é?
+
+273
+00:14:44,530 --> 00:14:47,120
+Mas... Shanks...
+
+274
+00:14:48,330 --> 00:14:50,240
+Seu braço!
+
+275
+00:14:53,160 --> 00:14:56,080
+É só um braço. Não é grande coisa.
+
+276
+00:14:56,880 --> 00:14:58,630
+O importante é que você está bem.
+
+277
+00:15:08,850 --> 00:15:12,520
 Luffy finalmente entendeu o motivo
  de Shanks nunca o levar em suas viagens.
 
-239
-00:15:31,490 --> 00:15:34,800
+278
+00:15:12,520 --> 00:15:15,810
 Pôde sentir na pele os perigos do mar,
 sua própria impotência diante dele,
 
-240
-00:15:34,800 --> 00:15:38,850
-e, sobretudo,
- a grandeza do homem chamado Shanks.
+279
+00:15:15,810 --> 00:15:19,310
+e, sobretudo, a grandeza
+ do homem chamado Shanks.
 
-241
-00:15:38,850 --> 00:15:43,420
-E então, desejou um dia tornar-se um homem como ele.
+280
+00:15:19,900 --> 00:15:24,280
+E então, desejou um dia
+ tornar-se um homem como ele.
 
-242
-00:15:46,400 --> 00:15:49,670
+281
+00:15:27,360 --> 00:15:30,620
 Shanks, vocês não vão mais voltar?
 
-243
-00:15:50,020 --> 00:15:54,010
-Não. Ficamos bastante tempo,
+282
+00:15:30,620 --> 00:15:31,660
+Não.
+
+283
+00:15:31,660 --> 00:15:34,960
+Ficamos bastante tempo,
 mas já é hora de nos despedir.
 
-244
-00:15:54,780 --> 00:15:57,980
-Tá. Não vou mais te pedir pra me levar.
+284
+00:15:35,710 --> 00:15:36,620
+Tá.
 
-245
-00:15:57,980 --> 00:16:01,480
+285
+00:15:36,620 --> 00:15:38,920
+Não vou mais te pedir pra me levar.
+
+286
+00:15:38,920 --> 00:15:42,380
 Decidi que vou virar pirata por conta própria!
 
-246
-00:16:01,480 --> 00:16:03,520
-Eu não ia te levar mesmo!
+287
+00:15:42,380 --> 00:15:44,470
+Não é como se eu fosse te levar mesmo!
 
-247
-00:16:04,300 --> 00:16:06,770
+288
+00:15:45,130 --> 00:15:47,720
 Você nunca seria um bom pirata, 
 pra começo de conversa.
 
-248
-00:16:06,770 --> 00:16:08,000
+289
+00:15:47,720 --> 00:15:48,890
 Eu vou ser, sim!
 
-249
-00:16:08,000 --> 00:16:12,020
-Um dia, vou reunir um bando tão bom quanto o seu!
+290
+00:15:48,890 --> 00:15:52,890
+Um dia, eu vou reunir um bando tão bom quanto o seu!
 
-250
-00:16:12,020 --> 00:16:14,110
-E então, vamos encontrar
+291
+00:15:52,890 --> 00:15:55,060
+E então, vamos achar
  o maior tesouro do mundo!
 
-251
-00:16:14,480 --> 00:16:17,450
+292
+00:15:55,390 --> 00:15:57,900
 E aí, eu vou ser o Rei dos Piratas!
 
-252
-00:16:18,370 --> 00:16:22,270
-Ah, então quer dizer
- que você vai superar a gente, é?
+293
+00:15:59,310 --> 00:16:00,810
+Ah, é?
 
-253
-00:16:24,110 --> 00:16:25,580
+294
+00:16:00,810 --> 00:16:03,030
+Então você vai superar a gente, é?
+
+295
+00:16:04,940 --> 00:16:06,030
 Nesse caso...
 
-254
-00:16:28,500 --> 00:16:31,450
+296
+00:16:09,490 --> 00:16:12,370
 Vou deixar este chapéu com você.
 
-255
-00:16:37,790 --> 00:16:40,510
-Ele é precioso para mim.
+297
+00:16:18,790 --> 00:16:21,250
+Ele significa muito para mim.
 
-256
-00:16:42,850 --> 00:16:47,810
-Venha me devolver um dia, 
+298
+00:16:24,210 --> 00:16:25,980
+Venha me devolver um dia...
+
+299
+00:16:26,590 --> 00:16:28,760
 quando tiver se tornado um grande pirata!
 
-257
-00:16:50,530 --> 00:16:52,690
+300
+00:16:31,470 --> 00:16:33,640
 Ele tem um belo futuro pela frente.
 
-258
-00:16:52,690 --> 00:16:56,620
+301
+00:16:33,640 --> 00:16:37,560
 Sim, ele se parece muito comigo
  quando era criança.
 
-259
-00:16:57,460 --> 00:16:59,660
+302
+00:16:38,480 --> 00:16:40,600
 Içar velas!
 
-260
-00:17:01,120 --> 00:17:06,880
+303
+00:16:42,020 --> 00:16:47,780
 Dez anos depois, a aventura do menino 
 começaria neste mesmo porto.
 
-261
-00:17:11,760 --> 00:17:14,430
+304
+00:16:52,700 --> 00:16:55,370
 Ele finalmente vai partir, Prefeito.
 
-262
-00:17:14,430 --> 00:17:17,970
+305
+00:16:55,370 --> 00:16:58,910
 É um desonra para a nossa vila ele ter se tornado um pirata!
 
-263
-00:17:18,600 --> 00:17:21,560
+306
+00:16:59,500 --> 00:17:02,500
 Que belo dia pra navegar!
 
-264
-00:17:27,440 --> 00:17:28,860
+307
+00:17:08,590 --> 00:17:10,130
 Mas o quê...?
 
-265
-00:17:30,400 --> 00:17:34,150
-Ora, se não é o nosso monstro do mar de estimação!
+308
+00:17:11,340 --> 00:17:15,100
+Ora, se não é o bom e velho Rei do Beira-Mar!
 Você não sabe com quem tá se metendo!
 
-266
-00:17:34,470 --> 00:17:37,030
+309
+00:17:15,100 --> 00:17:17,980
 Saca só esse golpe
  que eu tô treinando já faz dez anos!
 
-267
-00:17:40,280 --> 00:17:42,910
+310
+00:17:21,230 --> 00:17:23,270
 Gomu Gomu no...
 
-268
-00:17:44,080 --> 00:17:46,120
+311
+00:17:25,070 --> 00:17:27,070
 Pistol!
 
-269
-00:17:56,090 --> 00:17:58,550
+312
+00:17:36,870 --> 00:17:39,250
 Pra você aprender, seu peixe otário!
 
-270
-00:18:05,240 --> 00:18:06,730
+313
+00:17:46,170 --> 00:17:48,420
 Beleza! Aí vou eu!
 
-271
-00:18:07,480 --> 00:18:09,060
+314
+00:17:48,420 --> 00:17:50,010
 Eu vou ser...
 
-272
-00:18:09,060 --> 00:18:11,880
+315
+00:17:50,010 --> 00:17:52,720
 o Rei dos Piratas!
 
-273
-00:00:56,570 --> 00:01:02,040
-Monkey D. Luffy
-Um Garoto do Vilarejo
-
-274
-00:00:56,570 --> 00:01:02,040
-Monkey D. Luffy
-Um Garoto do Vilarejo
-
-275
-00:01:40,200 --> 00:01:43,580
-Shanks, O Ruivo
-Capitão Pirata
-
-276
-00:01:40,200 --> 00:01:43,580
-Shanks, O Ruivo
-Capitão Pirata
-
-277
-00:17:08,670 --> 00:17:11,760
-Dez Anos Depois
-
-278
-00:17:08,670 --> 00:17:11,760
-Dez Anos Depois
-
-279
-00:00:00,180 --> 00:00:03,180
-Edição de Vídeo
-
-280
-00:00:00,180 --> 00:00:03,180
-Edição de Vídeo
-
-281
-00:00:00,180 --> 00:00:03,180
-Galaxy 9000
-
-282
-00:00:00,180 --> 00:00:03,180
-Galaxy 9000
-
-283
-00:00:03,180 --> 00:00:06,180
-Design Gráfico
-
-284
-00:00:03,180 --> 00:00:06,180
-Design Gráfico
-
-285
-00:00:03,180 --> 00:00:06,180
-Datenshi
-
-286
-00:00:03,180 --> 00:00:06,180
-Datenshi
-
-287
-00:00:06,180 --> 00:00:09,180
-Trilha Sonora
-
-288
-00:00:06,180 --> 00:00:09,180
-Trilha Sonora
-
-289
-00:00:06,180 --> 00:00:09,180
-Halee
-
-290
-00:00:06,180 --> 00:00:09,180
-Halee
-
-291
-00:00:09,180 --> 00:00:12,180
-Controle de Qualidade
-
-292
-00:00:09,180 --> 00:00:12,180
-Controle de Qualidade
-
-293
-00:00:09,180 --> 00:00:12,180
-JT-421
-Pepperjack
-TheFVGuy
-
-294
-00:00:09,180 --> 00:00:12,180
-JT-421
-Pepperjack
-TheFVGuy
-
-295
-00:00:12,180 --> 00:00:14,680
-Timing
-
-296
-00:00:12,180 --> 00:00:14,680
-Timing
-
-297
-00:00:12,180 --> 00:00:14,680
-PhosCity
-
-298
-00:00:12,180 --> 00:00:14,680
-PhosCity
-
-299
-00:00:14,680 --> 00:00:17,680
-Karaokê
-
-300
-00:00:14,680 --> 00:00:17,680
-Karaokê
-
-301
-00:00:14,680 --> 00:00:17,680
-KaitouYahiko
-
-302
-00:00:14,680 --> 00:00:17,680
-KaitouYahiko
-
-303
-00:00:17,680 --> 00:00:20,680
-Revisão de Texto
-
-304
-00:00:17,680 --> 00:00:20,680
-Revisão de Texto
-
-305
-00:00:17,680 --> 00:00:20,680
-Soturno Samurai
-LordOfMostlyMe
-
-306
-00:00:17,680 --> 00:00:20,680
-Soturno Samurai
-LordOfMostlyMe
-
-307
-00:00:20,680 --> 00:00:23,680
-Tradução
-
-308
-00:00:20,680 --> 00:00:23,680
-Tradução
-
-309
-00:00:20,680 --> 00:00:23,680
-Crunchyroll
-Naoya
-
-310
-00:00:20,680 --> 00:00:23,680
-Crunchyroll
-Naoya
-
-311
-00:00:00,000 --> 00:00:00,000
-=========================== KARAOKE ==================================
-
-312
-00:17:45,630 --> 00:17:46,030
-Jun
-
-313
-00:17:46,030 --> 00:17:51,170
-Jun
-
-314
-00:17:45,680 --> 00:17:50,920
-tan
-
-315
-00:17:50,920 --> 00:17:51,220
-tan
-
 316
-00:17:45,730 --> 00:17:50,970
-do
+00:00:56,570 --> 00:01:02,040
+Monkey D. Luffy
+Um Garoto do Vilarejo
 
 317
-00:17:50,970 --> 00:17:51,270
-do
+00:00:56,570 --> 00:01:02,040
+Monkey D. Luffy
+Um Garoto do Vilarejo
 
 318
-00:17:45,780 --> 00:17:51,020
-to
+00:01:40,200 --> 00:01:43,580
+Shanks, O Ruivo
+Capitão Pirata
 
 319
-00:17:51,020 --> 00:17:51,320
-to
+00:01:40,200 --> 00:01:43,580
+Shanks, O Ruivo
+Capitão Pirata
 
 320
-00:17:45,830 --> 00:17:51,070
-dos
+00:16:49,610 --> 00:16:52,700
+Dez Anos Depois
 
 321
-00:17:51,070 --> 00:17:51,370
-dos
+00:16:49,610 --> 00:16:52,700
+Dez Anos Depois
 
 322
-00:17:45,880 --> 00:17:51,120
-os
+00:17:26,580 --> 00:17:26,980
+To
 
 323
-00:17:51,120 --> 00:17:51,420
-os
+00:17:26,980 --> 00:17:31,480
+To
 
 324
-00:17:45,930 --> 00:17:51,170
-nos
+00:17:26,630 --> 00:17:31,230
+dos
 
 325
-00:17:51,170 --> 00:17:51,470
-nos
+00:17:31,230 --> 00:17:31,530
+dos
 
 326
-00:17:45,980 --> 00:17:51,220
-sos
+00:17:26,680 --> 00:17:31,280
+os
 
 327
-00:17:51,220 --> 00:17:51,520
-sos
+00:17:31,280 --> 00:17:31,580
+os
 
 328
-00:17:46,030 --> 00:17:51,270
-son
+00:17:26,730 --> 00:17:31,330
+nos
 
 329
-00:17:51,270 --> 00:17:51,570
-son
+00:17:31,330 --> 00:17:31,630
+nos
 
 330
-00:17:46,080 --> 00:17:51,320
-hos,
+00:17:26,780 --> 00:17:31,380
+sos
 
 331
-00:17:51,320 --> 00:17:51,620
-hos,
+00:17:31,380 --> 00:17:31,680
+sos
 
 332
-00:17:51,090 --> 00:17:51,490
-va
+00:17:26,830 --> 00:17:31,430
+so
 
 333
-00:17:51,490 --> 00:17:56,800
-va
+00:17:31,430 --> 00:17:31,730
+so
 
 334
-00:17:51,140 --> 00:17:56,550
-mos
+00:17:26,880 --> 00:17:31,480
+nhos,
 
 335
-00:17:56,550 --> 00:17:56,850
-mos
+00:17:31,480 --> 00:17:31,780
+nhos,
 
 336
-00:17:51,190 --> 00:17:56,600
-par
+00:17:26,930 --> 00:17:31,530
+te
 
 337
-00:17:56,600 --> 00:17:56,900
-par
+00:17:31,530 --> 00:17:31,830
+te
 
 338
-00:17:51,240 --> 00:17:56,650
-tir
+00:17:26,980 --> 00:17:31,580
+mos
 
 339
-00:17:56,650 --> 00:17:56,950
-tir
+00:17:31,580 --> 00:17:31,880
+mos
 
 340
-00:17:51,290 --> 00:17:56,700
-pa
+00:17:27,030 --> 00:17:31,630
+que
 
 341
-00:17:56,700 --> 00:17:57,000
-pa
+00:17:31,630 --> 00:17:31,930
+que
 
 342
-00:17:51,340 --> 00:17:56,750
-ra
+00:17:27,080 --> 00:17:31,680
+jun
 
 343
-00:17:56,750 --> 00:17:57,050
-ra
+00:17:31,680 --> 00:17:31,980
+jun
 
 344
-00:17:51,390 --> 00:17:56,800
-pro
+00:17:27,130 --> 00:17:31,730
+tar
 
 345
-00:17:56,800 --> 00:17:57,100
-pro
+00:17:31,730 --> 00:17:32,030
+tar
 
 346
-00:17:51,440 --> 00:17:56,850
-cu
+00:17:32,040 --> 00:17:32,440
+E
 
 347
-00:17:56,850 --> 00:17:57,150
-cu
+00:17:32,440 --> 00:17:36,930
+E
 
 348
-00:17:51,490 --> 00:17:56,900
-rar
+00:17:32,090 --> 00:17:36,680
+as
 
 349
-00:17:56,900 --> 00:17:57,200
-rar
+00:17:36,680 --> 00:17:36,980
+as
 
 350
-00:17:51,540 --> 00:17:56,950
-o
+00:17:32,140 --> 00:17:36,730
+sim,
 
 351
-00:17:56,950 --> 00:17:57,250
-o
+00:17:36,730 --> 00:17:37,030
+sim,
 
 352
-00:17:51,590 --> 00:17:57,000
-que
+00:17:32,190 --> 00:17:36,780
+tu
 
 353
-00:17:57,000 --> 00:17:57,300
-que
+00:17:36,780 --> 00:17:37,080
+tu
 
 354
-00:17:51,640 --> 00:17:57,050
-que
+00:17:32,240 --> 00:17:36,830
+do
 
 355
-00:17:57,050 --> 00:17:57,350
-que
+00:17:36,830 --> 00:17:37,130
+do
 
 356
-00:17:51,690 --> 00:17:57,100
-re
+00:17:32,290 --> 00:17:36,880
+que
 
 357
-00:17:57,100 --> 00:17:57,400
-re
+00:17:36,880 --> 00:17:37,180
+que
 
 358
-00:17:51,740 --> 00:17:57,150
-mos!
+00:17:32,340 --> 00:17:36,930
+que
 
 359
-00:17:57,150 --> 00:17:57,450
-mos!
+00:17:36,930 --> 00:17:37,230
+que
 
 360
-00:17:56,870 --> 00:17:57,270
-Com
+00:17:32,390 --> 00:17:36,980
+re
 
 361
-00:17:57,270 --> 00:18:00,200
-Com
+00:17:36,980 --> 00:17:37,280
+re
 
 362
-00:17:56,920 --> 00:17:59,950
-u
+00:17:32,440 --> 00:17:37,030
+mos,
 
 363
-00:17:59,950 --> 00:18:00,250
-u
+00:17:37,030 --> 00:17:37,330
+mos,
 
 364
-00:17:56,970 --> 00:18:00,000
-ma
+00:17:32,490 --> 00:17:37,080
+va
 
 365
-00:18:00,000 --> 00:18:00,300
-ma
+00:17:37,080 --> 00:17:37,380
+va
 
 366
-00:17:57,020 --> 00:18:00,050
-mo
+00:17:32,540 --> 00:17:37,130
+mos
 
 367
-00:18:00,050 --> 00:18:00,350
-mo
+00:17:37,130 --> 00:17:37,430
+mos
 
 368
-00:17:57,070 --> 00:18:00,100
-e
+00:17:32,590 --> 00:17:37,180
+en
 
 369
-00:18:00,100 --> 00:18:00,400
-e
+00:17:37,180 --> 00:17:37,480
+en
 
 370
-00:17:57,120 --> 00:18:00,150
-da
+00:17:32,640 --> 00:17:37,230
+con
 
 371
-00:18:00,150 --> 00:18:00,450
-da
+00:17:37,230 --> 00:17:37,530
+con
 
 372
-00:17:57,170 --> 00:18:00,200
-no
+00:17:32,690 --> 00:17:37,280
+trar
 
 373
-00:18:00,200 --> 00:18:00,500
-no
+00:17:37,280 --> 00:17:37,580
+trar
 
 374
-00:17:57,220 --> 00:18:00,250
-bol
+00:17:37,800 --> 00:17:38,200
+Se
 
 375
-00:18:00,250 --> 00:18:00,550
-bol
+00:17:38,200 --> 00:17:40,460
+Se
 
 376
-00:17:57,270 --> 00:18:00,300
-so,
+00:17:37,850 --> 00:17:40,210
+eu
 
 377
-00:18:00,300 --> 00:18:00,600
-so,
+00:17:40,210 --> 00:17:40,510
+eu
 
 378
-00:17:59,590 --> 00:17:59,990
-vo
+00:17:37,900 --> 00:17:40,260
+ti
 
 379
-00:17:59,990 --> 00:18:03,230
-vo
+00:17:40,260 --> 00:17:40,560
+ti
 
 380
-00:17:59,640 --> 00:18:02,980
-cê
+00:17:37,950 --> 00:17:40,310
+ver
 
 381
-00:18:02,980 --> 00:18:03,280
-cê
+00:17:40,310 --> 00:17:40,610
+ver
 
 382
-00:17:59,690 --> 00:18:03,030
-qu
+00:17:38,000 --> 00:17:40,360
+u
 
 383
-00:18:03,030 --> 00:18:03,330
-qu
+00:17:40,360 --> 00:17:40,660
+u
 
 384
-00:17:59,740 --> 00:18:03,080
-er
+00:17:38,050 --> 00:17:40,410
+ma
 
 385
-00:18:03,080 --> 00:18:03,380
-er
+00:17:40,410 --> 00:17:40,710
+ma
 
 386
-00:17:59,790 --> 00:18:03,130
-ser
+00:17:38,100 --> 00:17:40,460
+moe
 
 387
-00:18:03,130 --> 00:18:03,430
-ser
+00:17:40,460 --> 00:17:40,760
+moe
 
 388
-00:17:59,840 --> 00:18:03,180
-me
+00:17:38,150 --> 00:17:40,510
+da
 
 389
-00:18:03,180 --> 00:18:03,480
-me
+00:17:40,510 --> 00:17:40,810
+da
 
 390
-00:17:59,890 --> 00:18:03,230
-u
+00:17:38,200 --> 00:17:40,560
+no
 
 391
-00:18:03,230 --> 00:18:03,530
-u
+00:17:40,560 --> 00:17:40,860
+no
 
 392
-00:17:59,940 --> 00:18:03,280
-a
+00:17:38,250 --> 00:17:40,610
+bol
 
 393
-00:18:03,280 --> 00:18:03,580
-a
+00:17:40,610 --> 00:17:40,910
+bol
 
 394
-00:17:59,990 --> 00:18:03,330
-mi
+00:17:38,300 --> 00:17:40,660
+so,
 
 395
-00:18:03,330 --> 00:18:03,630
-mi
+00:17:40,660 --> 00:17:40,960
+so,
 
 396
-00:18:00,040 --> 00:18:03,380
-go?
+00:17:40,550 --> 00:17:40,950
+Vo
 
 397
-00:18:03,380 --> 00:18:03,680
+00:17:40,950 --> 00:17:43,560
+Vo
+
+398
+00:17:40,600 --> 00:17:43,310
+cê
+
+399
+00:17:43,310 --> 00:17:43,610
+cê
+
+400
+00:17:40,650 --> 00:17:43,360
+a
+
+401
+00:17:43,360 --> 00:17:43,660
+a
+
+402
+00:17:40,700 --> 00:17:43,410
+cei
+
+403
+00:17:43,410 --> 00:17:43,710
+cei
+
+404
+00:17:40,750 --> 00:17:43,460
+ta
+
+405
+00:17:43,460 --> 00:17:43,760
+ta
+
+406
+00:17:40,800 --> 00:17:43,510
+ser
+
+407
+00:17:43,510 --> 00:17:43,810
+ser
+
+408
+00:17:40,850 --> 00:17:43,560
+meu
+
+409
+00:17:43,560 --> 00:17:43,860
+meu
+
+410
+00:17:40,900 --> 00:17:43,610
+ami
+
+411
+00:17:43,610 --> 00:17:43,910
+ami
+
+412
+00:17:40,950 --> 00:17:43,660
 go?
+
+413
+00:17:43,660 --> 00:17:43,960
+go?
+
